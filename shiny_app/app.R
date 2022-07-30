@@ -1,8 +1,8 @@
 library(tidyverse)
 library(lubridate)
-library(sf)
+#library(sf)
 library(shiny)
-library(gganatogram)
+#library(gganatogram)
 
 
 # Need this the first time you run R for R 4.2.0 due to plotting looking weird
@@ -24,70 +24,86 @@ ui <- fluidPage(
                                      p("Mingmei Teo, Cecilia Regueira")),
                         mainPanel(
                           strong("Introduction:", style = "color:blue"),
-                          p("Our objectives for this project was to examine performances under pressure. Successful passes are a key element in a team performance."),
+                          p("Our objective for this project was to examine performances under pressure. Successful movement of the ball on the pitch is a key element in a team's performance. This includes both successful passes and successful ball receipts. Then, what a player does after a successful ball receipt is also insightful."),
                           
-                          p("We divided our results into 4 tabs:"),
+                          p("We divided our analysis into 4 tabs:"),
                           
-                          p("Aggregated Performance: Provides a overview by teams and player"),
-                          p("Passes: Provides detailed information about the plays looking at pass trajectory and origin"),
-                          p("Ball Receipts: Provides detailed information about the plays at pass recipient and where player is positioned"),
-                          p("Next event: xxxxxx"),
-                          
+                          tags$ol(
+                            tags$li("Aggregated Performance: Provides an overview of pass success rate for passes under pressure, by team and player"), 
+                            tags$li("Passes: Provides detailed information about passes under pressure and visualising the pass trajectory and origin"), 
+                            tags$li("Ball Receipts: Provides detailed information about ball receipts by location and distance to closest opponent"),
+                            tags$li("Next Event: Provides information on what happens after a successful ball receipt")
+                          ),
+                          p("We thank ", 
+                            a("StatsBomb ", 
+                              href = "https://statsbomb.com/"), 
+                            " for allowing us use of their ",
+                            a("Euro 2020 data ",
+                              href = "https://statsbomb.com/2021/11/statsbomb-announce-the-release-of-free-statsbomb-360-data-euro-2020-available-now/"),
+                            "for the 2022 ", 
+                            a("Women in Sports Data ", 
+                              href = "https://www.womeninsportsdata.org/"), 
+                            "Hackathon."),
+                          img(src = "SB - Brand Icon - Colour Positive.png", height = 72),
+                          img(src = "SB - Core Wordmark - Colour positive.png", height = 72)
                         )
-                      )          
-                      
+                      )
              ),
              
              ## Tab 0
              tabPanel("Aggregated Performance",
                       # Title
-                      titlePanel("Select team and player "),
+                      titlePanel("Overall success rate for passes under pressure"),
                       
-                      sidebarLayout(
-                        sidebarPanel(width=3,
-                                     # Choose a team
-                                     selectInput(inputId = "chosen_team_pla", 
-                                                 label = "Team:", 
-                                                 choices = sort(unique(pup$team.name))),
-                                     
-                                     # Choose a player - default is empty
-                                     selectInput(inputId = "chosen_player_pla", 
-                                                 label = "Player:", 
-                                                 choices = NULL),
-                                     
+                      fluidRow(
+                        column(3,
+                               wellPanel(
+                                 # Choose a team
+                                 selectInput(inputId = "chosen_team_pla", 
+                                             label = "Team:", 
+                                             choices = sort(unique(pup$team.name))),
+                                 
+                                 # Choose a player - default is empty
+                                 selectInput(inputId = "chosen_player_pla", 
+                                             label = "Player:", 
+                                             choices = NULL),
+                               ),
+                               wellPanel(
+                                 # Heading
+                                 h4(tags$b("Information for chosen team:")),
+                                 # Info for chosen team
+                                 uiOutput(outputId = "Team_info_pla"),
+                                 br(),
+                                 # Heading
+                                 h4(tags$b("Information for chosen player:")),
+                                 # Info for chosen player
+                                 uiOutput(outputId = "Within_info_pla")
+                               ),
                         ),
-                        mainPanel(
-                          fluidRow(
-                            column(8, 
-                                   # Heading
-                                   h4("Team Aggregated Analytics"),
-                                   # Plot of pass success rate for teams with chosen team highlighted
-                                   plotOutput(outputId = "Leage_rate")),
-                            
-                            column(4, 
-                                   # Heading
-                                   h4("Information for chosen Team:"),
-                                   # Info for chosen team
-                                   uiOutput(outputId = "Team_info_pla"),
-                            ),
-                            fluidRow(
-                              column(8,
-                                     # Heading
-                                     h4("Performance within chosen team"),
-                                     # Plot of pass success rate for players in chosen team with chosen player highlighted
-                                     plotOutput(outputId = "Team_rate")
-                              ),
-                              column(4,
-                                     # Heading
-                                     h4("Information for chosen player:"),
-                                     # Info for chosen player
-                                     uiOutput(outputId = "Within_info_pla")
-                              ),
-                            )
-                          )
+                        column(9, 
+                               fluidRow(
+                                 # Heading
+                                 h4("Success rate by team"),
+                                 p("Chosen team is highlighted"), 
+                                 # Plot of pass success rate for teams with chosen team highlighted
+                                 plotOutput(outputId = "Leage_rate")
+                               ),
+                               
+                               fluidRow(
+                                 # Heading
+                                 h4("Success rate within chosen team"),
+                                 p("Chosen player is highlighted"), 
+                                 # Plot of pass success rate for players in chosen team with chosen player highlighted
+                                 plotOutput(outputId = "Team_rate")
+                               ),
+                               # column(4,
+                               #        # Heading
+                               #        h4("Information for chosen player:"),
+                               #        # Info for chosen player
+                               #        uiOutput(outputId = "Within_info_pla")
+                               # )
                         )
                       )
-                      
              ),
              
              # Tab 1
@@ -95,125 +111,165 @@ ui <- fluidPage(
                       # Title
                       titlePanel("Passes under pressure"),
                       
-                      sidebarLayout(
-                        sidebarPanel(width=3,
-                                     # Choose a team
-                                     selectInput(inputId = "chosen_team_pup", 
-                                                 label = "Team:", 
-                                                 choices = sort(unique(pup$team.name))),
-                                     
-                                     # Choose a player - default is empty
-                                     selectInput(inputId = "chosen_player_pup", 
-                                                 label = "Player:", 
-                                                 choices = NULL),
-                                     
+                      fluidRow(
+                        column(3,
+                               wellPanel(
+                                 # Choose a team
+                                 selectInput(inputId = "chosen_team_pup", 
+                                             label = "Team:", 
+                                             choices = sort(unique(pup$team.name))),
+                                 
+                                 # Choose a player - default is empty
+                                 selectInput(inputId = "chosen_player_pup", 
+                                             label = "Player:", 
+                                             choices = NULL),
+                                 
+                               ),
+                               wellPanel(
+                                 # Heading
+                                 h4(tags$b("Information for chosen player:")),
+                                 # Info for chosen player
+                                 uiOutput(outputId = "player_info_pup"),
+                               )
                         ),
-                        
-                        mainPanel(
-                          fluidRow(
-                            column(8, 
-                                   # Heading
-                                   h4("Successful/Unsuccessful passes for chosen player in chosen team"),
-                                   # Plot of successful/unsuccessful passes under pressure
-                                   plotOutput(outputId = "player_plot_pup")),
-                            
-                            column(4, 
-                                   # Heading
-                                   h4("Information for chosen player"),
-                                   # Info for chosen player
-                                   uiOutput(outputId = "player_info_pup"),
-                            ),
-                            fluidRow(
-                              column(6,
-                                     # Heading
-                                     h4("Successful/Unsuccessful passes for chosen player in chosen team split by opposition"),
-                                     # Plot of successful/unsuccessful passes under pressure by opposition
-                                     plotOutput(outputId = "player_plot_by_opp_pup")),
-                              column(6,
-                                     # Heading
-                                     h4("Bar chart of successful/unsuccessful passes breakdown split by opposition"),
-                                     # Bar chart of successful/unsuccessful passes under pressure breakdown split by opposition
-                                     plotOutput(outputId = "player_plot_by_opp_bar_pup")),
-                            )
-                          )
+                        column(9,
+                               fluidRow( 
+                                 # Heading
+                                 h4("Successful/Unsuccessful passes for chosen player in chosen team"),
+                                 # Plot of successful/unsuccessful passes under pressure
+                                 plotOutput(outputId = "player_plot_pup")
+                               ),
+                               fluidRow(
+                                 column(6,
+                                        # Heading
+                                        h4("Successful/Unsuccessful passes for chosen player in chosen team split by opposition"),
+                                        # Plot of successful/unsuccessful passes under pressure by opposition
+                                        plotOutput(outputId = "player_plot_by_opp_pup")),
+                                 column(6,
+                                        # Heading
+                                        h4("Bar chart of successful/unsuccessful passes breakdown split by opposition"),
+                                        # Bar chart of successful/unsuccessful passes under pressure breakdown split by opposition
+                                        plotOutput(outputId = "player_plot_by_opp_bar_pup")),
+                               )
                         )
                       )
              ),
              
              # Tab 2
-             tabPanel("Ball receipts",
+             tabPanel("Ball Receipts",
                       # Title
                       titlePanel("Ball receipts under pressure"),
                       
-                      sidebarLayout(
-                        sidebarPanel(width=3,
-                                     # Choose a team
-                                     selectInput(inputId = "chosen_team_br", 
-                                                 label = "Team:", 
-                                                 choices = sort(unique(ball_receipts_all$team.name))),
-                                     
-                                     # Choose a player - default is empty
-                                     selectInput(inputId = "chosen_player_br", 
-                                                 label = "Player:", 
-                                                 choices = NULL),
-                                     
+                      fluidRow(
+                        column(3,
+                               wellPanel(
+                                 # Choose a team
+                                 selectInput(inputId = "chosen_team_br", 
+                                             label = "Team:", 
+                                             choices = sort(unique(ball_receipts_all$team.name))),
+                                 
+                                 # Choose a player - default is empty
+                                 selectInput(inputId = "chosen_player_br", 
+                                             label = "Player:", 
+                                             choices = NULL),
+                                 
+                               ),
+                               wellPanel(
+                                 # Heading
+                                 h4(tags$b("Information for chosen player:")),
+                                 # Info for chosen player
+                                 uiOutput(outputId = "player_info_br"),
+                               )
                         ),
-                        
-                        mainPanel(
-                          fluidRow(
-                            column(9, 
-                                   # Heading
-                                   h4("Location of successful/unsuccessful ball receipts for chosen player in chosen team"),
-                                   # Plot of ball receipts
-                                   plotOutput(outputId = "player_plot_br")),
-                            
-                            column(3, 
-                                   # Heading
-                                   h4("Information for chosen player"),
-                                   # Info for chosen player
-                                   uiOutput(outputId = "player_info_br"),
-                            ),
-                            fluidRow(
-                              column(9,
-                                     # Heading
-                                     h4("Location of successful/unsuccessful ball receipts for chosen player in chosen team split by opposition"),
-                                     # Plot of ball receipts by opposition
-                                     plotOutput(outputId = "player_plot_by_opp_br"))
-                            )
-                          )
+                        column(9,
+                               fluidRow(
+                                 # Heading
+                                 h4("Location of successful/unsuccessful ball receipts for chosen player in chosen team"),
+                                 # Plot of ball receipts
+                                 plotOutput(outputId = "player_plot_br")
+                               ),
+                               
+                               fluidRow(
+                                 # Heading
+                                 h4("Location of successful/unsuccessful ball receipts for chosen player in chosen team split by opposition"),
+                                 # Plot of ball receipts by opposition
+                                 plotOutput(outputId = "player_plot_by_opp_br")
+                               ),
+                               
+                               fluidRow(
+                                 column(6, 
+                                        # Heading
+                                        h4("Breakdown of successful/unsuccessful ball receipts by distance to closest opponent"),
+                                        # Bar plot of ball receipts breakdown
+                                        plotOutput(outputId = "player_plot_by_dist_br")),
+                                 
+                                 column(6, 
+                                        # Heading
+                                        h4("Breakdown of successful/unsuccessful ball receipts by distance to closest opponent split by opposition"),
+                                        # Bar plot of ball receipts by opposition
+                                        plotOutput(outputId = "player_plot_by_dist_opp_br")
+                                 )
+                               )
                         )
                       )
              ),
+             
              # Tab 3
-             tabPanel("Next event",
+             tabPanel("Next Event",
                       # Title
                       titlePanel("Next event after successful ball receipt"),
                       
-                      sidebarLayout(
-                        sidebarPanel(width=3,
-                                     # Choose a team
-                                     selectInput(inputId = "chosen_team_ne", 
-                                                 label = "Team:", 
-                                                 choices = sort(unique(ball_receipts_next_events_all$team.name))),
-                                     
-                                     # Choose a player - default is empty
-                                     selectInput(inputId = "chosen_player_ne", 
-                                                 label = "Player:", 
-                                                 choices = NULL),
-                                     
+                      fluidRow(
+                        column(3,
+                               wellPanel(
+                                 # Choose a team
+                                 selectInput(inputId = "chosen_team_ne", 
+                                             label = "Team:", 
+                                             choices = sort(unique(ball_receipts_succ_next_events_all$team.name))),
+                                 
+                                 # Choose a player - default is empty
+                                 selectInput(inputId = "chosen_player_ne", 
+                                             label = "Player:", 
+                                             choices = NULL),
+                                 
+                               )
                         ),
-                        
-                        mainPanel(
-                          fluidRow(
-                            column(9,
-                                   # Heading
-                                   h4("What does the chosen player do after receiving the ball"),
-                                   # Plot of 
-                                   plotOutput(outputId = "player_plot_ne"))
-                          )
+                        column(9,
+                               fluidRow(
+                                 # Heading
+                                 h4("What does the chosen player do after receiving the ball"),
+                                 # Plot of 
+                                 plotOutput(outputId = "player_plot_ne")
+                               )
                         )
                       )
+             ),
+             
+             # Tab 4
+             tabPanel("Methodology",
+                      titlePanel("Methodology"),
+                      
+                      mainPanel(
+                        h4("Aggregated Performance:"),
+                        p("Here, we explore the success rate of passes under pressure split by team and by player. We use StatsBomb event data and explore standard passes in the run of play. For each team and each player, we calculate the number of successful and unsuccessful passes under pressure and calculate the success rate."),
+                        br(),
+                        
+                        h4("Passes:"),
+                        p("In this section, we focus on a chosen player and look more closely at the location of their successful and unsuccessful passes under pressure as well as the trajectory of their passes. We also breakdown the information further by opposition."),
+                        p("For the main position of a player, we aggregated position information into 5 categories, Goalkeeper, Defender, Wing, Midfielder and Forward. Then, calculated the percentage of events where a player was in those positions. The position with the highest percentage was deemed the player's main position."),
+                        br(),
+                        
+                        h4("Ball receipts:"),
+                        p("Here, we explore successful and unsuccessful ball receipts by filtering StatsBomb event data by ball receipts. To calculate the distance to closest opponent, we use StatsBomb360 data which provides the location of the receiving player and other players in area. As the location of the ball receipt does not always match the location of the actor (receiving player) in the 360 data, we took the average of the ball receipt location and the location of the actor. Then, we calculated the euclidean distance between the average actor/ball receipt location and the location of opponents."),
+                        p("For the main position of a player, we aggregated position information into 5 categories, Goalkeeper, Defender, Wing, Midfielder and Forward. Then, calculated the percentage of events where a player was in those positions. The position with the highest percentage was deemed the player's main position."),
+                        br(),
+                        
+                        h4("Next event:"),
+                        p("For the next event after a successful ball receipt, we noticed that the event 'Carry' occurred most frequently. From the StatsBomb data specification, 'Carry events are typically by the attacking team and describe a player possessing the ball at their feet, either moving with the ball or standing still.' As we want to know what a player does after a succcessful ball receipt, we skip events where a player was standing still. To account for any minor discrepancies in location during data collection and processing, we deem a player to be standing still if they did not carried the ball more than 1 yard. For these events, we consider the event after the carry event and use that as the next event.")
+                        
+                      )
              )
+             
   )
 )
 
@@ -266,21 +322,22 @@ server <- function(input, output, session) {
   # Info on player
   output$player_info_pup <- renderUI({
     
-    str1 <- paste0("Player: ", input$chosen_player_pup)
-    str2 <- paste0("Main position: ", pup_team_player() %>% distinct(main_position) %>% pull(main_position))
-    str3 <- paste0("Total number of passes: ", pup_succ_uns_player() %>% summarise(total=sum(num_passes)) %>% pull(total))
-    # str4 <- paste0("Total number of successful passes: ", pup_succ_uns_player() %>% filter(pass.outcome == "complete") %>% summarise(total=sum(num_passes)) %>% pull(total))
-    # str5 <- paste0("Total number of unsuccessful passes: ", pup_succ_uns_player() %>% filter(pass.outcome == "incomplete") %>% summarise(total=sum(num_passes)) %>% pull(total))
-    str4 <- paste0("Total number of successful passes: ", pup_succ_uns_player() %>% filter(pass.outcome == "Complete") %>% summarise(total=sum(num_passes)) %>% select(total))
-    str5 <- paste0("Total number of unsuccessful passes: ", pup_succ_uns_player() %>% filter(pass.outcome == "Incomplete") %>% summarise(total=sum(num_passes)) %>% select(total))
+    str1 <- paste0("<b>Player: </b>", input$chosen_player_pup)
+    str2 <- paste0("<b>Main position: </b>", pup_team_player() %>% distinct(main_position) %>% pull(main_position))
+    str3 <- paste0("<b>Total number of passes: </b>", pup_succ_uns_player() %>% summarise(total=sum(num_passes)) %>% pull(total))
+    str4 <- paste0("<b>Pass success rate: </b>", (pup_succ_uns_player() %>% filter(pass.outcome == "Complete") %>% summarise(total=sum(num_passes)) %>% pull(total)) / (pup_succ_uns_player() %>% summarise(total=sum(num_passes)) %>% pull(total)) * 100, "%")
+    #str5 <- paste0("<b>Total number of unsuccessful passes: </b>", pup_succ_uns_player() %>% filter(pass.outcome == "Incomplete") %>% summarise(total=sum(num_passes)) %>% pull(total))
     
     # Combine all strings and add linebreak between them
-    HTML(paste(str1, str2, str3, str4, str5, sep='<br/>'))
+    HTML(paste(str1, str2, str3, str4, #str5, 
+               sep='<br/>'))
     
   })
   
   # Plot of successful/unsuccessful passes under pressure for chosen player split by opposition
   output$player_plot_by_opp_pup <- renderPlot({
+    
+    req(nrow(pup_team_player()) > 0)
     
     # Plot of successful/unsuccessful passes under pressure split by opposition
     pup_team_player() %>%
@@ -304,13 +361,13 @@ server <- function(input, output, session) {
     # Bar chart of successful/unsuccessful passes under pressure breakdown split by opposition
     pup_succ_uns_player() %>%
       ggplot() + 
-      geom_col(aes(x=num_passes, y=OpposingTeam, fill=pass.outcome)) +
-      scale_colour_manual(values = c("Complete" = "#00BFC4",
+      geom_col(aes(x=num_passes, y=OpposingTeam, fill=fct_relevel(pass.outcome, "Incomplete", "Complete"))) +
+      scale_fill_manual(values = c("Complete" = "#00BFC4",
                                      "Incomplete"= "#F8766D")) +
       labs(x="Number of passes",
            y="Opposition",
            fill="Pass outcome") +
-      theme_light()
+      theme(legend.position = "bottom")
     
   }, res = 96)
   
@@ -396,9 +453,9 @@ server <- function(input, output, session) {
   # Info on player
   output$Team_info_pla <- renderUI({
     
-    str1 <- paste0("Team: ", input$chosen_team_pla)
-    str2 <- paste0("Total Passes: ", League_data %>% filter(team.name==input$chosen_team_pla) %>% select(n))
-    str3 <- paste0("Success Rate: ", round(League_data %>% filter(team.name==input$chosen_team_pla) %>% select(Rate),2), "%")
+    str1 <- paste0("<b>Team: </b>", input$chosen_team_pla)
+    str2 <- paste0("<b>Total Passes: </b>", League_data %>% filter(team.name==input$chosen_team_pla) %>% select(n))
+    str3 <- paste0("<b>Success Rate: </b>", round(League_data %>% filter(team.name==input$chosen_team_pla) %>% select(Rate),2), "%")
     # str4 <- paste0("Total number of successful passes: ", pup_succ_uns_player() %>% filter(pass.outcome == "complete") %>% summarise(total=sum(num_passes)) %>% pull(total))
     # str5 <- paste0("Total number of unsuccessful passes: ", pup_succ_uns_player() %>% filter(pass.outcome == "incomplete") %>% summarise(total=sum(num_passes)) %>% pull(total))
     
@@ -425,62 +482,17 @@ server <- function(input, output, session) {
   # Info on player
   output$Within_info_pla <- renderUI({
     
-    str1 <- paste0("Player: ", input$chosen_player_pla)
-    str2 <- paste0("Total Passes: ", team_data %>% filter(team.name==input$chosen_team_pla &
-                                                            player.name==input$chosen_player_pla) %>% select(n),
-                   
-                   " (",
-                   round(team_data %>% filter(team.name==input$chosen_team_pla &
-                                                player.name==input$chosen_player_pla)  %>% select(Rate),2),
-                   "%)"
-    )
-    str3 <- paste0("Left Foot: ",
-                   pla_n %>%  filter(team.name==input$chosen_team_pla &
-                                       player.name==input$chosen_player_pla) %>% select(`Left Foot`),
-                   
-                   
-                   " (",
-                   round(pla_r  %>% filter(team.name==input$chosen_team_pla &
-                                             player.name==input$chosen_player_pla) %>% select(`Left Foot`),2),
-                   "%)"
-    )
+    str1 <- paste0("<b>Player: </b>", input$chosen_player_pla)
     
-    str4 <- paste0("Rigth Foot: ",
-                   pla_n %>%  filter(team.name==input$chosen_team_pla &
-                                       player.name==input$chosen_player_pla) %>% select(`Right Foot`),
-                   
-                   
-                   " (",
-                   round( pla_r  %>% filter(team.name==input$chosen_team_pla &
-                                              player.name==input$chosen_player_pla) %>% select(`Right Foot`),2),
-                   "%)"
-    )
+    str2 <- paste0("<b>Total Passes (success%): </b>", team_data %>% filter(team.name==input$chosen_team_pla & player.name==input$chosen_player_pla) %>% select(n), " (", round(team_data %>% filter(team.name==input$chosen_team_pla & player.name==input$chosen_player_pla) %>% select(Rate),2), "%)")
     
+    str3 <- paste0("<b>Left Foot: </b>", pla_n %>%  filter(team.name==input$chosen_team_pla & player.name==input$chosen_player_pla) %>% select(`Left Foot`), " (", round(pla_r  %>% filter(team.name==input$chosen_team_pla & player.name==input$chosen_player_pla) %>% select(`Left Foot`),2), "%)")
     
-    str5 <- paste0("Head: ",
-                   pla_n %>%  filter(team.name==input$chosen_team_pla &
-                                       player.name==input$chosen_player_pla) %>% select(Head),
-                   
-                   
-                   " (",
-                   round(pla_r  %>% filter(team.name==input$chosen_team_pla &
-                                             player.name==input$chosen_player_pla) %>% select(Head),2),
-                   "%)"
-    )
+    str4 <- paste0("<b>Right Foot: </b>", pla_n %>%  filter(team.name==input$chosen_team_pla & player.name==input$chosen_player_pla) %>% select(`Right Foot`), " (", round( pla_r  %>% filter(team.name==input$chosen_team_pla & player.name==input$chosen_player_pla) %>% select(`Right Foot`),2), "%)")
     
+    str5 <- paste0("<b>Head: </b>", pla_n %>%  filter(team.name==input$chosen_team_pla & player.name==input$chosen_player_pla) %>% select(Head), " (", round(pla_r  %>% filter(team.name==input$chosen_team_pla & player.name==input$chosen_player_pla) %>% select(Head),2), "%)")
     
-    
-    str6 <- paste0("Others: ",
-                   pla_n %>%  filter(team.name==input$chosen_team_pla &
-                                       player.name==input$chosen_player_pla) %>% select(Other),
-                   
-                   
-                   " (",
-                   round( pla_r  %>% filter(team.name==input$chosen_team_pla &
-                                              player.name==input$chosen_player_pla) %>% select(Other),2),
-                   "%)"
-    )               
-    
+    str6 <- paste0("<b>Other: </b>", pla_n %>%  filter(team.name==input$chosen_team_pla & player.name==input$chosen_player_pla) %>% select(Other), " (", round( pla_r  %>% filter(team.name==input$chosen_team_pla & player.name==input$chosen_player_pla) %>% select(Other),2), "%)")               
     
     # Combine all strings and add linebreak between them
     HTML(paste(str1, str2, str3, str4, str5,str6, 
@@ -520,34 +532,38 @@ server <- function(input, output, session) {
       ggplot() +
       create_StatsBomb_Pitch("#ffffff", "#A9A9A9", "#ffffff", "#000000", BasicFeatures = TRUE) +
       geom_point(aes(x=actor.location.x, y=actor.location.y, fill=min_distance, shape=ball_receipt.outcome.name), size=2) +
-      scale_fill_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20)) + 
+      scale_fill_gradient(low="red", high="green", limits=c(NA, 20), breaks=seq(0,20,5), labels=seq(0,20,5), oob=scales::squish) + 
       scale_shape_manual(values = c(21, 24)) + 
       # Reverses the y axis. Otherwise the data would be plotted on the wrong side of the pitch.
       scale_y_reverse() +
-      labs(fill = "Distance to closest opponent")
+      labs(fill = "Distance to closest opponent",
+           shape = "Ball receipt outcome") +
+      theme(legend.position = "bottom")
     
   }, res = 96)
   
   # Info on player
   output$player_info_br <- renderUI({
     
-    str1 <- paste0("Player: ", input$chosen_player_br)
-    str2 <- paste0("Main position: ", ball_receipts_team_player() %>% distinct(main_position) %>% pull(main_position))
-    str3 <- paste0("Number of matches played: ", ball_receipts_team_player() %>% distinct(num_matches) %>% pull(num_matches))
-    str4 <- paste0("Total number of ball receipts: ", ball_receipts_team_player() %>% distinct(total_receipts) %>% summarise(sum(total_receipts)))
-    str5 <- paste0("Total number of successful ball receipts: ", ball_receipts_team_player() %>% filter(ball_receipt.outcome.name == "Complete") %>% distinct(total_receipts) %>% pull(total_receipts))
-    str6 <- paste0("Total number of unsuccessful ball receipts: ", ball_receipts_team_player() %>% filter(ball_receipt.outcome.name == "Incomplete") %>% distinct(total_receipts) %>% pull(total_receipts))
-    str7 <- paste0("Average number of ball receipts (assuming at least 3 matches played): ", ball_receipts_team_player() %>% distinct(ave_receipts) %>% summarise(round(sum(ave_receipts))))
-    str8 <- paste0("Average number of successful ball receipts (assuming at least 3 matches played): ", ball_receipts_team_player() %>% filter(ball_receipt.outcome.name == "Complete") %>% distinct(ave_receipts) %>% pull(round(ave_receipts)))
-    str9 <- paste0("Average number of unsuccessful ball receipts (assuming at least 3 matches played): ", ball_receipts_team_player() %>% filter(ball_receipt.outcome.name == "Incomplete") %>% distinct(ave_receipts) %>% pull(ave_receipts))
+    str1 <- paste0("<b>Player: </b>", input$chosen_player_br)
+    str2 <- paste0("<b>Main position: </b>", ball_receipts_team_player() %>% distinct(main_position) %>% pull(main_position))
+    str3 <- paste0("<b>Number of matches played: </b>", ball_receipts_team_player() %>% distinct(num_matches) %>% pull(num_matches))
+    str4 <- paste0("<b>Total number of ball receipts: </b>", ball_receipts_team_player() %>% distinct(total_receipts) %>% summarise(sum(total_receipts)))
+    str5 <- paste0("<b>Success rate of all ball receipts: </b>", sprintf("%.2f", ball_receipts_team_player() %>% filter(ball_receipt.outcome.name == "Complete") %>% distinct(success_rate) %>% pull(success_rate) * 100), '%')
+    #str7 <- paste0("Average number of ball receipts (assuming at least 3 matches played): ", ball_receipts_team_player() %>% distinct(ave_receipts) %>% summarise(round(sum(ave_receipts))))
+    #str8 <- paste0("Average number of successful ball receipts (assuming at least 3 matches played): ", ball_receipts_team_player() %>% filter(ball_receipt.outcome.name == "Complete") %>% distinct(ave_receipts) %>% pull(round(ave_receipts)))
+    #str9 <- paste0("Average number of unsuccessful ball receipts (assuming at least 3 matches played): ", ball_receipts_team_player() %>% filter(ball_receipt.outcome.name == "Incomplete") %>% distinct(ave_receipts) %>% pull(ave_receipts))
     
     # Combine all strings and add linebreak between them
-    HTML(paste(str1, str2, str3, str4, str5, str6, str7, str8, str9, sep='<br/>'))
+    HTML(paste(str1, str2, str3, str4, str5, #str6, str7, str8, str9, 
+               sep='<br/>'))
     
   })
   
   # Plot of ball receipts for chosen player split by opposition
   output$player_plot_by_opp_br <- renderPlot({
+    
+    req(nrow(ball_receipts_team_player()) > 0)
     
     # Plot of successful ball receipt locations with colour by distance to closest opponent split by opposition
     ball_receipts_team_player() %>%
@@ -556,48 +572,102 @@ server <- function(input, output, session) {
       create_StatsBomb_Pitch("#ffffff", "#A9A9A9", "#ffffff", "#000000", BasicFeatures = TRUE) +
       geom_point(data = transform(ball_receipts_team_player(), OpposingTeam=NULL), aes(x=actor.location.x, y=actor.location.y, shape=ball_receipt.outcome.name), size=2, fill = "grey85", colour = "grey85") +
       geom_point(aes(x=actor.location.x, y=actor.location.y, fill=min_distance, shape=ball_receipt.outcome.name), size=2) +
-      scale_fill_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20)) + 
+      scale_fill_gradient(low="red", high="green", limits=c(NA, 20), oob=scales::squish) + 
       scale_shape_manual(values = c(21, 24)) + 
       facet_wrap(~ OpposingTeam, scales="free") +
       # Reverses the y axis. Otherwise the data would be plotted on the wrong side of the pitch.
       scale_y_reverse() +
-      labs(fill = "Distance to closest opponent")
+      labs(fill = "Distance to closest opponent") +
+      theme(legend.position = "bottom")
     
   }, res = 96)
   
   
+  # Horizontal bar plot of successful/unsuccessful ball receipts breakdown for chosen player
+  output$player_plot_by_dist_br <- renderPlot({
+    
+    ball_receipts_team_player() %>%
+      group_by(min_distance_bins, ball_receipt.outcome.name) %>%
+      tally() %>%
+      ungroup() %>%
+      ggplot() + 
+      geom_col(aes(x=n, y=min_distance_bins, fill=fct_relevel(ball_receipt.outcome.name, "Incomplete", "Complete"))) +
+      scale_fill_manual(values = c("Complete" = "#00BFC4",
+                                   "Incomplete"= "#F8766D")) +
+      labs(x="Number of ball receipts",
+           y="Distance to closest opponent (yards)",
+           fill="Pass outcome") +
+      theme(legend.position = "bottom")
+    
+  }, res = 96)
+  
+  # Horizontal bar plot of successful/unsuccessful ball receipts breakdown for chosen player
+  output$player_plot_by_dist_opp_br <- renderPlot({
+    
+    req(nrow(ball_receipts_team_player()) > 0)
+    
+    ball_receipts_team_player() %>%
+      group_by(OpposingTeam, min_distance_bins, ball_receipt.outcome.name) %>%
+      tally() %>%
+      ungroup() %>%
+      ggplot() + 
+      geom_col(aes(x=n, y=min_distance_bins, fill=fct_relevel(ball_receipt.outcome.name, "Incomplete", "Complete"))) +
+      scale_fill_manual(values = c("Complete" = "#00BFC4",
+                                     "Incomplete"= "#F8766D")) +
+      labs(x="Number of ball receipts",
+           y="Opposition",
+           fill="Pass outcome") +
+      facet_wrap(~ OpposingTeam, scales = "free") +
+      theme(legend.position = "bottom")
+    
+  }, res = 96)
+  
+  
+  
+  
   ##################################
   
-  # Filter ball_receipts_next_events_all by chosen team and chosen player
-  ball_receipts_next_events_team_player <- reactive({
+  # Filter ball_receipts_succ_next_events_all by chosen team and chosen player
+  ball_receipts_next_events_team <- reactive({
     
-    ball_receipts_next_events_all %>%
-      filter(team.name == input$chosen_team_ne,
-             player.name == input$chosen_player_ne)
+    ball_receipts_succ_next_events_all %>%
+      filter(team.name == input$chosen_team_ne)
     
   })
+  
+  observeEvent(ball_receipts_next_events_team(), {
+    choices <- sort(unique(ball_receipts_next_events_team()$player.name))
+    updateSelectInput(inputId = "chosen_player_ne", choices = choices) 
+  })
+  
+  # Filter ball_receipts_next_events_team data by chosen player
+  ball_receipts_next_events_team_player <- reactive({
+    
+    ball_receipts_next_events_team() %>%
+      filter(player.name == input$chosen_player_ne)
+    
+  })
+  
   
   
   # Plot of ball receipts for chosen player
   output$player_plot_ne <- renderPlot({
     
-    # This only uses data for players with most ball receipts!!! Either change or new tab?
+    # Horizontal bar plot of the number of the next event types, fill by next event type, split by opposition
     ball_receipts_next_events_team_player() %>%
-      group_by(OpposingTeam, type.name) %>%
+    group_by(type.name, min_distance_bins) %>%
       mutate(num_type = n()) %>%
       ungroup() %>%
-      select(player.name, team.name, main_position, OpposingTeam, type.name, num_type) %>%
+      select(player.name, team.name, main_position, type.name, min_distance_bins, num_type) %>%
       distinct() %>%
-      group_by(OpposingTeam) %>%
-      mutate(total_num_type = sum(num_type)) %>%
-      ungroup() %>%
       ggplot() +
-      geom_col(aes(x=num_type, y=reorder(OpposingTeam, total_num_type), fill=reorder(type.name, num_type)), colour="black") +
-      # Reverses the y axis. Otherwise the data would be plotted on the wrong side of the pitch.
-      scale_y_reverse() +
+      geom_col(aes(x=num_type, y=min_distance_bins, fill=reorder(type.name, num_type)), colour="black") +
+      scale_fill_discrete(breaks = unique(ball_receipts_next_events_team_player()$type.name)) +
       labs(x="Number of event type",
-           y="Opposition",
-           fill="Next event type")
+           y="Distance to closest opponent \n(successful ball receipt)",
+           fill="Next event type") +
+      theme(legend.position = "bottom")
+    
     
   }, res = 96)
   

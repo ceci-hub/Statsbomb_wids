@@ -301,6 +301,31 @@ ball_receipts_all_player <- ball_receipts_all %>%
   select(player.name, match_id, ball_receipt.outcome.name, total_receipts, ave_receipts, num_receipts) %>% 
   distinct()
 
+ball_receipts_all_player <- ball_receipts_all_player %>%
+  left_join(ball_receipts_all_player %>%
+              select(player.name, ball_receipt.outcome.name, total_receipts) %>%
+              distinct(across()) %>%
+              pivot_wider(
+                names_from = "ball_receipt.outcome.name",
+                values_from  = "total_receipts",
+              ) %>%
+              mutate(
+                Complete = replace_na(Complete, 0),
+                Incomplete = replace_na(Incomplete, 0),
+                Total = Complete + Incomplete,
+                # Replace Complete and Incomplete with success/unsuccess rate
+                Complete = Complete/Total,
+                Incomplete = Incomplete/Total
+              ) %>%
+              select(-Total) %>%
+              pivot_longer(
+                cols = c("Complete", "Incomplete"),
+                names_to = "ball_receipt.outcome.name",
+                values_to = "success_rate"
+              ),
+            by = c("player.name", "ball_receipt.outcome.name")
+  )
+
 # Join number of ball receipts dataframe to ball_receipts dataframe
 ball_receipts_all <- ball_receipts_all %>%
   left_join(ball_receipts_all_player, by=c("player.name", "match_id", "ball_receipt.outcome.name"))
@@ -322,534 +347,88 @@ ball_receipts_all <- ball_receipts_all %>%
          main_position = position_name[which.max(position_percentage)]) %>%
   ungroup()
 
-
-# What does player do with the ball after receiving it?
-
-# Determine what the next event after ball receipt is
-ball_receipts_next_events_all <- tibble()
-for (m_id in unique(most_ball_receipts_all$match_id)) {
-
-  most_ball_receipts_all_sub <- most_ball_receipts_all %>%
-    filter(match_id == m_id)
-
-  next_events_sub <- events %>%
-    filter(match_id == m_id,
-           index %in% (most_ball_receipts_all_sub$index+1)) %>%
-    select(type.name)
-
-  ball_receipts_next_events_all <- bind_rows(ball_receipts_next_events_all, bind_cols(most_ball_receipts_all_sub, next_events_sub))
-
-}
-
-# Plot of ball receipts split by opposition for player with most ball receipts for chosen team (team_name), shape of each ball receipt is based on the next event type, colour of each ball receipt is based on distance to closest opponent
-ball_receipts_next_events_all %>%
-  ggplot() +
-  create_StatsBomb_Pitch("#ffffff", "#A9A9A9", "#ffffff", "#000000", BasicFeatures = TRUE) +
-  geom_point(aes(x=location.x, y=location.y, fill=min_distance, shape=type.name, color=min_distance), size=2) +
-  scale_fill_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20)) +
-  scale_color_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20), guide="none") +
-  #scale_shape_manual(values = c(21, 22, 23, 24, 25, 8)) +
-  facet_wrap(~ player.name, scales="free") +
-  labs(fill = "Distance to closest opponent",
-       color = "",
-       shape = "Next event type",
-       title = paste0("Ball receipts for player with most total ball receipts for ", team_name, " by opposition (", most_ball_receipt_team_name %>% distinct(player.name) %>% pull(player.name), ")"))
+# Add distance to closest opponent grouping bins
+ball_receipts_all <- ball_receipts_all %>%
+  mutate(min_distance_bins = 
+           case_when(min_distance <= 5 ~ "0-5yards",
+                     min_distance > 5 & min_distance <= 10 ~ "5-10yards",
+                     min_distance > 10 & min_distance <= 20 ~ "10-20yards",
+                     min_distance > 20 ~ "20+yards")) %>%
+  mutate(min_distance_bins = factor(min_distance_bins, levels = c("0-5yards", "5-10yards", "10-20yards", "20+yards")))
 
 
-# Horizontal bar plot of the number of the next event types, fill by next event type, for player with most ball receipts on each team
-ball_receipts_next_events_all %>%
-  group_by(player.name, type.name) %>%
-  mutate(num_type = n()) %>%
-  ungroup() %>%
-  select(player.name, team.name, main_position, type.name, num_type) %>%
-  distinct() %>%
-  group_by(player.name) %>%
-  mutate(total_num_type = sum(num_type)) %>%
-  ungroup() %>%
-  ggplot() +
-  geom_col(aes(x=num_type, y=reorder(player.name, total_num_type), fill=reorder(type.name, num_type)), colour="black") +
-  labs(x="Number of event type",
-       y="Player",
-       fill="Next event type",
-       title=paste0("Next event type after ball receipt, split by event type, for player in each team with most overall ball receipts"))
+############################
 
 
-# For all players
-# Determine what the next event after ball receipt is
-ball_receipts_next_events_all <- tibble()
-for (m_id in unique(ball_receipts$match_id)) {
+# What does a player do with the ball after a successful ball receipt?
 
-  ball_receipts_sub <- ball_receipts %>%
+# Successful ball receipts
+ball_receipts_succ <- ball_receipts_all %>%
+  filter(ball_receipt.outcome.name == "Complete")
+
+# Determine the next event after successful ball receipt
+ball_receipts_succ_next_events_all <- tibble()
+for (m_id in unique(ball_receipts_succ$match_id)) {
+  
+  # Filter successful ball receipts dataframe by match_id
+  ball_receipts_succ_sub <- ball_receipts_succ %>%
     filter(match_id == m_id) %>%
-    distinct(id, .keep_all = TRUE)
-
+    arrange(index)
+  
+  # Obtain next event after successful ball receipt and also carry end_location details
   next_events_sub <- events %>%
     filter(match_id == m_id,
-           index %in% (ball_receipts_sub$index+1)) %>%
+           index %in% (ball_receipts_succ_sub$index+1)) %>%
+    arrange(index) %>%
     select(type.name, carry.end_location.x, carry.end_location.y)
-
-  ball_receipts_next_events_all <- bind_rows(ball_receipts_next_events_all, bind_cols(ball_receipts_sub, next_events_sub))
+  
+  # Add next event column details to ball_receipts_succ_sub dataframe
+  # Then combine with ball_receipts_succ_next_events_all
+  ball_receipts_succ_next_events_all <- bind_rows(ball_receipts_succ_next_events_all, bind_cols(ball_receipts_succ_sub, next_events_sub))
 
 }
 
-
-ball_receipts_next_events_all <- ball_receipts_next_events_all %>%
+# Calculate distance between location and carry end_location
+ball_receipts_succ_next_events_all <- ball_receipts_succ_next_events_all %>%
   mutate(carry_distance = sqrt( (location.x - carry.end_location.x)^2 + (location.y - carry.end_location.y)^2 ))
 
 
-ball_receipts_next_events_all %>%
-  filter(type.name == "Carry",
-         player.name == "John Stones") %>%
-  group_by(OpposingTeam) %>%
+# If carry_distance < 1 yard, we say that person was standing still during the carry event
+# Find the next event
+for (m_id in unique(ball_receipts_succ_next_events_all$match_id)) {
+  
+  # Filter ball_receipts_succ_next_events_all dataframe by match_id
+  # Filter by carry_distance < 1
+  ball_receipts_succ_sub_dist <- ball_receipts_succ_next_events_all %>%
+    filter(match_id == m_id,
+           carry_distance < 1) %>%
+    arrange(index)
+  
+  # Obtain second event after successful ball receipt as the first event had carry_distance less than 1 yard
+  next_events_sub <- events %>%
+    filter(match_id == m_id,
+           index %in% (ball_receipts_succ_sub_dist$index+2)) %>%
+    arrange(index) %>%
+    select(type.name)
+  
+  # Replace the next event type
+  ball_receipts_succ_next_events_all[ball_receipts_succ_next_events_all$match_id == m_id & ball_receipts_succ_next_events_all$type.name == "Carry" & ball_receipts_succ_next_events_all$carry_distance < 1,"type.name"] = next_events_sub
+  
+}
+
+ball_receipts_succ_next_events_all %>%
+  filter(player.name == "John Stones") %>%
+group_by(type.name, min_distance_bins) %>%
   mutate(num_type = n()) %>%
   ungroup() %>%
-  select(player.name, team.name, main_position, OpposingTeam, type.name, num_type) %>%
+  select(player.name, team.name, main_position, type.name, min_distance_bins, num_type) %>%
   distinct() %>%
   ggplot() +
-  geom_col(aes(x=num_type, y=type.name, fill=OpposingTeam), colour="black") +
+  geom_col(aes(x=num_type, y=min_distance_bins, fill=reorder(type.name, num_type)), colour="black") +
+  scale_fill_discrete(breaks = unique(ball_receipts_succ_next_events_all$type.name)) +
   labs(x="Number of event type",
-       y="Next event type",
-       fill="Opposition",
-       title=paste0("Next event type after ball receipt, split by event type and opposition, for ", unique(ball_receipts_next_events$player.name), '(', unique(ball_receipts_next_events$team.name), ')'))
+       y="Distance to closest opponent \n(successful ball receipt)",
+       fill="Next event type") +
+  theme(legend.position = "bottom")
 
 
-
-
-ball_receipts_next_events_all %>%
-  filter(type.name == "Carry",
-         player.name == "John Stones",
-         carry_distance >= 1) %>%
-  group_by(OpposingTeam) %>%
-  mutate(num_type = n()) %>%
-  ungroup() %>%
-  select(player.name, team.name, main_position, OpposingTeam, type.name, num_type) %>%
-  distinct() %>%
-  ggplot() +
-  geom_col(aes(x=num_type, y=type.name, fill=OpposingTeam), colour="black") +
-  labs(x="Number of event type",
-       y="Next event type",
-       fill="Opposition",
-       title=paste0("Next event type after ball receipt, split by event type and opposition, for ", unique(ball_receipts_next_events$player.name), '(', unique(ball_receipts_next_events$team.name), ')'))
-
-
-
-
-
-
-
-# 
-# # #####################################################################
-# 
-# # Successful ball receipts
-# # Want to quantify how many ball receipts are in space as a way to quantify how well a defence is performing?
-# ball_receipts <- events %>%
-#   filter(type.name == "Ball Receipt*",
-#          is.na(ball_receipt.outcome.name)) %>%
-#   # select_if(~any(!is.na(.))) %>% # Remove columns with all NAs
-#   select(c(id, index, team.name, play_pattern.name, player.name, position.name, ball_receipt.outcome.name, match_id, location.x, location.y, OpposingTeam, freeze_frame, visible_area))
-# 
-# # Unnest 360 freeze frame data
-# ball_receipts <- ball_receipts %>%
-#   unnest(freeze_frame) %>%
-#   mutate(ff_location.x = (map(location, 1)), ff_location.y = (map(location, 2))) %>%
-#   select(-location) %>%
-#   mutate(ff_location.x = as.numeric(ifelse(ff_location.x == "NULL", NA, ff_location.x)), ff_location.y = as.numeric(ifelse(ff_location.y == "NULL", NA, ff_location.y)))
-# 
-# # Location of ball receipt by location.x and location.y does not always match the location of the actor ff_location.x and ff_location.y
-# # Maybe take the average of their location?
-# ball_receipts <- ball_receipts %>%
-#   mutate(Player_Type_Key = case_when(actor==TRUE & teammate==TRUE ~ "Actor",
-#                                      teammate==TRUE ~ "Teammate",
-#                                      teammate==FALSE & keeper==FALSE ~ "Opponent",
-#                                      keeper==TRUE & teammate==FALSE ~ "Goalkeeper")) %>%
-#   mutate(actor.location.x =
-#            case_when(Player_Type_Key == "Actor" ~ (location.x + ff_location.x)/2),
-#          actor.location.y =
-#            case_when(Player_Type_Key == "Actor" ~ (location.y + ff_location.y)/2))
-# 
-# # Calculate distance (euclidean distance) between average actor/ball receipt and location of opponent(s)
-# ball_receipts <- ball_receipts %>%
-#   group_by(id) %>%
-#   fill(actor.location.x, actor.location.y, .direction = "downup") %>%
-#   ungroup() %>%
-#   mutate(distance = if_else(Player_Type_Key == "Actor", NA_real_, sqrt( (actor.location.x - ff_location.x)^2 + (actor.location.y - ff_location.y)^2 )))
-# 
-# # Drop events where there are no Actors and single Actor only
-# single_actor_ids <- ball_receipts %>%
-#   group_by(id) %>%
-#   filter(all(actor == TRUE)) %>%
-#   select(id)
-# 
-# no_actor_ids <- ball_receipts %>%
-#   group_by(id) %>%
-#   filter(all(Player_Type_Key != "Actor")) %>%
-#   distinct(id)
-# 
-# 
-# # Calculate minimum distance between actor/ball receipt and opponent
-# # Need to filter by "Opponent" in Player_Type_Key
-# ball_receipts_min_dist <- ball_receipts %>%
-#   filter(!(id %in% single_actor_ids$id),
-#          !(id %in% no_actor_ids$id)) %>%
-#   filter(Player_Type_Key == "Opponent") %>%
-#   group_by(id) %>%
-#   summarise(min_distance = min(distance, na.rm = TRUE))
-# 
-# # Join the minimum distance with the ball_receipts dataframe
-# ball_receipts <- ball_receipts %>%
-#   left_join(ball_receipts_min_dist, by = "id")
-# 
-# 
-# # Obtain dataframe with number of ball receipts for each player for each match, the total number of ball receipts for each player for the tournament, the average number of ball receipts for each player
-# ball_receipt_player <- ball_receipts %>%
-#   # Distinct "id" as unnest(freeze_frame) repeated ids for all locations of players in freeze_frame, keep all columns
-#   distinct(id, .keep_all = TRUE) %>%
-#   # Want to calculate the number of ball receipts for each player for each match
-#   group_by(match_id, player.name) %>%
-#   mutate(num_receipts = n()) %>%
-#   ungroup() %>%
-#   # Want to calculate total number of ball receipts for each player
-#   group_by(player.name) %>%
-#   mutate(total_receipts = n()) %>%
-#   # Distinct match_id because we are only interested in the number of ball receipts for each match and num_receipts is duplicated for all events in a match. Only need to know this value once
-#   distinct(match_id, .keep_all = TRUE) %>%
-#   # Want to calculate the number of matches played for each player and the average number of ball receipts for each player
-#   mutate(num_matches = n(),
-#          ave_receipts = mean(num_receipts)) %>%
-#   select(player.name, match_id, total_receipts, ave_receipts, num_receipts, num_matches) %>%
-#   distinct()
-# 
-# # Join number of ball receipts dataframe to ball_receipts dataframe
-# ball_receipts <- ball_receipts %>%
-#   left_join(ball_receipt_player, by=c("player.name", "match_id"))
-# 
-# # Rename position.name to Forward, Midfield, Back, Wing
-# ball_receipts <- ball_receipts %>%
-#   mutate(position_name =
-#            case_when(str_detect(position.name, "Forward") ~ "Forward",
-#                      str_detect(position.name, "Midfield") ~ "Midfield",
-#                      str_detect(position.name, "Back") ~ "Defender",
-#                      str_detect(position.name, "Wing") ~ "Wing",
-#                      TRUE ~ position.name)) %>%
-#   group_by(player.name, position_name) %>%
-#   mutate(position_count = n()) %>%
-#   ungroup() %>%
-#   group_by(player.name) %>%
-#   mutate(position_total_count = n(),
-#          position_percentage = position_count/position_total_count,
-#          main_position = position_name[which.max(position_percentage)]) %>%
-#   ungroup()
-# 
-# # Plot of ball receipts for all matches for player with most overall ball receipts on each team coloured by distance to closest opponent
-# ball_receipts %>%
-#   group_by(team.name) %>%
-#   slice_max(total_receipts) %>%
-#   ungroup() %>%
-#   distinct(id, .keep_all = TRUE) %>%
-#   unite(player_team, c("player.name", "team.name"), sep = "=", remove = FALSE) %>%
-#   unite(player_team, c("player_team", "main_position"), sep = "\n") %>%
-#   select(player_team, location.x, location.y, min_distance) %>%
-#   ggplot() +
-#   create_StatsBomb_Pitch("#ffffff", "#A9A9A9", "#ffffff", "#000000", BasicFeatures = TRUE) +
-#   geom_point(aes(x=location.x, y=location.y, fill=min_distance), shape=21, size=2) +
-#   scale_fill_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20)) +
-#   facet_wrap(~ player_team, scales="free") +
-#   labs(fill = "Distance to closest opponent",
-#        title = "Location of all ball receipts for player with most ball receipts for the tournament for all teams")
-# 
-# 
-# # Plot of ball receipts for all matches for player with highest average ball receipts having played at least 3 matches on each team coloured by distance to closest opponent
-# ball_receipts %>%
-#   filter(num_matches >= 3) %>%
-#   group_by(team.name) %>%
-#   slice_max(ave_receipts) %>%
-#   ungroup() %>%
-#   distinct(id, .keep_all = TRUE) %>%
-#   unite(player_team, c("player.name", "team.name"), sep = "=", remove = FALSE) %>%
-#   unite(player_team, c("player_team", "main_position"), sep = "\n") %>%
-#   select(player_team, location.x, location.y, min_distance) %>%
-#   ggplot() +
-#   create_StatsBomb_Pitch("#ffffff", "#A9A9A9", "#ffffff", "#000000", BasicFeatures = TRUE) +
-#   geom_point(aes(x=location.x, y=location.y, fill=min_distance), shape=21, size=2) +
-#   scale_fill_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20)) +
-#   facet_wrap(~ player_team, scales="free") +
-#   labs(fill = "Distance to closest opponent",
-#        title = "Location of all ball receipts for player with highest average ball receipts having played at least 3 matches for all teams")
-# 
-# 
-# # Plot of ball receipts for player with most ball receipts on a chosen team, how does it compare between matches
-# most_overall_receipts_players <- ball_receipts %>%
-#   group_by(team.name) %>%
-#   slice_max(total_receipts) %>%
-#   distinct(player.name)
-# 
-# team_name <- "England"
-# 
-# most_ball_receipt_team_name <- ball_receipts %>%
-#   group_by(team.name) %>%
-#   filter(team.name == team_name,
-#          player.name == most_overall_receipts_players %>% filter(team.name == team_name) %>% pull(player.name)) %>%
-#   distinct(id, .keep_all = TRUE)
-# 
-# most_ball_receipt_team_name %>%
-#   ggplot() +
-#   create_StatsBomb_Pitch("#ffffff", "#A9A9A9", "#ffffff", "#000000", BasicFeatures = TRUE) +
-#   geom_point(data = transform(most_ball_receipt_team_name, OpposingTeam=NULL), aes(x=location.x, y=location.y), shape=21, size=2, fill = "grey85", colour = "grey85") +
-#   geom_point(aes(x=location.x, y=location.y, fill=min_distance), shape=21, size=2) +
-#   scale_fill_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20)) +
-#   facet_wrap(~ OpposingTeam, scales="free") +
-#   labs(fill = "Distance to closest opponent",
-#        title = paste0("Ball receipts for player with most total ball receipts for ", team_name, " by opposition (", most_ball_receipt_team_name %>% distinct(player.name) %>% pull(player.name), ")"))
-# 
-# # Horizontal bar chart of highest total ball receipts for players on each team
-# ball_receipts %>%
-#   filter(player.name %in% most_overall_receipts_players$player.name) %>%
-#   select(player.name, team.name, main_position, total_receipts) %>%
-#   distinct() %>%
-#   unite(player_team, c("player.name", "team.name"), sep = "=", remove = FALSE) %>%
-#   unite(player_team, c("player_team", "main_position"), sep = "\n") %>%
-#   ggplot() +
-#   geom_col(aes(x=total_receipts, y=reorder(player_team, total_receipts))) +
-#   labs(x="Total receipts",
-#        y="Player, Country, Position",
-#        title="Player on each team with highest total ball receipts")
-# 
-# 
-# # Top 10 players with highest average ball receipts
-# top10_most_ave_ball_receipts <- ball_receipts %>%
-#   filter(num_matches >= 3) %>%
-#   select(player.name, ave_receipts) %>%
-#   distinct() %>%
-#   slice_max(ave_receipts, n=10)
-# 
-# 
-# # Plot highest average ball receipts for players who played at least 3 matches
-# ball_receipts %>%
-#   filter(player.name %in% top10_most_ave_ball_receipts$player.name) %>%
-#   select(player.name, team.name, main_position, ave_receipts) %>%
-#   distinct() %>%
-#   unite(player_team, c("player.name", "team.name"), sep = "=", remove = FALSE) %>%
-#   unite(player_team, c("player_team", "main_position"), sep = "\n") %>%
-#   ggplot() +
-#   geom_col(aes(x=ave_receipts, y=reorder(player_team, ave_receipts))) +
-#   labs(x="Average receipts",
-#        y="Player, Country, Position",
-#        title="Top 10 players with highest average ball receipts who have played at least 3 matches")
-# 
-# 
-# # Top 10 players with highest total ball receipts
-# top10_most_total_ball_receipts <- ball_receipts %>%
-#   select(player.name, total_receipts) %>%
-#   distinct() %>%
-#   slice_max(total_receipts, n=10)
-# 
-# # Plot highest total ball receipts for players
-# ball_receipts %>%
-#   filter(player.name %in% top10_most_total_ball_receipts$player.name) %>%
-#   select(player.name, team.name, main_position, total_receipts, OpposingTeam, num_receipts) %>%
-#   distinct() %>%
-#   unite(player_team, c("player.name", "team.name"), sep = "=", remove = FALSE) %>%
-#   unite(player_team, c("player_team", "main_position"), sep = "\n") %>%
-#   ggplot() +
-#   geom_col(aes(x=num_receipts, y=reorder(player_team, total_receipts), fill=OpposingTeam), colour="black") +
-#   labs(x="Total receipts",
-#        y="Player, Country, Position",
-#        title="Top 10 players with most total ball receipts, split by match")
-# 
-# 
-# # What does player with most ball receipts do with the ball?
-# # Pass? Dribble? Clearance?
-# 
-# # Choose a team
-# team_name <- "England"
-# 
-# # Obtain subset of ball_receipts dataframe for player with most overall receipts on chosen team (team_name)
-# most_ball_receipt_team_name <- ball_receipts %>%
-#   filter(team.name == team_name,
-#          player.name == (most_overall_receipts_players %>% filter(team.name == team_name) %>% pull(player.name))) %>%
-#   distinct(id, .keep_all = TRUE)
-# 
-# # Determine what the next event after ball receipt is
-# ball_receipts_next_events <- tibble()
-# for (m_id in unique(most_ball_receipt_team_name$match_id)) {
-#   
-#   most_ball_receipt_team_name_sub <- most_ball_receipt_team_name %>%
-#     filter(match_id == m_id)
-#   
-#   next_events_sub <- events %>%
-#     filter(match_id == m_id,
-#            index %in% (most_ball_receipt_team_name_sub$index+1)) %>%
-#     select(type.name)
-#   
-#   ball_receipts_next_events <- bind_rows(ball_receipts_next_events, bind_cols(most_ball_receipt_team_name_sub, next_events_sub))
-#   
-# }
-# 
-# # Plot of ball receipts split by opposition for player with most ball receipts for chosen team (team_name), shape of each ball receipt is based on the next event type, colour of each ball receipt is based on distance to closest opponent
-# ball_receipts_next_events %>%
-#   ggplot() +
-#   create_StatsBomb_Pitch("#ffffff", "#A9A9A9", "#ffffff", "#000000", BasicFeatures = TRUE) +
-#   geom_point(aes(x=location.x, y=location.y, fill=min_distance, shape=type.name, color=min_distance), size=2) +
-#   scale_fill_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20)) +
-#   scale_color_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20), guide="none") +
-#   scale_shape_manual(values = c(21, 22, 23, 24, 25, 8)) +
-#   facet_wrap(~ OpposingTeam, scales="free") +
-#   labs(fill = "Distance to closest opponent",
-#        color = "",
-#        shape = "Next event type",
-#        title = paste0("Ball receipts for player with most total ball receipts for ", team_name, " by opposition (", most_ball_receipt_team_name %>% distinct(player.name) %>% pull(player.name), ")"))
-# 
-# 
-# # Horizontal bar plot of the number of the next event types, split by next event type on yaxis and fill by opposition, for player with most ball receipts on chosen team
-# ball_receipts_next_events %>%
-#   group_by(OpposingTeam, type.name) %>%
-#   mutate(num_type = n()) %>%
-#   ungroup() %>%
-#   select(player.name, team.name, main_position, OpposingTeam, type.name, num_type) %>%
-#   distinct() %>%
-#   group_by(type.name) %>%
-#   mutate(total_num_type = sum(num_type)) %>%
-#   ungroup() %>%
-#   ggplot() +
-#   geom_col(aes(x=num_type, y=reorder(type.name, total_num_type), fill=OpposingTeam), colour="black") +
-#   labs(x="Number of event type",
-#        y="Next event type",
-#        fill="Opposition",
-#        title=paste0("Next event type after ball receipt, split by event type and opposition, for ", unique(ball_receipts_next_events$player.name), '(', unique(ball_receipts_next_events$team.name), ')'))
-# 
-# # Horizontal bar plot of the number of the next event types, split by opposition on yaxis and fill by next event type, for player with most ball receipts on chosen team
-# ball_receipts_next_events %>%
-#   group_by(OpposingTeam, type.name) %>%
-#   mutate(num_type = n()) %>%
-#   ungroup() %>%
-#   select(player.name, team.name, main_position, OpposingTeam, type.name, num_type) %>%
-#   distinct() %>%
-#   group_by(OpposingTeam) %>%
-#   mutate(total_num_type = sum(num_type)) %>%
-#   ungroup() %>%
-#   ggplot() +
-#   geom_col(aes(x=num_type, y=reorder(OpposingTeam, total_num_type), fill=reorder(type.name, num_type)), colour="black") +
-#   labs(x="Number of event type",
-#        y="Opposition",
-#        fill="Next event type",
-#        title=paste0("Next event type after ball receipt, split by match and event type, for ", unique(ball_receipts_next_events$player.name), '(', unique(ball_receipts_next_events$team.name), ')'))
-# 
-# 
-# #######################
-# 
-# 
-# # Obtain subset of ball_receipts dataframe for players with most overall receipts on each team
-# most_ball_receipts_all <- ball_receipts %>%
-#   filter(player.name %in% (most_overall_receipts_players %>% pull(player.name))) %>%
-#   distinct(id, .keep_all = TRUE)
-# 
-# # Determine what the next event after ball receipt is
-# ball_receipts_next_events_all <- tibble()
-# for (m_id in unique(most_ball_receipts_all$match_id)) {
-#   
-#   most_ball_receipts_all_sub <- most_ball_receipts_all %>%
-#     filter(match_id == m_id)
-#   
-#   next_events_sub <- events %>%
-#     filter(match_id == m_id,
-#            index %in% (most_ball_receipts_all_sub$index+1)) %>%
-#     select(type.name)
-#   
-#   ball_receipts_next_events_all <- bind_rows(ball_receipts_next_events_all, bind_cols(most_ball_receipts_all_sub, next_events_sub))
-#   
-# }
-# 
-# # Plot of ball receipts split by opposition for player with most ball receipts for chosen team (team_name), shape of each ball receipt is based on the next event type, colour of each ball receipt is based on distance to closest opponent
-# ball_receipts_next_events_all %>%
-#   ggplot() +
-#   create_StatsBomb_Pitch("#ffffff", "#A9A9A9", "#ffffff", "#000000", BasicFeatures = TRUE) +
-#   geom_point(aes(x=location.x, y=location.y, fill=min_distance, shape=type.name, color=min_distance), size=2) +
-#   scale_fill_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20)) +
-#   scale_color_gradient(low="red", high="green", na.value="grey", limits=c(NA, 20), guide="none") +
-#   #scale_shape_manual(values = c(21, 22, 23, 24, 25, 8)) +
-#   facet_wrap(~ player.name, scales="free") +
-#   labs(fill = "Distance to closest opponent",
-#        color = "",
-#        shape = "Next event type",
-#        title = paste0("Ball receipts for player with most total ball receipts for ", team_name, " by opposition (", most_ball_receipt_team_name %>% distinct(player.name) %>% pull(player.name), ")"))
-# 
-# 
-# # Horizontal bar plot of the number of the next event types, fill by next event type, for player with most ball receipts on each team
-# ball_receipts_next_events_all %>%
-#   group_by(player.name, type.name) %>%
-#   mutate(num_type = n()) %>%
-#   ungroup() %>%
-#   select(player.name, team.name, main_position, type.name, num_type) %>%
-#   distinct() %>%
-#   group_by(player.name) %>%
-#   mutate(total_num_type = sum(num_type)) %>%
-#   ungroup() %>%
-#   ggplot() +
-#   geom_col(aes(x=num_type, y=reorder(player.name, total_num_type), fill=reorder(type.name, num_type)), colour="black") +
-#   labs(x="Number of event type",
-#        y="Player",
-#        fill="Next event type",
-#        title=paste0("Next event type after ball receipt, split by event type, for player in each team with most overall ball receipts"))
-# 
-# 
-# # For all players
-# # Determine what the next event after ball receipt is
-# ball_receipts_next_events_all <- tibble()
-# for (m_id in unique(ball_receipts$match_id)) {
-#   
-#   ball_receipts_sub <- ball_receipts %>%
-#     filter(match_id == m_id) %>%
-#     distinct(id, .keep_all = TRUE)
-#   
-#   next_events_sub <- events %>%
-#     filter(match_id == m_id,
-#            index %in% (ball_receipts_sub$index+1)) %>%
-#     select(type.name, carry.end_location.x, carry.end_location.y)
-#   
-#   ball_receipts_next_events_all <- bind_rows(ball_receipts_next_events_all, bind_cols(ball_receipts_sub, next_events_sub))
-#   
-# }
-# 
-# 
-# ball_receipts_next_events_all <- ball_receipts_next_events_all %>%
-#   mutate(carry_distance = sqrt( (location.x - carry.end_location.x)^2 + (location.y - carry.end_location.y)^2 ))
-# 
-# 
-# ball_receipts_next_events_all %>%
-#   filter(type.name == "Carry",
-#          player.name == "John Stones") %>%
-#   group_by(OpposingTeam) %>%
-#   mutate(num_type = n()) %>%
-#   ungroup() %>%
-#   select(player.name, team.name, main_position, OpposingTeam, type.name, num_type) %>%
-#   distinct() %>%
-#   ggplot() +
-#   geom_col(aes(x=num_type, y=type.name, fill=OpposingTeam), colour="black") +
-#   labs(x="Number of event type",
-#        y="Next event type",
-#        fill="Opposition",
-#        title=paste0("Next event type after ball receipt, split by event type and opposition, for ", unique(ball_receipts_next_events$player.name), '(', unique(ball_receipts_next_events$team.name), ')'))
-# 
-# 
-# 
-# 
-# ball_receipts_next_events_all %>%
-#   filter(type.name == "Carry",
-#          player.name == "John Stones",
-#          carry_distance >= 1) %>%
-#   group_by(OpposingTeam) %>%
-#   mutate(num_type = n()) %>%
-#   ungroup() %>%
-#   select(player.name, team.name, main_position, OpposingTeam, type.name, num_type) %>%
-#   distinct() %>%
-#   ggplot() +
-#   geom_col(aes(x=num_type, y=type.name, fill=OpposingTeam), colour="black") +
-#   labs(x="Number of event type",
-#        y="Next event type",
-#        fill="Opposition",
-#        title=paste0("Next event type after ball receipt, split by event type and opposition, for ", unique(ball_receipts_next_events$player.name), '(', unique(ball_receipts_next_events$team.name), ')'))
-# 
-
-
-# Is it possible to calculate time on field?
-# Can we calculate ball receipts by amount of time on field?
