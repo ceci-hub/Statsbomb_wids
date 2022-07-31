@@ -2,7 +2,6 @@ library(tidyverse)
 library(lubridate)
 #library(sf)
 library(shiny)
-#library(gganatogram)
 
 
 # Need this the first time you run R for R 4.2.0 due to plotting looking weird
