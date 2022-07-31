@@ -1,0 +1,465 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,6990,Milan Škriniar,5,Left Center Back,95.1,47.1,9d22563f-de8c-4ede-bccd-152f08115275
+False,9722,Peter Pekarík,2,Right Back,102.1,31.5,9d22563f-de8c-4ede-bccd-152f08115275
+False,16307,Róbert Mak,21,Left Wing,92.8,44.4,9d22563f-de8c-4ede-bccd-152f08115275
+False,20002,Jakub Hromada,11,Left Defensive Midfield,94.8,37.7,9d22563f-de8c-4ede-bccd-152f08115275
+False,7975,Lukáš Haraslín,17,Right Wing,99.8,22.0,9d22563f-de8c-4ede-bccd-152f08115275
+False,10919,Juraj Kucka,9,Right Defensive Midfield,88.3,26.0,9d22563f-de8c-4ede-bccd-152f08115275
+False,30397,Ľubomír Šatka,3,Right Center Back,101.8,44.2,9d22563f-de8c-4ede-bccd-152f08115275
+False,4421,Tomáš Hubočan,6,Left Back,100.6,51.9,9d22563f-de8c-4ede-bccd-152f08115275
+False,3711,Martin Dúbravka,1,Goalkeeper,117.9,40.8,9d22563f-de8c-4ede-bccd-152f08115275
+True,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,78.3,49.1,9d22563f-de8c-4ede-bccd-152f08115275
+True,5672,Maciej Rybus,8,Left Wing Back,100.7,18.5,9d22563f-de8c-4ede-bccd-152f08115275
+True,7964,Karol Linetty,15,Left Center Midfield,100.1,31.0,9d22563f-de8c-4ede-bccd-152f08115275
+True,5660,Piotr Zieliński,24,Left Center Forward,94.7,34.3,9d22563f-de8c-4ede-bccd-152f08115275
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,101.0,45.3,9d22563f-de8c-4ede-bccd-152f08115275
+True,4673,Kamil Jóźwiak,7,Right Wing Back,97.9,68.2,9d22563f-de8c-4ede-bccd-152f08115275
+False,7975,Lukáš Haraslín,17,Right Wing,90.6,23.2,6aa8cf47-ea25-48be-9332-23990444e15c
+False,16307,Róbert Mak,21,Left Wing,82.0,60.7,6aa8cf47-ea25-48be-9332-23990444e15c
+False,20002,Jakub Hromada,11,Left Defensive Midfield,87.6,46.5,6aa8cf47-ea25-48be-9332-23990444e15c
+False,10919,Juraj Kucka,9,Right Defensive Midfield,103.0,44.3,6aa8cf47-ea25-48be-9332-23990444e15c
+False,9722,Peter Pekarík,2,Right Back,106.2,35.4,6aa8cf47-ea25-48be-9332-23990444e15c
+False,6990,Milan Škriniar,5,Left Center Back,104.2,39.5,6aa8cf47-ea25-48be-9332-23990444e15c
+False,30397,Ľubomír Šatka,3,Right Center Back,102.2,40.0,6aa8cf47-ea25-48be-9332-23990444e15c
+False,4421,Tomáš Hubočan,6,Left Back,103.5,50.6,6aa8cf47-ea25-48be-9332-23990444e15c
+False,3711,Martin Dúbravka,1,Goalkeeper,115.8,40.6,6aa8cf47-ea25-48be-9332-23990444e15c
+True,7964,Karol Linetty,15,Left Center Midfield,99.6,30.1,6aa8cf47-ea25-48be-9332-23990444e15c
+True,5660,Piotr Zieliński,24,Left Center Forward,103.4,43.2,6aa8cf47-ea25-48be-9332-23990444e15c
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,84.3,46.7,6aa8cf47-ea25-48be-9332-23990444e15c
+True,4673,Kamil Jóźwiak,7,Right Wing Back,94.5,60.1,6aa8cf47-ea25-48be-9332-23990444e15c
+True,16307,Róbert Mak,21,Left Wing,107.0,29.7,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+True,7025,Marek Hamšík,19,Center Attacking Midfield,111.5,35.1,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+True,7975,Lukáš Haraslín,17,Right Wing,106.6,48.4,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+True,10919,Juraj Kucka,9,Right Defensive Midfield,92.2,38.5,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+True,20002,Jakub Hromada,11,Left Defensive Midfield,85.3,33.2,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+False,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,103.4,29.0,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+False,5673,Bartosz Bereszyński,3,Right Center Back,101.4,27.3,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+False,4673,Kamil Jóźwiak,7,Right Wing Back,96.8,24.0,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+False,4626,Jan Bednarek,5,Left Center Back,108.2,44.1,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,107.6,36.7,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+False,5672,Maciej Rybus,8,Left Wing Back,103.4,49.8,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.8,39.2,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+False,7964,Karol Linetty,15,Left Center Midfield,98.3,39.0,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+False,3034,Kamil Glik,4,Center Back,105.0,30.7,3340af9b-f7ab-4f5e-9e4c-b73df5679edc
+True,7025,Marek Hamšík,19,Center Attacking Midfield,104.6,18.5,066247b5-da98-4d91-b8f0-67e4b99a76c8
+True,4421,Tomáš Hubočan,6,Left Back,93.5,12.0,066247b5-da98-4d91-b8f0-67e4b99a76c8
+True,7975,Lukáš Haraslín,17,Right Wing,107.6,36.8,066247b5-da98-4d91-b8f0-67e4b99a76c8
+True,8967,Ondrej Duda,23,Center Forward,105.4,38.9,066247b5-da98-4d91-b8f0-67e4b99a76c8
+True,9722,Peter Pekarík,2,Right Back,106.4,52.7,066247b5-da98-4d91-b8f0-67e4b99a76c8
+True,10919,Juraj Kucka,9,Right Defensive Midfield,100.6,44.1,066247b5-da98-4d91-b8f0-67e4b99a76c8
+True,20002,Jakub Hromada,11,Left Defensive Midfield,93.0,30.0,066247b5-da98-4d91-b8f0-67e4b99a76c8
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.0,36.2,066247b5-da98-4d91-b8f0-67e4b99a76c8
+False,5673,Bartosz Bereszyński,3,Right Center Back,113.0,16.6,066247b5-da98-4d91-b8f0-67e4b99a76c8
+False,4673,Kamil Jóźwiak,7,Right Wing Back,106.0,12.1,066247b5-da98-4d91-b8f0-67e4b99a76c8
+False,3034,Kamil Glik,4,Center Back,114.9,30.5,066247b5-da98-4d91-b8f0-67e4b99a76c8
+False,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,107.9,23.8,066247b5-da98-4d91-b8f0-67e4b99a76c8
+False,4626,Jan Bednarek,5,Left Center Back,110.3,37.3,066247b5-da98-4d91-b8f0-67e4b99a76c8
+False,5672,Maciej Rybus,8,Left Wing Back,109.6,41.4,066247b5-da98-4d91-b8f0-67e4b99a76c8
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,104.5,33.4,066247b5-da98-4d91-b8f0-67e4b99a76c8
+False,7964,Karol Linetty,15,Left Center Midfield,104.1,39.2,066247b5-da98-4d91-b8f0-67e4b99a76c8
+False,5660,Piotr Zieliński,24,Left Center Forward,92.4,32.1,066247b5-da98-4d91-b8f0-67e4b99a76c8
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,99.4,48.1,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+True,5660,Piotr Zieliński,24,Left Center Forward,109.9,48.1,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+True,4673,Kamil Jóźwiak,7,Right Wing Back,101.9,67.1,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+True,5668,Robert Lewandowski,22,Right Center Forward,108.4,45.1,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+True,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,92.1,43.8,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+True,7964,Karol Linetty,15,Left Center Midfield,106.5,43.8,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,3711,Martin Dúbravka,1,Goalkeeper,118.0,38.8,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,7025,Marek Hamšík,19,Center Attacking Midfield,85.7,59.4,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,8967,Ondrej Duda,23,Center Forward,95.8,42.3,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,20002,Jakub Hromada,11,Left Defensive Midfield,101.5,48.4,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,30397,Ľubomír Šatka,3,Right Center Back,108.3,46.6,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,10919,Juraj Kucka,9,Right Defensive Midfield,106.0,39.5,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,4421,Tomáš Hubočan,6,Left Back,110.3,56.8,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,9722,Peter Pekarík,2,Right Back,108.0,43.5,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,6990,Milan Škriniar,5,Left Center Back,110.2,40.3,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,7975,Lukáš Haraslín,17,Right Wing,109.5,37.4,1ec0cd2f-fc58-4185-9830-e1f1c2bf286d
+False,3034,Kamil Glik,4,Center Back,105.7,47.1,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+False,4626,Jan Bednarek,5,Left Center Back,106.5,48.1,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+False,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,104.7,49.0,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+False,5672,Maciej Rybus,8,Left Wing Back,107.0,50.1,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+False,7964,Karol Linetty,15,Left Center Midfield,104.6,52.3,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,104.1,40.1,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+False,4673,Kamil Jóźwiak,7,Right Wing Back,99.8,30.7,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+False,5673,Bartosz Bereszyński,3,Right Center Back,106.8,39.1,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+False,5669,Wojciech Szczęsny,1,Goalkeeper,116.8,39.7,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+False,5660,Piotr Zieliński,24,Left Center Forward,97.6,52.0,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+True,20002,Jakub Hromada,11,Left Defensive Midfield,97.3,48.9,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+True,10919,Juraj Kucka,9,Right Defensive Midfield,104.0,57.4,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+True,7975,Lukáš Haraslín,17,Right Wing,110.2,49.3,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+True,8967,Ondrej Duda,23,Center Forward,109.0,57.2,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+True,16307,Róbert Mak,21,Left Wing,102.5,40.7,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+True,7025,Marek Hamšík,19,Center Attacking Midfield,105.5,31.4,8f0878e9-bcd9-452f-81f0-da49fb3173c2
+True,20002,Jakub Hromada,11,Left Defensive Midfield,73.2,21.7,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+True,4421,Tomáš Hubočan,6,Left Back,101.1,16.0,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+True,7975,Lukáš Haraslín,17,Right Wing,93.7,18.8,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+True,6990,Milan Škriniar,5,Left Center Back,97.6,28.7,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+True,30397,Ľubomír Šatka,3,Right Center Back,100.0,34.8,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+True,8967,Ondrej Duda,23,Center Forward,95.3,36.3,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+True,16307,Róbert Mak,21,Left Wing,101.2,52.6,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+True,7025,Marek Hamšík,19,Center Attacking Midfield,106.2,16.0,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,5669,Wojciech Szczęsny,1,Goalkeeper,117.7,39.1,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,4673,Kamil Jóźwiak,7,Right Wing Back,109.3,17.3,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,5673,Bartosz Bereszyński,3,Right Center Back,107.3,19.6,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,3034,Kamil Glik,4,Center Back,104.5,30.3,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,4626,Jan Bednarek,5,Left Center Back,103.3,34.6,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,101.0,31.0,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,5672,Maciej Rybus,8,Left Wing Back,105.4,43.5,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,98.0,37.7,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,7964,Karol Linetty,15,Left Center Midfield,96.3,41.2,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,5660,Piotr Zieliński,24,Left Center Forward,92.7,30.9,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,5668,Robert Lewandowski,22,Right Center Forward,78.2,52.3,8aa8ff35-40d3-4224-a3a1-392d5636d8e5
+False,7964,Karol Linetty,15,Left Center Midfield,100.3,40.8,28c7cfba-f136-440c-9dd6-cc0acf827869
+False,5660,Piotr Zieliński,24,Left Center Forward,98.5,28.7,28c7cfba-f136-440c-9dd6-cc0acf827869
+False,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,102.7,35.7,28c7cfba-f136-440c-9dd6-cc0acf827869
+False,5672,Maciej Rybus,8,Left Wing Back,108.4,45.1,28c7cfba-f136-440c-9dd6-cc0acf827869
+False,4626,Jan Bednarek,5,Left Center Back,107.9,39.9,28c7cfba-f136-440c-9dd6-cc0acf827869
+False,3034,Kamil Glik,4,Center Back,107.8,33.2,28c7cfba-f136-440c-9dd6-cc0acf827869
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,104.6,24.0,28c7cfba-f136-440c-9dd6-cc0acf827869
+False,5673,Bartosz Bereszyński,3,Right Center Back,107.5,22.3,28c7cfba-f136-440c-9dd6-cc0acf827869
+False,4673,Kamil Jóźwiak,7,Right Wing Back,103.7,14.2,28c7cfba-f136-440c-9dd6-cc0acf827869
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.1,38.5,28c7cfba-f136-440c-9dd6-cc0acf827869
+True,20002,Jakub Hromada,11,Left Defensive Midfield,106.6,24.2,28c7cfba-f136-440c-9dd6-cc0acf827869
+True,9722,Peter Pekarík,2,Right Back,94.0,48.9,28c7cfba-f136-440c-9dd6-cc0acf827869
+True,10919,Juraj Kucka,9,Right Defensive Midfield,85.5,25.2,28c7cfba-f136-440c-9dd6-cc0acf827869
+True,8967,Ondrej Duda,23,Center Forward,98.5,40.2,28c7cfba-f136-440c-9dd6-cc0acf827869
+True,7975,Lukáš Haraslín,17,Right Wing,108.6,44.1,28c7cfba-f136-440c-9dd6-cc0acf827869
+True,16307,Róbert Mak,21,Left Wing,107.8,16.8,28c7cfba-f136-440c-9dd6-cc0acf827869
+True,4421,Tomáš Hubočan,6,Left Back,92.2,11.6,28c7cfba-f136-440c-9dd6-cc0acf827869
+False,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,110.4,42.2,171f604d-61c5-4370-a307-26cb73e1c7c0
+True,8967,Ondrej Duda,23,Center Forward,109.5,41.9,171f604d-61c5-4370-a307-26cb73e1c7c0
+False,5672,Maciej Rybus,8,Left Wing Back,105.5,56.8,171f604d-61c5-4370-a307-26cb73e1c7c0
+False,7964,Karol Linetty,15,Left Center Midfield,108.8,48.4,171f604d-61c5-4370-a307-26cb73e1c7c0
+False,4626,Jan Bednarek,5,Left Center Back,118.8,62.7,171f604d-61c5-4370-a307-26cb73e1c7c0
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,104.7,37.0,171f604d-61c5-4370-a307-26cb73e1c7c0
+False,3034,Kamil Glik,4,Center Back,108.7,40.2,171f604d-61c5-4370-a307-26cb73e1c7c0
+False,5673,Bartosz Bereszyński,3,Right Center Back,109.9,36.8,171f604d-61c5-4370-a307-26cb73e1c7c0
+False,5669,Wojciech Szczęsny,1,Goalkeeper,119.0,39.8,171f604d-61c5-4370-a307-26cb73e1c7c0
+True,16307,Róbert Mak,21,Left Wing,102.7,28.1,171f604d-61c5-4370-a307-26cb73e1c7c0
+True,9722,Peter Pekarík,2,Right Back,117.2,64.8,171f604d-61c5-4370-a307-26cb73e1c7c0
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,94.1,47.4,8be2c8bc-3769-482a-8b64-521c89f3654f
+True,5668,Robert Lewandowski,22,Right Center Forward,101.2,28.4,8be2c8bc-3769-482a-8b64-521c89f3654f
+True,7964,Karol Linetty,15,Left Center Midfield,96.0,30.8,8be2c8bc-3769-482a-8b64-521c89f3654f
+True,4673,Kamil Jóźwiak,7,Right Wing Back,91.6,65.7,8be2c8bc-3769-482a-8b64-521c89f3654f
+True,5660,Piotr Zieliński,24,Left Center Forward,90.1,43.3,8be2c8bc-3769-482a-8b64-521c89f3654f
+True,5672,Maciej Rybus,8,Left Wing Back,92.7,13.8,8be2c8bc-3769-482a-8b64-521c89f3654f
+True,5673,Bartosz Bereszyński,3,Right Center Back,77.8,52.1,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,3711,Martin Dúbravka,1,Goalkeeper,116.5,39.8,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,16307,Róbert Mak,21,Left Wing,82.4,56.3,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,10919,Juraj Kucka,9,Right Defensive Midfield,89.1,37.2,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,7025,Marek Hamšík,19,Center Attacking Midfield,84.3,30.0,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,8967,Ondrej Duda,23,Center Forward,80.3,26.2,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,7975,Lukáš Haraslín,17,Right Wing,95.7,24.8,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,4421,Tomáš Hubočan,6,Left Back,101.3,47.4,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,30397,Ľubomír Šatka,3,Right Center Back,97.8,34.6,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,9722,Peter Pekarík,2,Right Back,101.0,31.1,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,6990,Milan Škriniar,5,Left Center Back,97.6,39.8,8be2c8bc-3769-482a-8b64-521c89f3654f
+False,20002,Jakub Hromada,11,Left Defensive Midfield,95.1,42.2,8be2c8bc-3769-482a-8b64-521c89f3654f
+True,7964,Karol Linetty,15,Left Center Midfield,90.7,56.4,23afb480-58fc-40f6-aee5-d7dd44d1941e
+True,4673,Kamil Jóźwiak,7,Right Wing Back,96.6,64.8,23afb480-58fc-40f6-aee5-d7dd44d1941e
+True,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,89.5,48.4,23afb480-58fc-40f6-aee5-d7dd44d1941e
+True,5673,Bartosz Bereszyński,3,Right Center Back,100.3,70.9,23afb480-58fc-40f6-aee5-d7dd44d1941e
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,102.2,44.8,23afb480-58fc-40f6-aee5-d7dd44d1941e
+True,5668,Robert Lewandowski,22,Right Center Forward,102.2,35.5,23afb480-58fc-40f6-aee5-d7dd44d1941e
+True,5672,Maciej Rybus,8,Left Wing Back,97.8,27.3,23afb480-58fc-40f6-aee5-d7dd44d1941e
+True,4626,Jan Bednarek,5,Left Center Back,85.6,37.4,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,3711,Martin Dúbravka,1,Goalkeeper,116.8,43.1,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,20002,Jakub Hromada,11,Left Defensive Midfield,93.8,55.8,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,8967,Ondrej Duda,23,Center Forward,100.7,47.7,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,7975,Lukáš Haraslín,17,Right Wing,102.1,29.6,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,9722,Peter Pekarík,2,Right Back,105.0,35.8,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,30397,Ľubomír Šatka,3,Right Center Back,106.7,39.1,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,7025,Marek Hamšík,19,Center Attacking Midfield,96.8,61.1,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,6990,Milan Škriniar,5,Left Center Back,105.8,47.0,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,4421,Tomáš Hubočan,6,Left Back,103.1,56.6,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,16307,Róbert Mak,21,Left Wing,104.1,67.5,23afb480-58fc-40f6-aee5-d7dd44d1941e
+False,10919,Juraj Kucka,9,Right Defensive Midfield,102.2,54.0,23afb480-58fc-40f6-aee5-d7dd44d1941e
+True,16307,Róbert Mak,21,Left Wing,98.4,21.0,9d13a94a-cb92-41e6-8802-c2e73ed10214
+True,8967,Ondrej Duda,23,Center Forward,96.6,43.1,9d13a94a-cb92-41e6-8802-c2e73ed10214
+True,7975,Lukáš Haraslín,17,Right Wing,99.8,53.1,9d13a94a-cb92-41e6-8802-c2e73ed10214
+False,5669,Wojciech Szczęsny,1,Goalkeeper,116.1,39.0,9d13a94a-cb92-41e6-8802-c2e73ed10214
+False,5673,Bartosz Bereszyński,3,Right Center Back,100.6,28.3,9d13a94a-cb92-41e6-8802-c2e73ed10214
+False,3034,Kamil Glik,4,Center Back,101.1,38.6,9d13a94a-cb92-41e6-8802-c2e73ed10214
+False,4626,Jan Bednarek,5,Left Center Back,100.1,44.7,9d13a94a-cb92-41e6-8802-c2e73ed10214
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,93.5,33.7,9d13a94a-cb92-41e6-8802-c2e73ed10214
+False,5672,Maciej Rybus,8,Left Wing Back,93.6,53.6,9d13a94a-cb92-41e6-8802-c2e73ed10214
+False,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,89.6,42.2,9d13a94a-cb92-41e6-8802-c2e73ed10214
+False,7964,Karol Linetty,15,Left Center Midfield,89.3,50.8,9d13a94a-cb92-41e6-8802-c2e73ed10214
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,95.4,60.5,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+True,4673,Kamil Jóźwiak,7,Right Wing Back,96.0,72.2,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+True,5673,Bartosz Bereszyński,3,Right Center Back,79.4,57.4,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+True,5668,Robert Lewandowski,22,Right Center Forward,106.1,49.5,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+True,5660,Piotr Zieliński,24,Left Center Forward,88.9,45.1,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+True,5672,Maciej Rybus,8,Left Wing Back,97.0,11.1,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,3711,Martin Dúbravka,1,Goalkeeper,117.1,40.4,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,7025,Marek Hamšík,19,Center Attacking Midfield,82.5,55.5,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,16307,Róbert Mak,21,Left Wing,97.8,65.0,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,4421,Tomáš Hubočan,6,Left Back,103.1,52.6,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,8967,Ondrej Duda,23,Center Forward,89.6,44.0,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,7975,Lukáš Haraslín,17,Right Wing,101.8,26.3,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,10919,Juraj Kucka,9,Right Defensive Midfield,95.9,42.5,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,9722,Peter Pekarík,2,Right Back,103.1,35.8,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,6990,Milan Škriniar,5,Left Center Back,99.5,46.4,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,20002,Jakub Hromada,11,Left Defensive Midfield,98.6,48.6,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+False,30397,Ľubomír Šatka,3,Right Center Back,104.2,43.9,b2d2947b-27df-4b8f-aa7b-5d26ad064bc9
+True,4673,Kamil Jóźwiak,7,Right Wing Back,105.9,51.1,4d144a81-26de-413a-b34e-608cd8d82717
+True,5660,Piotr Zieliński,24,Left Center Forward,109.1,38.9,4d144a81-26de-413a-b34e-608cd8d82717
+True,7964,Karol Linetty,15,Left Center Midfield,108.6,33.0,4d144a81-26de-413a-b34e-608cd8d82717
+True,5673,Bartosz Bereszyński,3,Right Center Back,87.8,45.0,4d144a81-26de-413a-b34e-608cd8d82717
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,95.2,42.4,4d144a81-26de-413a-b34e-608cd8d82717
+True,5672,Maciej Rybus,8,Left Wing Back,118.8,8.1,4d144a81-26de-413a-b34e-608cd8d82717
+True,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,99.7,35.3,4d144a81-26de-413a-b34e-608cd8d82717
+False,3711,Martin Dúbravka,1,Goalkeeper,118.1,38.0,4d144a81-26de-413a-b34e-608cd8d82717
+False,7025,Marek Hamšík,19,Center Attacking Midfield,99.4,41.1,4d144a81-26de-413a-b34e-608cd8d82717
+False,16307,Róbert Mak,21,Left Wing,102.7,44.3,4d144a81-26de-413a-b34e-608cd8d82717
+False,8967,Ondrej Duda,23,Center Forward,107.6,32.0,4d144a81-26de-413a-b34e-608cd8d82717
+False,20002,Jakub Hromada,11,Left Defensive Midfield,108.6,36.9,4d144a81-26de-413a-b34e-608cd8d82717
+False,6990,Milan Škriniar,5,Left Center Back,112.4,37.6,4d144a81-26de-413a-b34e-608cd8d82717
+False,4421,Tomáš Hubočan,6,Left Back,111.2,45.7,4d144a81-26de-413a-b34e-608cd8d82717
+False,7975,Lukáš Haraslín,17,Right Wing,113.4,13.9,4d144a81-26de-413a-b34e-608cd8d82717
+False,9722,Peter Pekarík,2,Right Back,114.5,21.2,4d144a81-26de-413a-b34e-608cd8d82717
+False,30397,Ľubomír Šatka,3,Right Center Back,109.2,29.7,4d144a81-26de-413a-b34e-608cd8d82717
+False,10919,Juraj Kucka,9,Right Defensive Midfield,112.8,25.2,4d144a81-26de-413a-b34e-608cd8d82717
+False,4673,Kamil Jóźwiak,7,Right Wing Back,79.8,22.9,afd7276d-23c2-4396-b2cf-8b20132982ca
+False,7964,Karol Linetty,15,Left Center Midfield,96.3,52.6,afd7276d-23c2-4396-b2cf-8b20132982ca
+False,5672,Maciej Rybus,8,Left Wing Back,103.7,58.3,afd7276d-23c2-4396-b2cf-8b20132982ca
+False,4626,Jan Bednarek,5,Left Center Back,101.3,52.3,afd7276d-23c2-4396-b2cf-8b20132982ca
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,95.2,31.2,afd7276d-23c2-4396-b2cf-8b20132982ca
+False,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,103.3,44.5,afd7276d-23c2-4396-b2cf-8b20132982ca
+False,3034,Kamil Glik,4,Center Back,105.2,42.1,afd7276d-23c2-4396-b2cf-8b20132982ca
+False,5673,Bartosz Bereszyński,3,Right Center Back,103.8,36.0,afd7276d-23c2-4396-b2cf-8b20132982ca
+False,5669,Wojciech Szczęsny,1,Goalkeeper,117.2,41.2,afd7276d-23c2-4396-b2cf-8b20132982ca
+True,9722,Peter Pekarík,2,Right Back,100.4,66.7,afd7276d-23c2-4396-b2cf-8b20132982ca
+True,16307,Róbert Mak,21,Left Wing,98.7,37.3,afd7276d-23c2-4396-b2cf-8b20132982ca
+True,7975,Lukáš Haraslín,17,Right Wing,104.6,36.8,afd7276d-23c2-4396-b2cf-8b20132982ca
+True,8967,Ondrej Duda,23,Center Forward,97.7,24.4,afd7276d-23c2-4396-b2cf-8b20132982ca
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,102.4,27.9,34031188-cb71-4c02-9963-0ffedf151f19
+True,5672,Maciej Rybus,8,Left Wing Back,118.5,27.7,34031188-cb71-4c02-9963-0ffedf151f19
+True,5660,Piotr Zieliński,24,Left Center Forward,108.5,22.6,34031188-cb71-4c02-9963-0ffedf151f19
+True,5668,Robert Lewandowski,22,Right Center Forward,115.4,36.8,34031188-cb71-4c02-9963-0ffedf151f19
+True,4673,Kamil Jóźwiak,7,Right Wing Back,109.3,46.5,34031188-cb71-4c02-9963-0ffedf151f19
+True,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,96.3,36.5,34031188-cb71-4c02-9963-0ffedf151f19
+True,4626,Jan Bednarek,5,Left Center Back,89.7,27.6,34031188-cb71-4c02-9963-0ffedf151f19
+True,5673,Bartosz Bereszyński,3,Right Center Back,90.3,45.9,34031188-cb71-4c02-9963-0ffedf151f19
+False,3711,Martin Dúbravka,1,Goalkeeper,118.8,37.3,34031188-cb71-4c02-9963-0ffedf151f19
+False,9722,Peter Pekarík,2,Right Back,113.1,28.9,34031188-cb71-4c02-9963-0ffedf151f19
+False,6990,Milan Škriniar,5,Left Center Back,112.5,31.2,34031188-cb71-4c02-9963-0ffedf151f19
+False,30397,Ľubomír Šatka,3,Right Center Back,112.7,33.4,34031188-cb71-4c02-9963-0ffedf151f19
+False,8967,Ondrej Duda,23,Center Forward,95.7,26.2,34031188-cb71-4c02-9963-0ffedf151f19
+False,20002,Jakub Hromada,11,Left Defensive Midfield,101.1,39.3,34031188-cb71-4c02-9963-0ffedf151f19
+False,16307,Róbert Mak,21,Left Wing,103.3,47.0,34031188-cb71-4c02-9963-0ffedf151f19
+False,7025,Marek Hamšík,19,Center Attacking Midfield,90.6,32.1,34031188-cb71-4c02-9963-0ffedf151f19
+False,10919,Juraj Kucka,9,Right Defensive Midfield,105.8,34.4,34031188-cb71-4c02-9963-0ffedf151f19
+False,4421,Tomáš Hubočan,6,Left Back,116.4,37.3,34031188-cb71-4c02-9963-0ffedf151f19
+False,7975,Lukáš Haraslín,17,Right Wing,111.6,27.4,34031188-cb71-4c02-9963-0ffedf151f19
+True,5668,Robert Lewandowski,22,Right Center Forward,110.1,38.7,7be15624-1450-4257-8e28-636c1ed50c3f
+True,7964,Karol Linetty,15,Left Center Midfield,106.3,49.3,7be15624-1450-4257-8e28-636c1ed50c3f
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,107.4,61.9,7be15624-1450-4257-8e28-636c1ed50c3f
+True,5672,Maciej Rybus,8,Left Wing Back,93.1,33.5,7be15624-1450-4257-8e28-636c1ed50c3f
+True,4673,Kamil Jóźwiak,7,Right Wing Back,100.3,64.0,7be15624-1450-4257-8e28-636c1ed50c3f
+True,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,88.8,55.4,7be15624-1450-4257-8e28-636c1ed50c3f
+True,5673,Bartosz Bereszyński,3,Right Center Back,89.7,67.8,7be15624-1450-4257-8e28-636c1ed50c3f
+False,30397,Ľubomír Šatka,3,Right Center Back,109.4,39.7,7be15624-1450-4257-8e28-636c1ed50c3f
+False,3711,Martin Dúbravka,1,Goalkeeper,117.5,41.4,7be15624-1450-4257-8e28-636c1ed50c3f
+False,6990,Milan Škriniar,5,Left Center Back,109.4,47.4,7be15624-1450-4257-8e28-636c1ed50c3f
+False,7975,Lukáš Haraslín,17,Right Wing,98.8,32.1,7be15624-1450-4257-8e28-636c1ed50c3f
+False,10919,Juraj Kucka,9,Right Defensive Midfield,104.5,48.8,7be15624-1450-4257-8e28-636c1ed50c3f
+False,4421,Tomáš Hubočan,6,Left Back,105.2,58.5,7be15624-1450-4257-8e28-636c1ed50c3f
+False,16307,Róbert Mak,21,Left Wing,104.2,66.8,7be15624-1450-4257-8e28-636c1ed50c3f
+False,7025,Marek Hamšík,19,Center Attacking Midfield,92.1,67.4,7be15624-1450-4257-8e28-636c1ed50c3f
+False,9722,Peter Pekarík,2,Right Back,109.0,38.1,7be15624-1450-4257-8e28-636c1ed50c3f
+False,8967,Ondrej Duda,23,Center Forward,100.4,57.5,7be15624-1450-4257-8e28-636c1ed50c3f
+False,20002,Jakub Hromada,11,Left Defensive Midfield,106.4,60.1,7be15624-1450-4257-8e28-636c1ed50c3f
+True,5672,Maciej Rybus,8,Left Wing Back,98.1,29.1,006be5d4-8676-4074-92a1-266223fe5483
+True,5668,Robert Lewandowski,22,Right Center Forward,110.4,39.1,006be5d4-8676-4074-92a1-266223fe5483
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,115.6,69.7,006be5d4-8676-4074-92a1-266223fe5483
+True,5660,Piotr Zieliński,24,Left Center Forward,98.0,49.5,006be5d4-8676-4074-92a1-266223fe5483
+False,3711,Martin Dúbravka,1,Goalkeeper,117.4,42.3,006be5d4-8676-4074-92a1-266223fe5483
+False,30397,Ľubomír Šatka,3,Right Center Back,111.9,42.2,006be5d4-8676-4074-92a1-266223fe5483
+False,7975,Lukáš Haraslín,17,Right Wing,100.5,26.5,006be5d4-8676-4074-92a1-266223fe5483
+False,10919,Juraj Kucka,9,Right Defensive Midfield,106.5,46.2,006be5d4-8676-4074-92a1-266223fe5483
+False,6990,Milan Škriniar,5,Left Center Back,116.2,64.6,006be5d4-8676-4074-92a1-266223fe5483
+False,16307,Róbert Mak,21,Left Wing,112.5,65.3,006be5d4-8676-4074-92a1-266223fe5483
+False,20002,Jakub Hromada,11,Left Defensive Midfield,102.1,48.5,006be5d4-8676-4074-92a1-266223fe5483
+False,4421,Tomáš Hubočan,6,Left Back,103.7,64.8,006be5d4-8676-4074-92a1-266223fe5483
+False,9722,Peter Pekarík,2,Right Back,110.9,40.3,006be5d4-8676-4074-92a1-266223fe5483
+True,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,115.4,32.4,511daec2-123a-4214-a4cc-a9da4df9ea9b
+True,7964,Karol Linetty,15,Left Center Midfield,109.2,46.9,511daec2-123a-4214-a4cc-a9da4df9ea9b
+True,4626,Jan Bednarek,5,Left Center Back,112.5,48.6,511daec2-123a-4214-a4cc-a9da4df9ea9b
+True,5668,Robert Lewandowski,22,Right Center Forward,114.7,37.6,511daec2-123a-4214-a4cc-a9da4df9ea9b
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,100.8,59.2,511daec2-123a-4214-a4cc-a9da4df9ea9b
+True,5660,Piotr Zieliński,24,Left Center Forward,104.4,63.9,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,3711,Martin Dúbravka,1,Goalkeeper,118.3,40.4,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,10919,Juraj Kucka,9,Right Defensive Midfield,113.5,37.6,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,7975,Lukáš Haraslín,17,Right Wing,113.9,32.3,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,9722,Peter Pekarík,2,Right Back,115.7,37.3,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,30397,Ľubomír Šatka,3,Right Center Back,113.4,42.4,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,6990,Milan Škriniar,5,Left Center Back,113.9,43.6,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,4421,Tomáš Hubočan,6,Left Back,114.8,52.3,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,20002,Jakub Hromada,11,Left Defensive Midfield,111.7,43.8,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,8967,Ondrej Duda,23,Center Forward,111.4,47.2,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,7025,Marek Hamšík,19,Center Attacking Midfield,108.7,50.9,511daec2-123a-4214-a4cc-a9da4df9ea9b
+False,16307,Róbert Mak,21,Left Wing,107.5,62.0,511daec2-123a-4214-a4cc-a9da4df9ea9b
+True,10919,Juraj Kucka,9,Right Defensive Midfield,89.2,56.7,b378af8e-2d60-4b6d-bf92-45c94cc73992
+True,9722,Peter Pekarík,2,Right Back,106.7,51.9,b378af8e-2d60-4b6d-bf92-45c94cc73992
+True,7025,Marek Hamšík,19,Center Attacking Midfield,96.1,36.2,b378af8e-2d60-4b6d-bf92-45c94cc73992
+True,16307,Róbert Mak,21,Left Wing,100.6,26.8,b378af8e-2d60-4b6d-bf92-45c94cc73992
+True,8967,Ondrej Duda,23,Center Forward,95.8,31.1,b378af8e-2d60-4b6d-bf92-45c94cc73992
+False,5673,Bartosz Bereszyński,3,Right Center Back,106.5,31.8,b378af8e-2d60-4b6d-bf92-45c94cc73992
+False,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,100.7,42.7,b378af8e-2d60-4b6d-bf92-45c94cc73992
+False,3034,Kamil Glik,4,Center Back,105.7,38.7,b378af8e-2d60-4b6d-bf92-45c94cc73992
+False,7964,Karol Linetty,15,Left Center Midfield,100.4,53.5,b378af8e-2d60-4b6d-bf92-45c94cc73992
+False,5672,Maciej Rybus,8,Left Wing Back,102.1,54.1,b378af8e-2d60-4b6d-bf92-45c94cc73992
+False,4626,Jan Bednarek,5,Left Center Back,107.9,48.5,b378af8e-2d60-4b6d-bf92-45c94cc73992
+False,5669,Wojciech Szczęsny,1,Goalkeeper,117.5,41.8,b378af8e-2d60-4b6d-bf92-45c94cc73992
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,94.2,51.8,b378af8e-2d60-4b6d-bf92-45c94cc73992
+True,5660,Piotr Zieliński,24,Left Center Forward,95.3,22.6,c0562763-177e-4b84-9731-5d5299dcf704
+True,4626,Jan Bednarek,5,Left Center Back,104.7,31.5,c0562763-177e-4b84-9731-5d5299dcf704
+True,5672,Maciej Rybus,8,Left Wing Back,91.7,28.2,c0562763-177e-4b84-9731-5d5299dcf704
+True,7964,Karol Linetty,15,Left Center Midfield,99.2,36.4,c0562763-177e-4b84-9731-5d5299dcf704
+True,4673,Kamil Jóźwiak,7,Right Wing Back,107.3,39.2,c0562763-177e-4b84-9731-5d5299dcf704
+True,3637,Grzegorz Krychowiak,10,Center Defensive Midfield,106.7,44.9,c0562763-177e-4b84-9731-5d5299dcf704
+True,3034,Kamil Glik,4,Center Back,107.5,42.0,c0562763-177e-4b84-9731-5d5299dcf704
+False,3711,Martin Dúbravka,1,Goalkeeper,117.8,40.2,c0562763-177e-4b84-9731-5d5299dcf704
+False,8967,Ondrej Duda,23,Center Forward,107.5,27.2,c0562763-177e-4b84-9731-5d5299dcf704
+False,6990,Milan Škriniar,5,Left Center Back,107.3,28.2,c0562763-177e-4b84-9731-5d5299dcf704
+False,30397,Ľubomír Šatka,3,Right Center Back,106.4,29.4,c0562763-177e-4b84-9731-5d5299dcf704
+False,10919,Juraj Kucka,9,Right Defensive Midfield,107.1,28.8,c0562763-177e-4b84-9731-5d5299dcf704
+False,20002,Jakub Hromada,11,Left Defensive Midfield,105.6,31.5,c0562763-177e-4b84-9731-5d5299dcf704
+False,7975,Lukáš Haraslín,17,Right Wing,102.0,34.4,c0562763-177e-4b84-9731-5d5299dcf704
+False,7025,Marek Hamšík,19,Center Attacking Midfield,108.1,41.7,c0562763-177e-4b84-9731-5d5299dcf704
+False,9722,Peter Pekarík,2,Right Back,107.3,38.3,c0562763-177e-4b84-9731-5d5299dcf704
+False,16307,Róbert Mak,21,Left Wing,108.5,43.4,c0562763-177e-4b84-9731-5d5299dcf704
+False,4421,Tomáš Hubočan,6,Left Back,107.6,45.8,c0562763-177e-4b84-9731-5d5299dcf704
+True,9722,Peter Pekarík,2,Right Back,100.4,63.5,44d9df42-524b-4ecc-82b1-bf07f19eefba
+True,20002,Jakub Hromada,11,Left Defensive Midfield,107.5,50.2,44d9df42-524b-4ecc-82b1-bf07f19eefba
+True,7025,Marek Hamšík,19,Center Attacking Midfield,113.2,41.8,44d9df42-524b-4ecc-82b1-bf07f19eefba
+True,10919,Juraj Kucka,9,Right Defensive Midfield,106.3,41.7,44d9df42-524b-4ecc-82b1-bf07f19eefba
+True,16307,Róbert Mak,21,Left Wing,104.2,24.2,44d9df42-524b-4ecc-82b1-bf07f19eefba
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,103.2,48.4,44d9df42-524b-4ecc-82b1-bf07f19eefba
+False,3034,Kamil Glik,4,Center Back,109.1,42.5,44d9df42-524b-4ecc-82b1-bf07f19eefba
+False,5673,Bartosz Bereszyński,3,Right Center Back,111.0,41.1,44d9df42-524b-4ecc-82b1-bf07f19eefba
+False,7964,Karol Linetty,15,Left Center Midfield,107.2,48.7,44d9df42-524b-4ecc-82b1-bf07f19eefba
+False,5660,Piotr Zieliński,24,Left Center Forward,106.6,52.7,44d9df42-524b-4ecc-82b1-bf07f19eefba
+False,4626,Jan Bednarek,5,Left Center Back,111.4,47.6,44d9df42-524b-4ecc-82b1-bf07f19eefba
+False,5672,Maciej Rybus,8,Left Wing Back,110.3,54.6,44d9df42-524b-4ecc-82b1-bf07f19eefba
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.1,43.6,44d9df42-524b-4ecc-82b1-bf07f19eefba
+False,3034,Kamil Glik,4,Center Back,108.3,40.9,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+False,5673,Bartosz Bereszyński,3,Right Center Back,110.0,37.9,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+False,5672,Maciej Rybus,8,Left Wing Back,109.6,34.3,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,113.4,52.4,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+False,5668,Robert Lewandowski,22,Right Center Forward,110.0,47.6,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+False,7964,Karol Linetty,15,Left Center Midfield,107.2,43.5,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+False,4626,Jan Bednarek,5,Left Center Back,106.3,39.2,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+False,4673,Kamil Jóźwiak,7,Right Wing Back,106.6,40.8,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+False,5660,Piotr Zieliński,24,Left Center Forward,104.5,43.4,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.8,40.4,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+True,4421,Tomáš Hubočan,6,Left Back,107.8,30.4,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+True,7975,Lukáš Haraslín,17,Right Wing,97.6,31.5,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+True,8967,Ondrej Duda,23,Center Forward,93.4,47.8,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+True,7025,Marek Hamšík,19,Center Attacking Midfield,117.4,57.2,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+True,10919,Juraj Kucka,9,Right Defensive Midfield,117.9,50.6,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+True,30397,Ľubomír Šatka,3,Right Center Back,110.9,42.9,5cf7fa9f-cd2d-4e0b-b787-a0671c6f4b7b
+True,5672,Maciej Rybus,8,Left Wing Back,102.2,21.2,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+True,5668,Robert Lewandowski,22,Right Center Forward,102.4,37.4,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+True,7964,Karol Linetty,15,Left Center Midfield,94.8,38.1,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,99.4,55.0,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+True,4673,Kamil Jóźwiak,7,Right Wing Back,97.5,69.8,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+True,5673,Bartosz Bereszyński,3,Right Center Back,84.4,60.1,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+True,4626,Jan Bednarek,5,Left Center Back,80.3,36.0,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,3711,Martin Dúbravka,1,Goalkeeper,116.4,39.2,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,7975,Lukáš Haraslín,17,Right Wing,102.3,25.0,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,9722,Peter Pekarík,2,Right Back,100.7,34.1,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,30397,Ľubomír Šatka,3,Right Center Back,102.3,40.0,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,6990,Milan Škriniar,5,Left Center Back,102.8,44.4,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,4421,Tomáš Hubočan,6,Left Back,102.4,53.4,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,20002,Jakub Hromada,11,Left Defensive Midfield,95.7,39.7,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,10919,Juraj Kucka,9,Right Defensive Midfield,94.3,45.9,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,16307,Róbert Mak,21,Left Wing,95.7,57.0,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,8967,Ondrej Duda,23,Center Forward,89.6,39.8,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+False,7025,Marek Hamšík,19,Center Attacking Midfield,81.5,51.4,ca79bf4b-c8cc-4586-9f6c-e21a6b430c4c
+True,5668,Robert Lewandowski,22,Right Center Forward,105.9,41.7,40631a97-ea5c-46fb-9414-2fedba40130a
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,100.8,29.8,40631a97-ea5c-46fb-9414-2fedba40130a
+True,3034,Kamil Glik,4,Center Back,107.4,33.5,40631a97-ea5c-46fb-9414-2fedba40130a
+True,7979,Przemysław Frankowski,15,Left Center Midfield,97.0,45.3,40631a97-ea5c-46fb-9414-2fedba40130a
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,89.8,35.0,40631a97-ea5c-46fb-9414-2fedba40130a
+True,5673,Bartosz Bereszyński,3,Right Center Back,103.5,56.0,40631a97-ea5c-46fb-9414-2fedba40130a
+False,3711,Martin Dúbravka,1,Goalkeeper,118.2,42.9,40631a97-ea5c-46fb-9414-2fedba40130a
+False,9722,Peter Pekarík,2,Right Back,107.0,30.6,40631a97-ea5c-46fb-9414-2fedba40130a
+False,7025,Marek Hamšík,19,Center Attacking Midfield,108.0,42.7,40631a97-ea5c-46fb-9414-2fedba40130a
+False,8967,Ondrej Duda,23,Center Forward,100.1,38.0,40631a97-ea5c-46fb-9414-2fedba40130a
+False,20002,Jakub Hromada,11,Left Defensive Midfield,99.4,43.2,40631a97-ea5c-46fb-9414-2fedba40130a
+False,16307,Róbert Mak,21,Left Wing,96.1,47.2,40631a97-ea5c-46fb-9414-2fedba40130a
+False,10919,Juraj Kucka,9,Right Defensive Midfield,106.2,53.4,40631a97-ea5c-46fb-9414-2fedba40130a
+False,6990,Milan Škriniar,5,Left Center Back,111.1,38.3,40631a97-ea5c-46fb-9414-2fedba40130a
+False,30397,Ľubomír Šatka,3,Right Center Back,107.7,45.5,40631a97-ea5c-46fb-9414-2fedba40130a
+False,4421,Tomáš Hubočan,6,Left Back,107.9,50.6,40631a97-ea5c-46fb-9414-2fedba40130a
+False,7975,Lukáš Haraslín,17,Right Wing,108.4,53.9,40631a97-ea5c-46fb-9414-2fedba40130a
+True,7979,Przemysław Frankowski,15,Left Center Midfield,111.4,45.0,1c827182-4f97-491d-8a46-ad11b61a2433
+True,3034,Kamil Glik,4,Center Back,112.6,37.5,1c827182-4f97-491d-8a46-ad11b61a2433
+True,5668,Robert Lewandowski,22,Right Center Forward,111.3,37.9,1c827182-4f97-491d-8a46-ad11b61a2433
+True,5660,Piotr Zieliński,10,Center Defensive Midfield,113.0,72.3,1c827182-4f97-491d-8a46-ad11b61a2433
+True,5673,Bartosz Bereszyński,3,Right Center Back,95.3,44.5,1c827182-4f97-491d-8a46-ad11b61a2433
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,110.6,49.8,1c827182-4f97-491d-8a46-ad11b61a2433
+True,4673,Kamil Jóźwiak,7,Right Wing Back,102.7,58.9,1c827182-4f97-491d-8a46-ad11b61a2433
+True,4626,Jan Bednarek,5,Left Center Back,114.0,45.2,1c827182-4f97-491d-8a46-ad11b61a2433
+False,3711,Martin Dúbravka,1,Goalkeeper,118.2,38.4,1c827182-4f97-491d-8a46-ad11b61a2433
+False,7975,Lukáš Haraslín,17,Right Wing,103.2,30.2,1c827182-4f97-491d-8a46-ad11b61a2433
+False,28044,Martin Koscelník,2,Right Back,108.1,38.3,1c827182-4f97-491d-8a46-ad11b61a2433
+False,8967,Ondrej Duda,23,Center Forward,116.0,43.7,1c827182-4f97-491d-8a46-ad11b61a2433
+False,7025,Marek Hamšík,19,Center Attacking Midfield,107.7,46.8,1c827182-4f97-491d-8a46-ad11b61a2433
+False,16307,Róbert Mak,21,Left Wing,101.8,57.3,1c827182-4f97-491d-8a46-ad11b61a2433
+False,10919,Juraj Kucka,9,Right Defensive Midfield,112.4,39.6,1c827182-4f97-491d-8a46-ad11b61a2433
+False,30397,Ľubomír Šatka,3,Right Center Back,114.7,41.4,1c827182-4f97-491d-8a46-ad11b61a2433
+False,6990,Milan Škriniar,5,Left Center Back,111.2,39.3,1c827182-4f97-491d-8a46-ad11b61a2433
+False,16041,Patrik Hrošovský,11,Left Defensive Midfield,110.4,39.7,1c827182-4f97-491d-8a46-ad11b61a2433
+False,4421,Tomáš Hubočan,6,Left Back,114.4,40.6,1c827182-4f97-491d-8a46-ad11b61a2433
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,96.0,29.2,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+True,4673,Kamil Jóźwiak,7,Right Wing Back,102.6,48.8,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+True,4626,Jan Bednarek,5,Left Center Back,116.0,37.0,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+True,3034,Kamil Glik,4,Center Back,114.8,44.8,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+True,7979,Przemysław Frankowski,15,Left Center Midfield,113.1,42.6,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+True,8836,Karol Świderski,10,Center Defensive Midfield,115.7,38.1,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,3711,Martin Dúbravka,1,Goalkeeper,118.4,40.0,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,8967,Ondrej Duda,23,Center Forward,114.7,31.9,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,7025,Marek Hamšík,19,Center Attacking Midfield,113.2,34.4,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,16041,Patrik Hrošovský,11,Left Defensive Midfield,112.4,37.0,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,28044,Martin Koscelník,2,Right Back,116.8,37.2,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,6990,Milan Škriniar,5,Left Center Back,115.5,38.7,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,30397,Ľubomír Šatka,3,Right Center Back,115.8,39.7,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,4421,Tomáš Hubočan,6,Left Back,116.1,44.5,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,10927,Michal Ďuriš,17,Right Wing,114.1,42.0,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,10919,Juraj Kucka,9,Right Defensive Midfield,111.6,43.7,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,35653,Tomáš Suslov,21,Left Wing,100.8,35.5,71cdca35-3a06-4afd-988b-a1fb9bfb9730
+False,4421,Tomáš Hubočan,6,Left Back,99.4,67.5,de3a72a2-0650-4e07-ba36-9313a03a4a51
+False,10919,Juraj Kucka,9,Right Defensive Midfield,114.4,57.3,de3a72a2-0650-4e07-ba36-9313a03a4a51
+False,16041,Patrik Hrošovský,11,Left Defensive Midfield,109.7,64.9,de3a72a2-0650-4e07-ba36-9313a03a4a51
+False,35653,Tomáš Suslov,21,Left Wing,96.8,43.8,de3a72a2-0650-4e07-ba36-9313a03a4a51
+False,6990,Milan Škriniar,5,Left Center Back,112.7,45.2,de3a72a2-0650-4e07-ba36-9313a03a4a51
+False,30397,Ľubomír Šatka,3,Right Center Back,107.1,42.5,de3a72a2-0650-4e07-ba36-9313a03a4a51
+False,28044,Martin Koscelník,2,Right Back,107.2,39.2,de3a72a2-0650-4e07-ba36-9313a03a4a51
+False,8967,Ondrej Duda,23,Center Forward,104.9,48.6,de3a72a2-0650-4e07-ba36-9313a03a4a51
+False,7025,Marek Hamšík,19,Center Attacking Midfield,106.7,34.8,de3a72a2-0650-4e07-ba36-9313a03a4a51
+False,3711,Martin Dúbravka,1,Goalkeeper,117.6,40.1,de3a72a2-0650-4e07-ba36-9313a03a4a51
+True,7979,Przemysław Frankowski,15,Left Center Midfield,107.8,47.7,de3a72a2-0650-4e07-ba36-9313a03a4a51
+True,8836,Karol Świderski,10,Center Defensive Midfield,113.4,69.4,de3a72a2-0650-4e07-ba36-9313a03a4a51
+True,4673,Kamil Jóźwiak,7,Right Wing Back,104.7,54.1,de3a72a2-0650-4e07-ba36-9313a03a4a51
+True,3034,Kamil Glik,4,Center Back,107.8,38.7,de3a72a2-0650-4e07-ba36-9313a03a4a51
+True,5668,Robert Lewandowski,22,Right Center Forward,103.4,34.9,de3a72a2-0650-4e07-ba36-9313a03a4a51
+True,7979,Przemysław Frankowski,15,Left Center Midfield,102.8,29.3,a7607541-40d8-4905-bdf5-c5e6129c812d
+True,5668,Robert Lewandowski,22,Right Center Forward,106.9,40.7,a7607541-40d8-4905-bdf5-c5e6129c812d
+True,5673,Bartosz Bereszyński,3,Right Center Back,107.2,71.5,a7607541-40d8-4905-bdf5-c5e6129c812d
+True,4673,Kamil Jóźwiak,7,Right Wing Back,90.5,56.8,a7607541-40d8-4905-bdf5-c5e6129c812d
+True,29480,Jakub Moder,13,Right Center Midfield,108.1,48.4,a7607541-40d8-4905-bdf5-c5e6129c812d
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,96.9,52.9,a7607541-40d8-4905-bdf5-c5e6129c812d
+True,4626,Jan Bednarek,5,Left Center Back,81.4,26.0,a7607541-40d8-4905-bdf5-c5e6129c812d
+False,3711,Martin Dúbravka,1,Goalkeeper,117.8,40.9,a7607541-40d8-4905-bdf5-c5e6129c812d
+False,28044,Martin Koscelník,2,Right Back,105.1,34.7,a7607541-40d8-4905-bdf5-c5e6129c812d
+False,10927,Michal Ďuriš,17,Right Wing,106.4,40.4,a7607541-40d8-4905-bdf5-c5e6129c812d
+False,30397,Ľubomír Šatka,3,Right Center Back,104.8,42.1,a7607541-40d8-4905-bdf5-c5e6129c812d
+False,16041,Patrik Hrošovský,11,Left Defensive Midfield,104.0,43.3,a7607541-40d8-4905-bdf5-c5e6129c812d
+False,6990,Milan Škriniar,5,Left Center Back,103.9,43.6,a7607541-40d8-4905-bdf5-c5e6129c812d
+False,10919,Juraj Kucka,9,Right Defensive Midfield,109.6,58.6,a7607541-40d8-4905-bdf5-c5e6129c812d
+False,16290,Ján Greguš,23,Center Forward,101.4,51.3,a7607541-40d8-4905-bdf5-c5e6129c812d
+False,35653,Tomáš Suslov,21,Left Wing,97.2,58.3,a7607541-40d8-4905-bdf5-c5e6129c812d
+False,4421,Tomáš Hubočan,6,Left Back,108.8,66.7,a7607541-40d8-4905-bdf5-c5e6129c812d

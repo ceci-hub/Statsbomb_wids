@@ -1,0 +1,287 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,6954,Giorgio Chiellini,5,Left Center Back,102.9,45.3,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+False,7173,Leonardo Bonucci,3,Right Center Back,102.2,37.4,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+False,11514,Giovanni Di Lorenzo,2,Right Back,102.3,32.7,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,118.1,38.9,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+False,4355,Emerson Palmieri dos Santos,6,Left Back,88.9,54.4,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+False,3166,Marco Verratti,15,Left Center Midfield,93.4,41.3,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,96.0,31.8,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+False,8181,Nicolò Barella,13,Right Center Midfield,95.6,34.3,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,96.3,45.8,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,100.7,54.7,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+True,16532,Daniel Olmo Carvajal,23,Center Forward,104.3,35.0,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+True,30486,Pedro González López,15,Left Center Midfield,89.2,34.1,99ff6d20-8ca9-488f-a69c-f7ee8b7412a6
+False,8181,Nicolò Barella,13,Right Center Midfield,99.1,34.2,6bc7b083-8e6e-4b59-be64-16c1152740fb
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,102.5,42.5,6bc7b083-8e6e-4b59-be64-16c1152740fb
+False,11514,Giovanni Di Lorenzo,2,Right Back,109.4,35.6,6bc7b083-8e6e-4b59-be64-16c1152740fb
+False,7173,Leonardo Bonucci,3,Right Center Back,106.9,42.2,6bc7b083-8e6e-4b59-be64-16c1152740fb
+False,3166,Marco Verratti,15,Left Center Midfield,105.4,47.5,6bc7b083-8e6e-4b59-be64-16c1152740fb
+False,4355,Emerson Palmieri dos Santos,6,Left Back,108.7,44.5,6bc7b083-8e6e-4b59-be64-16c1152740fb
+False,6954,Giorgio Chiellini,5,Left Center Back,110.6,47.8,6bc7b083-8e6e-4b59-be64-16c1152740fb
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,116.5,41.3,6bc7b083-8e6e-4b59-be64-16c1152740fb
+True,3957,César Azpilicueta Tanco,2,Right Back,85.0,63.7,6bc7b083-8e6e-4b59-be64-16c1152740fb
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,108.8,50.8,6bc7b083-8e6e-4b59-be64-16c1152740fb
+True,30486,Pedro González López,15,Left Center Midfield,101.9,51.6,6bc7b083-8e6e-4b59-be64-16c1152740fb
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,116.0,41.2,02093e93-bce9-450f-83db-a17cf7a19b0a
+False,6954,Giorgio Chiellini,5,Left Center Back,110.5,47.3,02093e93-bce9-450f-83db-a17cf7a19b0a
+False,3166,Marco Verratti,15,Left Center Midfield,105.9,46.4,02093e93-bce9-450f-83db-a17cf7a19b0a
+False,4355,Emerson Palmieri dos Santos,6,Left Back,109.2,43.0,02093e93-bce9-450f-83db-a17cf7a19b0a
+False,7173,Leonardo Bonucci,3,Right Center Back,107.8,40.9,02093e93-bce9-450f-83db-a17cf7a19b0a
+False,11514,Giovanni Di Lorenzo,2,Right Back,111.7,36.0,02093e93-bce9-450f-83db-a17cf7a19b0a
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,105.8,40.5,02093e93-bce9-450f-83db-a17cf7a19b0a
+False,8181,Nicolò Barella,13,Right Center Midfield,100.2,33.7,02093e93-bce9-450f-83db-a17cf7a19b0a
+True,30486,Pedro González López,15,Left Center Midfield,102.9,49.5,02093e93-bce9-450f-83db-a17cf7a19b0a
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,108.7,50.8,02093e93-bce9-450f-83db-a17cf7a19b0a
+False,11514,Giovanni Di Lorenzo,2,Right Back,101.7,40.2,0e95b739-47a4-43b7-8016-02fd200e6355
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,95.2,51.4,0e95b739-47a4-43b7-8016-02fd200e6355
+False,7173,Leonardo Bonucci,3,Right Center Back,101.4,42.7,0e95b739-47a4-43b7-8016-02fd200e6355
+False,6954,Giorgio Chiellini,5,Left Center Back,100.7,53.1,0e95b739-47a4-43b7-8016-02fd200e6355
+False,4355,Emerson Palmieri dos Santos,6,Left Back,83.5,62.2,0e95b739-47a4-43b7-8016-02fd200e6355
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,116.0,42.9,0e95b739-47a4-43b7-8016-02fd200e6355
+True,6748,Ferrán Torres García,21,Left Wing,99.6,40.7,0e95b739-47a4-43b7-8016-02fd200e6355
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,92.6,51.9,0e95b739-47a4-43b7-8016-02fd200e6355
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,100.1,60.0,0e95b739-47a4-43b7-8016-02fd200e6355
+False,11514,Giovanni Di Lorenzo,2,Right Back,104.0,29.0,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+False,8181,Nicolò Barella,13,Right Center Midfield,99.2,29.6,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,94.7,34.5,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+False,7037,Lorenzo Insigne,21,Left Wing,103.1,35.7,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+False,3166,Marco Verratti,15,Left Center Midfield,96.1,44.1,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+False,7173,Leonardo Bonucci,3,Right Center Back,104.5,37.2,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+False,6954,Giorgio Chiellini,5,Left Center Back,106.2,47.7,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,116.6,41.6,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+True,6748,Ferrán Torres García,21,Left Wing,98.1,14.5,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+True,30486,Pedro González López,15,Left Center Midfield,89.1,30.7,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+True,5211,Jordi Alba Ramos,6,Left Back,101.2,26.3,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+True,16532,Daniel Olmo Carvajal,23,Center Forward,100.8,41.6,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,94.8,47.7,1b413a09-3dc6-44b1-8ad6-4378d3d9f9d2
+True,3166,Marco Verratti,15,Left Center Midfield,91.3,26.3,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+True,7788,Ciro Immobile,23,Center Forward,114.5,44.1,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+False,30486,Pedro González López,15,Left Center Midfield,102.4,42.8,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+False,5211,Jordi Alba Ramos,6,Left Back,111.0,43.0,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,111.5,40.3,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+False,6685,Mikel Oyarzabal Ugarte,17,Right Wing,105.2,25.5,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+False,4353,Aymeric Laporte,5,Left Center Back,115.0,40.0,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,109.6,31.1,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+False,31953,Eric García Martret,3,Right Center Back,113.4,29.0,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+False,3957,César Azpilicueta Tanco,2,Right Back,113.6,27.0,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+False,11748,Unai Simón Mendibil,1,Goalkeeper,118.1,35.5,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+True,7156,Federico Chiesa,17,Right Wing,107.8,45.2,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+True,7037,Lorenzo Insigne,21,Left Wing,108.2,30.9,8ad5095d-e676-43e7-a7ea-8d9726e6cbc3
+False,11748,Unai Simón Mendibil,1,Goalkeeper,114.2,34.3,17ee2f7a-68ad-4033-a62f-f208971ad9c5
+False,5211,Jordi Alba Ramos,6,Left Back,99.7,30.6,17ee2f7a-68ad-4033-a62f-f208971ad9c5
+False,4353,Aymeric Laporte,5,Left Center Back,100.8,26.8,17ee2f7a-68ad-4033-a62f-f208971ad9c5
+False,31953,Eric García Martret,3,Right Center Back,91.1,27.1,17ee2f7a-68ad-4033-a62f-f208971ad9c5
+False,11514,Giovanni Di Lorenzo,2,Right Back,105.9,39.9,97730ac0-2c1a-4071-bfed-eaf9f9734248
+False,7173,Leonardo Bonucci,3,Right Center Back,109.5,41.3,97730ac0-2c1a-4071-bfed-eaf9f9734248
+False,6954,Giorgio Chiellini,5,Left Center Back,107.3,47.8,97730ac0-2c1a-4071-bfed-eaf9f9734248
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,117.2,42.6,97730ac0-2c1a-4071-bfed-eaf9f9734248
+True,6748,Ferrán Torres García,21,Left Wing,100.0,29.3,97730ac0-2c1a-4071-bfed-eaf9f9734248
+True,16532,Daniel Olmo Carvajal,23,Center Forward,101.8,39.9,97730ac0-2c1a-4071-bfed-eaf9f9734248
+True,30486,Pedro González López,15,Left Center Midfield,98.4,40.0,97730ac0-2c1a-4071-bfed-eaf9f9734248
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,106.6,49.7,97730ac0-2c1a-4071-bfed-eaf9f9734248
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,104.5,49.6,97730ac0-2c1a-4071-bfed-eaf9f9734248
+False,3166,Marco Verratti,15,Left Center Midfield,104.5,51.0,97730ac0-2c1a-4071-bfed-eaf9f9734248
+False,3957,César Azpilicueta Tanco,2,Right Back,105.7,30.5,663d2afb-18a6-445c-8473-66c8263d0654
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,105.0,38.2,663d2afb-18a6-445c-8473-66c8263d0654
+False,4353,Aymeric Laporte,5,Left Center Back,109.7,33.6,663d2afb-18a6-445c-8473-66c8263d0654
+False,6748,Ferrán Torres García,21,Left Wing,106.3,51.5,663d2afb-18a6-445c-8473-66c8263d0654
+False,31953,Eric García Martret,3,Right Center Back,108.5,46.3,663d2afb-18a6-445c-8473-66c8263d0654
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,102.6,50.9,663d2afb-18a6-445c-8473-66c8263d0654
+False,5211,Jordi Alba Ramos,6,Left Back,108.4,54.9,663d2afb-18a6-445c-8473-66c8263d0654
+False,11748,Unai Simón Mendibil,1,Goalkeeper,117.5,43.4,663d2afb-18a6-445c-8473-66c8263d0654
+True,7788,Ciro Immobile,23,Center Forward,109.9,31.8,663d2afb-18a6-445c-8473-66c8263d0654
+True,7037,Lorenzo Insigne,21,Left Wing,105.6,36.4,663d2afb-18a6-445c-8473-66c8263d0654
+True,8181,Nicolò Barella,13,Right Center Midfield,96.0,54.8,663d2afb-18a6-445c-8473-66c8263d0654
+True,30486,Pedro González López,15,Left Center Midfield,104.8,42.5,f84f58c6-b8e1-43af-900d-a387df3511c3
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,100.5,53.2,f84f58c6-b8e1-43af-900d-a387df3511c3
+False,11514,Giovanni Di Lorenzo,2,Right Back,102.1,30.0,f84f58c6-b8e1-43af-900d-a387df3511c3
+False,8181,Nicolò Barella,13,Right Center Midfield,101.6,33.0,f84f58c6-b8e1-43af-900d-a387df3511c3
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,101.2,36.8,f84f58c6-b8e1-43af-900d-a387df3511c3
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,117.0,39.1,f84f58c6-b8e1-43af-900d-a387df3511c3
+False,7173,Leonardo Bonucci,3,Right Center Back,106.2,41.2,f84f58c6-b8e1-43af-900d-a387df3511c3
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,91.1,50.3,7d9e50f9-c601-42c1-8acf-a96c574324f0
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,87.8,33.6,7d9e50f9-c601-42c1-8acf-a96c574324f0
+True,6748,Ferrán Torres García,21,Left Wing,104.4,26.6,7d9e50f9-c601-42c1-8acf-a96c574324f0
+True,5211,Jordi Alba Ramos,6,Left Back,84.5,21.2,7d9e50f9-c601-42c1-8acf-a96c574324f0
+True,16532,Daniel Olmo Carvajal,23,Center Forward,99.7,36.6,7d9e50f9-c601-42c1-8acf-a96c574324f0
+True,30486,Pedro González López,15,Left Center Midfield,101.7,50.2,7d9e50f9-c601-42c1-8acf-a96c574324f0
+True,3957,César Azpilicueta Tanco,2,Right Back,102.7,64.6,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,118.0,41.5,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,11514,Giovanni Di Lorenzo,2,Right Back,104.2,31.1,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,7173,Leonardo Bonucci,3,Right Center Back,103.6,37.3,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,8181,Nicolò Barella,13,Right Center Midfield,97.3,33.6,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,6954,Giorgio Chiellini,5,Left Center Back,102.8,48.2,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,4355,Emerson Palmieri dos Santos,6,Left Back,103.7,54.8,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,3166,Marco Verratti,15,Left Center Midfield,98.3,45.0,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,7156,Federico Chiesa,17,Right Wing,83.9,22.8,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,7788,Ciro Immobile,23,Center Forward,92.7,46.3,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,95.6,52.6,7d9e50f9-c601-42c1-8acf-a96c574324f0
+False,30486,Pedro González López,15,Left Center Midfield,106.8,36.3,0aeb522e-ded3-41a1-8d44-aea7411723a3
+False,4353,Aymeric Laporte,5,Left Center Back,106.8,31.3,0aeb522e-ded3-41a1-8d44-aea7411723a3
+False,31953,Eric García Martret,3,Right Center Back,107.2,29.2,0aeb522e-ded3-41a1-8d44-aea7411723a3
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,103.5,24.5,0aeb522e-ded3-41a1-8d44-aea7411723a3
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,95.2,33.8,0aeb522e-ded3-41a1-8d44-aea7411723a3
+False,5211,Jordi Alba Ramos,6,Left Back,89.0,50.0,0aeb522e-ded3-41a1-8d44-aea7411723a3
+False,11748,Unai Simón Mendibil,1,Goalkeeper,116.4,37.2,0aeb522e-ded3-41a1-8d44-aea7411723a3
+True,7788,Ciro Immobile,23,Center Forward,104.8,34.5,0aeb522e-ded3-41a1-8d44-aea7411723a3
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,102.9,42.0,8e70829e-58fd-4ad0-b09a-4a0784a30421
+True,5211,Jordi Alba Ramos,6,Left Back,91.4,17.5,8e70829e-58fd-4ad0-b09a-4a0784a30421
+False,11514,Giovanni Di Lorenzo,2,Right Back,104.0,34.8,8e70829e-58fd-4ad0-b09a-4a0784a30421
+False,7173,Leonardo Bonucci,3,Right Center Back,105.0,39.9,8e70829e-58fd-4ad0-b09a-4a0784a30421
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,101.4,34.7,8e70829e-58fd-4ad0-b09a-4a0784a30421
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,116.6,40.2,8e70829e-58fd-4ad0-b09a-4a0784a30421
+False,6954,Giorgio Chiellini,5,Left Center Back,104.7,45.7,8e70829e-58fd-4ad0-b09a-4a0784a30421
+False,8181,Nicolò Barella,13,Right Center Midfield,96.8,39.4,8e70829e-58fd-4ad0-b09a-4a0784a30421
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,98.6,43.8,8e70829e-58fd-4ad0-b09a-4a0784a30421
+False,4355,Emerson Palmieri dos Santos,6,Left Back,102.2,54.1,8e70829e-58fd-4ad0-b09a-4a0784a30421
+False,7131,Domenico Berardi,23,Center Forward,84.3,26.3,8e70829e-58fd-4ad0-b09a-4a0784a30421
+True,4355,Emerson Palmieri dos Santos,6,Left Back,104.4,35.4,2f99a021-1fc3-48ff-ada6-4447512c02e6
+False,31953,Eric García Martret,3,Right Center Back,112.3,51.4,2f99a021-1fc3-48ff-ada6-4447512c02e6
+False,5211,Jordi Alba Ramos,6,Left Back,106.4,56.9,2f99a021-1fc3-48ff-ada6-4447512c02e6
+False,4353,Aymeric Laporte,5,Left Center Back,106.8,53.5,2f99a021-1fc3-48ff-ada6-4447512c02e6
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,102.7,54.0,2f99a021-1fc3-48ff-ada6-4447512c02e6
+False,30486,Pedro González López,15,Left Center Midfield,100.5,56.0,2f99a021-1fc3-48ff-ada6-4447512c02e6
+False,3957,César Azpilicueta Tanco,2,Right Back,107.2,36.6,2f99a021-1fc3-48ff-ada6-4447512c02e6
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,101.6,46.3,2f99a021-1fc3-48ff-ada6-4447512c02e6
+False,3477,Álvaro Borja Morata Martín,23,Center Forward,92.5,63.6,2f99a021-1fc3-48ff-ada6-4447512c02e6
+False,11748,Unai Simón Mendibil,1,Goalkeeper,118.1,44.4,2f99a021-1fc3-48ff-ada6-4447512c02e6
+True,7037,Lorenzo Insigne,21,Left Wing,101.0,70.5,2f99a021-1fc3-48ff-ada6-4447512c02e6
+True,7156,Federico Chiesa,17,Right Wing,102.2,58.2,2f99a021-1fc3-48ff-ada6-4447512c02e6
+True,7037,Lorenzo Insigne,21,Left Wing,102.7,33.6,81ecf0b7-7d60-4644-90fc-b809f9a9aa47
+True,11601,Matteo Pessina,15,Left Center Midfield,104.4,30.1,81ecf0b7-7d60-4644-90fc-b809f9a9aa47
+True,7156,Federico Chiesa,17,Right Wing,103.4,16.9,81ecf0b7-7d60-4644-90fc-b809f9a9aa47
+False,11748,Unai Simón Mendibil,1,Goalkeeper,116.8,40.3,81ecf0b7-7d60-4644-90fc-b809f9a9aa47
+False,5211,Jordi Alba Ramos,6,Left Back,102.3,46.6,81ecf0b7-7d60-4644-90fc-b809f9a9aa47
+False,4353,Aymeric Laporte,5,Left Center Back,103.9,40.5,81ecf0b7-7d60-4644-90fc-b809f9a9aa47
+False,30486,Pedro González López,15,Left Center Midfield,99.3,39.6,81ecf0b7-7d60-4644-90fc-b809f9a9aa47
+False,31953,Eric García Martret,3,Right Center Back,104.4,33.3,81ecf0b7-7d60-4644-90fc-b809f9a9aa47
+False,6765,Rodrigo Hernández Cascante,13,Right Center Midfield,103.4,29.9,81ecf0b7-7d60-4644-90fc-b809f9a9aa47
+False,3957,César Azpilicueta Tanco,2,Right Back,103.1,21.7,81ecf0b7-7d60-4644-90fc-b809f9a9aa47
+False,11514,Giovanni Di Lorenzo,6,Left Back,109.1,43.3,72b82522-4c8e-4348-b2e0-9bf1fbe82d61
+False,8181,Nicolò Barella,13,Right Center Midfield,107.0,38.3,72b82522-4c8e-4348-b2e0-9bf1fbe82d61
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,100.4,33.8,72b82522-4c8e-4348-b2e0-9bf1fbe82d61
+False,7173,Leonardo Bonucci,3,Right Center Back,102.6,36.5,72b82522-4c8e-4348-b2e0-9bf1fbe82d61
+False,6954,Giorgio Chiellini,5,Left Center Back,103.7,36.9,72b82522-4c8e-4348-b2e0-9bf1fbe82d61
+False,7002,Rafael Tolói,2,Right Back,103.3,32.8,72b82522-4c8e-4348-b2e0-9bf1fbe82d61
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,114.9,38.2,72b82522-4c8e-4348-b2e0-9bf1fbe82d61
+True,30486,Pedro González López,15,Left Center Midfield,90.6,28.1,72b82522-4c8e-4348-b2e0-9bf1fbe82d61
+True,16532,Daniel Olmo Carvajal,21,Left Wing,101.2,33.2,72b82522-4c8e-4348-b2e0-9bf1fbe82d61
+True,5211,Jordi Alba Ramos,6,Left Back,98.3,15.4,72b82522-4c8e-4348-b2e0-9bf1fbe82d61
+True,16532,Daniel Olmo Carvajal,21,Left Wing,115.3,77.4,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,118.6,45.9,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,7037,Lorenzo Insigne,21,Left Wing,101.3,45.7,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,8181,Nicolò Barella,13,Right Center Midfield,107.8,47.0,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,7131,Domenico Berardi,23,Center Forward,112.1,51.6,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,11601,Matteo Pessina,15,Left Center Midfield,112.3,47.5,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,11514,Giovanni Di Lorenzo,6,Left Back,113.1,40.4,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,7002,Rafael Tolói,2,Right Back,110.5,39.7,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,7156,Federico Chiesa,17,Right Wing,106.8,35.6,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,7173,Leonardo Bonucci,3,Right Center Back,113.4,46.8,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,6954,Giorgio Chiellini,5,Left Center Back,113.4,45.5,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,116.5,45.8,12d05855-78b3-4e5e-ad34-df42df915ff3
+True,6766,Gerard Moreno Balaguero,17,Right Wing,114.3,48.6,12d05855-78b3-4e5e-ad34-df42df915ff3
+True,3957,César Azpilicueta Tanco,2,Right Back,112.2,49.2,12d05855-78b3-4e5e-ad34-df42df915ff3
+True,6765,Rodrigo Hernández Cascante,13,Right Center Midfield,107.0,40.8,12d05855-78b3-4e5e-ad34-df42df915ff3
+True,4353,Aymeric Laporte,5,Left Center Back,109.7,34.6,12d05855-78b3-4e5e-ad34-df42df915ff3
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,113.5,44.0,12d05855-78b3-4e5e-ad34-df42df915ff3
+False,8181,Nicolò Barella,13,Right Center Midfield,96.6,46.2,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+False,11601,Matteo Pessina,15,Left Center Midfield,100.8,49.2,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,102.4,44.7,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+False,7131,Domenico Berardi,23,Center Forward,101.7,39.5,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+False,11514,Giovanni Di Lorenzo,6,Left Back,108.7,51.4,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+False,6954,Giorgio Chiellini,5,Left Center Back,108.4,45.1,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+False,7173,Leonardo Bonucci,3,Right Center Back,110.2,42.4,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+False,7002,Rafael Tolói,2,Right Back,108.4,34.8,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,117.2,40.8,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+True,5211,Jordi Alba Ramos,6,Left Back,92.3,26.6,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+True,3957,César Azpilicueta Tanco,2,Right Back,106.2,53.1,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,113.4,58.2,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+True,30486,Pedro González López,15,Left Center Midfield,109.8,44.3,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+True,16532,Daniel Olmo Carvajal,21,Left Wing,105.2,30.8,2f5fdbf9-f7a4-455f-9463-ef46c300a72e
+True,6766,Gerard Moreno Balaguero,17,Right Wing,107.5,33.8,c8f53961-0162-43a7-8eab-75980100a45c
+True,31953,Eric García Martret,3,Right Center Back,104.7,37.6,c8f53961-0162-43a7-8eab-75980100a45c
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,104.4,40.2,c8f53961-0162-43a7-8eab-75980100a45c
+True,4353,Aymeric Laporte,5,Left Center Back,110.0,28.8,c8f53961-0162-43a7-8eab-75980100a45c
+False,7156,Federico Chiesa,21,Left Wing,101.4,37.9,c8f53961-0162-43a7-8eab-75980100a45c
+False,11514,Giovanni Di Lorenzo,6,Left Back,104.6,38.0,c8f53961-0162-43a7-8eab-75980100a45c
+False,7038,Manuel Locatelli,13,Right Center Midfield,104.3,39.6,c8f53961-0162-43a7-8eab-75980100a45c
+False,7471,Andrea Belotti,23,Center Forward,104.9,35.8,c8f53961-0162-43a7-8eab-75980100a45c
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,104.7,32.7,c8f53961-0162-43a7-8eab-75980100a45c
+False,7131,Domenico Berardi,17,Right Wing,102.8,18.9,c8f53961-0162-43a7-8eab-75980100a45c
+False,6954,Giorgio Chiellini,5,Left Center Back,106.0,39.7,c8f53961-0162-43a7-8eab-75980100a45c
+False,7173,Leonardo Bonucci,3,Right Center Back,106.1,40.9,c8f53961-0162-43a7-8eab-75980100a45c
+False,7002,Rafael Tolói,2,Right Back,106.1,45.1,c8f53961-0162-43a7-8eab-75980100a45c
+False,11601,Matteo Pessina,15,Left Center Midfield,106.1,49.3,c8f53961-0162-43a7-8eab-75980100a45c
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,118.3,39.1,c8f53961-0162-43a7-8eab-75980100a45c
+True,30486,Pedro González López,15,Left Center Midfield,97.3,33.9,c8f53961-0162-43a7-8eab-75980100a45c
+True,6840,Marcos Llorente Moreno,2,Right Back,90.1,44.2,c8f53961-0162-43a7-8eab-75980100a45c
+True,6765,Rodrigo Hernández Cascante,13,Right Center Midfield,106.3,46.3,c8f53961-0162-43a7-8eab-75980100a45c
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,105.4,58.1,c8f53961-0162-43a7-8eab-75980100a45c
+True,4353,Aymeric Laporte,5,Left Center Back,111.5,32.6,cc212102-dd53-4f8c-850b-297d752e7a42
+True,31953,Eric García Martret,3,Right Center Back,107.4,38.2,cc212102-dd53-4f8c-850b-297d752e7a42
+True,6766,Gerard Moreno Balaguero,17,Right Wing,114.1,37.7,cc212102-dd53-4f8c-850b-297d752e7a42
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,110.4,41.2,cc212102-dd53-4f8c-850b-297d752e7a42
+True,6765,Rodrigo Hernández Cascante,13,Right Center Midfield,109.3,45.5,cc212102-dd53-4f8c-850b-297d752e7a42
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,113.4,35.0,cc212102-dd53-4f8c-850b-297d752e7a42
+False,7471,Andrea Belotti,23,Center Forward,115.0,34.2,cc212102-dd53-4f8c-850b-297d752e7a42
+False,7173,Leonardo Bonucci,3,Right Center Back,116.4,43.0,cc212102-dd53-4f8c-850b-297d752e7a42
+False,7002,Rafael Tolói,2,Right Back,114.5,46.0,cc212102-dd53-4f8c-850b-297d752e7a42
+False,11601,Matteo Pessina,15,Left Center Midfield,113.7,47.8,cc212102-dd53-4f8c-850b-297d752e7a42
+False,7038,Manuel Locatelli,13,Right Center Midfield,109.0,44.0,cc212102-dd53-4f8c-850b-297d752e7a42
+False,11514,Giovanni Di Lorenzo,6,Left Back,108.0,38.7,cc212102-dd53-4f8c-850b-297d752e7a42
+False,6954,Giorgio Chiellini,5,Left Center Back,116.3,41.0,cc212102-dd53-4f8c-850b-297d752e7a42
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,118.7,41.2,cc212102-dd53-4f8c-850b-297d752e7a42
+False,7156,Federico Chiesa,21,Left Wing,101.6,38.5,cc212102-dd53-4f8c-850b-297d752e7a42
+False,7131,Domenico Berardi,17,Right Wing,105.1,26.2,a50c71b5-a0fc-4727-9b10-d860cecf3384
+False,7002,Rafael Tolói,2,Right Back,113.9,34.7,a50c71b5-a0fc-4727-9b10-d860cecf3384
+False,11601,Matteo Pessina,15,Left Center Midfield,100.8,51.4,a50c71b5-a0fc-4727-9b10-d860cecf3384
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,103.0,46.6,a50c71b5-a0fc-4727-9b10-d860cecf3384
+False,7038,Manuel Locatelli,13,Right Center Midfield,105.9,36.3,a50c71b5-a0fc-4727-9b10-d860cecf3384
+False,6954,Giorgio Chiellini,5,Left Center Back,109.2,45.5,a50c71b5-a0fc-4727-9b10-d860cecf3384
+False,7173,Leonardo Bonucci,3,Right Center Back,112.2,45.6,a50c71b5-a0fc-4727-9b10-d860cecf3384
+False,7156,Federico Chiesa,21,Left Wing,100.5,65.8,a50c71b5-a0fc-4727-9b10-d860cecf3384
+False,11514,Giovanni Di Lorenzo,6,Left Back,105.5,54.4,a50c71b5-a0fc-4727-9b10-d860cecf3384
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,111.0,43.3,a50c71b5-a0fc-4727-9b10-d860cecf3384
+True,30486,Pedro González López,15,Left Center Midfield,110.1,34.9,a50c71b5-a0fc-4727-9b10-d860cecf3384
+True,16532,Daniel Olmo Carvajal,21,Left Wing,96.7,45.6,a50c71b5-a0fc-4727-9b10-d860cecf3384
+True,5211,Jordi Alba Ramos,6,Left Back,114.4,30.2,a50c71b5-a0fc-4727-9b10-d860cecf3384
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,113.0,42.4,a50c71b5-a0fc-4727-9b10-d860cecf3384
+True,6766,Gerard Moreno Balaguero,17,Right Wing,103.0,64.4,a50c71b5-a0fc-4727-9b10-d860cecf3384
+True,6840,Marcos Llorente Moreno,2,Right Back,88.6,48.3,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+True,30486,Pedro González López,15,Left Center Midfield,92.8,34.1,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+True,16532,Daniel Olmo Carvajal,21,Left Wing,98.6,36.8,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+True,4353,Aymeric Laporte,5,Left Center Back,100.8,46.9,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+True,6765,Rodrigo Hernández Cascante,13,Right Center Midfield,99.0,51.6,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,100.0,50.8,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+True,6766,Gerard Moreno Balaguero,17,Right Wing,101.3,52.0,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+True,31953,Eric García Martret,3,Right Center Back,99.5,48.5,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,114.0,39.4,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,7131,Domenico Berardi,17,Right Wing,94.2,23.8,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,7173,Leonardo Bonucci,3,Right Center Back,100.9,46.0,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,7777,Federico Bernardeschi,21,Left Wing,99.0,32.3,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,7038,Manuel Locatelli,13,Right Center Midfield,98.2,50.2,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,99.6,35.5,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,7471,Andrea Belotti,23,Center Forward,99.8,38.0,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,11514,Giovanni Di Lorenzo,6,Left Back,100.0,40.7,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,6954,Giorgio Chiellini,5,Left Center Back,100.1,48.1,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,7002,Rafael Tolói,2,Right Back,100.8,50.4,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,11601,Matteo Pessina,15,Left Center Midfield,100.5,51.5,bf83a6ab-ff73-40fb-8d8a-9f3cb6d74028
+False,16532,Daniel Olmo Carvajal,21,Left Wing,107.6,66.2,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,6765,Rodrigo Hernández Cascante,13,Right Center Midfield,108.6,54.2,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,5211,Jordi Alba Ramos,6,Left Back,107.9,51.8,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,6892,Pau Francisco Torres,5,Left Center Back,109.8,45.9,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,4353,Aymeric Laporte,3,Right Center Back,111.2,42.3,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,11748,Unai Simón Mendibil,1,Goalkeeper,117.1,41.7,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,5208,Thiago Alcântara do Nascimento,10,Center Defensive Midfield,107.2,48.8,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,6840,Marcos Llorente Moreno,2,Right Back,114.5,36.2,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,30486,Pedro González López,15,Left Center Midfield,103.2,51.2,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,3477,Álvaro Borja Morata Martín,23,Center Forward,91.0,67.9,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,6766,Gerard Moreno Balaguero,17,Right Wing,100.9,45.1,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+True,7471,Andrea Belotti,23,Center Forward,111.1,43.1,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+True,7777,Federico Bernardeschi,21,Left Wing,113.5,34.3,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+True,11514,Giovanni Di Lorenzo,6,Left Back,96.4,44.5,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+True,7002,Rafael Tolói,2,Right Back,103.1,65.4,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+True,11601,Matteo Pessina,15,Left Center Midfield,103.6,57.7,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+True,7038,Manuel Locatelli,13,Right Center Midfield,103.0,48.7,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,92.2,60.5,fdfcceb4-3ed9-4a49-970a-54f5da2e680f
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,119.4,39.9,ffdfd8e7-b41b-4050-9eb9-4f07876fe9bd

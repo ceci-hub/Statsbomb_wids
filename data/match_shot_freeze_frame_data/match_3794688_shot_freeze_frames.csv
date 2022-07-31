@@ -1,0 +1,192 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,5562,Thomas Müller,21,Left Wing,97.1,39.4,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+True,5579,Joshua Kimmich,7,Right Wing Back,103.4,45.2,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+True,5557,Timo Werner,23,Center Forward,102.2,33.9,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+True,6985,Robin Gosens,8,Left Wing Back,99.7,22.4,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+True,8966,Kai Havertz,17,Right Wing,98.7,26.4,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+False,3468,Jordan Pickford,1,Goalkeeper,117.7,38.6,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+False,3943,Declan Rice,11,Left Defensive Midfield,94.7,32.3,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+False,3233,Raheem Sterling,21,Left Wing,92.8,40.4,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,97.9,27.1,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+False,3308,Kieran Trippier,7,Right Wing Back,103.0,24.1,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+False,3205,Kyle Walker,3,Right Center Back,102.9,28.0,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+False,3244,John Stones,4,Center Back,102.6,35.1,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+False,3336,Harry Maguire,5,Left Center Back,101.4,38.7,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+False,3382,Luke Shaw,8,Left Wing Back,102.6,43.9,1545b310-1c6d-4a43-b8f8-70995dcbd81a
+True,8808,Matthias Ginter,3,Right Center Back,107.9,55.8,d1706308-366d-4555-8db3-e1852950aca2
+True,6324,Leon Goretzka,11,Left Defensive Midfield,93.8,42.0,d1706308-366d-4555-8db3-e1852950aca2
+True,5557,Timo Werner,23,Center Forward,107.6,32.3,d1706308-366d-4555-8db3-e1852950aca2
+True,5579,Joshua Kimmich,7,Right Wing Back,108.0,40.4,d1706308-366d-4555-8db3-e1852950aca2
+True,5574,Toni Kroos,9,Right Defensive Midfield,100.6,46.3,d1706308-366d-4555-8db3-e1852950aca2
+True,5562,Thomas Müller,21,Left Wing,101.0,42.3,d1706308-366d-4555-8db3-e1852950aca2
+False,3382,Luke Shaw,8,Left Wing Back,104.8,42.1,d1706308-366d-4555-8db3-e1852950aca2
+False,22084,Bukayo Saka,17,Right Wing,109.2,34.5,d1706308-366d-4555-8db3-e1852950aca2
+False,3308,Kieran Trippier,7,Right Wing Back,106.9,43.3,d1706308-366d-4555-8db3-e1852950aca2
+False,3205,Kyle Walker,3,Right Center Back,107.7,41.5,d1706308-366d-4555-8db3-e1852950aca2
+False,3943,Declan Rice,11,Left Defensive Midfield,109.2,41.6,d1706308-366d-4555-8db3-e1852950aca2
+False,10955,Harry Kane,23,Center Forward,109.6,42.7,d1706308-366d-4555-8db3-e1852950aca2
+False,3336,Harry Maguire,5,Left Center Back,109.6,43.4,d1706308-366d-4555-8db3-e1852950aca2
+False,3244,John Stones,4,Center Back,109.6,44.0,d1706308-366d-4555-8db3-e1852950aca2
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,110.8,43.8,d1706308-366d-4555-8db3-e1852950aca2
+False,3233,Raheem Sterling,21,Left Wing,109.9,45.6,d1706308-366d-4555-8db3-e1852950aca2
+True,6985,Robin Gosens,8,Left Wing Back,97.0,33.7,d1706308-366d-4555-8db3-e1852950aca2
+False,3468,Jordan Pickford,1,Goalkeeper,118.6,39.9,d1706308-366d-4555-8db3-e1852950aca2
+True,22084,Bukayo Saka,17,Right Wing,100.9,56.5,0af9a049-abbb-4b5f-96d0-cb91040117f8
+True,3205,Kyle Walker,3,Right Center Back,99.6,12.4,0af9a049-abbb-4b5f-96d0-cb91040117f8
+True,10955,Harry Kane,23,Center Forward,105.2,44.4,0af9a049-abbb-4b5f-96d0-cb91040117f8
+True,3943,Declan Rice,11,Left Defensive Midfield,83.6,25.4,0af9a049-abbb-4b5f-96d0-cb91040117f8
+True,3308,Kieran Trippier,7,Right Wing Back,101.6,66.2,0af9a049-abbb-4b5f-96d0-cb91040117f8
+False,5579,Joshua Kimmich,7,Right Wing Back,101.3,23.0,0af9a049-abbb-4b5f-96d0-cb91040117f8
+False,8808,Matthias Ginter,3,Right Center Back,100.7,31.1,0af9a049-abbb-4b5f-96d0-cb91040117f8
+False,5572,Mats Hummels,4,Center Back,102.3,39.3,0af9a049-abbb-4b5f-96d0-cb91040117f8
+False,3167,Antonio Rüdiger,5,Left Center Back,102.9,47.0,0af9a049-abbb-4b5f-96d0-cb91040117f8
+False,8966,Kai Havertz,17,Right Wing,93.8,32.6,0af9a049-abbb-4b5f-96d0-cb91040117f8
+False,6985,Robin Gosens,8,Left Wing Back,103.4,56.7,0af9a049-abbb-4b5f-96d0-cb91040117f8
+False,5574,Toni Kroos,9,Right Defensive Midfield,95.8,40.0,0af9a049-abbb-4b5f-96d0-cb91040117f8
+False,6324,Leon Goretzka,11,Left Defensive Midfield,95.0,47.1,0af9a049-abbb-4b5f-96d0-cb91040117f8
+False,5570,Manuel Neuer,1,Goalkeeper,118.5,40.3,0af9a049-abbb-4b5f-96d0-cb91040117f8
+False,5572,Mats Hummels,4,Center Back,112.3,46.6,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,5574,Toni Kroos,9,Right Defensive Midfield,112.0,47.6,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,5579,Joshua Kimmich,7,Right Wing Back,111.5,48.6,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,8808,Matthias Ginter,3,Right Center Back,111.7,44.9,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,6324,Leon Goretzka,11,Left Defensive Midfield,111.9,36.5,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,3167,Antonio Rüdiger,5,Left Center Back,114.0,41.2,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,6985,Robin Gosens,8,Left Wing Back,111.4,34.7,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,8966,Kai Havertz,17,Right Wing,110.6,42.6,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,5557,Timo Werner,23,Center Forward,103.0,43.4,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,5562,Thomas Müller,21,Left Wing,108.2,59.6,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,5570,Manuel Neuer,1,Goalkeeper,119.2,41.8,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+True,3308,Kieran Trippier,7,Right Wing Back,115.0,77.6,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+True,3233,Raheem Sterling,21,Left Wing,113.4,39.2,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+True,10955,Harry Kane,23,Center Forward,114.0,34.2,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+True,3943,Declan Rice,11,Left Defensive Midfield,112.3,49.5,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+True,3244,John Stones,4,Center Back,111.2,46.5,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+True,3205,Kyle Walker,3,Right Center Back,93.9,28.9,2c801e1f-212a-4ff5-b4f6-db3824942ba1
+False,5570,Manuel Neuer,1,Goalkeeper,119.1,40.5,3bf895cf-55a8-4367-b76a-eb07a85156ad
+False,5572,Mats Hummels,4,Center Back,118.1,45.2,3bf895cf-55a8-4367-b76a-eb07a85156ad
+False,8808,Matthias Ginter,3,Right Center Back,116.1,38.0,3bf895cf-55a8-4367-b76a-eb07a85156ad
+False,6985,Robin Gosens,8,Left Wing Back,114.7,39.6,3bf895cf-55a8-4367-b76a-eb07a85156ad
+False,6324,Leon Goretzka,11,Left Defensive Midfield,114.0,42.2,3bf895cf-55a8-4367-b76a-eb07a85156ad
+False,3167,Antonio Rüdiger,5,Left Center Back,116.7,50.7,3bf895cf-55a8-4367-b76a-eb07a85156ad
+False,5579,Joshua Kimmich,7,Right Wing Back,119.5,57.6,3bf895cf-55a8-4367-b76a-eb07a85156ad
+False,8966,Kai Havertz,17,Right Wing,101.7,38.2,3bf895cf-55a8-4367-b76a-eb07a85156ad
+False,5574,Toni Kroos,9,Right Defensive Midfield,107.3,55.5,3bf895cf-55a8-4367-b76a-eb07a85156ad
+True,3233,Raheem Sterling,21,Left Wing,115.6,43.4,3bf895cf-55a8-4367-b76a-eb07a85156ad
+True,10955,Harry Kane,23,Center Forward,116.3,35.0,3bf895cf-55a8-4367-b76a-eb07a85156ad
+True,3308,Kieran Trippier,7,Right Wing Back,116.2,64.5,3bf895cf-55a8-4367-b76a-eb07a85156ad
+True,3205,Kyle Walker,3,Right Center Back,96.6,30.5,3bf895cf-55a8-4367-b76a-eb07a85156ad
+True,8966,Kai Havertz,17,Right Wing,96.9,36.0,99fcde18-aeed-45bb-9b6a-a6a326e38cb7
+True,5562,Thomas Müller,21,Left Wing,99.6,43.6,99fcde18-aeed-45bb-9b6a-a6a326e38cb7
+False,3468,Jordan Pickford,1,Goalkeeper,114.7,33.7,99fcde18-aeed-45bb-9b6a-a6a326e38cb7
+False,3943,Declan Rice,11,Left Defensive Midfield,100.0,35.1,99fcde18-aeed-45bb-9b6a-a6a326e38cb7
+False,3382,Luke Shaw,8,Left Wing Back,93.5,55.3,99fcde18-aeed-45bb-9b6a-a6a326e38cb7
+False,3205,Kyle Walker,3,Right Center Back,106.2,34.0,99fcde18-aeed-45bb-9b6a-a6a326e38cb7
+False,3244,John Stones,4,Center Back,112.4,31.9,99fcde18-aeed-45bb-9b6a-a6a326e38cb7
+False,3336,Harry Maguire,5,Left Center Back,105.2,45.3,99fcde18-aeed-45bb-9b6a-a6a326e38cb7
+True,5579,Joshua Kimmich,7,Right Wing Back,97.4,39.4,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+True,5557,Timo Werner,23,Center Forward,108.0,42.4,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+True,5574,Toni Kroos,9,Right Defensive Midfield,101.4,30.2,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+True,5562,Thomas Müller,21,Left Wing,107.4,37.1,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+True,6985,Robin Gosens,8,Left Wing Back,112.3,9.2,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+False,3468,Jordan Pickford,1,Goalkeeper,118.7,40.3,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+False,3382,Luke Shaw,8,Left Wing Back,106.2,45.6,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+False,3336,Harry Maguire,5,Left Center Back,107.1,43.4,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+False,3244,John Stones,4,Center Back,109.1,40.6,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+False,3943,Declan Rice,11,Left Defensive Midfield,104.2,32.9,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+False,3205,Kyle Walker,3,Right Center Back,107.3,34.1,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,109.1,36.1,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+False,22084,Bukayo Saka,17,Right Wing,98.7,17.8,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+False,3308,Kieran Trippier,7,Right Wing Back,109.5,20.6,5af4cfa7-41cd-40d9-ac46-6dbb271c8773
+False,3308,Kieran Trippier,7,Right Wing Back,114.0,35.8,24c957b5-2b52-43ab-afc2-9d9aea490dda
+False,3205,Kyle Walker,3,Right Center Back,115.5,39.7,24c957b5-2b52-43ab-afc2-9d9aea490dda
+False,3244,John Stones,4,Center Back,116.4,40.5,24c957b5-2b52-43ab-afc2-9d9aea490dda
+False,3336,Harry Maguire,5,Left Center Back,114.1,43.1,24c957b5-2b52-43ab-afc2-9d9aea490dda
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,111.3,41.3,24c957b5-2b52-43ab-afc2-9d9aea490dda
+False,3943,Declan Rice,11,Left Defensive Midfield,112.2,52.0,24c957b5-2b52-43ab-afc2-9d9aea490dda
+False,3382,Luke Shaw,8,Left Wing Back,112.5,62.1,24c957b5-2b52-43ab-afc2-9d9aea490dda
+False,22084,Bukayo Saka,17,Right Wing,98.2,36.9,24c957b5-2b52-43ab-afc2-9d9aea490dda
+False,3233,Raheem Sterling,21,Left Wing,110.2,65.1,24c957b5-2b52-43ab-afc2-9d9aea490dda
+False,3468,Jordan Pickford,1,Goalkeeper,118.7,39.0,24c957b5-2b52-43ab-afc2-9d9aea490dda
+True,5557,Timo Werner,23,Center Forward,108.8,34.7,24c957b5-2b52-43ab-afc2-9d9aea490dda
+True,8966,Kai Havertz,17,Right Wing,113.5,43.0,24c957b5-2b52-43ab-afc2-9d9aea490dda
+True,6324,Leon Goretzka,11,Left Defensive Midfield,108.2,38.9,24c957b5-2b52-43ab-afc2-9d9aea490dda
+True,5562,Thomas Müller,21,Left Wing,114.0,62.2,24c957b5-2b52-43ab-afc2-9d9aea490dda
+True,5579,Joshua Kimmich,7,Right Wing Back,111.0,67.6,24c957b5-2b52-43ab-afc2-9d9aea490dda
+True,3308,Kieran Trippier,7,Right Wing Back,108.0,54.6,930999a8-c7af-451f-bb08-023fffbd419f
+True,10955,Harry Kane,23,Center Forward,113.8,43.5,930999a8-c7af-451f-bb08-023fffbd419f
+True,9638,Jack Grealish,21,Left Wing,104.7,31.1,930999a8-c7af-451f-bb08-023fffbd419f
+True,3382,Luke Shaw,8,Left Wing Back,110.7,22.7,930999a8-c7af-451f-bb08-023fffbd419f
+False,5570,Manuel Neuer,1,Goalkeeper,117.6,38.2,930999a8-c7af-451f-bb08-023fffbd419f
+False,5579,Joshua Kimmich,7,Right Wing Back,111.7,26.5,930999a8-c7af-451f-bb08-023fffbd419f
+False,5562,Thomas Müller,21,Left Wing,101.1,49.8,930999a8-c7af-451f-bb08-023fffbd419f
+False,8808,Matthias Ginter,3,Right Center Back,113.3,32.2,930999a8-c7af-451f-bb08-023fffbd419f
+False,5572,Mats Hummels,4,Center Back,114.3,40.2,930999a8-c7af-451f-bb08-023fffbd419f
+False,6985,Robin Gosens,8,Left Wing Back,111.9,46.9,930999a8-c7af-451f-bb08-023fffbd419f
+False,3167,Antonio Rüdiger,5,Left Center Back,106.7,31.3,930999a8-c7af-451f-bb08-023fffbd419f
+False,5574,Toni Kroos,9,Right Defensive Midfield,102.0,41.4,930999a8-c7af-451f-bb08-023fffbd419f
+False,6324,Leon Goretzka,11,Left Defensive Midfield,106.5,33.9,930999a8-c7af-451f-bb08-023fffbd419f
+False,3943,Declan Rice,11,Left Defensive Midfield,107.4,46.3,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,10955,Harry Kane,23,Center Forward,107.5,47.1,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,3336,Harry Maguire,5,Left Center Back,107.7,48.0,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,3244,John Stones,4,Center Back,107.9,49.0,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,3468,Jordan Pickford,1,Goalkeeper,118.4,38.9,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,108.9,46.9,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,3308,Kieran Trippier,7,Right Wing Back,107.8,44.6,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,9638,Jack Grealish,21,Left Wing,103.5,35.2,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,3205,Kyle Walker,3,Right Center Back,109.8,38.7,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,3382,Luke Shaw,8,Left Wing Back,109.0,32.7,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+True,3167,Antonio Rüdiger,5,Left Center Back,90.4,40.7,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+True,8808,Matthias Ginter,3,Right Center Back,105.9,59.0,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+True,5574,Toni Kroos,9,Right Defensive Midfield,98.1,48.7,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+True,8966,Kai Havertz,17,Right Wing,98.5,55.4,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+True,6985,Robin Gosens,8,Left Wing Back,97.3,31.5,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+True,5579,Joshua Kimmich,7,Right Wing Back,105.9,46.7,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+True,6324,Leon Goretzka,11,Left Defensive Midfield,106.4,45.2,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+True,5572,Mats Hummels,4,Center Back,109.6,36.5,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+True,8400,Serge Gnabry,23,Center Forward,108.2,31.2,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,3233,Raheem Sterling,17,Right Wing,108.6,49.6,113c47a1-f2ac-42d0-b1aa-aa14933478e0
+False,3205,Kyle Walker,3,Right Center Back,100.8,39.8,cf0b1ee9-9a87-480d-98b9-eeb7bfa28e6a
+False,3244,John Stones,4,Center Back,98.4,38.1,cf0b1ee9-9a87-480d-98b9-eeb7bfa28e6a
+False,3336,Harry Maguire,5,Left Center Back,97.3,43.6,cf0b1ee9-9a87-480d-98b9-eeb7bfa28e6a
+False,3468,Jordan Pickford,1,Goalkeeper,108.5,40.7,cf0b1ee9-9a87-480d-98b9-eeb7bfa28e6a
+False,5570,Manuel Neuer,1,Goalkeeper,117.2,37.5,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+False,6985,Robin Gosens,8,Left Wing Back,104.3,51.5,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+False,3167,Antonio Rüdiger,5,Left Center Back,108.8,42.4,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+False,8808,Matthias Ginter,3,Right Center Back,111.5,32.3,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+False,5579,Joshua Kimmich,7,Right Wing Back,110.4,26.0,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+False,5572,Mats Hummels,4,Center Back,103.3,31.4,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+False,5574,Toni Kroos,9,Right Defensive Midfield,95.0,45.7,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+False,8400,Serge Gnabry,23,Center Forward,99.4,31.6,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+True,3382,Luke Shaw,8,Left Wing Back,100.7,28.3,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+True,9638,Jack Grealish,21,Left Wing,109.4,24.7,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+True,3233,Raheem Sterling,17,Right Wing,111.5,47.2,4e9d391e-5144-4d45-9960-9eb2bdd8b12c
+False,3308,Kieran Trippier,7,Right Wing Back,110.1,27.3,4add0178-2010-4451-ba6f-adc107eea8f4
+False,3205,Kyle Walker,3,Right Center Back,109.2,33.5,4add0178-2010-4451-ba6f-adc107eea8f4
+False,3336,Harry Maguire,5,Left Center Back,112.5,44.2,4add0178-2010-4451-ba6f-adc107eea8f4
+False,9638,Jack Grealish,21,Left Wing,108.9,47.4,4add0178-2010-4451-ba6f-adc107eea8f4
+False,3382,Luke Shaw,8,Left Wing Back,109.7,46.5,4add0178-2010-4451-ba6f-adc107eea8f4
+False,3244,John Stones,4,Center Back,107.9,37.4,4add0178-2010-4451-ba6f-adc107eea8f4
+False,3532,Jordan Brian Henderson,11,Left Defensive Midfield,106.3,28.7,4add0178-2010-4451-ba6f-adc107eea8f4
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,106.4,39.2,4add0178-2010-4451-ba6f-adc107eea8f4
+False,10955,Harry Kane,23,Center Forward,101.7,39.4,4add0178-2010-4451-ba6f-adc107eea8f4
+False,3233,Raheem Sterling,17,Right Wing,102.4,30.6,4add0178-2010-4451-ba6f-adc107eea8f4
+False,3468,Jordan Pickford,1,Goalkeeper,119.2,40.2,4add0178-2010-4451-ba6f-adc107eea8f4
+True,8400,Serge Gnabry,23,Center Forward,107.5,53.7,4add0178-2010-4451-ba6f-adc107eea8f4
+True,8966,Kai Havertz,17,Right Wing,111.8,44.4,4add0178-2010-4451-ba6f-adc107eea8f4
+True,5579,Joshua Kimmich,7,Right Wing Back,111.6,41.6,4add0178-2010-4451-ba6f-adc107eea8f4
+True,5572,Mats Hummels,4,Center Back,111.9,35.4,4add0178-2010-4451-ba6f-adc107eea8f4
+True,5562,Thomas Müller,21,Left Wing,112.3,37.7,4add0178-2010-4451-ba6f-adc107eea8f4
+True,3053,Leroy Sané,8,Left Wing Back,105.0,20.1,4add0178-2010-4451-ba6f-adc107eea8f4
+False,3382,Luke Shaw,8,Left Wing Back,106.9,57.8,0c614eb3-204b-4700-981b-ac217b3c7418
+False,3233,Raheem Sterling,17,Right Wing,96.9,30.2,0c614eb3-204b-4700-981b-ac217b3c7418
+False,3532,Jordan Brian Henderson,11,Left Defensive Midfield,103.7,38.6,0c614eb3-204b-4700-981b-ac217b3c7418
+False,3244,John Stones,4,Center Back,111.1,47.7,0c614eb3-204b-4700-981b-ac217b3c7418
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,110.3,43.3,0c614eb3-204b-4700-981b-ac217b3c7418
+False,3336,Harry Maguire,5,Left Center Back,110.9,40.0,0c614eb3-204b-4700-981b-ac217b3c7418
+False,3205,Kyle Walker,3,Right Center Back,107.6,31.5,0c614eb3-204b-4700-981b-ac217b3c7418
+False,3308,Kieran Trippier,7,Right Wing Back,112.9,34.2,0c614eb3-204b-4700-981b-ac217b3c7418
+False,3468,Jordan Pickford,1,Goalkeeper,118.3,43.1,0c614eb3-204b-4700-981b-ac217b3c7418
+True,3053,Leroy Sané,8,Left Wing Back,108.7,23.7,0c614eb3-204b-4700-981b-ac217b3c7418
+True,5562,Thomas Müller,21,Left Wing,104.9,31.1,0c614eb3-204b-4700-981b-ac217b3c7418
+True,8966,Kai Havertz,17,Right Wing,113.7,41.5,0c614eb3-204b-4700-981b-ac217b3c7418
+True,5572,Mats Hummels,4,Center Back,110.0,40.8,0c614eb3-204b-4700-981b-ac217b3c7418

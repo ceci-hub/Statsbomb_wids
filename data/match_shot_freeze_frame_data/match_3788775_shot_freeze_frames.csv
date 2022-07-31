@@ -1,0 +1,298 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,6720,Pablo Sarabia García,17,Right Wing,114.1,36.0,0808e02a-934c-438f-a3ed-b12b35d9f08a
+True,30486,Pedro González López,15,Left Center Midfield,99.1,24.8,0808e02a-934c-438f-a3ed-b12b35d9f08a
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,103.9,34.8,0808e02a-934c-438f-a3ed-b12b35d9f08a
+True,6766,Gerard Moreno Balaguero,21,Left Wing,100.9,30.7,0808e02a-934c-438f-a3ed-b12b35d9f08a
+False,30397,Ľubomír Šatka,3,Right Center Back,116.0,28.9,0808e02a-934c-438f-a3ed-b12b35d9f08a
+False,10919,Juraj Kucka,13,Right Center Midfield,103.8,20.6,0808e02a-934c-438f-a3ed-b12b35d9f08a
+False,9722,Peter Pekarík,2,Right Back,106.6,25.4,0808e02a-934c-438f-a3ed-b12b35d9f08a
+False,4421,Tomáš Hubočan,6,Left Back,115.7,35.9,0808e02a-934c-438f-a3ed-b12b35d9f08a
+False,3711,Martin Dúbravka,1,Goalkeeper,119.0,35.0,0808e02a-934c-438f-a3ed-b12b35d9f08a
+False,6990,Milan Škriniar,5,Left Center Back,112.0,38.9,0808e02a-934c-438f-a3ed-b12b35d9f08a
+False,20002,Jakub Hromada,15,Left Center Midfield,100.4,26.3,0808e02a-934c-438f-a3ed-b12b35d9f08a
+False,16307,Róbert Mak,21,Left Wing,103.3,36.1,0808e02a-934c-438f-a3ed-b12b35d9f08a
+True,30486,Pedro González López,15,Left Center Midfield,104.9,24.0,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+True,6766,Gerard Moreno Balaguero,21,Left Wing,102.9,35.2,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,109.5,44.5,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+True,6720,Pablo Sarabia García,17,Right Wing,113.9,41.6,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+False,16307,Róbert Mak,21,Left Wing,111.1,49.3,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+False,7975,Lukáš Haraslín,17,Right Wing,89.6,5.9,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+False,10919,Juraj Kucka,13,Right Center Midfield,108.2,27.6,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+False,9722,Peter Pekarík,2,Right Back,113.6,30.2,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+False,30397,Ľubomír Šatka,3,Right Center Back,117.6,32.4,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+False,3711,Martin Dúbravka,1,Goalkeeper,117.9,41.7,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+False,20002,Jakub Hromada,15,Left Center Midfield,110.7,35.9,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+False,4421,Tomáš Hubočan,6,Left Back,115.7,38.9,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+False,6990,Milan Škriniar,5,Left Center Back,116.0,43.6,daf953e4-727a-4cb8-a26d-1c06fe8b6198
+True,31953,Eric García Martret,3,Right Center Back,104.6,51.8,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,7025,Marek Hamšík,19,Center Attacking Midfield,106.7,49.3,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,16307,Róbert Mak,21,Left Wing,100.9,37.7,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,20002,Jakub Hromada,15,Left Center Midfield,107.9,41.4,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,8967,Ondrej Duda,23,Center Forward,108.5,32.5,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,4421,Tomáš Hubočan,6,Left Back,112.2,44.1,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,3711,Martin Dúbravka,1,Goalkeeper,118.1,35.5,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,6990,Milan Škriniar,5,Left Center Back,114.4,40.0,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,30397,Ľubomír Šatka,3,Right Center Back,112.6,34.8,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,10919,Juraj Kucka,13,Right Center Midfield,113.4,25.9,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,7975,Lukáš Haraslín,17,Right Wing,113.7,29.1,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,9722,Peter Pekarík,2,Right Back,116.8,28.6,c692f6a2-fe10-4471-836c-4f6d009bbce1
+True,3957,César Azpilicueta Tanco,2,Right Back,109.2,49.1,c692f6a2-fe10-4471-836c-4f6d009bbce1
+True,6720,Pablo Sarabia García,17,Right Wing,105.5,43.1,c692f6a2-fe10-4471-836c-4f6d009bbce1
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,106.0,39.8,c692f6a2-fe10-4471-836c-4f6d009bbce1
+True,30486,Pedro González López,15,Left Center Midfield,107.6,33.9,c692f6a2-fe10-4471-836c-4f6d009bbce1
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,113.4,35.2,c692f6a2-fe10-4471-836c-4f6d009bbce1
+True,5211,Jordi Alba Ramos,6,Left Back,109.3,14.5,c692f6a2-fe10-4471-836c-4f6d009bbce1
+False,10919,Juraj Kucka,13,Right Center Midfield,110.7,45.0,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,6990,Milan Škriniar,5,Left Center Back,110.4,41.8,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,4421,Tomáš Hubočan,6,Left Back,111.3,42.2,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,7025,Marek Hamšík,19,Center Attacking Midfield,106.1,45.9,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,20002,Jakub Hromada,15,Left Center Midfield,104.7,39.3,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,16307,Róbert Mak,21,Left Wing,106.3,63.9,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,8967,Ondrej Duda,23,Center Forward,114.4,63.4,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,3711,Martin Dúbravka,1,Goalkeeper,117.7,39.2,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,9722,Peter Pekarík,2,Right Back,111.3,35.2,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,7975,Lukáš Haraslín,17,Right Wing,107.4,36.2,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,30397,Ľubomír Šatka,3,Right Center Back,108.9,40.7,b28d8774-6066-4d4e-83fa-d91a8171a537
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,112.0,45.9,b28d8774-6066-4d4e-83fa-d91a8171a537
+True,4353,Aymeric Laporte,5,Left Center Back,109.7,43.9,b28d8774-6066-4d4e-83fa-d91a8171a537
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,110.7,40.9,b28d8774-6066-4d4e-83fa-d91a8171a537
+True,6766,Gerard Moreno Balaguero,21,Left Wing,111.1,43.3,b28d8774-6066-4d4e-83fa-d91a8171a537
+True,31953,Eric García Martret,3,Right Center Back,105.8,33.6,b28d8774-6066-4d4e-83fa-d91a8171a537
+False,7975,Lukáš Haraslín,17,Right Wing,104.2,34.5,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+False,20002,Jakub Hromada,15,Left Center Midfield,103.5,36.9,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+False,30397,Ľubomír Šatka,3,Right Center Back,108.0,37.1,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+False,9722,Peter Pekarík,2,Right Back,108.7,33.2,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+False,3711,Martin Dúbravka,1,Goalkeeper,118.1,39.1,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+False,8967,Ondrej Duda,23,Center Forward,113.7,61.0,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+False,16307,Róbert Mak,21,Left Wing,106.6,60.9,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+False,6990,Milan Škriniar,5,Left Center Back,111.1,40.5,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+False,4421,Tomáš Hubočan,6,Left Back,111.7,42.5,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+False,10919,Juraj Kucka,13,Right Center Midfield,107.1,42.6,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+False,7025,Marek Hamšík,19,Center Attacking Midfield,104.8,44.1,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+True,3957,César Azpilicueta Tanco,2,Right Back,106.4,38.1,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+True,4353,Aymeric Laporte,5,Left Center Back,108.8,41.8,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+True,6766,Gerard Moreno Balaguero,21,Left Wing,112.5,38.7,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,110.5,45.1,fb77ec5e-09ca-46a7-90ba-ecf8a182c6fd
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,103.7,32.6,f7e07022-053c-41e1-884b-1428119f951d
+True,6766,Gerard Moreno Balaguero,21,Left Wing,108.1,20.7,f7e07022-053c-41e1-884b-1428119f951d
+True,30486,Pedro González López,15,Left Center Midfield,94.2,20.9,f7e07022-053c-41e1-884b-1428119f951d
+True,5211,Jordi Alba Ramos,6,Left Back,96.7,5.1,f7e07022-053c-41e1-884b-1428119f951d
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,93.1,31.7,f7e07022-053c-41e1-884b-1428119f951d
+False,10919,Juraj Kucka,13,Right Center Midfield,94.7,29.6,f7e07022-053c-41e1-884b-1428119f951d
+False,20002,Jakub Hromada,15,Left Center Midfield,94.6,23.5,f7e07022-053c-41e1-884b-1428119f951d
+False,9722,Peter Pekarík,2,Right Back,106.7,24.6,f7e07022-053c-41e1-884b-1428119f951d
+False,6990,Milan Škriniar,5,Left Center Back,110.5,38.7,f7e07022-053c-41e1-884b-1428119f951d
+False,30397,Ľubomír Šatka,3,Right Center Back,106.9,33.7,f7e07022-053c-41e1-884b-1428119f951d
+False,3711,Martin Dúbravka,1,Goalkeeper,118.1,39.8,f7e07022-053c-41e1-884b-1428119f951d
+False,4421,Tomáš Hubočan,6,Left Back,110.9,43.7,f7e07022-053c-41e1-884b-1428119f951d
+False,7975,Lukáš Haraslín,17,Right Wing,103.6,14.2,f7e07022-053c-41e1-884b-1428119f951d
+False,16307,Róbert Mak,21,Left Wing,98.7,50.9,f7e07022-053c-41e1-884b-1428119f951d
+False,8967,Ondrej Duda,23,Center Forward,85.5,34.0,f7e07022-053c-41e1-884b-1428119f951d
+False,3711,Martin Dúbravka,1,Goalkeeper,117.8,40.5,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+False,4421,Tomáš Hubočan,6,Left Back,103.1,59.5,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+False,10919,Juraj Kucka,13,Right Center Midfield,108.8,42.8,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+False,6990,Milan Škriniar,5,Left Center Back,110.8,45.0,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+False,30397,Ľubomír Šatka,3,Right Center Back,112.3,42.5,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+False,7975,Lukáš Haraslín,17,Right Wing,88.3,19.0,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+False,20002,Jakub Hromada,15,Left Center Midfield,111.8,37.9,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+False,9722,Peter Pekarík,2,Right Back,114.1,35.2,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+False,16307,Róbert Mak,21,Left Wing,108.0,61.1,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+True,6720,Pablo Sarabia García,17,Right Wing,108.0,63.2,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,107.7,47.0,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+True,6766,Gerard Moreno Balaguero,21,Left Wing,111.8,29.5,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+True,30486,Pedro González López,15,Left Center Midfield,113.1,38.4,6a0f8728-419d-4a34-a81d-7fdf96f30dfa
+True,6766,Gerard Moreno Balaguero,21,Left Wing,102.4,36.8,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+True,5211,Jordi Alba Ramos,6,Left Back,93.5,12.1,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+True,6720,Pablo Sarabia García,17,Right Wing,103.2,49.3,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+True,30486,Pedro González López,15,Left Center Midfield,94.1,26.8,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,89.2,37.9,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,101.5,64.5,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+False,7975,Lukáš Haraslín,17,Right Wing,100.1,23.3,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+False,16307,Róbert Mak,21,Left Wing,94.1,57.5,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+False,9722,Peter Pekarík,2,Right Back,100.2,40.5,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+False,6990,Milan Škriniar,5,Left Center Back,101.4,43.0,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+False,30397,Ľubomír Šatka,3,Right Center Back,104.0,37.6,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+False,4421,Tomáš Hubočan,6,Left Back,106.8,46.3,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+False,10919,Juraj Kucka,13,Right Center Midfield,100.2,45.2,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+False,20002,Jakub Hromada,15,Left Center Midfield,96.3,40.8,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+False,3711,Martin Dúbravka,1,Goalkeeper,117.9,40.0,71db5cd7-fc01-4dea-a605-ce97d78dabd3
+True,6766,Gerard Moreno Balaguero,21,Left Wing,100.8,27.7,dda3131e-958a-4867-8352-f311ba0b1309
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,104.7,31.3,dda3131e-958a-4867-8352-f311ba0b1309
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,98.6,46.4,dda3131e-958a-4867-8352-f311ba0b1309
+True,30486,Pedro González López,15,Left Center Midfield,91.8,32.3,dda3131e-958a-4867-8352-f311ba0b1309
+False,9722,Peter Pekarík,2,Right Back,101.8,22.4,dda3131e-958a-4867-8352-f311ba0b1309
+False,20002,Jakub Hromada,15,Left Center Midfield,101.2,42.7,dda3131e-958a-4867-8352-f311ba0b1309
+False,30397,Ľubomír Šatka,3,Right Center Back,104.2,41.8,dda3131e-958a-4867-8352-f311ba0b1309
+False,10919,Juraj Kucka,13,Right Center Midfield,92.6,29.0,dda3131e-958a-4867-8352-f311ba0b1309
+False,6990,Milan Škriniar,5,Left Center Back,104.5,45.1,dda3131e-958a-4867-8352-f311ba0b1309
+False,4421,Tomáš Hubočan,6,Left Back,104.1,48.7,dda3131e-958a-4867-8352-f311ba0b1309
+False,3711,Martin Dúbravka,1,Goalkeeper,117.6,40.2,dda3131e-958a-4867-8352-f311ba0b1309
+True,5211,Jordi Alba Ramos,6,Left Back,80.3,17.0,a6ad3291-ff0a-48eb-bbfe-0225056db199
+True,6766,Gerard Moreno Balaguero,17,Right Wing,100.5,75.0,a6ad3291-ff0a-48eb-bbfe-0225056db199
+True,30486,Pedro González López,15,Left Center Midfield,87.9,32.4,a6ad3291-ff0a-48eb-bbfe-0225056db199
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,79.2,49.6,a6ad3291-ff0a-48eb-bbfe-0225056db199
+True,6720,Pablo Sarabia García,21,Left Wing,98.4,19.7,a6ad3291-ff0a-48eb-bbfe-0225056db199
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,90.3,48.3,a6ad3291-ff0a-48eb-bbfe-0225056db199
+False,10919,Juraj Kucka,13,Right Center Midfield,87.2,54.7,a6ad3291-ff0a-48eb-bbfe-0225056db199
+False,9722,Peter Pekarík,2,Right Back,100.1,26.1,a6ad3291-ff0a-48eb-bbfe-0225056db199
+False,7975,Lukáš Haraslín,17,Right Wing,87.6,21.8,a6ad3291-ff0a-48eb-bbfe-0225056db199
+False,30397,Ľubomír Šatka,3,Right Center Back,97.6,40.9,a6ad3291-ff0a-48eb-bbfe-0225056db199
+False,6990,Milan Škriniar,5,Left Center Back,99.2,48.0,a6ad3291-ff0a-48eb-bbfe-0225056db199
+False,20002,Jakub Hromada,15,Left Center Midfield,86.8,33.9,a6ad3291-ff0a-48eb-bbfe-0225056db199
+False,7025,Marek Hamšík,19,Center Attacking Midfield,74.2,30.3,a6ad3291-ff0a-48eb-bbfe-0225056db199
+False,16307,Róbert Mak,21,Left Wing,82.2,54.5,a6ad3291-ff0a-48eb-bbfe-0225056db199
+False,4421,Tomáš Hubočan,6,Left Back,99.5,60.5,a6ad3291-ff0a-48eb-bbfe-0225056db199
+False,3711,Martin Dúbravka,1,Goalkeeper,117.5,40.8,a6ad3291-ff0a-48eb-bbfe-0225056db199
+True,6720,Pablo Sarabia García,21,Left Wing,105.4,28.8,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,106.5,49.1,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,110.8,60.7,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+False,3711,Martin Dúbravka,1,Goalkeeper,118.0,40.8,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+False,9722,Peter Pekarík,2,Right Back,105.3,34.6,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+False,30397,Ľubomír Šatka,3,Right Center Back,101.8,42.8,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+False,6990,Milan Škriniar,5,Left Center Back,98.6,51.4,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+False,7975,Lukáš Haraslín,17,Right Wing,93.8,31.6,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+False,20002,Jakub Hromada,15,Left Center Midfield,96.1,42.4,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+False,10919,Juraj Kucka,13,Right Center Midfield,109.1,60.2,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+False,16307,Róbert Mak,21,Left Wing,103.8,52.6,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+False,4421,Tomáš Hubočan,6,Left Back,106.7,45.9,7a29dbe5-8043-4d4a-9ddb-91625202c4f5
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,113.0,36.2,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,117.6,46.1,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+True,6766,Gerard Moreno Balaguero,17,Right Wing,120.0,63.3,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+True,3957,César Azpilicueta Tanco,2,Right Back,106.6,42.6,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+True,30486,Pedro González López,15,Left Center Midfield,107.3,60.7,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+True,6720,Pablo Sarabia García,21,Left Wing,91.6,25.4,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+False,6990,Milan Škriniar,5,Left Center Back,119.6,39.8,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+False,9722,Peter Pekarík,2,Right Back,115.5,41.0,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+False,30397,Ľubomír Šatka,3,Right Center Back,117.5,43.1,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+False,8967,Ondrej Duda,23,Center Forward,105.4,27.0,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+False,10919,Juraj Kucka,13,Right Center Midfield,114.4,49.3,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+False,4421,Tomáš Hubočan,6,Left Back,119.3,60.0,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+False,20002,Jakub Hromada,15,Left Center Midfield,108.0,47.2,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+False,3711,Martin Dúbravka,1,Goalkeeper,119.3,42.5,cea85a31-f9c4-4d48-a87d-d69e2f488f6e
+True,7025,Marek Hamšík,19,Center Attacking Midfield,86.2,21.1,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+True,16307,Róbert Mak,21,Left Wing,101.6,26.3,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+True,7975,Lukáš Haraslín,17,Right Wing,99.1,58.5,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+True,6798,Stanislav Lobotka,15,Left Center Midfield,82.2,34.1,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+False,11748,Unai Simón Mendibil,1,Goalkeeper,117.7,41.0,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+True,4421,Tomáš Hubočan,6,Left Back,93.0,11.7,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+False,6720,Pablo Sarabia García,17,Right Wing,99.1,16.3,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+False,3957,César Azpilicueta Tanco,2,Right Back,100.7,20.7,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+False,31953,Eric García Martret,3,Right Center Back,100.1,28.7,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,94.2,26.2,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+False,4353,Aymeric Laporte,5,Left Center Back,97.2,36.1,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+False,5211,Jordi Alba Ramos,6,Left Back,99.9,47.9,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+False,30486,Pedro González López,15,Left Center Midfield,94.4,37.0,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,87.7,32.6,ed2c1a6e-5873-4525-bfdf-7b42340067ce
+True,16307,Róbert Mak,21,Left Wing,81.8,13.2,36cb0bcb-9da1-4332-859a-34e603ca9793
+True,7975,Lukáš Haraslín,17,Right Wing,89.9,55.4,36cb0bcb-9da1-4332-859a-34e603ca9793
+True,10919,Juraj Kucka,13,Right Center Midfield,81.1,48.9,36cb0bcb-9da1-4332-859a-34e603ca9793
+False,11748,Unai Simón Mendibil,1,Goalkeeper,114.0,32.3,36cb0bcb-9da1-4332-859a-34e603ca9793
+False,31953,Eric García Martret,3,Right Center Back,102.1,23.6,36cb0bcb-9da1-4332-859a-34e603ca9793
+False,4353,Aymeric Laporte,5,Left Center Back,96.2,34.7,36cb0bcb-9da1-4332-859a-34e603ca9793
+False,3957,César Azpilicueta Tanco,2,Right Back,84.4,10.0,36cb0bcb-9da1-4332-859a-34e603ca9793
+False,5211,Jordi Alba Ramos,6,Left Back,87.6,50.1,36cb0bcb-9da1-4332-859a-34e603ca9793
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,77.7,26.7,36cb0bcb-9da1-4332-859a-34e603ca9793
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,115.7,34.1,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,108.2,55.0,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+False,3711,Martin Dúbravka,1,Goalkeeper,118.9,37.6,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+False,7025,Marek Hamšík,19,Center Attacking Midfield,96.8,39.9,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+True,5211,Jordi Alba Ramos,6,Left Back,108.3,18.8,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+True,6766,Gerard Moreno Balaguero,21,Left Wing,111.5,29.9,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+True,30486,Pedro González López,15,Left Center Midfield,97.4,29.0,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+True,3957,César Azpilicueta Tanco,2,Right Back,87.4,52.8,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,95.2,41.1,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+False,7975,Lukáš Haraslín,17,Right Wing,105.3,30.6,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+False,9722,Peter Pekarík,2,Right Back,112.3,23.3,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+False,10919,Juraj Kucka,13,Right Center Midfield,108.7,33.8,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+False,16307,Róbert Mak,21,Left Wing,99.6,54.4,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+False,30397,Ľubomír Šatka,3,Right Center Back,113.7,33.4,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+False,6798,Stanislav Lobotka,15,Left Center Midfield,109.7,44.4,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+False,4421,Tomáš Hubočan,6,Left Back,112.4,38.7,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+False,6990,Milan Škriniar,5,Left Center Back,114.2,35.2,cdc6c9c7-8de4-4f72-8a63-639a8c6e7203
+True,10927,Michal Ďuriš,23,Center Forward,92.6,33.4,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+True,4421,Tomáš Hubočan,6,Left Back,79.6,12.7,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+True,16307,Róbert Mak,21,Left Wing,79.8,44.8,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+True,10919,Juraj Kucka,13,Right Center Midfield,80.0,57.8,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+False,11748,Unai Simón Mendibil,1,Goalkeeper,115.5,41.5,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+False,3957,César Azpilicueta Tanco,2,Right Back,93.0,32.2,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+False,31953,Eric García Martret,3,Right Center Back,93.7,38.5,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+False,4353,Aymeric Laporte,5,Left Center Back,94.8,43.1,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+False,5211,Jordi Alba Ramos,6,Left Back,93.2,50.9,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+False,6720,Pablo Sarabia García,17,Right Wing,83.0,35.2,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+False,6766,Gerard Moreno Balaguero,21,Left Wing,84.3,60.0,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,76.2,41.8,5f7ba6d3-5642-42c4-a2af-db02076b53d7
+True,6720,Pablo Sarabia García,17,Right Wing,116.7,53.0,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,106.2,71.9,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,3711,Martin Dúbravka,1,Goalkeeper,118.9,43.7,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+True,30486,Pedro González López,15,Left Center Midfield,99.5,53.9,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,7975,Lukáš Haraslín,17,Right Wing,106.8,34.3,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,7025,Marek Hamšík,19,Center Attacking Midfield,99.4,58.6,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,16307,Róbert Mak,21,Left Wing,105.3,65.0,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+True,4353,Aymeric Laporte,5,Left Center Back,108.1,40.0,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+True,6766,Gerard Moreno Balaguero,21,Left Wing,111.5,39.3,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+True,3957,César Azpilicueta Tanco,2,Right Back,113.8,41.8,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,4421,Tomáš Hubočan,6,Left Back,115.5,52.4,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,30397,Ľubomír Šatka,3,Right Center Back,115.1,42.5,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,6990,Milan Škriniar,5,Left Center Back,115.2,45.2,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,10927,Michal Ďuriš,23,Center Forward,111.5,53.2,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,10919,Juraj Kucka,13,Right Center Midfield,112.9,42.7,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,6798,Stanislav Lobotka,15,Left Center Midfield,107.7,47.1,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,9722,Peter Pekarík,2,Right Back,114.4,37.6,e410e3ae-9c67-418c-9b11-e538ba76bdc5
+False,6798,Stanislav Lobotka,15,Left Center Midfield,102.4,45.0,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+False,10922,Vladimír Weiss,21,Left Wing,103.6,46.6,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+True,6892,Pau Francisco Torres,3,Right Center Back,111.3,49.0,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+True,3957,César Azpilicueta Tanco,2,Right Back,114.6,38.3,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+True,4353,Aymeric Laporte,5,Left Center Back,112.3,35.5,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+True,6766,Gerard Moreno Balaguero,21,Left Wing,113.3,35.0,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+True,6748,Ferrán Torres García,23,Center Forward,108.8,34.5,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+False,7025,Marek Hamšík,19,Center Attacking Midfield,109.3,28.8,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+False,10919,Juraj Kucka,13,Right Center Midfield,112.4,40.4,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+False,4421,Tomáš Hubočan,6,Left Back,112.8,43.7,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+False,3711,Martin Dúbravka,1,Goalkeeper,118.5,39.6,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+False,30397,Ľubomír Šatka,3,Right Center Back,113.0,38.5,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+False,10927,Michal Ďuriš,23,Center Forward,106.7,44.4,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+False,9722,Peter Pekarík,2,Right Back,110.1,34.5,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+False,6990,Milan Škriniar,5,Left Center Back,111.4,36.6,d68fc40d-e99d-463f-96b0-d9cd2d28f4c7
+False,3711,Martin Dúbravka,1,Goalkeeper,119.0,42.2,48d27960-0e9a-4e04-92fd-e071ac8e7249
+False,7025,Marek Hamšík,19,Center Attacking Midfield,103.3,30.2,48d27960-0e9a-4e04-92fd-e071ac8e7249
+False,10922,Vladimír Weiss,21,Left Wing,95.6,53.8,48d27960-0e9a-4e04-92fd-e071ac8e7249
+False,6798,Stanislav Lobotka,15,Left Center Midfield,107.1,40.7,48d27960-0e9a-4e04-92fd-e071ac8e7249
+False,10927,Michal Ďuriš,23,Center Forward,103.4,45.6,48d27960-0e9a-4e04-92fd-e071ac8e7249
+False,9722,Peter Pekarík,2,Right Back,115.0,35.8,48d27960-0e9a-4e04-92fd-e071ac8e7249
+False,30397,Ľubomír Šatka,3,Right Center Back,116.1,37.1,48d27960-0e9a-4e04-92fd-e071ac8e7249
+False,6990,Milan Škriniar,5,Left Center Back,115.3,38.7,48d27960-0e9a-4e04-92fd-e071ac8e7249
+False,10919,Juraj Kucka,13,Right Center Midfield,117.9,38.4,48d27960-0e9a-4e04-92fd-e071ac8e7249
+False,4421,Tomáš Hubočan,6,Left Back,116.9,42.8,48d27960-0e9a-4e04-92fd-e071ac8e7249
+True,6748,Ferrán Torres García,23,Center Forward,113.6,32.1,48d27960-0e9a-4e04-92fd-e071ac8e7249
+True,5208,Thiago Alcântara do Nascimento,10,Center Defensive Midfield,108.6,42.1,48d27960-0e9a-4e04-92fd-e071ac8e7249
+True,4353,Aymeric Laporte,5,Left Center Back,114.2,41.9,48d27960-0e9a-4e04-92fd-e071ac8e7249
+True,3957,César Azpilicueta Tanco,2,Right Back,118.2,37.0,48d27960-0e9a-4e04-92fd-e071ac8e7249
+True,6766,Gerard Moreno Balaguero,21,Left Wing,117.4,36.1,48d27960-0e9a-4e04-92fd-e071ac8e7249
+True,11333,Adama Traoré Diarra,2,Right Back,80.1,56.4,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,86.7,33.0,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+True,5208,Thiago Alcântara do Nascimento,10,Center Defensive Midfield,88.0,18.1,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+False,35653,Tomáš Suslov,17,Right Wing,87.3,16.9,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+False,7025,Marek Hamšík,19,Center Attacking Midfield,87.4,34.1,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+False,10919,Juraj Kucka,13,Right Center Midfield,96.7,26.0,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+False,10922,Vladimír Weiss,21,Left Wing,87.4,54.8,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+False,4421,Tomáš Hubočan,6,Left Back,103.2,46.8,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+False,3711,Martin Dúbravka,1,Goalkeeper,118.4,37.9,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+False,9722,Peter Pekarík,2,Right Back,102.5,18.5,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+False,6798,Stanislav Lobotka,15,Left Center Midfield,102.4,24.5,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+False,6990,Milan Škriniar,5,Left Center Back,100.9,34.3,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+False,30397,Ľubomír Šatka,3,Right Center Back,104.1,29.2,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+True,6685,Mikel Oyarzabal Ugarte,23,Center Forward,102.9,12.1,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+True,30486,Pedro González López,15,Left Center Midfield,102.2,16.5,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+True,6748,Ferrán Torres García,21,Left Wing,105.5,20.4,d3301757-d1e9-4f65-b8ea-1b2fcf1d67a5
+True,6748,Ferrán Torres García,21,Left Wing,106.3,38.4,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+True,11333,Adama Traoré Diarra,2,Right Back,92.3,66.1,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+True,6720,Pablo Sarabia García,17,Right Wing,111.4,44.9,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+False,7025,Marek Hamšík,19,Center Attacking Midfield,91.0,45.5,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+False,10922,Vladimír Weiss,21,Left Wing,88.3,57.1,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+False,6798,Stanislav Lobotka,15,Left Center Midfield,99.7,34.0,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+False,9722,Peter Pekarík,2,Right Back,106.0,19.1,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+False,10919,Juraj Kucka,13,Right Center Midfield,105.2,28.9,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+False,30397,Ľubomír Šatka,3,Right Center Back,111.1,29.3,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+False,6990,Milan Škriniar,5,Left Center Back,110.1,34.8,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+False,4421,Tomáš Hubočan,6,Left Back,108.5,43.1,f5cf0567-0266-4a0b-a6cd-22aea8726cd5
+False,3711,Martin Dúbravka,1,Goalkeeper,118.2,36.5,f5cf0567-0266-4a0b-a6cd-22aea8726cd5

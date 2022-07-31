@@ -1,0 +1,310 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,108.5,38.4,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,5612,Mikael Lustig,2,Right Back,112.5,38.7,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,5624,Albin Ekdal,11,Left Defensive Midfield,112.9,36.5,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,11098,Marcus Berg,22,Right Center Forward,114.3,46.9,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,5621,Ludwig Augustinsson,6,Left Back,114.5,38.4,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,8819,Alexander Isak,24,Left Center Forward,117.9,42.5,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,5622,Robin Olsen,1,Goalkeeper,119.6,39.3,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,5625,Emil Peter Forsberg,16,Left Midfield,112.9,58.1,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,108.8,52.4,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,112.0,40.2,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,5617,Sebastian Larsson,12,Right Midfield,105.9,36.9,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+True,6892,Pau Francisco Torres,5,Left Center Back,113.9,39.2,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+True,4353,Aymeric Laporte,3,Right Center Back,112.7,35.0,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+True,6748,Ferrán Torres García,17,Right Wing,112.6,45.4,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+True,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,113.9,47.9,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+True,30486,Pedro González López,15,Left Center Midfield,105.3,62.8,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+True,16532,Daniel Olmo Carvajal,21,Left Wing,104.0,44.2,845a468d-4b7d-4d83-98ba-94c5a62d2ba2
+False,5617,Sebastian Larsson,12,Right Midfield,106.0,37.1,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,11098,Marcus Berg,22,Right Center Forward,106.0,45.5,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,5621,Ludwig Augustinsson,6,Left Back,108.9,39.9,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,103.1,43.2,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,5624,Albin Ekdal,11,Left Defensive Midfield,107.4,33.2,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,5612,Mikael Lustig,2,Right Back,104.1,38.9,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,108.4,42.0,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,8819,Alexander Isak,24,Left Center Forward,110.4,44.5,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,5625,Emil Peter Forsberg,16,Left Midfield,102.5,54.9,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,97.8,46.6,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,5622,Robin Olsen,1,Goalkeeper,118.1,40.4,746b9b9d-d975-49bc-8730-d7271489c9c5
+True,6892,Pau Francisco Torres,5,Left Center Back,109.3,37.8,746b9b9d-d975-49bc-8730-d7271489c9c5
+True,4353,Aymeric Laporte,3,Right Center Back,105.2,31.7,746b9b9d-d975-49bc-8730-d7271489c9c5
+True,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,104.2,39.8,746b9b9d-d975-49bc-8730-d7271489c9c5
+True,6748,Ferrán Torres García,17,Right Wing,108.4,44.4,746b9b9d-d975-49bc-8730-d7271489c9c5
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,107.2,37.5,746b9b9d-d975-49bc-8730-d7271489c9c5
+True,30486,Pedro González López,15,Left Center Midfield,97.0,54.6,746b9b9d-d975-49bc-8730-d7271489c9c5
+False,5617,Sebastian Larsson,12,Right Midfield,106.3,29.4,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+False,5621,Ludwig Augustinsson,6,Left Back,102.8,57.1,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,107.8,47.8,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,113.1,40.9,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+False,5624,Albin Ekdal,11,Left Defensive Midfield,98.1,53.6,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,100.0,46.0,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+False,5625,Emil Peter Forsberg,16,Left Midfield,91.4,61.2,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+False,5612,Mikael Lustig,2,Right Back,108.9,38.6,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+False,11098,Marcus Berg,22,Right Center Forward,89.5,53.2,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+False,5622,Robin Olsen,1,Goalkeeper,118.6,40.2,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,89.2,63.3,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+True,5211,Jordi Alba Ramos,6,Left Back,107.4,19.4,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+True,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,86.9,49.8,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,96.5,52.7,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+True,6840,Marcos Llorente Moreno,2,Right Back,98.4,74.3,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+True,6748,Ferrán Torres García,17,Right Wing,112.4,41.1,4cc9dd4f-3f04-46da-b574-2da1ebf098ac
+False,6892,Pau Francisco Torres,5,Left Center Back,109.9,51.3,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,11748,Unai Simón Mendibil,1,Goalkeeper,118.2,41.0,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,3477,Álvaro Borja Morata Martín,23,Center Forward,97.1,53.8,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,30486,Pedro González López,15,Left Center Midfield,98.0,48.0,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,16532,Daniel Olmo Carvajal,21,Left Wing,105.9,58.8,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,6748,Ferrán Torres García,17,Right Wing,100.0,42.0,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,5211,Jordi Alba Ramos,6,Left Back,108.2,53.9,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,107.3,47.7,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,108.8,45.6,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,4353,Aymeric Laporte,3,Right Center Back,110.9,45.6,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,6840,Marcos Llorente Moreno,2,Right Back,109.8,38.8,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+True,5617,Sebastian Larsson,12,Right Midfield,92.9,46.6,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+True,26875,Marcus Andreas Danielsson,5,Left Center Back,105.5,52.7,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+True,5612,Mikael Lustig,2,Right Back,106.6,53.9,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+True,5624,Albin Ekdal,11,Left Defensive Midfield,108.0,46.4,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+True,11098,Marcus Berg,22,Right Center Forward,112.1,47.8,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+True,8819,Alexander Isak,24,Left Center Forward,109.5,37.0,7e3071ac-fef8-41e3-81ad-a36bab51b6e2
+False,5617,Sebastian Larsson,12,Right Midfield,109.3,26.3,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+True,4353,Aymeric Laporte,3,Right Center Back,88.5,44.9,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,5621,Ludwig Augustinsson,6,Left Back,109.8,44.5,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,114.7,34.1,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,114.5,30.8,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,5612,Mikael Lustig,2,Right Back,112.7,27.2,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,5624,Albin Ekdal,11,Left Defensive Midfield,109.4,29.7,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,5625,Emil Peter Forsberg,16,Left Midfield,100.4,37.0,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,104.7,27.8,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,11098,Marcus Berg,22,Right Center Forward,96.2,32.8,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,8819,Alexander Isak,24,Left Center Forward,90.6,45.6,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,5622,Robin Olsen,1,Goalkeeper,118.7,36.5,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+True,16532,Daniel Olmo Carvajal,21,Left Wing,103.2,17.2,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+True,6840,Marcos Llorente Moreno,2,Right Back,99.0,46.1,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+True,6748,Ferrán Torres García,17,Right Wing,106.9,45.3,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,113.5,32.2,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+True,5211,Jordi Alba Ramos,6,Left Back,113.6,27.0,17fc0ce4-390d-47cd-839b-b244c4e7d86f
+False,5621,Ludwig Augustinsson,6,Left Back,109.6,39.9,f4ada795-63e6-4438-815b-12ddd2af2daa
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,110.3,33.6,f4ada795-63e6-4438-815b-12ddd2af2daa
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,110.7,30.0,f4ada795-63e6-4438-815b-12ddd2af2daa
+False,5624,Albin Ekdal,11,Left Defensive Midfield,107.1,33.0,f4ada795-63e6-4438-815b-12ddd2af2daa
+False,5612,Mikael Lustig,2,Right Back,110.5,19.9,f4ada795-63e6-4438-815b-12ddd2af2daa
+False,5617,Sebastian Larsson,12,Right Midfield,107.7,19.7,f4ada795-63e6-4438-815b-12ddd2af2daa
+False,5625,Emil Peter Forsberg,16,Left Midfield,99.1,34.9,f4ada795-63e6-4438-815b-12ddd2af2daa
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,99.7,27.2,f4ada795-63e6-4438-815b-12ddd2af2daa
+False,5622,Robin Olsen,1,Goalkeeper,118.7,37.9,f4ada795-63e6-4438-815b-12ddd2af2daa
+True,16532,Daniel Olmo Carvajal,21,Left Wing,108.0,16.9,f4ada795-63e6-4438-815b-12ddd2af2daa
+True,6748,Ferrán Torres García,17,Right Wing,107.9,41.9,f4ada795-63e6-4438-815b-12ddd2af2daa
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,112.7,31.8,f4ada795-63e6-4438-815b-12ddd2af2daa
+False,6840,Marcos Llorente Moreno,2,Right Back,107.4,45.8,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,16532,Daniel Olmo Carvajal,21,Left Wing,109.2,37.6,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,114.7,36.8,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,30486,Pedro González López,15,Left Center Midfield,99.5,40.3,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,6748,Ferrán Torres García,17,Right Wing,102.1,47.6,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,5211,Jordi Alba Ramos,6,Left Back,101.6,33.5,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,4353,Aymeric Laporte,3,Right Center Back,108.2,43.5,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,6892,Pau Francisco Torres,5,Left Center Back,109.6,39.9,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,3477,Álvaro Borja Morata Martín,23,Center Forward,114.1,35.0,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,115.9,32.2,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+True,11098,Marcus Berg,22,Right Center Forward,114.2,43.6,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+True,5612,Mikael Lustig,2,Right Back,113.3,40.4,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,11748,Unai Simón Mendibil,1,Goalkeeper,118.6,40.6,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+True,3702,Victor Nilsson Lindelöf,3,Right Center Back,108.6,46.1,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+True,8819,Alexander Isak,24,Left Center Forward,114.5,35.9,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+True,26875,Marcus Andreas Danielsson,5,Left Center Back,115.7,28.8,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+True,23444,Kristoffer Olsson,9,Right Defensive Midfield,96.6,28.8,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+True,5617,Sebastian Larsson,12,Right Midfield,96.6,40.4,bd738c2e-c9bd-45b4-b660-7ebf9dca216f
+False,5622,Robin Olsen,1,Goalkeeper,110.4,35.5,d70d7a4b-5fe8-4ef8-a7e3-974c6966b78a
+False,5621,Ludwig Augustinsson,6,Left Back,105.1,39.0,d70d7a4b-5fe8-4ef8-a7e3-974c6966b78a
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,109.1,26.6,d70d7a4b-5fe8-4ef8-a7e3-974c6966b78a
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,106.8,25.9,d70d7a4b-5fe8-4ef8-a7e3-974c6966b78a
+False,5624,Albin Ekdal,11,Left Defensive Midfield,97.1,32.0,d70d7a4b-5fe8-4ef8-a7e3-974c6966b78a
+True,16532,Daniel Olmo Carvajal,21,Left Wing,101.5,21.8,d70d7a4b-5fe8-4ef8-a7e3-974c6966b78a
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,89.5,48.3,d70d7a4b-5fe8-4ef8-a7e3-974c6966b78a
+True,6748,Ferrán Torres García,17,Right Wing,92.7,68.3,d70d7a4b-5fe8-4ef8-a7e3-974c6966b78a
+False,5612,Mikael Lustig,2,Right Back,95.5,3.0,d70d7a4b-5fe8-4ef8-a7e3-974c6966b78a
+False,5622,Robin Olsen,1,Goalkeeper,117.9,40.5,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+False,5621,Ludwig Augustinsson,6,Left Back,101.6,53.2,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+False,5624,Albin Ekdal,11,Left Defensive Midfield,100.4,48.6,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,103.1,43.7,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+False,5625,Emil Peter Forsberg,16,Left Midfield,97.4,50.7,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,102.1,39.7,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+False,5612,Mikael Lustig,2,Right Back,103.1,33.9,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,95.5,45.0,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+False,5617,Sebastian Larsson,12,Right Midfield,96.6,33.6,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+False,11098,Marcus Berg,22,Right Center Forward,85.6,46.0,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+True,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,84.1,45.1,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+True,30486,Pedro González López,15,Left Center Midfield,100.1,31.3,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+True,16532,Daniel Olmo Carvajal,21,Left Wing,97.5,36.9,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+True,6840,Marcos Llorente Moreno,2,Right Back,88.2,59.5,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,107.5,63.6,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,105.0,42.4,159b1a3b-46b0-47a2-a047-05e2771ecbf8
+False,4353,Aymeric Laporte,3,Right Center Back,113.7,48.4,ed9a448f-e463-4a99-9874-0e8b62694f75
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,102.8,46.5,ed9a448f-e463-4a99-9874-0e8b62694f75
+False,5211,Jordi Alba Ramos,6,Left Back,108.5,57.6,ed9a448f-e463-4a99-9874-0e8b62694f75
+False,6892,Pau Francisco Torres,5,Left Center Back,109.6,50.3,ed9a448f-e463-4a99-9874-0e8b62694f75
+False,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,112.5,47.7,ed9a448f-e463-4a99-9874-0e8b62694f75
+False,6840,Marcos Llorente Moreno,2,Right Back,118.1,41.9,ed9a448f-e463-4a99-9874-0e8b62694f75
+False,11748,Unai Simón Mendibil,1,Goalkeeper,117.4,45.1,ed9a448f-e463-4a99-9874-0e8b62694f75
+True,5211,Jordi Alba Ramos,6,Left Back,100.7,16.0,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+True,16532,Daniel Olmo Carvajal,21,Left Wing,104.1,17.7,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+True,30486,Pedro González López,15,Left Center Midfield,97.6,38.0,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+True,6840,Marcos Llorente Moreno,2,Right Back,94.3,51.0,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,105.1,30.1,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,103.7,35.8,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+True,6748,Ferrán Torres García,17,Right Wing,104.0,41.4,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,11098,Marcus Berg,22,Right Center Forward,92.5,33.2,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,95.5,30.2,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,5617,Sebastian Larsson,12,Right Midfield,100.8,20.8,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,5624,Albin Ekdal,11,Left Defensive Midfield,100.1,33.2,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,5612,Mikael Lustig,2,Right Back,104.5,27.1,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,104.9,33.9,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,5625,Emil Peter Forsberg,16,Left Midfield,100.2,41.1,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,105.1,40.0,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,5621,Ludwig Augustinsson,6,Left Back,104.1,44.4,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,5622,Robin Olsen,1,Goalkeeper,118.7,39.3,5fcc5959-b84c-43db-a0ad-5db1c98fada2
+False,5622,Robin Olsen,1,Goalkeeper,118.2,37.9,532e7087-f55f-4f88-96a1-9b6a12b4c062
+False,5621,Ludwig Augustinsson,6,Left Back,100.8,43.4,532e7087-f55f-4f88-96a1-9b6a12b4c062
+False,5617,Sebastian Larsson,12,Right Midfield,98.8,18.3,532e7087-f55f-4f88-96a1-9b6a12b4c062
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,101.3,35.7,532e7087-f55f-4f88-96a1-9b6a12b4c062
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,101.3,33.3,532e7087-f55f-4f88-96a1-9b6a12b4c062
+False,8819,Alexander Isak,24,Left Center Forward,98.5,28.9,532e7087-f55f-4f88-96a1-9b6a12b4c062
+False,5612,Mikael Lustig,2,Right Back,100.9,42.0,532e7087-f55f-4f88-96a1-9b6a12b4c062
+False,5624,Albin Ekdal,11,Left Defensive Midfield,94.9,34.0,532e7087-f55f-4f88-96a1-9b6a12b4c062
+False,5625,Emil Peter Forsberg,16,Left Midfield,85.5,43.9,532e7087-f55f-4f88-96a1-9b6a12b4c062
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,94.8,1.3,532e7087-f55f-4f88-96a1-9b6a12b4c062
+True,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,87.1,33.5,532e7087-f55f-4f88-96a1-9b6a12b4c062
+True,4353,Aymeric Laporte,3,Right Center Back,100.1,44.6,532e7087-f55f-4f88-96a1-9b6a12b4c062
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,100.3,34.6,532e7087-f55f-4f88-96a1-9b6a12b4c062
+True,6748,Ferrán Torres García,17,Right Wing,102.1,19.5,532e7087-f55f-4f88-96a1-9b6a12b4c062
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,103.0,39.9,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+False,5621,Ludwig Augustinsson,6,Left Back,103.8,41.3,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+False,5622,Robin Olsen,1,Goalkeeper,116.5,38.9,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+False,5625,Emil Peter Forsberg,16,Left Midfield,92.5,42.5,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,92.9,30.8,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+False,5624,Albin Ekdal,11,Left Defensive Midfield,98.3,30.7,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,103.3,34.4,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+False,5617,Sebastian Larsson,12,Right Midfield,101.5,19.1,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,103.2,28.9,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+False,5612,Mikael Lustig,2,Right Back,100.6,28.6,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+True,6748,Ferrán Torres García,17,Right Wing,97.7,62.8,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+True,30486,Pedro González López,15,Left Center Midfield,90.6,28.3,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+True,16532,Daniel Olmo Carvajal,21,Left Wing,93.9,25.5,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+True,5211,Jordi Alba Ramos,6,Left Back,103.7,14.9,6342bffa-6ecf-4a83-8801-cb5806d16cf7
+False,30486,Pedro González López,15,Left Center Midfield,114.4,49.5,f306f933-4d43-44f5-a9cd-e72a5f904e73
+True,5625,Emil Peter Forsberg,16,Left Midfield,100.4,40.1,f306f933-4d43-44f5-a9cd-e72a5f904e73
+False,6892,Pau Francisco Torres,5,Left Center Back,111.4,48.8,f306f933-4d43-44f5-a9cd-e72a5f904e73
+False,5211,Jordi Alba Ramos,6,Left Back,105.4,55.1,f306f933-4d43-44f5-a9cd-e72a5f904e73
+False,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,112.3,43.6,f306f933-4d43-44f5-a9cd-e72a5f904e73
+False,6840,Marcos Llorente Moreno,2,Right Back,108.7,48.3,f306f933-4d43-44f5-a9cd-e72a5f904e73
+False,4353,Aymeric Laporte,3,Right Center Back,114.5,38.7,f306f933-4d43-44f5-a9cd-e72a5f904e73
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,101.2,44.4,f306f933-4d43-44f5-a9cd-e72a5f904e73
+False,11748,Unai Simón Mendibil,1,Goalkeeper,117.6,42.3,f306f933-4d43-44f5-a9cd-e72a5f904e73
+True,8819,Alexander Isak,24,Left Center Forward,113.1,51.1,f306f933-4d43-44f5-a9cd-e72a5f904e73
+False,5622,Robin Olsen,1,Goalkeeper,118.3,38.9,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,8819,Alexander Isak,24,Left Center Forward,90.9,47.3,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,5625,Emil Peter Forsberg,16,Left Midfield,94.6,51.7,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,11098,Marcus Berg,22,Right Center Forward,98.4,35.7,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,5624,Albin Ekdal,11,Left Defensive Midfield,100.9,37.6,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,5621,Ludwig Augustinsson,6,Left Back,107.3,45.0,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,107.4,41.0,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,5612,Mikael Lustig,2,Right Back,105.6,36.2,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,105.6,33.6,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,5617,Sebastian Larsson,12,Right Midfield,103.7,29.3,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,105.9,30.7,2d432a69-0a34-4e5e-8804-c93602d8aa70
+True,5208,Thiago Alcântara do Nascimento,10,Center Defensive Midfield,90.8,39.9,2d432a69-0a34-4e5e-8804-c93602d8aa70
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,99.1,44.4,2d432a69-0a34-4e5e-8804-c93602d8aa70
+True,30486,Pedro González López,15,Left Center Midfield,93.1,26.3,2d432a69-0a34-4e5e-8804-c93602d8aa70
+True,6720,Pablo Sarabia García,17,Right Wing,107.4,50.6,2d432a69-0a34-4e5e-8804-c93602d8aa70
+True,6748,Ferrán Torres García,23,Center Forward,105.5,43.5,2d432a69-0a34-4e5e-8804-c93602d8aa70
+True,5211,Jordi Alba Ramos,6,Left Back,108.1,28.4,2d432a69-0a34-4e5e-8804-c93602d8aa70
+False,5622,Robin Olsen,1,Goalkeeper,116.0,40.6,c483b415-150b-4d11-bdb8-af970f9148af
+False,8552,Robin Quaison,22,Right Center Forward,83.4,43.9,c483b415-150b-4d11-bdb8-af970f9148af
+False,5624,Albin Ekdal,11,Left Defensive Midfield,95.7,46.7,c483b415-150b-4d11-bdb8-af970f9148af
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,91.3,49.3,c483b415-150b-4d11-bdb8-af970f9148af
+False,5621,Ludwig Augustinsson,6,Left Back,102.5,55.1,c483b415-150b-4d11-bdb8-af970f9148af
+False,5617,Sebastian Larsson,12,Right Midfield,96.3,40.2,c483b415-150b-4d11-bdb8-af970f9148af
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,104.1,47.9,c483b415-150b-4d11-bdb8-af970f9148af
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,101.3,42.6,c483b415-150b-4d11-bdb8-af970f9148af
+False,5612,Mikael Lustig,2,Right Back,102.1,38.9,c483b415-150b-4d11-bdb8-af970f9148af
+True,6840,Marcos Llorente Moreno,2,Right Back,90.7,75.5,c483b415-150b-4d11-bdb8-af970f9148af
+True,5208,Thiago Alcântara do Nascimento,10,Center Defensive Midfield,85.9,48.1,c483b415-150b-4d11-bdb8-af970f9148af
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,93.1,53.1,c483b415-150b-4d11-bdb8-af970f9148af
+True,6720,Pablo Sarabia García,17,Right Wing,103.9,56.3,c483b415-150b-4d11-bdb8-af970f9148af
+True,16532,Daniel Olmo Carvajal,21,Left Wing,99.6,38.2,c483b415-150b-4d11-bdb8-af970f9148af
+True,5211,Jordi Alba Ramos,6,Left Back,92.3,20.4,c483b415-150b-4d11-bdb8-af970f9148af
+True,30486,Pedro González López,15,Left Center Midfield,83.9,34.4,c483b415-150b-4d11-bdb8-af970f9148af
+False,5624,Albin Ekdal,11,Left Defensive Midfield,110.4,47.3,b4999082-da20-41bc-9cce-277ba73d0031
+False,5621,Ludwig Augustinsson,6,Left Back,115.0,54.6,b4999082-da20-41bc-9cce-277ba73d0031
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,104.8,51.4,b4999082-da20-41bc-9cce-277ba73d0031
+True,6720,Pablo Sarabia García,17,Right Wing,107.6,53.6,b4999082-da20-41bc-9cce-277ba73d0031
+True,6840,Marcos Llorente Moreno,2,Right Back,117.0,60.7,b4999082-da20-41bc-9cce-277ba73d0031
+True,6748,Ferrán Torres García,23,Center Forward,112.9,42.6,b4999082-da20-41bc-9cce-277ba73d0031
+True,5211,Jordi Alba Ramos,6,Left Back,105.6,26.8,b4999082-da20-41bc-9cce-277ba73d0031
+False,5622,Robin Olsen,1,Goalkeeper,118.0,40.2,b4999082-da20-41bc-9cce-277ba73d0031
+False,5625,Emil Peter Forsberg,16,Left Midfield,105.3,60.0,b4999082-da20-41bc-9cce-277ba73d0031
+False,5612,Mikael Lustig,2,Right Back,105.1,40.5,b4999082-da20-41bc-9cce-277ba73d0031
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,108.5,42.0,b4999082-da20-41bc-9cce-277ba73d0031
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,109.3,40.7,b4999082-da20-41bc-9cce-277ba73d0031
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,113.5,40.7,b4999082-da20-41bc-9cce-277ba73d0031
+False,5617,Sebastian Larsson,12,Right Midfield,108.4,31.8,b4999082-da20-41bc-9cce-277ba73d0031
+True,30486,Pedro González López,15,Left Center Midfield,95.7,34.7,b4999082-da20-41bc-9cce-277ba73d0031
+True,6685,Mikel Oyarzabal Ugarte,21,Left Wing,115.4,37.0,4b8c132c-1890-4112-bbd0-c4bbdf057172
+True,5211,Jordi Alba Ramos,6,Left Back,112.8,30.9,4b8c132c-1890-4112-bbd0-c4bbdf057172
+False,8552,Robin Quaison,22,Right Center Forward,93.8,41.3,4b8c132c-1890-4112-bbd0-c4bbdf057172
+False,5624,Albin Ekdal,11,Left Defensive Midfield,103.0,54.6,4b8c132c-1890-4112-bbd0-c4bbdf057172
+False,5621,Ludwig Augustinsson,6,Left Back,106.7,54.7,4b8c132c-1890-4112-bbd0-c4bbdf057172
+False,26063,Jens-Lys Michel Cajuste,9,Right Defensive Midfield,102.4,42.2,4b8c132c-1890-4112-bbd0-c4bbdf057172
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,111.9,46.5,4b8c132c-1890-4112-bbd0-c4bbdf057172
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,113.4,41.9,4b8c132c-1890-4112-bbd0-c4bbdf057172
+False,6358,Emil Krafth,2,Right Back,114.1,38.2,4b8c132c-1890-4112-bbd0-c4bbdf057172
+False,5617,Sebastian Larsson,12,Right Midfield,112.5,33.6,4b8c132c-1890-4112-bbd0-c4bbdf057172
+False,5622,Robin Olsen,1,Goalkeeper,118.2,41.4,4b8c132c-1890-4112-bbd0-c4bbdf057172
+True,30486,Pedro González López,15,Left Center Midfield,96.1,35.7,4b8c132c-1890-4112-bbd0-c4bbdf057172
+True,6655,Fabián Ruiz Peña,13,Right Center Midfield,106.4,55.8,4b8c132c-1890-4112-bbd0-c4bbdf057172
+False,20871,Pierre Bengtsson,16,Left Midfield,104.6,62.7,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,5613,Viktor Claesson,24,Left Center Forward,90.3,42.8,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,8552,Robin Quaison,22,Right Center Forward,93.9,49.4,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,5624,Albin Ekdal,11,Left Defensive Midfield,104.1,53.2,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,26063,Jens-Lys Michel Cajuste,9,Right Defensive Midfield,103.5,49.8,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,5621,Ludwig Augustinsson,6,Left Back,107.7,54.0,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,107.6,50.3,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,107.9,44.9,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,6358,Emil Krafth,2,Right Back,107.0,37.4,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,5617,Sebastian Larsson,12,Right Midfield,105.1,29.0,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,5622,Robin Olsen,1,Goalkeeper,117.8,42.0,ebf95791-ca6a-4e42-abd2-9768f010937d
+True,6655,Fabián Ruiz Peña,13,Right Center Midfield,96.2,59.4,ebf95791-ca6a-4e42-abd2-9768f010937d
+True,6840,Marcos Llorente Moreno,2,Right Back,103.4,73.3,ebf95791-ca6a-4e42-abd2-9768f010937d
+True,6720,Pablo Sarabia García,17,Right Wing,105.1,48.5,ebf95791-ca6a-4e42-abd2-9768f010937d
+True,6685,Mikel Oyarzabal Ugarte,21,Left Wing,105.8,34.4,ebf95791-ca6a-4e42-abd2-9768f010937d
+True,5211,Jordi Alba Ramos,6,Left Back,102.4,23.6,ebf95791-ca6a-4e42-abd2-9768f010937d
+True,30486,Pedro González López,15,Left Center Midfield,95.9,35.7,ebf95791-ca6a-4e42-abd2-9768f010937d
+False,5622,Robin Olsen,1,Goalkeeper,119.0,39.1,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+True,6766,Gerard Moreno Balaguero,23,Center Forward,115.8,35.6,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+False,20871,Pierre Bengtsson,16,Left Midfield,106.4,50.1,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+False,5624,Albin Ekdal,11,Left Defensive Midfield,107.8,41.3,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+False,5617,Sebastian Larsson,12,Right Midfield,97.3,19.0,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+False,5621,Ludwig Augustinsson,6,Left Back,113.6,42.6,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+False,26063,Jens-Lys Michel Cajuste,9,Right Defensive Midfield,110.9,28.5,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,117.8,36.8,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,117.8,33.7,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+False,6358,Emil Krafth,2,Right Back,118.9,31.3,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+True,6655,Fabián Ruiz Peña,13,Right Center Midfield,105.7,46.5,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+True,6685,Mikel Oyarzabal Ugarte,21,Left Wing,100.7,28.9,092ef5d0-902f-43af-92c0-1b030fb0e5c3
+True,6720,Pablo Sarabia García,17,Right Wing,112.5,46.3,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,6358,Emil Krafth,2,Right Back,113.1,43.8,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,5622,Robin Olsen,1,Goalkeeper,118.5,42.2,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,20871,Pierre Bengtsson,16,Left Midfield,100.8,36.0,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,8552,Robin Quaison,22,Right Center Forward,109.8,49.4,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,5624,Albin Ekdal,11,Left Defensive Midfield,109.4,42.9,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,26063,Jens-Lys Michel Cajuste,9,Right Defensive Midfield,111.9,44.5,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+True,6892,Pau Francisco Torres,5,Left Center Back,109.1,40.3,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+True,4353,Aymeric Laporte,3,Right Center Back,110.4,43.7,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+True,6685,Mikel Oyarzabal Ugarte,21,Left Wing,115.8,47.8,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,111.9,42.2,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,5621,Ludwig Augustinsson,6,Left Back,110.8,42.9,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,5617,Sebastian Larsson,12,Right Midfield,109.0,35.4,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,115.5,39.4,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+False,5613,Viktor Claesson,24,Left Center Forward,113.5,33.0,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+True,6655,Fabián Ruiz Peña,13,Right Center Midfield,95.6,47.9,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+True,30486,Pedro González López,15,Left Center Midfield,98.9,36.0,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4
+True,6840,Marcos Llorente Moreno,2,Right Back,109.3,51.9,4d8f4a3f-9553-4e15-9e76-54aa3fedafc4

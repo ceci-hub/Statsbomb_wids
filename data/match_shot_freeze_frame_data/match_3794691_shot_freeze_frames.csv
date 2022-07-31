@@ -1,0 +1,541 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,6983,Remo Freuler,9,Right Defensive Midfield,101.3,36.9,867494ff-e1fc-43c5-952e-520f37c2e535
+False,5550,Yann Sommer,1,Goalkeeper,119.1,39.6,867494ff-e1fc-43c5-952e-520f37c2e535
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,112.7,46.6,867494ff-e1fc-43c5-952e-520f37c2e535
+False,8814,Nico Elvedi,3,Right Center Back,110.9,42.7,867494ff-e1fc-43c5-952e-520f37c2e535
+False,3500,Granit Xhaka,11,Left Defensive Midfield,113.4,37.0,867494ff-e1fc-43c5-952e-520f37c2e535
+False,5549,Manuel Obafemi Akanji,4,Center Back,113.2,36.8,867494ff-e1fc-43c5-952e-520f37c2e535
+False,5543,Haris Seferović,24,Left Center Forward,113.9,35.5,867494ff-e1fc-43c5-952e-520f37c2e535
+False,5545,Breel-Donald Embolo,22,Right Center Forward,108.9,40.3,867494ff-e1fc-43c5-952e-520f37c2e535
+False,7796,Silvan Widmer,7,Right Wing Back,113.3,32.6,867494ff-e1fc-43c5-952e-520f37c2e535
+False,5548,Steven Zuber,8,Left Wing Back,103.7,38.7,867494ff-e1fc-43c5-952e-520f37c2e535
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,112.1,46.9,867494ff-e1fc-43c5-952e-520f37c2e535
+True,20004,Paul Pogba,9,Right Defensive Midfield,110.4,41.6,867494ff-e1fc-43c5-952e-520f37c2e535
+True,2999,Presnel Kimpembe,5,Left Center Back,113.0,37.2,867494ff-e1fc-43c5-952e-520f37c2e535
+True,19677,Karim Benzema,22,Right Center Forward,113.4,31.9,867494ff-e1fc-43c5-952e-520f37c2e535
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,117.5,0.6,867494ff-e1fc-43c5-952e-520f37c2e535
+True,5476,Benjamin Pavard,7,Right Wing Back,93.4,52.3,867494ff-e1fc-43c5-952e-520f37c2e535
+True,3026,Adrien Rabiot,8,Left Wing Back,100.0,30.2,867494ff-e1fc-43c5-952e-520f37c2e535
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,98.3,43.2,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+True,7796,Silvan Widmer,7,Right Wing Back,108.8,41.8,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+True,5543,Haris Seferović,24,Left Center Forward,110.5,41.4,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+True,5545,Breel-Donald Embolo,22,Right Center Forward,115.3,41.9,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+True,5549,Manuel Obafemi Akanji,4,Center Back,113.9,35.5,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+False,3099,Hugo Lloris,1,Goalkeeper,119.1,39.9,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+False,20004,Paul Pogba,9,Right Defensive Midfield,104.4,43.3,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+False,6826,Clément Lenglet,4,Center Back,109.0,43.2,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+False,5485,Raphaël Varane,3,Right Center Back,111.0,40.9,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,106.7,32.4,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+False,3026,Adrien Rabiot,8,Left Wing Back,113.1,39.5,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+False,2999,Presnel Kimpembe,5,Left Center Back,114.9,40.8,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+False,5476,Benjamin Pavard,7,Right Wing Back,113.0,35.0,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+False,19677,Karim Benzema,22,Right Center Forward,112.7,31.6,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+False,5487,Antoine Griezmann,19,Center Attacking Midfield,113.9,29.3,5e3ea9cc-0919-40c3-9a85-3d2a0305bc2a
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,110.9,17.9,7bc6c4db-ac1d-4590-aa50-1982af636ced
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,107.8,21.3,7bc6c4db-ac1d-4590-aa50-1982af636ced
+False,5550,Yann Sommer,1,Goalkeeper,117.3,41.2,7bc6c4db-ac1d-4590-aa50-1982af636ced
+False,5548,Steven Zuber,8,Left Wing Back,107.4,46.8,7bc6c4db-ac1d-4590-aa50-1982af636ced
+False,5549,Manuel Obafemi Akanji,4,Center Back,111.8,37.4,7bc6c4db-ac1d-4590-aa50-1982af636ced
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,104.0,44.0,7bc6c4db-ac1d-4590-aa50-1982af636ced
+False,8814,Nico Elvedi,3,Right Center Back,110.6,32.1,7bc6c4db-ac1d-4590-aa50-1982af636ced
+False,3500,Granit Xhaka,11,Left Defensive Midfield,104.4,39.6,7bc6c4db-ac1d-4590-aa50-1982af636ced
+False,7796,Silvan Widmer,7,Right Wing Back,109.3,17.4,7bc6c4db-ac1d-4590-aa50-1982af636ced
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,98.3,37.2,7bc6c4db-ac1d-4590-aa50-1982af636ced
+False,6983,Remo Freuler,9,Right Defensive Midfield,103.0,22.0,7bc6c4db-ac1d-4590-aa50-1982af636ced
+True,5476,Benjamin Pavard,7,Right Wing Back,105.9,57.1,7bc6c4db-ac1d-4590-aa50-1982af636ced
+True,19677,Karim Benzema,22,Right Center Forward,108.2,44.9,7bc6c4db-ac1d-4590-aa50-1982af636ced
+True,5548,Steven Zuber,8,Left Wing Back,96.1,16.7,0706ced2-1605-4acb-b5ef-84761b4e6530
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,100.0,35.4,0706ced2-1605-4acb-b5ef-84761b4e6530
+True,5545,Breel-Donald Embolo,22,Right Center Forward,90.6,46.3,0706ced2-1605-4acb-b5ef-84761b4e6530
+True,3500,Granit Xhaka,11,Left Defensive Midfield,86.6,37.7,0706ced2-1605-4acb-b5ef-84761b4e6530
+True,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,82.5,24.3,0706ced2-1605-4acb-b5ef-84761b4e6530
+False,5476,Benjamin Pavard,7,Right Wing Back,99.1,30.8,0706ced2-1605-4acb-b5ef-84761b4e6530
+False,5485,Raphaël Varane,3,Right Center Back,99.4,39.5,0706ced2-1605-4acb-b5ef-84761b4e6530
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,96.0,37.2,0706ced2-1605-4acb-b5ef-84761b4e6530
+False,2999,Presnel Kimpembe,5,Left Center Back,96.6,46.0,0706ced2-1605-4acb-b5ef-84761b4e6530
+False,6826,Clément Lenglet,4,Center Back,95.2,43.1,0706ced2-1605-4acb-b5ef-84761b4e6530
+False,3026,Adrien Rabiot,8,Left Wing Back,95.5,57.3,0706ced2-1605-4acb-b5ef-84761b4e6530
+False,20004,Paul Pogba,9,Right Defensive Midfield,86.9,43.6,0706ced2-1605-4acb-b5ef-84761b4e6530
+False,3099,Hugo Lloris,1,Goalkeeper,119.3,41.2,0706ced2-1605-4acb-b5ef-84761b4e6530
+True,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,109.0,13.2,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+True,7796,Silvan Widmer,7,Right Wing Back,109.0,45.7,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+True,3500,Granit Xhaka,11,Left Defensive Midfield,90.5,23.6,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+False,5487,Antoine Griezmann,19,Center Attacking Midfield,98.7,43.0,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+False,20004,Paul Pogba,9,Right Defensive Midfield,98.3,27.8,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+False,3026,Adrien Rabiot,8,Left Wing Back,110.7,46.8,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+False,2999,Presnel Kimpembe,5,Left Center Back,110.5,43.7,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+False,6826,Clément Lenglet,4,Center Back,110.9,39.4,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+False,5485,Raphaël Varane,3,Right Center Back,110.5,29.8,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,106.4,23.1,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+False,5476,Benjamin Pavard,7,Right Wing Back,108.2,19.7,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+False,3099,Hugo Lloris,1,Goalkeeper,118.7,39.5,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+True,5545,Breel-Donald Embolo,22,Right Center Forward,99.5,36.8,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,109.3,33.6,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+True,5548,Steven Zuber,8,Left Wing Back,105.8,15.8,4f7af951-6ffd-45a2-9c85-d603eb6a397c
+False,3500,Granit Xhaka,11,Left Defensive Midfield,104.5,31.3,c6152663-1807-4cf4-8b19-dc8bb88c898f
+False,5543,Haris Seferović,24,Left Center Forward,104.7,30.6,c6152663-1807-4cf4-8b19-dc8bb88c898f
+False,5545,Breel-Donald Embolo,22,Right Center Forward,105.1,29.9,c6152663-1807-4cf4-8b19-dc8bb88c898f
+False,5550,Yann Sommer,1,Goalkeeper,119.2,40.5,c6152663-1807-4cf4-8b19-dc8bb88c898f
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,104.4,49.2,c6152663-1807-4cf4-8b19-dc8bb88c898f
+False,5549,Manuel Obafemi Akanji,4,Center Back,104.7,44.4,c6152663-1807-4cf4-8b19-dc8bb88c898f
+False,8814,Nico Elvedi,3,Right Center Back,106.3,40.1,c6152663-1807-4cf4-8b19-dc8bb88c898f
+False,7796,Silvan Widmer,7,Right Wing Back,105.7,38.2,c6152663-1807-4cf4-8b19-dc8bb88c898f
+False,6983,Remo Freuler,9,Right Defensive Midfield,103.5,36.3,c6152663-1807-4cf4-8b19-dc8bb88c898f
+False,5548,Steven Zuber,8,Left Wing Back,104.1,31.8,c6152663-1807-4cf4-8b19-dc8bb88c898f
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,100.2,35.1,c6152663-1807-4cf4-8b19-dc8bb88c898f
+True,5476,Benjamin Pavard,7,Right Wing Back,101.6,56.7,c6152663-1807-4cf4-8b19-dc8bb88c898f
+True,5485,Raphaël Varane,3,Right Center Back,104.9,45.6,c6152663-1807-4cf4-8b19-dc8bb88c898f
+True,19677,Karim Benzema,22,Right Center Forward,105.7,39.6,c6152663-1807-4cf4-8b19-dc8bb88c898f
+True,3026,Adrien Rabiot,8,Left Wing Back,100.9,35.6,c6152663-1807-4cf4-8b19-dc8bb88c898f
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,90.6,37.6,c6152663-1807-4cf4-8b19-dc8bb88c898f
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,92.8,28.4,c6152663-1807-4cf4-8b19-dc8bb88c898f
+True,2999,Presnel Kimpembe,5,Left Center Back,102.7,31.2,c6152663-1807-4cf4-8b19-dc8bb88c898f
+True,20004,Paul Pogba,9,Right Defensive Midfield,103.0,30.5,c6152663-1807-4cf4-8b19-dc8bb88c898f
+True,2999,Presnel Kimpembe,5,Left Center Back,101.8,31.8,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,90.6,37.5,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,92.9,29.7,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,105.2,49.1,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+True,19677,Karim Benzema,22,Right Center Forward,109.1,40.9,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,8814,Nico Elvedi,3,Right Center Back,110.4,38.4,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,5549,Manuel Obafemi Akanji,4,Center Back,107.1,43.5,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,7796,Silvan Widmer,7,Right Wing Back,110.4,34.7,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,6983,Remo Freuler,9,Right Defensive Midfield,103.8,34.4,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,5543,Haris Seferović,24,Left Center Forward,104.0,31.8,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,3500,Granit Xhaka,11,Left Defensive Midfield,103.0,32.1,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,5548,Steven Zuber,8,Left Wing Back,102.6,33.4,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,5545,Breel-Donald Embolo,22,Right Center Forward,102.4,30.1,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,99.3,34.6,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,5550,Yann Sommer,1,Goalkeeper,119.1,38.5,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+True,5485,Raphaël Varane,3,Right Center Back,107.9,43.7,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+True,5476,Benjamin Pavard,7,Right Wing Back,99.4,56.0,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+True,20004,Paul Pogba,9,Right Defensive Midfield,102.9,31.6,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+True,3026,Adrien Rabiot,8,Left Wing Back,100.2,36.1,86ce72e5-a407-499b-b4bd-1b97eb68ace0
+False,5550,Yann Sommer,1,Goalkeeper,117.1,39.8,2a18be36-d736-4d80-bb65-4108a6a25a78
+False,5548,Steven Zuber,8,Left Wing Back,101.1,56.1,2a18be36-d736-4d80-bb65-4108a6a25a78
+False,5549,Manuel Obafemi Akanji,4,Center Back,102.8,36.6,2a18be36-d736-4d80-bb65-4108a6a25a78
+False,3500,Granit Xhaka,11,Left Defensive Midfield,96.0,46.2,2a18be36-d736-4d80-bb65-4108a6a25a78
+False,7796,Silvan Widmer,7,Right Wing Back,102.7,23.6,2a18be36-d736-4d80-bb65-4108a6a25a78
+False,6983,Remo Freuler,9,Right Defensive Midfield,96.9,31.0,2a18be36-d736-4d80-bb65-4108a6a25a78
+False,8814,Nico Elvedi,3,Right Center Back,97.8,28.4,2a18be36-d736-4d80-bb65-4108a6a25a78
+False,5545,Breel-Donald Embolo,22,Right Center Forward,84.7,55.0,2a18be36-d736-4d80-bb65-4108a6a25a78
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,87.0,45.8,2a18be36-d736-4d80-bb65-4108a6a25a78
+True,5476,Benjamin Pavard,7,Right Wing Back,98.5,63.8,2a18be36-d736-4d80-bb65-4108a6a25a78
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,82.6,44.0,2a18be36-d736-4d80-bb65-4108a6a25a78
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,102.4,44.4,2a18be36-d736-4d80-bb65-4108a6a25a78
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,101.8,45.6,2a18be36-d736-4d80-bb65-4108a6a25a78
+True,20004,Paul Pogba,9,Right Defensive Midfield,90.9,52.4,2a18be36-d736-4d80-bb65-4108a6a25a78
+True,19677,Karim Benzema,22,Right Center Forward,98.2,33.3,2a18be36-d736-4d80-bb65-4108a6a25a78
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,99.2,13.2,2a18be36-d736-4d80-bb65-4108a6a25a78
+False,5476,Benjamin Pavard,7,Right Wing Back,113.3,39.3,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,3009,Kylian Mbappé Lottin,24,Left Center Forward,97.8,34.0,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,20004,Paul Pogba,9,Right Defensive Midfield,103.9,46.5,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,6826,Clément Lenglet,4,Center Back,107.8,43.8,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,19677,Karim Benzema,22,Right Center Forward,105.4,36.7,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,5485,Raphaël Varane,3,Right Center Back,112.2,44.0,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,2999,Presnel Kimpembe,5,Left Center Back,112.5,40.7,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,3026,Adrien Rabiot,8,Left Wing Back,113.2,34.9,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,5487,Antoine Griezmann,19,Center Attacking Midfield,111.9,31.0,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,102.7,13.6,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,3099,Hugo Lloris,1,Goalkeeper,119.2,39.7,8edb46c2-3cce-482e-bb79-8630f31c31a3
+True,3500,Granit Xhaka,11,Left Defensive Midfield,99.5,47.0,8edb46c2-3cce-482e-bb79-8630f31c31a3
+True,7796,Silvan Widmer,7,Right Wing Back,106.6,42.4,8edb46c2-3cce-482e-bb79-8630f31c31a3
+True,5548,Steven Zuber,8,Left Wing Back,102.4,30.7,8edb46c2-3cce-482e-bb79-8630f31c31a3
+True,5543,Haris Seferović,24,Left Center Forward,110.9,45.5,8edb46c2-3cce-482e-bb79-8630f31c31a3
+True,5549,Manuel Obafemi Akanji,4,Center Back,112.8,39.7,8edb46c2-3cce-482e-bb79-8630f31c31a3
+True,8814,Nico Elvedi,3,Right Center Back,111.9,37.6,8edb46c2-3cce-482e-bb79-8630f31c31a3
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,100.7,8.4,8edb46c2-3cce-482e-bb79-8630f31c31a3
+False,6826,Clément Lenglet,4,Center Back,112.8,44.6,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+True,7796,Silvan Widmer,7,Right Wing Back,112.6,44.1,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+True,5543,Haris Seferović,24,Left Center Forward,109.5,41.1,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+False,2999,Presnel Kimpembe,5,Left Center Back,114.4,41.2,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+True,5545,Breel-Donald Embolo,22,Right Center Forward,114.2,41.0,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+True,8814,Nico Elvedi,3,Right Center Back,113.1,34.4,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+False,3099,Hugo Lloris,1,Goalkeeper,118.7,39.7,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+False,20004,Paul Pogba,9,Right Defensive Midfield,102.7,42.2,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+False,5485,Raphaël Varane,3,Right Center Back,111.2,40.7,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+False,5476,Benjamin Pavard,7,Right Wing Back,115.6,40.6,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+False,3026,Adrien Rabiot,8,Left Wing Back,113.3,36.2,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,109.6,30.1,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+False,19677,Karim Benzema,22,Right Center Forward,114.1,33.3,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+False,5487,Antoine Griezmann,19,Center Attacking Midfield,114.4,29.6,26bf2ff1-beaf-4ccc-a3a7-557d63ef4dcb
+True,19677,Karim Benzema,22,Right Center Forward,99.4,31.4,514070ce-c694-453c-892c-8b16c5f072fc
+True,2999,Presnel Kimpembe,5,Left Center Back,96.7,20.6,514070ce-c694-453c-892c-8b16c5f072fc
+True,3026,Adrien Rabiot,8,Left Wing Back,89.5,30.3,514070ce-c694-453c-892c-8b16c5f072fc
+True,20004,Paul Pogba,9,Right Defensive Midfield,81.7,49.8,514070ce-c694-453c-892c-8b16c5f072fc
+False,5548,Steven Zuber,8,Left Wing Back,95.2,63.1,514070ce-c694-453c-892c-8b16c5f072fc
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,102.5,49.5,514070ce-c694-453c-892c-8b16c5f072fc
+False,5549,Manuel Obafemi Akanji,4,Center Back,99.9,51.4,514070ce-c694-453c-892c-8b16c5f072fc
+False,8814,Nico Elvedi,3,Right Center Back,102.5,41.5,514070ce-c694-453c-892c-8b16c5f072fc
+False,7796,Silvan Widmer,7,Right Wing Back,105.1,34.8,514070ce-c694-453c-892c-8b16c5f072fc
+False,3500,Granit Xhaka,11,Left Defensive Midfield,92.2,59.4,514070ce-c694-453c-892c-8b16c5f072fc
+False,6983,Remo Freuler,9,Right Defensive Midfield,97.0,45.5,514070ce-c694-453c-892c-8b16c5f072fc
+False,5545,Breel-Donald Embolo,22,Right Center Forward,97.4,41.1,514070ce-c694-453c-892c-8b16c5f072fc
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,86.0,44.9,514070ce-c694-453c-892c-8b16c5f072fc
+False,5550,Yann Sommer,1,Goalkeeper,116.5,40.6,514070ce-c694-453c-892c-8b16c5f072fc
+True,5476,Benjamin Pavard,7,Right Wing Back,103.1,63.2,514070ce-c694-453c-892c-8b16c5f072fc
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,103.8,55.8,514070ce-c694-453c-892c-8b16c5f072fc
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,101.6,42.8,514070ce-c694-453c-892c-8b16c5f072fc
+True,20004,Paul Pogba,9,Right Defensive Midfield,96.7,32.5,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+False,5548,Steven Zuber,8,Left Wing Back,109.3,47.4,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+False,5549,Manuel Obafemi Akanji,4,Center Back,112.7,36.0,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,110.1,38.9,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+False,3500,Granit Xhaka,11,Left Defensive Midfield,105.8,36.2,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+False,8814,Nico Elvedi,3,Right Center Back,108.3,26.8,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+False,7796,Silvan Widmer,7,Right Wing Back,108.3,24.7,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+False,6983,Remo Freuler,9,Right Defensive Midfield,104.8,27.6,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+False,5550,Yann Sommer,1,Goalkeeper,118.2,36.6,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+True,5476,Benjamin Pavard,7,Right Wing Back,108.4,51.5,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,109.2,39.3,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,109.9,29.9,9d276dfa-b0d8-4bb4-89ff-973e9f6da224
+False,5550,Yann Sommer,1,Goalkeeper,118.2,41.1,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,86.6,46.9,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+False,5548,Steven Zuber,8,Left Wing Back,98.0,65.8,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+False,6983,Remo Freuler,9,Right Defensive Midfield,95.1,52.2,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+False,3500,Granit Xhaka,11,Left Defensive Midfield,97.3,55.7,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+False,5545,Breel-Donald Embolo,22,Right Center Forward,91.7,32.7,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,102.7,56.7,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+False,5549,Manuel Obafemi Akanji,4,Center Back,104.6,46.1,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+True,3026,Adrien Rabiot,8,Left Wing Back,86.3,30.9,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+True,5476,Benjamin Pavard,7,Right Wing Back,105.0,60.1,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,105.3,44.8,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+True,19677,Karim Benzema,22,Right Center Forward,106.5,36.8,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+True,8217,Kingsley Coman,4,Center Back,101.7,21.2,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+False,8814,Nico Elvedi,3,Right Center Back,107.4,38.1,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+False,7796,Silvan Widmer,7,Right Wing Back,107.2,35.2,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+True,20004,Paul Pogba,9,Right Defensive Midfield,85.3,42.6,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,94.0,69.0,536ca59b-eb5b-4b1c-86bd-95ed60206f72
+False,5550,Yann Sommer,1,Goalkeeper,117.2,37.4,5eaa988b-9dae-4433-a07a-7ca41103323a
+False,5548,Steven Zuber,8,Left Wing Back,106.2,47.1,5eaa988b-9dae-4433-a07a-7ca41103323a
+False,8814,Nico Elvedi,3,Right Center Back,105.4,42.6,5eaa988b-9dae-4433-a07a-7ca41103323a
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,107.8,43.5,5eaa988b-9dae-4433-a07a-7ca41103323a
+False,5545,Breel-Donald Embolo,22,Right Center Forward,102.7,29.8,5eaa988b-9dae-4433-a07a-7ca41103323a
+False,3500,Granit Xhaka,11,Left Defensive Midfield,109.6,42.3,5eaa988b-9dae-4433-a07a-7ca41103323a
+False,5549,Manuel Obafemi Akanji,4,Center Back,109.3,40.2,5eaa988b-9dae-4433-a07a-7ca41103323a
+False,7796,Silvan Widmer,7,Right Wing Back,109.0,32.8,5eaa988b-9dae-4433-a07a-7ca41103323a
+True,3026,Adrien Rabiot,6,Left Back,87.9,20.7,5eaa988b-9dae-4433-a07a-7ca41103323a
+True,20004,Paul Pogba,9,Right Defensive Midfield,102.4,43.8,5eaa988b-9dae-4433-a07a-7ca41103323a
+True,5487,Antoine Griezmann,12,Right Midfield,108.0,54.4,5eaa988b-9dae-4433-a07a-7ca41103323a
+True,19677,Karim Benzema,22,Right Center Forward,108.2,42.7,5eaa988b-9dae-4433-a07a-7ca41103323a
+True,8217,Kingsley Coman,16,Left Midfield,105.5,36.2,5eaa988b-9dae-4433-a07a-7ca41103323a
+False,5550,Yann Sommer,1,Goalkeeper,114.1,40.9,9cdb6975-c954-4767-a3f1-f74d4295f70e
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,103.3,54.0,9cdb6975-c954-4767-a3f1-f74d4295f70e
+False,3500,Granit Xhaka,11,Left Defensive Midfield,102.1,49.8,9cdb6975-c954-4767-a3f1-f74d4295f70e
+False,5545,Breel-Donald Embolo,22,Right Center Forward,96.9,31.6,9cdb6975-c954-4767-a3f1-f74d4295f70e
+False,6983,Remo Freuler,9,Right Defensive Midfield,102.9,42.2,9cdb6975-c954-4767-a3f1-f74d4295f70e
+False,8814,Nico Elvedi,3,Right Center Back,103.9,38.5,9cdb6975-c954-4767-a3f1-f74d4295f70e
+False,5549,Manuel Obafemi Akanji,4,Center Back,107.9,42.8,9cdb6975-c954-4767-a3f1-f74d4295f70e
+False,7796,Silvan Widmer,7,Right Wing Back,112.3,40.1,9cdb6975-c954-4767-a3f1-f74d4295f70e
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,95.8,41.7,9cdb6975-c954-4767-a3f1-f74d4295f70e
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,96.7,36.4,9cdb6975-c954-4767-a3f1-f74d4295f70e
+True,5487,Antoine Griezmann,12,Right Midfield,108.8,49.6,9cdb6975-c954-4767-a3f1-f74d4295f70e
+True,8217,Kingsley Coman,16,Left Midfield,101.9,30.8,9cdb6975-c954-4767-a3f1-f74d4295f70e
+False,3500,Granit Xhaka,11,Left Defensive Midfield,104.1,35.6,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,111.4,41.2,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,101.0,20.9,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+False,6983,Remo Freuler,9,Right Defensive Midfield,108.6,32.3,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+False,5549,Manuel Obafemi Akanji,4,Center Back,112.3,38.3,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+False,8814,Nico Elvedi,3,Right Center Back,112.3,32.6,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+False,7796,Silvan Widmer,7,Right Wing Back,114.0,31.4,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+False,5550,Yann Sommer,1,Goalkeeper,117.6,35.2,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,105.7,34.1,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+True,19677,Karim Benzema,22,Right Center Forward,114.3,44.1,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+True,8217,Kingsley Coman,16,Left Midfield,107.5,24.2,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+True,20004,Paul Pogba,9,Right Defensive Midfield,102.8,16.1,f527e74e-a4d4-4dce-9760-6a7c48bc0a61
+True,8217,Kingsley Coman,16,Left Midfield,109.3,27.1,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+True,20004,Paul Pogba,9,Right Defensive Midfield,103.9,17.7,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+False,3500,Granit Xhaka,11,Left Defensive Midfield,104.3,36.6,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,100.6,21.9,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+False,6983,Remo Freuler,9,Right Defensive Midfield,111.1,35.8,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+False,5549,Manuel Obafemi Akanji,4,Center Back,112.8,36.7,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,118.7,41.8,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+False,8814,Nico Elvedi,3,Right Center Back,113.5,33.3,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+False,5550,Yann Sommer,1,Goalkeeper,117.1,34.9,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+False,7796,Silvan Widmer,7,Right Wing Back,117.3,32.7,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+True,5487,Antoine Griezmann,12,Right Midfield,120.0,33.9,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,109.6,35.3,fd42757a-1bda-4761-8b79-0cbfbd5a9835
+True,5487,Antoine Griezmann,12,Right Midfield,111.4,50.1,0805e8ab-33fe-438c-93c4-51b597e68d41
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,109.4,45.0,0805e8ab-33fe-438c-93c4-51b597e68d41
+True,8217,Kingsley Coman,16,Left Midfield,105.4,23.3,0805e8ab-33fe-438c-93c4-51b597e68d41
+True,3026,Adrien Rabiot,6,Left Back,112.2,24.2,0805e8ab-33fe-438c-93c4-51b597e68d41
+False,5548,Steven Zuber,8,Left Wing Back,103.3,47.6,0805e8ab-33fe-438c-93c4-51b597e68d41
+False,3500,Granit Xhaka,11,Left Defensive Midfield,101.0,39.1,0805e8ab-33fe-438c-93c4-51b597e68d41
+False,6983,Remo Freuler,9,Right Defensive Midfield,103.8,32.8,0805e8ab-33fe-438c-93c4-51b597e68d41
+False,5545,Breel-Donald Embolo,22,Right Center Forward,98.0,18.8,0805e8ab-33fe-438c-93c4-51b597e68d41
+False,5549,Manuel Obafemi Akanji,4,Center Back,109.3,36.9,0805e8ab-33fe-438c-93c4-51b597e68d41
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,112.0,39.8,0805e8ab-33fe-438c-93c4-51b597e68d41
+False,8814,Nico Elvedi,3,Right Center Back,108.8,32.8,0805e8ab-33fe-438c-93c4-51b597e68d41
+False,7796,Silvan Widmer,7,Right Wing Back,109.2,30.0,0805e8ab-33fe-438c-93c4-51b597e68d41
+False,5550,Yann Sommer,1,Goalkeeper,118.3,38.1,0805e8ab-33fe-438c-93c4-51b597e68d41
+True,19677,Karim Benzema,22,Right Center Forward,95.6,43.8,0805e8ab-33fe-438c-93c4-51b597e68d41
+True,3026,Adrien Rabiot,6,Left Back,87.0,4.4,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+True,19677,Karim Benzema,22,Right Center Forward,96.1,6.5,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+False,5548,Steven Zuber,8,Left Wing Back,89.7,54.0,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+False,6983,Remo Freuler,9,Right Defensive Midfield,81.1,20.2,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+False,3500,Granit Xhaka,11,Left Defensive Midfield,88.0,33.5,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,97.7,41.8,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+False,5545,Breel-Donald Embolo,22,Right Center Forward,86.3,9.4,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+False,8814,Nico Elvedi,3,Right Center Back,93.8,26.9,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+False,5549,Manuel Obafemi Akanji,4,Center Back,97.8,34.8,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+False,16027,Kevin Mbabu,7,Right Wing Back,99.3,19.7,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+False,5550,Yann Sommer,1,Goalkeeper,116.8,39.5,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+True,5487,Antoine Griezmann,12,Right Midfield,97.6,47.5,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,93.3,36.0,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+True,20004,Paul Pogba,9,Right Defensive Midfield,74.4,16.8,2be57d03-71bf-475a-bfba-e9a64e47f3d3
+True,5487,Antoine Griezmann,12,Right Midfield,105.8,31.9,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+True,8217,Kingsley Coman,16,Left Midfield,104.6,17.4,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+False,5548,Steven Zuber,8,Left Wing Back,97.3,47.3,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,106.6,42.0,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+False,5834,Mario Gavranović,19,Center Attacking Midfield,97.6,22.4,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+False,3500,Granit Xhaka,11,Left Defensive Midfield,103.2,30.9,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+False,8814,Nico Elvedi,3,Right Center Back,106.6,37.3,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+False,5549,Manuel Obafemi Akanji,4,Center Back,106.2,30.9,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+False,6983,Remo Freuler,9,Right Defensive Midfield,102.8,24.7,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+False,16027,Kevin Mbabu,7,Right Wing Back,106.8,23.2,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+False,5550,Yann Sommer,1,Goalkeeper,117.6,38.0,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+True,20004,Paul Pogba,9,Right Defensive Midfield,88.4,28.5,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,102.0,40.4,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+True,3026,Adrien Rabiot,6,Left Back,92.8,12.6,d828ef07-67a4-4ce5-9dfc-a1cfb970104f
+False,5550,Yann Sommer,1,Goalkeeper,119.1,40.4,68abdfcf-654e-485a-ab2f-1de442a726a1
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,98.3,42.8,68abdfcf-654e-485a-ab2f-1de442a726a1
+True,3026,Adrien Rabiot,6,Left Back,92.6,15.1,68abdfcf-654e-485a-ab2f-1de442a726a1
+True,5487,Antoine Griezmann,12,Right Midfield,106.8,35.4,68abdfcf-654e-485a-ab2f-1de442a726a1
+True,19677,Karim Benzema,22,Right Center Forward,102.3,25.6,68abdfcf-654e-485a-ab2f-1de442a726a1
+True,8217,Kingsley Coman,16,Left Midfield,103.4,19.2,68abdfcf-654e-485a-ab2f-1de442a726a1
+False,5548,Steven Zuber,8,Left Wing Back,98.1,48.4,68abdfcf-654e-485a-ab2f-1de442a726a1
+False,3500,Granit Xhaka,11,Left Defensive Midfield,96.9,38.9,68abdfcf-654e-485a-ab2f-1de442a726a1
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,102.9,44.2,68abdfcf-654e-485a-ab2f-1de442a726a1
+False,8814,Nico Elvedi,3,Right Center Back,102.2,41.0,68abdfcf-654e-485a-ab2f-1de442a726a1
+False,5834,Mario Gavranović,19,Center Attacking Midfield,96.3,27.8,68abdfcf-654e-485a-ab2f-1de442a726a1
+False,6983,Remo Freuler,9,Right Defensive Midfield,100.9,29.9,68abdfcf-654e-485a-ab2f-1de442a726a1
+False,5549,Manuel Obafemi Akanji,4,Center Back,105.4,35.0,68abdfcf-654e-485a-ab2f-1de442a726a1
+False,16027,Kevin Mbabu,7,Right Wing Back,105.3,26.0,68abdfcf-654e-485a-ab2f-1de442a726a1
+True,5476,Benjamin Pavard,2,Right Back,87.5,56.2,68abdfcf-654e-485a-ab2f-1de442a726a1
+True,3026,Adrien Rabiot,6,Left Back,105.7,34.0,e6d05570-678e-4305-aa53-c89fe9f38ea0
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,112.0,41.6,e6d05570-678e-4305-aa53-c89fe9f38ea0
+True,19677,Karim Benzema,22,Right Center Forward,110.6,23.0,e6d05570-678e-4305-aa53-c89fe9f38ea0
+False,3500,Granit Xhaka,11,Left Defensive Midfield,97.5,37.9,e6d05570-678e-4305-aa53-c89fe9f38ea0
+False,5548,Steven Zuber,8,Left Wing Back,102.7,44.6,e6d05570-678e-4305-aa53-c89fe9f38ea0
+False,6983,Remo Freuler,9,Right Defensive Midfield,102.5,32.0,e6d05570-678e-4305-aa53-c89fe9f38ea0
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,108.8,43.1,e6d05570-678e-4305-aa53-c89fe9f38ea0
+False,5545,Breel-Donald Embolo,22,Right Center Forward,101.7,23.5,e6d05570-678e-4305-aa53-c89fe9f38ea0
+False,8814,Nico Elvedi,3,Right Center Back,107.7,33.0,e6d05570-678e-4305-aa53-c89fe9f38ea0
+False,5549,Manuel Obafemi Akanji,4,Center Back,110.9,38.0,e6d05570-678e-4305-aa53-c89fe9f38ea0
+False,16027,Kevin Mbabu,7,Right Wing Back,110.1,27.1,e6d05570-678e-4305-aa53-c89fe9f38ea0
+False,5550,Yann Sommer,1,Goalkeeper,118.5,39.1,e6d05570-678e-4305-aa53-c89fe9f38ea0
+True,5487,Antoine Griezmann,12,Right Midfield,107.7,50.8,e6d05570-678e-4305-aa53-c89fe9f38ea0
+True,30401,Ruben Vargas,8,Left Wing Back,111.9,38.3,9caace84-9d20-4447-9e2e-b7ad14aea48e
+False,8217,Kingsley Coman,16,Left Midfield,110.8,61.2,9caace84-9d20-4447-9e2e-b7ad14aea48e
+False,3026,Adrien Rabiot,6,Left Back,110.4,53.8,9caace84-9d20-4447-9e2e-b7ad14aea48e
+False,2999,Presnel Kimpembe,5,Left Center Back,114.0,45.0,9caace84-9d20-4447-9e2e-b7ad14aea48e
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,108.5,51.5,9caace84-9d20-4447-9e2e-b7ad14aea48e
+False,5485,Raphaël Varane,3,Right Center Back,113.5,40.5,9caace84-9d20-4447-9e2e-b7ad14aea48e
+False,5476,Benjamin Pavard,2,Right Back,112.3,37.8,9caace84-9d20-4447-9e2e-b7ad14aea48e
+False,20004,Paul Pogba,9,Right Defensive Midfield,106.7,40.3,9caace84-9d20-4447-9e2e-b7ad14aea48e
+False,3099,Hugo Lloris,1,Goalkeeper,119.1,41.0,9caace84-9d20-4447-9e2e-b7ad14aea48e
+True,16027,Kevin Mbabu,7,Right Wing Back,109.5,62.4,9caace84-9d20-4447-9e2e-b7ad14aea48e
+True,16022,Christian Fassnacht,22,Right Center Forward,104.5,47.9,9caace84-9d20-4447-9e2e-b7ad14aea48e
+True,5834,Mario Gavranović,19,Center Attacking Midfield,109.3,39.6,9caace84-9d20-4447-9e2e-b7ad14aea48e
+True,20004,Paul Pogba,9,Right Defensive Midfield,98.8,55.6,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+True,5487,Antoine Griezmann,12,Right Midfield,101.7,51.5,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+True,19677,Karim Benzema,22,Right Center Forward,106.5,60.0,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+True,8217,Kingsley Coman,16,Left Midfield,95.8,26.1,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,103.3,35.7,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,5550,Yann Sommer,1,Goalkeeper,118.3,39.9,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,5834,Mario Gavranović,19,Center Attacking Midfield,92.4,54.5,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,30401,Ruben Vargas,8,Left Wing Back,99.6,61.7,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,16022,Christian Fassnacht,22,Right Center Forward,94.2,43.4,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,3500,Granit Xhaka,11,Left Defensive Midfield,100.7,61.1,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,6983,Remo Freuler,9,Right Defensive Midfield,99.0,50.6,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,5544,Ricardo Iván Rodríguez Araya,5,Left Center Back,103.0,53.1,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,8814,Nico Elvedi,3,Right Center Back,100.4,38.6,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,5549,Manuel Obafemi Akanji,4,Center Back,105.7,45.4,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,16027,Kevin Mbabu,7,Right Wing Back,104.3,32.8,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+True,5476,Benjamin Pavard,2,Right Back,94.9,73.5,2dcc6d72-2e76-4436-93d9-b0a8e8f9498a
+False,5485,Raphaël Varane,3,Right Center Back,108.4,35.4,ac167448-f1d6-4268-961b-4979a2121392
+False,3026,Adrien Rabiot,6,Left Back,109.2,46.0,ac167448-f1d6-4268-961b-4979a2121392
+False,2999,Presnel Kimpembe,5,Left Center Back,108.1,40.0,ac167448-f1d6-4268-961b-4979a2121392
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,104.9,40.1,ac167448-f1d6-4268-961b-4979a2121392
+False,8217,Kingsley Coman,16,Left Midfield,100.2,45.7,ac167448-f1d6-4268-961b-4979a2121392
+False,5476,Benjamin Pavard,2,Right Back,105.9,30.9,ac167448-f1d6-4268-961b-4979a2121392
+False,5487,Antoine Griezmann,12,Right Midfield,98.4,17.5,ac167448-f1d6-4268-961b-4979a2121392
+False,20004,Paul Pogba,9,Right Defensive Midfield,95.7,22.8,ac167448-f1d6-4268-961b-4979a2121392
+False,3009,Kylian Mbappé Lottin,24,Left Center Forward,87.5,40.1,ac167448-f1d6-4268-961b-4979a2121392
+False,3099,Hugo Lloris,1,Goalkeeper,119.1,37.9,ac167448-f1d6-4268-961b-4979a2121392
+True,16027,Kevin Mbabu,7,Right Wing Back,105.7,58.0,ac167448-f1d6-4268-961b-4979a2121392
+True,16022,Christian Fassnacht,22,Right Center Forward,107.9,44.7,ac167448-f1d6-4268-961b-4979a2121392
+True,5543,Haris Seferović,24,Left Center Forward,107.8,39.0,ac167448-f1d6-4268-961b-4979a2121392
+True,5834,Mario Gavranović,19,Center Attacking Midfield,110.3,31.6,ac167448-f1d6-4268-961b-4979a2121392
+True,30401,Ruben Vargas,8,Left Wing Back,101.5,41.3,ac167448-f1d6-4268-961b-4979a2121392
+True,6983,Remo Freuler,9,Right Defensive Midfield,93.8,41.0,ac167448-f1d6-4268-961b-4979a2121392
+False,3026,Adrien Rabiot,6,Left Back,104.0,44.7,a69b873c-81bf-436d-8980-4f4c01a072b4
+False,5485,Raphaël Varane,3,Right Center Back,103.9,36.3,a69b873c-81bf-436d-8980-4f4c01a072b4
+False,2999,Presnel Kimpembe,5,Left Center Back,101.5,38.4,a69b873c-81bf-436d-8980-4f4c01a072b4
+False,5476,Benjamin Pavard,2,Right Back,100.8,28.7,a69b873c-81bf-436d-8980-4f4c01a072b4
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,92.9,40.0,a69b873c-81bf-436d-8980-4f4c01a072b4
+False,3099,Hugo Lloris,1,Goalkeeper,117.0,40.3,a69b873c-81bf-436d-8980-4f4c01a072b4
+True,16022,Christian Fassnacht,22,Right Center Forward,103.9,47.3,a69b873c-81bf-436d-8980-4f4c01a072b4
+True,5543,Haris Seferović,24,Left Center Forward,100.4,30.4,a69b873c-81bf-436d-8980-4f4c01a072b4
+False,5550,Yann Sommer,1,Goalkeeper,117.9,37.6,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+True,3091,Moussa Sissoko,12,Right Midfield,112.9,60.3,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+True,19677,Karim Benzema,22,Right Center Forward,104.3,34.0,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,113.0,38.4,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+False,8219,Admir Mehmedi,5,Left Center Back,103.7,39.9,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+False,3500,Granit Xhaka,11,Left Defensive Midfield,113.8,55.8,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+False,30401,Ruben Vargas,8,Left Wing Back,112.6,48.2,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+False,6983,Remo Freuler,9,Right Defensive Midfield,107.4,36.3,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+False,8814,Nico Elvedi,3,Right Center Back,110.0,34.3,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+False,5549,Manuel Obafemi Akanji,4,Center Back,114.1,38.4,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+False,16027,Kevin Mbabu,7,Right Wing Back,109.3,29.7,c223ebc3-d9e5-4b49-9ae8-33545155ecec
+True,30401,Ruben Vargas,6,Left Back,118.7,78.4,6157e835-db95-4861-978f-85abc67c694c
+True,16022,Christian Fassnacht,12,Right Midfield,111.3,37.3,6157e835-db95-4861-978f-85abc67c694c
+True,5834,Mario Gavranović,22,Right Center Forward,111.5,38.1,6157e835-db95-4861-978f-85abc67c694c
+False,20004,Paul Pogba,9,Right Defensive Midfield,112.3,38.0,6157e835-db95-4861-978f-85abc67c694c
+False,3099,Hugo Lloris,1,Goalkeeper,119.4,41.8,6157e835-db95-4861-978f-85abc67c694c
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,108.2,44.1,6157e835-db95-4861-978f-85abc67c694c
+False,8217,Kingsley Coman,16,Left Midfield,114.7,48.9,6157e835-db95-4861-978f-85abc67c694c
+False,19677,Karim Benzema,22,Right Center Forward,113.6,46.9,6157e835-db95-4861-978f-85abc67c694c
+False,3026,Adrien Rabiot,6,Left Back,113.8,45.4,6157e835-db95-4861-978f-85abc67c694c
+False,5485,Raphaël Varane,3,Right Center Back,109.1,35.9,6157e835-db95-4861-978f-85abc67c694c
+False,3091,Moussa Sissoko,12,Right Midfield,116.5,47.2,6157e835-db95-4861-978f-85abc67c694c
+False,5476,Benjamin Pavard,2,Right Back,112.0,39.6,6157e835-db95-4861-978f-85abc67c694c
+False,2999,Presnel Kimpembe,5,Left Center Back,113.5,39.3,6157e835-db95-4861-978f-85abc67c694c
+True,3500,Granit Xhaka,11,Left Defensive Midfield,97.4,35.0,6157e835-db95-4861-978f-85abc67c694c
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,110.4,40.7,6157e835-db95-4861-978f-85abc67c694c
+True,8814,Nico Elvedi,3,Right Center Back,113.2,45.1,6157e835-db95-4861-978f-85abc67c694c
+True,5543,Haris Seferović,24,Left Center Forward,108.1,35.2,6157e835-db95-4861-978f-85abc67c694c
+True,3604,Olivier Giroud,22,Right Center Forward,114.6,34.5,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+True,3091,Moussa Sissoko,12,Right Midfield,94.6,62.9,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+False,5550,Yann Sommer,1,Goalkeeper,118.1,41.5,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+False,30401,Ruben Vargas,6,Left Back,111.3,44.6,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+False,3500,Granit Xhaka,11,Left Defensive Midfield,112.9,40.4,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+False,16027,Kevin Mbabu,2,Right Back,119.4,29.3,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,115.0,36.2,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+False,8814,Nico Elvedi,3,Right Center Back,113.4,33.0,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+False,6983,Remo Freuler,9,Right Defensive Midfield,111.2,34.7,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+False,8219,Admir Mehmedi,16,Left Midfield,104.5,43.8,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+False,16022,Christian Fassnacht,12,Right Midfield,113.2,24.9,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,115.2,39.8,9dd13a4d-fa0d-4e85-8db7-fb29b32d419e
+False,5537,Fabian Lukas Schär,6,Left Back,113.1,40.7,8a187c0e-5f0d-4f04-bae8-9fe360f14054
+False,30401,Ruben Vargas,16,Left Midfield,104.9,46.8,8a187c0e-5f0d-4f04-bae8-9fe360f14054
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,110.7,35.3,8a187c0e-5f0d-4f04-bae8-9fe360f14054
+False,6983,Remo Freuler,9,Right Defensive Midfield,111.1,32.8,8a187c0e-5f0d-4f04-bae8-9fe360f14054
+False,8814,Nico Elvedi,3,Right Center Back,114.1,26.0,8a187c0e-5f0d-4f04-bae8-9fe360f14054
+False,8219,Admir Mehmedi,24,Left Center Forward,109.6,24.9,8a187c0e-5f0d-4f04-bae8-9fe360f14054
+False,5550,Yann Sommer,1,Goalkeeper,119.0,36.3,8a187c0e-5f0d-4f04-bae8-9fe360f14054
+True,3604,Olivier Giroud,22,Right Center Forward,112.8,40.0,8a187c0e-5f0d-4f04-bae8-9fe360f14054
+True,3091,Moussa Sissoko,12,Right Midfield,105.8,50.0,8a187c0e-5f0d-4f04-bae8-9fe360f14054
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,107.1,36.5,8a187c0e-5f0d-4f04-bae8-9fe360f14054
+False,5537,Fabian Lukas Schär,6,Left Back,108.4,46.3,41df5fd7-b695-45af-9177-1dc647080177
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,107.2,40.4,41df5fd7-b695-45af-9177-1dc647080177
+False,16027,Kevin Mbabu,2,Right Back,107.4,33.3,41df5fd7-b695-45af-9177-1dc647080177
+False,8814,Nico Elvedi,3,Right Center Back,103.8,30.6,41df5fd7-b695-45af-9177-1dc647080177
+False,6983,Remo Freuler,9,Right Defensive Midfield,98.2,41.7,41df5fd7-b695-45af-9177-1dc647080177
+False,30401,Ruben Vargas,16,Left Midfield,89.9,50.1,41df5fd7-b695-45af-9177-1dc647080177
+False,16022,Christian Fassnacht,12,Right Midfield,100.5,27.7,41df5fd7-b695-45af-9177-1dc647080177
+False,5550,Yann Sommer,1,Goalkeeper,117.5,42.2,41df5fd7-b695-45af-9177-1dc647080177
+True,3604,Olivier Giroud,22,Right Center Forward,106.5,38.0,41df5fd7-b695-45af-9177-1dc647080177
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,94.4,43.6,41df5fd7-b695-45af-9177-1dc647080177
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,101.3,23.3,41df5fd7-b695-45af-9177-1dc647080177
+True,5834,Mario Gavranović,22,Right Center Forward,105.0,43.5,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+True,16022,Christian Fassnacht,12,Right Midfield,102.4,45.5,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+True,5537,Fabian Lukas Schär,6,Left Back,103.5,41.3,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+True,3500,Granit Xhaka,11,Left Defensive Midfield,90.4,39.0,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,3026,Adrien Rabiot,6,Left Back,100.4,44.3,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+True,30401,Ruben Vargas,16,Left Midfield,94.5,28.2,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,100.1,32.5,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+True,8814,Nico Elvedi,3,Right Center Back,103.3,35.9,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,3099,Hugo Lloris,1,Goalkeeper,118.4,41.4,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,3604,Olivier Giroud,22,Right Center Forward,94.2,42.0,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,8217,Kingsley Coman,16,Left Midfield,93.4,37.2,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,20004,Paul Pogba,9,Right Defensive Midfield,101.0,42.7,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,5485,Raphaël Varane,3,Right Center Back,103.1,44.6,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,3091,Moussa Sissoko,12,Right Midfield,101.2,26.0,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,2999,Presnel Kimpembe,5,Left Center Back,103.7,42.5,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,5476,Benjamin Pavard,2,Right Back,102.5,35.7,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,102.5,40.7,2ae7f87f-dff7-4f2c-9de0-4cf39d8a69b9
+False,5550,Yann Sommer,1,Goalkeeper,118.3,38.2,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+False,16027,Kevin Mbabu,2,Right Back,89.1,17.8,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+False,30401,Ruben Vargas,16,Left Midfield,109.7,45.1,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+False,16022,Christian Fassnacht,12,Right Midfield,95.1,18.6,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+False,5537,Fabian Lukas Schär,6,Left Back,103.8,38.4,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+False,3500,Granit Xhaka,11,Left Defensive Midfield,104.2,33.7,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+False,8219,Admir Mehmedi,24,Left Center Forward,104.0,26.7,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,111.6,36.4,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+False,6983,Remo Freuler,9,Right Defensive Midfield,107.0,25.9,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+False,8814,Nico Elvedi,3,Right Center Back,110.3,25.6,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+True,3091,Moussa Sissoko,12,Right Midfield,109.0,50.0,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+True,3604,Olivier Giroud,22,Right Center Forward,110.6,34.3,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,103.4,18.8,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+True,8217,Kingsley Coman,16,Left Midfield,110.3,19.9,a5db9dd0-f40a-437e-abf6-45f31e4bca9f
+True,8217,Kingsley Coman,16,Left Midfield,86.1,19.5,6a21f69e-f804-47e5-8666-c1f2ee681967
+False,16027,Kevin Mbabu,2,Right Back,84.7,22.0,6a21f69e-f804-47e5-8666-c1f2ee681967
+False,8219,Admir Mehmedi,24,Left Center Forward,88.6,29.9,6a21f69e-f804-47e5-8666-c1f2ee681967
+False,3500,Granit Xhaka,11,Left Defensive Midfield,95.2,40.3,6a21f69e-f804-47e5-8666-c1f2ee681967
+False,6983,Remo Freuler,9,Right Defensive Midfield,92.7,31.2,6a21f69e-f804-47e5-8666-c1f2ee681967
+False,30401,Ruben Vargas,16,Left Midfield,102.9,50.7,6a21f69e-f804-47e5-8666-c1f2ee681967
+False,5537,Fabian Lukas Schär,6,Left Back,109.0,42.6,6a21f69e-f804-47e5-8666-c1f2ee681967
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,109.3,39.8,6a21f69e-f804-47e5-8666-c1f2ee681967
+False,16022,Christian Fassnacht,12,Right Midfield,100.2,19.9,6a21f69e-f804-47e5-8666-c1f2ee681967
+False,8814,Nico Elvedi,3,Right Center Back,112.1,33.5,6a21f69e-f804-47e5-8666-c1f2ee681967
+False,5550,Yann Sommer,1,Goalkeeper,118.5,35.5,6a21f69e-f804-47e5-8666-c1f2ee681967
+True,3604,Olivier Giroud,22,Right Center Forward,106.5,39.0,6a21f69e-f804-47e5-8666-c1f2ee681967
+True,3026,Adrien Rabiot,6,Left Back,96.7,14.3,6a21f69e-f804-47e5-8666-c1f2ee681967
+True,3091,Moussa Sissoko,12,Right Midfield,108.8,47.0,5d5a9819-460e-455f-a9d8-62293bee2c69
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,108.5,36.9,5d5a9819-460e-455f-a9d8-62293bee2c69
+True,2972,Marcus Thuram,16,Left Midfield,109.0,21.6,5d5a9819-460e-455f-a9d8-62293bee2c69
+False,5550,Yann Sommer,1,Goalkeeper,117.9,37.9,5d5a9819-460e-455f-a9d8-62293bee2c69
+False,6983,Remo Freuler,9,Right Defensive Midfield,103.3,34.7,5d5a9819-460e-455f-a9d8-62293bee2c69
+False,30401,Ruben Vargas,16,Left Midfield,108.9,44.0,5d5a9819-460e-455f-a9d8-62293bee2c69
+False,16022,Christian Fassnacht,12,Right Midfield,98.3,23.5,5d5a9819-460e-455f-a9d8-62293bee2c69
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,109.8,38.1,5d5a9819-460e-455f-a9d8-62293bee2c69
+False,5537,Fabian Lukas Schär,6,Left Back,109.9,32.8,5d5a9819-460e-455f-a9d8-62293bee2c69
+False,16027,Kevin Mbabu,2,Right Back,106.7,25.7,5d5a9819-460e-455f-a9d8-62293bee2c69
+False,8814,Nico Elvedi,3,Right Center Back,109.1,24.6,5d5a9819-460e-455f-a9d8-62293bee2c69
+True,16027,Kevin Mbabu,2,Right Back,101.8,59.9,d1793169-a97a-4c64-abf8-c3173299c057
+False,3099,Hugo Lloris,1,Goalkeeper,118.8,39.6,d1793169-a97a-4c64-abf8-c3173299c057
+False,20004,Paul Pogba,9,Right Defensive Midfield,101.6,29.0,d1793169-a97a-4c64-abf8-c3173299c057
+False,5476,Benjamin Pavard,2,Right Back,102.6,27.7,d1793169-a97a-4c64-abf8-c3173299c057
+True,5537,Fabian Lukas Schär,6,Left Back,103.2,25.6,d1793169-a97a-4c64-abf8-c3173299c057
+True,8814,Nico Elvedi,3,Right Center Back,102.5,22.6,d1793169-a97a-4c64-abf8-c3173299c057
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,101.4,54.2,d1793169-a97a-4c64-abf8-c3173299c057
+False,3026,Adrien Rabiot,6,Left Back,102.8,42.5,d1793169-a97a-4c64-abf8-c3173299c057
+False,3604,Olivier Giroud,22,Right Center Forward,102.1,39.7,d1793169-a97a-4c64-abf8-c3173299c057
+False,2999,Presnel Kimpembe,5,Left Center Back,102.1,36.1,d1793169-a97a-4c64-abf8-c3173299c057
+False,5485,Raphaël Varane,3,Right Center Back,102.4,33.3,d1793169-a97a-4c64-abf8-c3173299c057
+True,16022,Christian Fassnacht,12,Right Midfield,101.2,34.8,d1793169-a97a-4c64-abf8-c3173299c057
+False,3091,Moussa Sissoko,12,Right Midfield,94.0,31.3,d1793169-a97a-4c64-abf8-c3173299c057
+False,3009,Kylian Mbappé Lottin,24,Left Center Forward,83.7,52.4,d1793169-a97a-4c64-abf8-c3173299c057
+False,2972,Marcus Thuram,16,Left Midfield,86.4,40.3,d1793169-a97a-4c64-abf8-c3173299c057
+True,5834,Mario Gavranović,22,Right Center Forward,103.5,40.3,d1793169-a97a-4c64-abf8-c3173299c057
+True,8219,Admir Mehmedi,24,Left Center Forward,104.1,33.6,d1793169-a97a-4c64-abf8-c3173299c057
+True,6983,Remo Freuler,9,Right Defensive Midfield,84.7,59.8,d1793169-a97a-4c64-abf8-c3173299c057
+True,30401,Ruben Vargas,16,Left Midfield,89.7,32.7,d1793169-a97a-4c64-abf8-c3173299c057
+True,3500,Granit Xhaka,11,Left Defensive Midfield,72.9,47.1,d1793169-a97a-4c64-abf8-c3173299c057
+False,5550,Yann Sommer,1,Goalkeeper,119.0,39.8,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+False,3500,Granit Xhaka,11,Left Defensive Midfield,97.0,38.1,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+False,6983,Remo Freuler,9,Right Defensive Midfield,93.7,30.3,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+False,30401,Ruben Vargas,16,Left Midfield,104.7,53.0,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+False,16022,Christian Fassnacht,12,Right Midfield,90.9,21.6,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,106.8,39.0,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+False,8814,Nico Elvedi,3,Right Center Back,103.6,32.8,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+False,5537,Fabian Lukas Schär,6,Left Back,108.9,41.3,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+False,16027,Kevin Mbabu,2,Right Back,102.6,25.5,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,93.2,40.1,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+True,3009,Kylian Mbappé Lottin,24,Left Center Forward,103.0,26.5,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+True,2972,Marcus Thuram,16,Left Midfield,99.3,9.1,a6deacc8-a210-4976-a05b-2dfa8749e5e5
+True,5834,Mario Gavranović,22,Right Center Forward,103.3,39.1,bb161b7f-179f-44fa-9a85-3f6967325b73
+True,8219,Admir Mehmedi,24,Left Center Forward,103.8,39.8,bb161b7f-179f-44fa-9a85-3f6967325b73
+False,5485,Raphaël Varane,3,Right Center Back,103.6,40.6,bb161b7f-179f-44fa-9a85-3f6967325b73
+False,3604,Olivier Giroud,22,Right Center Forward,100.2,50.0,bb161b7f-179f-44fa-9a85-3f6967325b73
+False,2972,Marcus Thuram,16,Left Midfield,100.1,49.4,bb161b7f-179f-44fa-9a85-3f6967325b73
+False,3091,Moussa Sissoko,12,Right Midfield,99.9,48.7,bb161b7f-179f-44fa-9a85-3f6967325b73
+False,20004,Paul Pogba,9,Right Defensive Midfield,99.8,48.1,bb161b7f-179f-44fa-9a85-3f6967325b73
+True,16022,Christian Fassnacht,12,Right Midfield,103.4,41.2,bb161b7f-179f-44fa-9a85-3f6967325b73
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,103.0,50.4,bb161b7f-179f-44fa-9a85-3f6967325b73
+False,2999,Presnel Kimpembe,5,Left Center Back,103.3,46.4,bb161b7f-179f-44fa-9a85-3f6967325b73
+False,3026,Adrien Rabiot,6,Left Back,103.5,43.0,bb161b7f-179f-44fa-9a85-3f6967325b73
+False,5476,Benjamin Pavard,2,Right Back,103.0,38.5,bb161b7f-179f-44fa-9a85-3f6967325b73
+False,3099,Hugo Lloris,1,Goalkeeper,118.0,38.7,bb161b7f-179f-44fa-9a85-3f6967325b73
+True,5537,Fabian Lukas Schär,6,Left Back,103.9,49.2,bb161b7f-179f-44fa-9a85-3f6967325b73
+True,16027,Kevin Mbabu,2,Right Back,103.8,50.8,bb161b7f-179f-44fa-9a85-3f6967325b73
+True,6983,Remo Freuler,9,Right Defensive Midfield,87.0,50.1,bb161b7f-179f-44fa-9a85-3f6967325b73

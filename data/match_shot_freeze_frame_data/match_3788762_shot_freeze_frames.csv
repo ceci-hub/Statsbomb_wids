@@ -1,0 +1,230 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,4673,Kamil Jóźwiak,7,Right Wing Back,93.1,65.7,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+True,29480,Jakub Moder,15,Left Center Midfield,81.6,30.4,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,77.8,15.9,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+False,6840,Marcos Llorente Moreno,2,Right Back,99.9,29.8,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+False,4353,Aymeric Laporte,3,Right Center Back,98.9,39.1,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+False,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,99.7,41.7,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,93.1,31.9,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+False,6892,Pau Francisco Torres,5,Left Center Back,98.1,47.0,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+False,6766,Gerard Moreno Balaguero,17,Right Wing,86.8,25.3,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+False,5211,Jordi Alba Ramos,6,Left Back,99.5,52.1,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+False,30486,Pedro González López,15,Left Center Midfield,92.0,44.1,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+False,16532,Daniel Olmo Carvajal,21,Left Wing,87.4,48.2,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+True,5660,Piotr Zieliński,10,Center Defensive Midfield,98.9,23.2,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+True,8836,Karol Świderski,22,Right Center Forward,99.2,37.8,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+True,5668,Robert Lewandowski,24,Left Center Forward,97.1,36.5,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+False,11748,Unai Simón Mendibil,1,Goalkeeper,119.1,40.0,59ab0c2f-65b0-4e7a-ac7a-8aeac3fd3987
+True,5211,Jordi Alba Ramos,6,Left Back,110.0,11.4,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,107.8,19.6,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+True,6766,Gerard Moreno Balaguero,17,Right Wing,105.1,40.3,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,96.7,46.3,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.9,36.0,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+True,6840,Marcos Llorente Moreno,2,Right Back,90.4,34.7,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,105.4,46.0,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,95.6,16.6,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+False,4626,Jan Bednarek,5,Left Center Back,108.0,38.2,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+False,3034,Kamil Glik,4,Center Back,106.4,24.7,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+False,29480,Jakub Moder,15,Left Center Midfield,99.0,33.6,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+False,5660,Piotr Zieliński,10,Center Defensive Midfield,100.5,24.8,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+False,5673,Bartosz Bereszyński,3,Right Center Back,104.9,19.1,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+False,4673,Kamil Jóźwiak,7,Right Wing Back,106.4,3.4,e6fbdeb9-fa5e-44c2-b9b0-8c1cac8bbfb3
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,83.3,43.9,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+True,30486,Pedro González López,15,Left Center Midfield,90.2,27.5,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+True,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,89.8,52.5,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+True,16532,Daniel Olmo Carvajal,21,Left Wing,97.3,36.2,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,102.1,44.5,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+True,6766,Gerard Moreno Balaguero,17,Right Wing,98.0,55.4,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.1,39.3,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+False,8836,Karol Świderski,22,Right Center Forward,87.8,42.1,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,93.6,32.1,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+False,4673,Kamil Jóźwiak,7,Right Wing Back,99.8,22.2,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+False,5660,Piotr Zieliński,10,Center Defensive Midfield,95.4,44.2,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+False,5673,Bartosz Bereszyński,3,Right Center Back,101.5,33.3,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+False,3034,Kamil Glik,4,Center Back,100.8,35.9,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+False,4626,Jan Bednarek,5,Left Center Back,101.6,44.3,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+False,29480,Jakub Moder,15,Left Center Midfield,100.1,48.0,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,101.9,54.8,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+True,5211,Jordi Alba Ramos,6,Left Back,92.2,11.3,03b56af9-4e92-40a4-9f4d-a38ac184cda3
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,116.5,59.8,ce737079-09ed-493b-8622-6cc0ff1a60c6
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.6,41.3,ce737079-09ed-493b-8622-6cc0ff1a60c6
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,103.1,35.1,ce737079-09ed-493b-8622-6cc0ff1a60c6
+False,4673,Kamil Jóźwiak,7,Right Wing Back,111.3,31.7,ce737079-09ed-493b-8622-6cc0ff1a60c6
+False,5673,Bartosz Bereszyński,3,Right Center Back,112.4,39.4,ce737079-09ed-493b-8622-6cc0ff1a60c6
+False,3034,Kamil Glik,4,Center Back,110.1,43.0,ce737079-09ed-493b-8622-6cc0ff1a60c6
+False,5660,Piotr Zieliński,10,Center Defensive Midfield,106.2,49.7,ce737079-09ed-493b-8622-6cc0ff1a60c6
+False,29480,Jakub Moder,15,Left Center Midfield,106.5,53.2,ce737079-09ed-493b-8622-6cc0ff1a60c6
+False,4626,Jan Bednarek,5,Left Center Back,112.4,46.1,ce737079-09ed-493b-8622-6cc0ff1a60c6
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,107.5,55.8,ce737079-09ed-493b-8622-6cc0ff1a60c6
+True,16532,Daniel Olmo Carvajal,21,Left Wing,109.2,43.5,ce737079-09ed-493b-8622-6cc0ff1a60c6
+True,6840,Marcos Llorente Moreno,2,Right Back,99.0,55.3,ce737079-09ed-493b-8622-6cc0ff1a60c6
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,112.4,38.3,ce737079-09ed-493b-8622-6cc0ff1a60c6
+True,5211,Jordi Alba Ramos,6,Left Back,111.1,29.7,ce737079-09ed-493b-8622-6cc0ff1a60c6
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,115.9,59.2,a49643f0-8810-40ef-a49e-4e28e496a363
+False,5669,Wojciech Szczęsny,1,Goalkeeper,119.1,40.4,a49643f0-8810-40ef-a49e-4e28e496a363
+False,8836,Karol Świderski,22,Right Center Forward,95.4,46.5,a49643f0-8810-40ef-a49e-4e28e496a363
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,103.4,34.6,a49643f0-8810-40ef-a49e-4e28e496a363
+False,4673,Kamil Jóźwiak,7,Right Wing Back,113.5,33.7,a49643f0-8810-40ef-a49e-4e28e496a363
+False,29480,Jakub Moder,15,Left Center Midfield,103.6,49.9,a49643f0-8810-40ef-a49e-4e28e496a363
+False,3034,Kamil Glik,4,Center Back,107.7,45.0,a49643f0-8810-40ef-a49e-4e28e496a363
+False,5673,Bartosz Bereszyński,3,Right Center Back,113.5,39.1,a49643f0-8810-40ef-a49e-4e28e496a363
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,107.0,52.8,a49643f0-8810-40ef-a49e-4e28e496a363
+False,4626,Jan Bednarek,5,Left Center Back,111.5,44.1,a49643f0-8810-40ef-a49e-4e28e496a363
+False,5660,Piotr Zieliński,10,Center Defensive Midfield,106.1,50.8,a49643f0-8810-40ef-a49e-4e28e496a363
+True,6840,Marcos Llorente Moreno,2,Right Back,98.0,55.1,a49643f0-8810-40ef-a49e-4e28e496a363
+True,6766,Gerard Moreno Balaguero,17,Right Wing,101.7,50.5,a49643f0-8810-40ef-a49e-4e28e496a363
+True,16532,Daniel Olmo Carvajal,21,Left Wing,106.4,44.1,a49643f0-8810-40ef-a49e-4e28e496a363
+True,5211,Jordi Alba Ramos,6,Left Back,116.4,31.2,a49643f0-8810-40ef-a49e-4e28e496a363
+True,6892,Pau Francisco Torres,5,Left Center Back,107.7,49.9,5245c596-975d-440a-949a-c2b62f605263
+False,5669,Wojciech Szczęsny,1,Goalkeeper,119.4,39.2,5245c596-975d-440a-949a-c2b62f605263
+True,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,106.0,41.1,5245c596-975d-440a-949a-c2b62f605263
+True,30486,Pedro González López,15,Left Center Midfield,98.2,34.3,5245c596-975d-440a-949a-c2b62f605263
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,97.4,38.9,5245c596-975d-440a-949a-c2b62f605263
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,106.2,36.8,5245c596-975d-440a-949a-c2b62f605263
+True,16532,Daniel Olmo Carvajal,21,Left Wing,106.3,34.0,5245c596-975d-440a-949a-c2b62f605263
+True,4353,Aymeric Laporte,3,Right Center Back,108.1,29.3,5245c596-975d-440a-949a-c2b62f605263
+True,5211,Jordi Alba Ramos,6,Left Back,106.6,39.9,5245c596-975d-440a-949a-c2b62f605263
+False,9622,Mateusz Andrzej Klich,13,Right Center Midfield,109.0,29.6,5245c596-975d-440a-949a-c2b62f605263
+False,5660,Piotr Zieliński,10,Center Defensive Midfield,108.1,33.9,5245c596-975d-440a-949a-c2b62f605263
+False,5673,Bartosz Bereszyński,3,Right Center Back,108.3,36.1,5245c596-975d-440a-949a-c2b62f605263
+False,3034,Kamil Glik,4,Center Back,107.7,41.8,5245c596-975d-440a-949a-c2b62f605263
+False,8836,Karol Świderski,22,Right Center Forward,108.8,42.4,5245c596-975d-440a-949a-c2b62f605263
+False,29480,Jakub Moder,15,Left Center Midfield,107.7,40.8,5245c596-975d-440a-949a-c2b62f605263
+False,4626,Jan Bednarek,5,Left Center Back,107.7,42.7,5245c596-975d-440a-949a-c2b62f605263
+False,5668,Robert Lewandowski,24,Left Center Forward,107.7,43.7,5245c596-975d-440a-949a-c2b62f605263
+False,4673,Kamil Jóźwiak,7,Right Wing Back,107.5,39.5,5245c596-975d-440a-949a-c2b62f605263
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,108.0,46.4,5245c596-975d-440a-949a-c2b62f605263
+False,11748,Unai Simón Mendibil,1,Goalkeeper,117.8,43.2,3652585e-b2d9-4585-98f4-932379227ef0
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,106.5,49.8,3652585e-b2d9-4585-98f4-932379227ef0
+False,16532,Daniel Olmo Carvajal,21,Left Wing,114.3,58.1,3652585e-b2d9-4585-98f4-932379227ef0
+False,5211,Jordi Alba Ramos,6,Left Back,114.7,55.1,3652585e-b2d9-4585-98f4-932379227ef0
+False,6766,Gerard Moreno Balaguero,17,Right Wing,107.3,38.2,3652585e-b2d9-4585-98f4-932379227ef0
+False,6892,Pau Francisco Torres,5,Left Center Back,113.7,46.1,3652585e-b2d9-4585-98f4-932379227ef0
+False,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,112.9,39.9,3652585e-b2d9-4585-98f4-932379227ef0
+False,6840,Marcos Llorente Moreno,2,Right Back,111.8,36.0,3652585e-b2d9-4585-98f4-932379227ef0
+False,4353,Aymeric Laporte,3,Right Center Back,116.8,42.4,3652585e-b2d9-4585-98f4-932379227ef0
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,103.8,51.7,3652585e-b2d9-4585-98f4-932379227ef0
+True,5668,Robert Lewandowski,24,Left Center Forward,115.1,62.3,3652585e-b2d9-4585-98f4-932379227ef0
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,96.2,21.7,3652585e-b2d9-4585-98f4-932379227ef0
+True,5660,Piotr Zieliński,10,Center Defensive Midfield,108.5,35.1,3652585e-b2d9-4585-98f4-932379227ef0
+False,6840,Marcos Llorente Moreno,2,Right Back,102.1,30.2,ce22561a-1d54-46d4-a8ef-7738923965c3
+False,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,102.7,39.1,ce22561a-1d54-46d4-a8ef-7738923965c3
+False,6892,Pau Francisco Torres,5,Left Center Back,105.3,46.3,ce22561a-1d54-46d4-a8ef-7738923965c3
+False,4353,Aymeric Laporte,3,Right Center Back,103.5,43.3,ce22561a-1d54-46d4-a8ef-7738923965c3
+False,5211,Jordi Alba Ramos,6,Left Back,102.5,55.4,ce22561a-1d54-46d4-a8ef-7738923965c3
+False,30486,Pedro González López,15,Left Center Midfield,98.3,44.6,ce22561a-1d54-46d4-a8ef-7738923965c3
+False,6766,Gerard Moreno Balaguero,17,Right Wing,82.3,17.6,ce22561a-1d54-46d4-a8ef-7738923965c3
+False,11748,Unai Simón Mendibil,1,Goalkeeper,118.6,40.9,ce22561a-1d54-46d4-a8ef-7738923965c3
+True,5668,Robert Lewandowski,24,Left Center Forward,97.4,25.8,ce22561a-1d54-46d4-a8ef-7738923965c3
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,96.2,30.4,ce22561a-1d54-46d4-a8ef-7738923965c3
+True,4673,Kamil Jóźwiak,7,Right Wing Back,105.7,54.9,ce22561a-1d54-46d4-a8ef-7738923965c3
+True,5660,Piotr Zieliński,10,Center Defensive Midfield,86.9,46.0,ce22561a-1d54-46d4-a8ef-7738923965c3
+False,6766,Gerard Moreno Balaguero,17,Right Wing,86.1,18.9,eaab2345-3620-4358-abb5-215694e06faf
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,101.2,49.6,eaab2345-3620-4358-abb5-215694e06faf
+False,30486,Pedro González López,15,Left Center Midfield,101.0,41.1,eaab2345-3620-4358-abb5-215694e06faf
+False,4353,Aymeric Laporte,3,Right Center Back,104.0,36.9,eaab2345-3620-4358-abb5-215694e06faf
+False,5211,Jordi Alba Ramos,6,Left Back,110.6,45.6,eaab2345-3620-4358-abb5-215694e06faf
+False,6892,Pau Francisco Torres,5,Left Center Back,114.2,42.5,eaab2345-3620-4358-abb5-215694e06faf
+False,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,113.1,36.9,eaab2345-3620-4358-abb5-215694e06faf
+False,6840,Marcos Llorente Moreno,2,Right Back,112.4,32.9,eaab2345-3620-4358-abb5-215694e06faf
+False,11748,Unai Simón Mendibil,1,Goalkeeper,117.3,36.1,eaab2345-3620-4358-abb5-215694e06faf
+True,5660,Piotr Zieliński,10,Center Defensive Midfield,97.0,39.3,eaab2345-3620-4358-abb5-215694e06faf
+True,4673,Kamil Jóźwiak,7,Right Wing Back,106.2,55.9,eaab2345-3620-4358-abb5-215694e06faf
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,97.7,28.3,eaab2345-3620-4358-abb5-215694e06faf
+True,6840,Marcos Llorente Moreno,2,Right Back,101.0,59.1,49bfc219-0e68-4f0c-9269-5cd694edafec
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,113.9,39.2,49bfc219-0e68-4f0c-9269-5cd694edafec
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,93.2,51.3,49bfc219-0e68-4f0c-9269-5cd694edafec
+True,5211,Jordi Alba Ramos,6,Left Back,109.3,17.5,49bfc219-0e68-4f0c-9269-5cd694edafec
+True,16532,Daniel Olmo Carvajal,21,Left Wing,99.9,25.0,49bfc219-0e68-4f0c-9269-5cd694edafec
+False,5669,Wojciech Szczęsny,1,Goalkeeper,115.7,35.3,49bfc219-0e68-4f0c-9269-5cd694edafec
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,108.4,48.2,49bfc219-0e68-4f0c-9269-5cd694edafec
+False,4626,Jan Bednarek,5,Left Center Back,113.5,36.0,49bfc219-0e68-4f0c-9269-5cd694edafec
+False,3034,Kamil Glik,4,Center Back,110.9,32.4,49bfc219-0e68-4f0c-9269-5cd694edafec
+False,5673,Bartosz Bereszyński,3,Right Center Back,112.0,18.4,49bfc219-0e68-4f0c-9269-5cd694edafec
+False,29480,Jakub Moder,15,Left Center Midfield,102.9,39.7,49bfc219-0e68-4f0c-9269-5cd694edafec
+False,8836,Karol Świderski,22,Right Center Forward,101.8,28.6,49bfc219-0e68-4f0c-9269-5cd694edafec
+False,6892,Pau Francisco Torres,5,Left Center Back,113.7,43.7,8b20f57a-b20a-4e77-a416-6bc191706cae
+False,5211,Jordi Alba Ramos,6,Left Back,110.2,64.0,8b20f57a-b20a-4e77-a416-6bc191706cae
+False,16532,Daniel Olmo Carvajal,21,Left Wing,103.8,65.8,8b20f57a-b20a-4e77-a416-6bc191706cae
+False,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,111.1,44.6,8b20f57a-b20a-4e77-a416-6bc191706cae
+False,4353,Aymeric Laporte,3,Right Center Back,114.1,37.2,8b20f57a-b20a-4e77-a416-6bc191706cae
+False,6840,Marcos Llorente Moreno,2,Right Back,112.3,34.5,8b20f57a-b20a-4e77-a416-6bc191706cae
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,107.8,40.0,8b20f57a-b20a-4e77-a416-6bc191706cae
+False,3477,Álvaro Borja Morata Martín,23,Center Forward,93.2,59.3,8b20f57a-b20a-4e77-a416-6bc191706cae
+False,30486,Pedro González López,15,Left Center Midfield,91.7,56.7,8b20f57a-b20a-4e77-a416-6bc191706cae
+False,11748,Unai Simón Mendibil,1,Goalkeeper,118.7,40.0,8b20f57a-b20a-4e77-a416-6bc191706cae
+True,29480,Jakub Moder,15,Left Center Midfield,91.4,55.4,8b20f57a-b20a-4e77-a416-6bc191706cae
+True,9622,Mateusz Andrzej Klich,13,Right Center Midfield,98.2,55.8,8b20f57a-b20a-4e77-a416-6bc191706cae
+True,5660,Piotr Zieliński,10,Center Defensive Midfield,103.0,43.3,8b20f57a-b20a-4e77-a416-6bc191706cae
+True,4673,Kamil Jóźwiak,7,Right Wing Back,107.0,71.9,8b20f57a-b20a-4e77-a416-6bc191706cae
+True,8836,Karol Świderski,22,Right Center Forward,113.2,44.4,8b20f57a-b20a-4e77-a416-6bc191706cae
+False,5669,Wojciech Szczęsny,1,Goalkeeper,119.0,39.3,faca1f61-fcbe-40a0-8d62-201dbfa312ea
+True,16532,Daniel Olmo Carvajal,21,Left Wing,97.2,28.5,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+True,6766,Gerard Moreno Balaguero,17,Right Wing,109.1,41.1,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+True,6840,Marcos Llorente Moreno,2,Right Back,105.0,46.0,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+True,30486,Pedro González López,15,Left Center Midfield,96.5,34.2,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+True,5211,Jordi Alba Ramos,6,Left Back,105.0,18.9,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+True,6765,Rodrigo Hernández Cascante,10,Center Defensive Midfield,96.3,49.2,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,104.6,58.4,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+False,5669,Wojciech Szczęsny,1,Goalkeeper,117.9,37.4,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+False,3034,Kamil Glik,4,Center Back,107.3,36.5,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+False,4673,Kamil Jóźwiak,7,Right Wing Back,101.8,29.9,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+False,8836,Karol Świderski,22,Right Center Forward,105.3,42.5,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+False,5673,Bartosz Bereszyński,3,Right Center Back,99.7,34.9,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+False,5660,Piotr Zieliński,10,Center Defensive Midfield,102.8,48.2,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,103.4,52.4,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+False,4626,Jan Bednarek,5,Left Center Back,104.5,49.5,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+False,26718,Kacper Kozłowski,13,Right Center Midfield,102.6,49.6,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+False,29480,Jakub Moder,15,Left Center Midfield,99.2,46.6,fbfa0139-8bb4-4611-bfcc-5324ea8f890d
+True,5211,Jordi Alba Ramos,6,Left Back,89.8,19.6,3b09050d-d285-4c3b-afc1-6ab5ea9be29e
+True,6748,Ferrán Torres García,21,Left Wing,102.9,37.5,3b09050d-d285-4c3b-afc1-6ab5ea9be29e
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.1,43.8,3b09050d-d285-4c3b-afc1-6ab5ea9be29e
+False,4673,Kamil Jóźwiak,7,Right Wing Back,106.0,30.6,3b09050d-d285-4c3b-afc1-6ab5ea9be29e
+False,5673,Bartosz Bereszyński,3,Right Center Back,106.3,38.2,3b09050d-d285-4c3b-afc1-6ab5ea9be29e
+False,3034,Kamil Glik,4,Center Back,110.2,54.5,3b09050d-d285-4c3b-afc1-6ab5ea9be29e
+False,29480,Jakub Moder,11,Left Defensive Midfield,106.5,52.9,3b09050d-d285-4c3b-afc1-6ab5ea9be29e
+False,5660,Piotr Zieliński,9,Right Defensive Midfield,99.2,45.9,3b09050d-d285-4c3b-afc1-6ab5ea9be29e
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,104.6,60.6,3b09050d-d285-4c3b-afc1-6ab5ea9be29e
+False,4626,Jan Bednarek,5,Left Center Back,101.6,56.5,3b09050d-d285-4c3b-afc1-6ab5ea9be29e
+True,5211,Jordi Alba Ramos,6,Left Back,93.5,33.9,a1147ff0-f823-43db-999f-ea5de6549b2d
+True,6748,Ferrán Torres García,21,Left Wing,102.3,25.7,a1147ff0-f823-43db-999f-ea5de6549b2d
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,110.7,38.5,a1147ff0-f823-43db-999f-ea5de6549b2d
+True,6720,Pablo Sarabia García,17,Right Wing,112.8,53.0,a1147ff0-f823-43db-999f-ea5de6549b2d
+True,30486,Pedro González López,15,Left Center Midfield,105.4,44.2,a1147ff0-f823-43db-999f-ea5de6549b2d
+True,6840,Marcos Llorente Moreno,2,Right Back,111.9,71.3,a1147ff0-f823-43db-999f-ea5de6549b2d
+False,5669,Wojciech Szczęsny,1,Goalkeeper,119.1,41.4,a1147ff0-f823-43db-999f-ea5de6549b2d
+False,3034,Kamil Glik,4,Center Back,108.3,43.4,a1147ff0-f823-43db-999f-ea5de6549b2d
+False,4673,Kamil Jóźwiak,7,Right Wing Back,108.4,34.5,a1147ff0-f823-43db-999f-ea5de6549b2d
+False,5673,Bartosz Bereszyński,3,Right Center Back,111.2,39.7,a1147ff0-f823-43db-999f-ea5de6549b2d
+False,7979,Przemysław Frankowski,17,Right Wing,105.0,42.8,a1147ff0-f823-43db-999f-ea5de6549b2d
+False,29480,Jakub Moder,11,Left Defensive Midfield,108.3,51.3,a1147ff0-f823-43db-999f-ea5de6549b2d
+False,5660,Piotr Zieliński,9,Right Defensive Midfield,106.6,45.7,a1147ff0-f823-43db-999f-ea5de6549b2d
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,111.4,66.6,a1147ff0-f823-43db-999f-ea5de6549b2d
+False,26718,Kacper Kozłowski,21,Left Wing,101.9,53.1,a1147ff0-f823-43db-999f-ea5de6549b2d
+False,4626,Jan Bednarek,5,Left Center Back,110.4,49.1,a1147ff0-f823-43db-999f-ea5de6549b2d
+True,5211,Jordi Alba Ramos,6,Left Back,89.0,17.4,a4fec57e-ef17-40ab-84bf-499fb403a5af
+True,6748,Ferrán Torres García,21,Left Wing,103.3,29.0,a4fec57e-ef17-40ab-84bf-499fb403a5af
+True,6655,Fabián Ruiz Peña,13,Right Center Midfield,94.7,36.3,a4fec57e-ef17-40ab-84bf-499fb403a5af
+True,6840,Marcos Llorente Moreno,2,Right Back,106.4,65.9,a4fec57e-ef17-40ab-84bf-499fb403a5af
+True,6720,Pablo Sarabia García,17,Right Wing,115.7,40.5,a4fec57e-ef17-40ab-84bf-499fb403a5af
+False,4673,Kamil Jóźwiak,7,Right Wing Back,96.0,14.7,a4fec57e-ef17-40ab-84bf-499fb403a5af
+False,3034,Kamil Glik,4,Center Back,107.5,33.4,a4fec57e-ef17-40ab-84bf-499fb403a5af
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,113.8,42.5,a4fec57e-ef17-40ab-84bf-499fb403a5af
+False,5660,Piotr Zieliński,9,Right Defensive Midfield,96.7,21.8,a4fec57e-ef17-40ab-84bf-499fb403a5af
+False,7979,Przemysław Frankowski,17,Right Wing,92.1,19.0,a4fec57e-ef17-40ab-84bf-499fb403a5af
+False,29480,Jakub Moder,11,Left Defensive Midfield,99.1,39.0,a4fec57e-ef17-40ab-84bf-499fb403a5af
+False,5673,Bartosz Bereszyński,3,Right Center Back,105.5,28.0,a4fec57e-ef17-40ab-84bf-499fb403a5af
+False,4626,Jan Bednarek,5,Left Center Back,114.3,40.1,a4fec57e-ef17-40ab-84bf-499fb403a5af
+False,5669,Wojciech Szczęsny,1,Goalkeeper,114.9,36.8,a4fec57e-ef17-40ab-84bf-499fb403a5af
+True,6720,Pablo Sarabia García,17,Right Wing,115.5,42.0,29889ea7-774c-43f2-bf92-3ef8b270dd07
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,117.2,36.0,29889ea7-774c-43f2-bf92-3ef8b270dd07
+False,5669,Wojciech Szczęsny,1,Goalkeeper,113.9,37.1,29889ea7-774c-43f2-bf92-3ef8b270dd07
+False,4626,Jan Bednarek,5,Left Center Back,116.5,36.7,29889ea7-774c-43f2-bf92-3ef8b270dd07
+False,4673,Kamil Jóźwiak,7,Right Wing Back,100.6,16.7,29889ea7-774c-43f2-bf92-3ef8b270dd07
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,116.3,39.5,29889ea7-774c-43f2-bf92-3ef8b270dd07
+False,5660,Piotr Zieliński,9,Right Defensive Midfield,97.6,23.6,29889ea7-774c-43f2-bf92-3ef8b270dd07
+False,7979,Przemysław Frankowski,17,Right Wing,93.1,20.0,29889ea7-774c-43f2-bf92-3ef8b270dd07
+False,5673,Bartosz Bereszyński,3,Right Center Back,105.9,30.3,29889ea7-774c-43f2-bf92-3ef8b270dd07
+False,29480,Jakub Moder,11,Left Defensive Midfield,103.9,37.2,29889ea7-774c-43f2-bf92-3ef8b270dd07
+False,3034,Kamil Glik,4,Center Back,108.9,32.2,29889ea7-774c-43f2-bf92-3ef8b270dd07
+True,6840,Marcos Llorente Moreno,2,Right Back,105.1,61.6,29889ea7-774c-43f2-bf92-3ef8b270dd07

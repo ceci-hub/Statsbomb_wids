@@ -1,0 +1,302 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,3077,Jan Vertonghen,5,Left Center Back,110.3,46.7,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,3166,Marco Verratti,15,Left Center Midfield,111.8,17.4,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,7037,Lorenzo Insigne,21,Left Wing,102.5,35.1,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,8181,Nicolò Barella,13,Right Center Midfield,112.9,32.9,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,7156,Federico Chiesa,17,Right Wing,111.8,40.3,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,6954,Giorgio Chiellini,5,Left Center Back,116.4,36.9,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,11514,Giovanni Di Lorenzo,2,Right Back,113.7,41.1,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,8286,Leonardo Spinazzola,6,Left Back,116.6,41.1,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,117.0,39.8,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+True,3089,Kevin De Bruyne,18,Right Attacking Midfield,119.3,4.2,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+True,5642,Axel Witsel,11,Left Defensive Midfield,114.4,31.5,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+True,6332,Thomas Vermaelen,4,Center Back,118.3,27.6,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,7173,Leonardo Bonucci,3,Right Center Back,116.9,32.2,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,116.8,30.1,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+True,3289,Romelu Lukaku Menama,23,Center Forward,117.1,38.1,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+False,7788,Ciro Immobile,23,Center Forward,117.2,31.0,926944ac-d9c7-4f35-a1ec-31516d2a2d14
+True,7173,Leonardo Bonucci,3,Right Center Back,113.1,38.4,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+True,8181,Nicolò Barella,13,Right Center Midfield,106.3,31.6,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+True,7788,Ciro Immobile,23,Center Forward,111.2,45.9,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+True,6954,Giorgio Chiellini,5,Left Center Back,109.2,47.8,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+False,3509,Thibaut Courtois,1,Goalkeeper,117.6,41.6,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+False,3176,Thomas Meunier,7,Right Wing Back,109.7,33.4,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+False,20005,Toby Alderweireld,3,Right Center Back,111.0,36.0,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+False,6332,Thomas Vermaelen,4,Center Back,111.6,37.7,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+False,3077,Jan Vertonghen,5,Left Center Back,110.0,39.8,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+False,5642,Axel Witsel,11,Left Defensive Midfield,110.2,42.9,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+False,3289,Romelu Lukaku Menama,23,Center Forward,111.6,45.9,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+False,5632,Thorgan Hazard,8,Left Wing Back,100.4,45.0,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+False,2954,Youri Tielemans,9,Right Defensive Midfield,109.7,48.4,7f73eca8-ac3a-4378-a0f9-7b48b6389f86
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,93.9,31.3,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+False,3166,Marco Verratti,15,Left Center Midfield,91.7,39.2,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,118.3,39.9,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+False,8286,Leonardo Spinazzola,6,Left Back,99.9,51.3,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+False,6954,Giorgio Chiellini,5,Left Center Back,100.9,35.9,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+False,7173,Leonardo Bonucci,3,Right Center Back,101.6,31.3,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+False,11514,Giovanni Di Lorenzo,2,Right Back,100.0,18.0,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+True,23650,Jeremy Doku,20,Left Attacking Midfield,93.1,3.4,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+True,5632,Thorgan Hazard,8,Left Wing Back,100.7,19.1,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+True,3289,Romelu Lukaku Menama,23,Center Forward,99.7,31.2,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+True,3176,Thomas Meunier,7,Right Wing Back,92.6,63.6,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+True,3089,Kevin De Bruyne,18,Right Attacking Midfield,91.6,50.7,fead4f1d-98bb-46b6-809c-4fa6b25484a3
+True,20005,Toby Alderweireld,3,Right Center Back,90.1,33.1,e3d973e9-3b34-4012-a6de-4ae936428268
+False,8181,Nicolò Barella,13,Right Center Midfield,97.6,31.8,e3d973e9-3b34-4012-a6de-4ae936428268
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,104.5,30.8,e3d973e9-3b34-4012-a6de-4ae936428268
+False,7173,Leonardo Bonucci,3,Right Center Back,106.0,36.8,e3d973e9-3b34-4012-a6de-4ae936428268
+False,11514,Giovanni Di Lorenzo,2,Right Back,105.4,36.0,e3d973e9-3b34-4012-a6de-4ae936428268
+False,6954,Giorgio Chiellini,5,Left Center Back,107.2,39.0,e3d973e9-3b34-4012-a6de-4ae936428268
+False,7788,Ciro Immobile,23,Center Forward,104.5,45.4,e3d973e9-3b34-4012-a6de-4ae936428268
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,118.7,38.1,e3d973e9-3b34-4012-a6de-4ae936428268
+False,8286,Leonardo Spinazzola,6,Left Back,106.6,50.6,e3d973e9-3b34-4012-a6de-4ae936428268
+False,3166,Marco Verratti,15,Left Center Midfield,103.8,48.4,e3d973e9-3b34-4012-a6de-4ae936428268
+False,7156,Federico Chiesa,17,Right Wing,98.0,55.7,e3d973e9-3b34-4012-a6de-4ae936428268
+False,7037,Lorenzo Insigne,21,Left Wing,91.7,61.8,e3d973e9-3b34-4012-a6de-4ae936428268
+True,6332,Thomas Vermaelen,4,Center Back,107.2,41.5,e3d973e9-3b34-4012-a6de-4ae936428268
+True,3289,Romelu Lukaku Menama,23,Center Forward,107.5,43.0,e3d973e9-3b34-4012-a6de-4ae936428268
+True,5632,Thorgan Hazard,8,Left Wing Back,105.2,54.0,e3d973e9-3b34-4012-a6de-4ae936428268
+True,3077,Jan Vertonghen,5,Left Center Back,93.5,48.6,e3d973e9-3b34-4012-a6de-4ae936428268
+True,23650,Jeremy Doku,20,Left Attacking Midfield,103.4,21.0,e3d973e9-3b34-4012-a6de-4ae936428268
+True,5642,Axel Witsel,11,Left Defensive Midfield,92.4,41.9,e3d973e9-3b34-4012-a6de-4ae936428268
+False,6954,Giorgio Chiellini,5,Left Center Back,106.6,50.1,b79721a7-823d-491c-afb7-c19ff85fb7f1
+False,7173,Leonardo Bonucci,3,Right Center Back,101.6,46.0,b79721a7-823d-491c-afb7-c19ff85fb7f1
+False,11514,Giovanni Di Lorenzo,2,Right Back,105.9,34.3,b79721a7-823d-491c-afb7-c19ff85fb7f1
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,97.1,46.0,b79721a7-823d-491c-afb7-c19ff85fb7f1
+False,8181,Nicolò Barella,13,Right Center Midfield,100.8,38.1,b79721a7-823d-491c-afb7-c19ff85fb7f1
+False,8286,Leonardo Spinazzola,6,Left Back,85.2,60.4,b79721a7-823d-491c-afb7-c19ff85fb7f1
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,117.2,40.4,b79721a7-823d-491c-afb7-c19ff85fb7f1
+True,3289,Romelu Lukaku Menama,23,Center Forward,106.6,58.9,b79721a7-823d-491c-afb7-c19ff85fb7f1
+True,23650,Jeremy Doku,20,Left Attacking Midfield,102.0,26.0,b79721a7-823d-491c-afb7-c19ff85fb7f1
+True,5632,Thorgan Hazard,8,Left Wing Back,101.3,18.6,b79721a7-823d-491c-afb7-c19ff85fb7f1
+False,6954,Giorgio Chiellini,5,Left Center Back,107.7,51.6,b33ebe84-0077-4a74-8e03-a99faa86dd5e
+True,3089,Kevin De Bruyne,18,Right Attacking Midfield,96.9,40.9,b33ebe84-0077-4a74-8e03-a99faa86dd5e
+True,23650,Jeremy Doku,20,Left Attacking Midfield,100.9,26.9,b33ebe84-0077-4a74-8e03-a99faa86dd5e
+False,8181,Nicolò Barella,13,Right Center Midfield,104.9,51.1,b33ebe84-0077-4a74-8e03-a99faa86dd5e
+False,7173,Leonardo Bonucci,3,Right Center Back,105.4,42.3,b33ebe84-0077-4a74-8e03-a99faa86dd5e
+False,11514,Giovanni Di Lorenzo,2,Right Back,105.8,36.2,b33ebe84-0077-4a74-8e03-a99faa86dd5e
+False,3166,Marco Verratti,15,Left Center Midfield,97.8,45.6,b33ebe84-0077-4a74-8e03-a99faa86dd5e
+False,8286,Leonardo Spinazzola,6,Left Back,82.9,55.5,b33ebe84-0077-4a74-8e03-a99faa86dd5e
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,117.2,42.6,b33ebe84-0077-4a74-8e03-a99faa86dd5e
+False,3509,Thibaut Courtois,1,Goalkeeper,119.1,37.3,42954251-869f-4d72-b909-c92c64c8b24a
+True,7037,Lorenzo Insigne,21,Left Wing,86.4,22.3,42954251-869f-4d72-b909-c92c64c8b24a
+True,11514,Giovanni Di Lorenzo,2,Right Back,108.1,46.8,42954251-869f-4d72-b909-c92c64c8b24a
+True,8181,Nicolò Barella,13,Right Center Midfield,108.9,38.8,42954251-869f-4d72-b909-c92c64c8b24a
+True,7788,Ciro Immobile,23,Center Forward,112.2,43.4,42954251-869f-4d72-b909-c92c64c8b24a
+True,8286,Leonardo Spinazzola,6,Left Back,91.4,12.0,42954251-869f-4d72-b909-c92c64c8b24a
+False,5642,Axel Witsel,11,Left Defensive Midfield,97.4,41.1,42954251-869f-4d72-b909-c92c64c8b24a
+False,23650,Jeremy Doku,20,Left Attacking Midfield,109.1,46.1,42954251-869f-4d72-b909-c92c64c8b24a
+False,3077,Jan Vertonghen,5,Left Center Back,108.5,34.9,42954251-869f-4d72-b909-c92c64c8b24a
+False,2954,Youri Tielemans,9,Right Defensive Midfield,112.5,37.4,42954251-869f-4d72-b909-c92c64c8b24a
+False,20005,Toby Alderweireld,3,Right Center Back,111.3,30.7,42954251-869f-4d72-b909-c92c64c8b24a
+False,5632,Thorgan Hazard,8,Left Wing Back,108.5,25.2,42954251-869f-4d72-b909-c92c64c8b24a
+False,3176,Thomas Meunier,7,Right Wing Back,112.6,26.1,42954251-869f-4d72-b909-c92c64c8b24a
+True,8181,Nicolò Barella,13,Right Center Midfield,101.1,44.9,b3412bd8-85e8-49be-b0a7-b61b2532d284
+False,3509,Thibaut Courtois,1,Goalkeeper,118.2,36.9,b3412bd8-85e8-49be-b0a7-b61b2532d284
+False,5632,Thorgan Hazard,8,Left Wing Back,105.4,47.4,b3412bd8-85e8-49be-b0a7-b61b2532d284
+False,5642,Axel Witsel,11,Left Defensive Midfield,99.2,36.7,b3412bd8-85e8-49be-b0a7-b61b2532d284
+False,2954,Youri Tielemans,9,Right Defensive Midfield,101.3,30.4,b3412bd8-85e8-49be-b0a7-b61b2532d284
+False,3077,Jan Vertonghen,5,Left Center Back,108.5,36.8,b3412bd8-85e8-49be-b0a7-b61b2532d284
+False,6332,Thomas Vermaelen,4,Center Back,107.8,31.5,b3412bd8-85e8-49be-b0a7-b61b2532d284
+False,20005,Toby Alderweireld,3,Right Center Back,111.3,29.9,b3412bd8-85e8-49be-b0a7-b61b2532d284
+False,3176,Thomas Meunier,7,Right Wing Back,108.7,24.9,b3412bd8-85e8-49be-b0a7-b61b2532d284
+True,7037,Lorenzo Insigne,21,Left Wing,93.3,28.0,b3412bd8-85e8-49be-b0a7-b61b2532d284
+True,7788,Ciro Immobile,23,Center Forward,108.1,39.9,b3412bd8-85e8-49be-b0a7-b61b2532d284
+True,3166,Marco Verratti,15,Left Center Midfield,100.7,28.6,b3412bd8-85e8-49be-b0a7-b61b2532d284
+True,8286,Leonardo Spinazzola,6,Left Back,101.0,14.7,b3412bd8-85e8-49be-b0a7-b61b2532d284
+True,7788,Ciro Immobile,23,Center Forward,107.6,30.0,74c503e0-990f-493e-aed2-a4424a74f891
+True,3166,Marco Verratti,15,Left Center Midfield,100.2,19.6,74c503e0-990f-493e-aed2-a4424a74f891
+True,8286,Leonardo Spinazzola,6,Left Back,100.7,8.3,74c503e0-990f-493e-aed2-a4424a74f891
+False,3509,Thibaut Courtois,1,Goalkeeper,117.5,37.3,74c503e0-990f-493e-aed2-a4424a74f891
+False,23650,Jeremy Doku,20,Left Attacking Midfield,94.4,46.6,74c503e0-990f-493e-aed2-a4424a74f891
+False,5632,Thorgan Hazard,8,Left Wing Back,105.9,46.9,74c503e0-990f-493e-aed2-a4424a74f891
+False,3077,Jan Vertonghen,5,Left Center Back,107.1,40.4,74c503e0-990f-493e-aed2-a4424a74f891
+False,5642,Axel Witsel,11,Left Defensive Midfield,101.5,31.4,74c503e0-990f-493e-aed2-a4424a74f891
+False,3089,Kevin De Bruyne,18,Right Attacking Midfield,94.1,20.7,74c503e0-990f-493e-aed2-a4424a74f891
+False,20005,Toby Alderweireld,3,Right Center Back,102.5,25.6,74c503e0-990f-493e-aed2-a4424a74f891
+False,6332,Thomas Vermaelen,4,Center Back,107.6,31.5,74c503e0-990f-493e-aed2-a4424a74f891
+False,2954,Youri Tielemans,9,Right Defensive Midfield,104.1,22.1,74c503e0-990f-493e-aed2-a4424a74f891
+False,3176,Thomas Meunier,7,Right Wing Back,104.3,14.8,74c503e0-990f-493e-aed2-a4424a74f891
+True,8181,Nicolò Barella,13,Right Center Midfield,96.1,37.2,74c503e0-990f-493e-aed2-a4424a74f891
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,89.6,24.8,74c503e0-990f-493e-aed2-a4424a74f891
+True,7156,Federico Chiesa,17,Right Wing,102.5,43.0,74c503e0-990f-493e-aed2-a4424a74f891
+True,8181,Nicolò Barella,13,Right Center Midfield,97.2,50.2,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,90.6,43.3,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+False,3176,Thomas Meunier,7,Right Wing Back,110.6,35.0,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+False,20005,Toby Alderweireld,3,Right Center Back,109.9,39.5,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+False,6332,Thomas Vermaelen,4,Center Back,109.6,42.0,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+False,2954,Youri Tielemans,9,Right Defensive Midfield,107.3,40.1,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+False,5642,Axel Witsel,11,Left Defensive Midfield,103.5,45.7,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+False,3077,Jan Vertonghen,5,Left Center Back,104.9,51.0,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+False,5632,Thorgan Hazard,8,Left Wing Back,104.7,54.5,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+False,3089,Kevin De Bruyne,18,Right Attacking Midfield,93.6,44.8,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+False,3509,Thibaut Courtois,1,Goalkeeper,117.4,41.9,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+True,3166,Marco Verratti,15,Left Center Midfield,109.2,37.5,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+True,7037,Lorenzo Insigne,21,Left Wing,109.2,38.4,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+True,7788,Ciro Immobile,23,Center Forward,108.6,41.2,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+True,8286,Leonardo Spinazzola,6,Left Back,95.6,24.3,77ca7c3b-5306-4e96-9e48-7e1bbaf924d6
+True,7037,Lorenzo Insigne,21,Left Wing,100.5,42.5,9566ddcc-febe-4111-a498-45f270ec11c7
+True,3166,Marco Verratti,15,Left Center Midfield,105.3,51.6,9566ddcc-febe-4111-a498-45f270ec11c7
+True,7156,Federico Chiesa,17,Right Wing,102.8,47.2,9566ddcc-febe-4111-a498-45f270ec11c7
+True,8286,Leonardo Spinazzola,6,Left Back,90.1,27.0,9566ddcc-febe-4111-a498-45f270ec11c7
+True,7788,Ciro Immobile,23,Center Forward,109.8,46.2,9566ddcc-febe-4111-a498-45f270ec11c7
+False,3176,Thomas Meunier,7,Right Wing Back,106.3,33.2,9566ddcc-febe-4111-a498-45f270ec11c7
+False,20005,Toby Alderweireld,3,Right Center Back,108.1,39.1,9566ddcc-febe-4111-a498-45f270ec11c7
+False,2954,Youri Tielemans,9,Right Defensive Midfield,109.6,45.7,9566ddcc-febe-4111-a498-45f270ec11c7
+False,6332,Thomas Vermaelen,4,Center Back,109.5,50.2,9566ddcc-febe-4111-a498-45f270ec11c7
+False,5632,Thorgan Hazard,8,Left Wing Back,108.1,53.1,9566ddcc-febe-4111-a498-45f270ec11c7
+False,3077,Jan Vertonghen,5,Left Center Back,106.3,51.0,9566ddcc-febe-4111-a498-45f270ec11c7
+False,3509,Thibaut Courtois,1,Goalkeeper,117.3,43.3,9566ddcc-febe-4111-a498-45f270ec11c7
+True,11514,Giovanni Di Lorenzo,2,Right Back,107.3,44.1,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,100.2,38.0,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+True,7037,Lorenzo Insigne,21,Left Wing,95.7,28.1,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+True,6954,Giorgio Chiellini,5,Left Center Back,110.5,45.0,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+True,7788,Ciro Immobile,23,Center Forward,111.8,43.3,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+True,7173,Leonardo Bonucci,3,Right Center Back,114.2,31.1,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,3509,Thibaut Courtois,1,Goalkeeper,119.0,41.0,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,23650,Jeremy Doku,20,Left Attacking Midfield,99.3,49.1,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,3089,Kevin De Bruyne,18,Right Attacking Midfield,96.7,37.6,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,5632,Thorgan Hazard,8,Left Wing Back,101.4,41.2,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,2954,Youri Tielemans,9,Right Defensive Midfield,107.3,47.5,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,6332,Thomas Vermaelen,4,Center Back,107.2,42.7,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,3289,Romelu Lukaku Menama,23,Center Forward,106.6,40.9,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,3176,Thomas Meunier,7,Right Wing Back,112.3,49.1,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,5642,Axel Witsel,11,Left Defensive Midfield,108.9,41.3,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,3077,Jan Vertonghen,5,Left Center Back,107.8,38.0,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+False,20005,Toby Alderweireld,3,Right Center Back,110.6,35.3,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+True,3166,Marco Verratti,15,Left Center Midfield,103.8,77.6,c10fd829-0c22-4a3f-b32f-2c97115dd3f2
+True,3166,Marco Verratti,15,Left Center Midfield,98.1,35.3,a9ddc646-8120-478b-951d-e88f6e8c18d7
+True,8181,Nicolò Barella,13,Right Center Midfield,99.7,46.0,a9ddc646-8120-478b-951d-e88f6e8c18d7
+False,5642,Axel Witsel,11,Left Defensive Midfield,110.2,32.6,a9ddc646-8120-478b-951d-e88f6e8c18d7
+False,3176,Thomas Meunier,7,Right Wing Back,94.5,16.6,a9ddc646-8120-478b-951d-e88f6e8c18d7
+False,20005,Toby Alderweireld,3,Right Center Back,107.1,38.5,a9ddc646-8120-478b-951d-e88f6e8c18d7
+False,3077,Jan Vertonghen,5,Left Center Back,106.9,39.0,a9ddc646-8120-478b-951d-e88f6e8c18d7
+False,5632,Thorgan Hazard,8,Left Wing Back,106.2,43.3,a9ddc646-8120-478b-951d-e88f6e8c18d7
+False,2954,Youri Tielemans,9,Right Defensive Midfield,98.7,32.1,a9ddc646-8120-478b-951d-e88f6e8c18d7
+False,3509,Thibaut Courtois,1,Goalkeeper,117.6,39.1,a9ddc646-8120-478b-951d-e88f6e8c18d7
+True,7156,Federico Chiesa,17,Right Wing,113.7,32.0,a9ddc646-8120-478b-951d-e88f6e8c18d7
+True,8286,Leonardo Spinazzola,6,Left Back,92.1,10.7,b5af4066-de71-4576-85fe-a3b570a93df7
+False,5642,Axel Witsel,11,Left Defensive Midfield,92.3,39.0,b5af4066-de71-4576-85fe-a3b570a93df7
+False,5632,Thorgan Hazard,8,Left Wing Back,101.8,48.2,b5af4066-de71-4576-85fe-a3b570a93df7
+False,3077,Jan Vertonghen,5,Left Center Back,103.3,41.2,b5af4066-de71-4576-85fe-a3b570a93df7
+False,2954,Youri Tielemans,9,Right Defensive Midfield,95.1,26.5,b5af4066-de71-4576-85fe-a3b570a93df7
+False,6332,Thomas Vermaelen,4,Center Back,103.5,37.2,b5af4066-de71-4576-85fe-a3b570a93df7
+False,20005,Toby Alderweireld,3,Right Center Back,100.9,32.9,b5af4066-de71-4576-85fe-a3b570a93df7
+False,3176,Thomas Meunier,7,Right Wing Back,103.7,24.6,b5af4066-de71-4576-85fe-a3b570a93df7
+False,3509,Thibaut Courtois,1,Goalkeeper,116.8,38.3,b5af4066-de71-4576-85fe-a3b570a93df7
+True,7788,Ciro Immobile,23,Center Forward,98.7,39.0,b5af4066-de71-4576-85fe-a3b570a93df7
+True,7156,Federico Chiesa,17,Right Wing,102.5,42.6,b5af4066-de71-4576-85fe-a3b570a93df7
+False,3509,Thibaut Courtois,1,Goalkeeper,117.2,40.0,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+False,5632,Thorgan Hazard,8,Left Wing Back,107.6,42.7,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+False,6332,Thomas Vermaelen,4,Center Back,107.8,36.6,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+False,3176,Thomas Meunier,7,Right Wing Back,109.6,30.2,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+False,3077,Jan Vertonghen,5,Left Center Back,103.1,39.6,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+False,20005,Toby Alderweireld,3,Right Center Back,106.2,33.8,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+False,2954,Youri Tielemans,9,Right Defensive Midfield,104.8,30.4,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+False,5642,Axel Witsel,11,Left Defensive Midfield,101.6,33.6,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+False,23650,Jeremy Doku,20,Left Attacking Midfield,90.2,49.3,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+True,8181,Nicolò Barella,13,Right Center Midfield,105.8,43.3,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+True,8286,Leonardo Spinazzola,6,Left Back,106.1,37.5,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+True,7788,Ciro Immobile,23,Center Forward,108.0,29.9,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+True,7037,Lorenzo Insigne,21,Left Wing,111.1,19.8,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+True,11514,Giovanni Di Lorenzo,2,Right Back,86.9,49.9,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+True,3166,Marco Verratti,15,Left Center Midfield,102.0,32.3,dcce31da-c104-4c62-8fde-ffeed2ec9da0
+True,3166,Marco Verratti,15,Left Center Midfield,86.1,39.0,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+True,11514,Giovanni Di Lorenzo,2,Right Back,83.5,64.9,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+True,7037,Lorenzo Insigne,21,Left Wing,100.3,24.8,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+False,3509,Thibaut Courtois,1,Goalkeeper,117.8,42.5,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+False,3077,Jan Vertonghen,5,Left Center Back,109.7,54.5,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+False,6332,Thomas Vermaelen,4,Center Back,108.1,49.2,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+False,5642,Axel Witsel,11,Left Defensive Midfield,108.9,45.3,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+False,20005,Toby Alderweireld,3,Right Center Back,109.1,40.5,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+False,5632,Thorgan Hazard,8,Left Wing Back,90.0,64.5,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+False,3176,Thomas Meunier,7,Right Wing Back,106.9,33.7,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+False,2954,Youri Tielemans,9,Right Defensive Midfield,100.5,41.0,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+True,7156,Federico Chiesa,17,Right Wing,109.2,56.1,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+True,8181,Nicolò Barella,13,Right Center Midfield,104.6,51.3,0c87015f-0310-40a3-a8f8-ce0e74c8fc7a
+True,8181,Nicolò Barella,13,Right Center Midfield,98.9,39.6,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+True,7156,Federico Chiesa,17,Right Wing,103.3,55.8,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+False,3509,Thibaut Courtois,1,Goalkeeper,117.8,37.7,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+True,8286,Leonardo Spinazzola,6,Left Back,99.5,15.8,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+True,11514,Giovanni Di Lorenzo,2,Right Back,87.5,46.7,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+True,3166,Marco Verratti,15,Left Center Midfield,97.9,27.9,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+True,7037,Lorenzo Insigne,21,Left Wing,104.5,24.9,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+False,2954,Youri Tielemans,9,Right Defensive Midfield,103.0,27.0,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+False,23650,Jeremy Doku,20,Left Attacking Midfield,92.9,48.4,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+False,6332,Thomas Vermaelen,4,Center Back,105.4,29.7,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+False,3176,Thomas Meunier,7,Right Wing Back,109.7,21.2,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+False,5642,Axel Witsel,11,Left Defensive Midfield,104.9,31.8,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+False,20005,Toby Alderweireld,3,Right Center Back,108.9,26.2,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+False,3077,Jan Vertonghen,5,Left Center Back,105.9,38.9,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+False,5632,Thorgan Hazard,8,Left Wing Back,105.6,47.7,a3bf5f70-5a2a-47a7-b3ab-53496dfdd71b
+True,3089,Kevin De Bruyne,18,Right Attacking Midfield,117.5,27.9,8a01a26d-3318-43fa-b743-463a954e667d
+True,23650,Jeremy Doku,20,Left Attacking Midfield,107.7,34.1,8a01a26d-3318-43fa-b743-463a954e667d
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,115.4,38.2,8a01a26d-3318-43fa-b743-463a954e667d
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,113.8,30.2,8a01a26d-3318-43fa-b743-463a954e667d
+False,7173,Leonardo Bonucci,3,Right Center Back,112.9,32.3,8a01a26d-3318-43fa-b743-463a954e667d
+False,11514,Giovanni Di Lorenzo,2,Right Back,106.3,28.5,8a01a26d-3318-43fa-b743-463a954e667d
+False,8286,Leonardo Spinazzola,6,Left Back,116.3,42.2,8a01a26d-3318-43fa-b743-463a954e667d
+False,3166,Marco Verratti,15,Left Center Midfield,103.8,29.9,8a01a26d-3318-43fa-b743-463a954e667d
+False,6954,Giorgio Chiellini,5,Left Center Back,115.6,39.1,8a01a26d-3318-43fa-b743-463a954e667d
+False,3176,Thomas Meunier,7,Right Wing Back,105.3,17.0,306a1590-d96d-4196-8005-5e00ba2dbb3e
+False,5642,Axel Witsel,11,Left Defensive Midfield,94.7,21.8,306a1590-d96d-4196-8005-5e00ba2dbb3e
+False,20005,Toby Alderweireld,3,Right Center Back,96.0,14.4,306a1590-d96d-4196-8005-5e00ba2dbb3e
+False,2954,Youri Tielemans,9,Right Defensive Midfield,95.7,36.3,306a1590-d96d-4196-8005-5e00ba2dbb3e
+False,6332,Thomas Vermaelen,4,Center Back,107.0,27.2,306a1590-d96d-4196-8005-5e00ba2dbb3e
+False,3077,Jan Vertonghen,5,Left Center Back,107.8,37.2,306a1590-d96d-4196-8005-5e00ba2dbb3e
+False,5632,Thorgan Hazard,8,Left Wing Back,99.7,50.2,306a1590-d96d-4196-8005-5e00ba2dbb3e
+False,3509,Thibaut Courtois,1,Goalkeeper,116.8,36.4,306a1590-d96d-4196-8005-5e00ba2dbb3e
+True,7037,Lorenzo Insigne,21,Left Wing,93.4,7.1,306a1590-d96d-4196-8005-5e00ba2dbb3e
+True,8181,Nicolò Barella,13,Right Center Midfield,90.3,45.4,306a1590-d96d-4196-8005-5e00ba2dbb3e
+True,7788,Ciro Immobile,23,Center Forward,100.9,23.2,306a1590-d96d-4196-8005-5e00ba2dbb3e
+True,7156,Federico Chiesa,17,Right Wing,96.7,59.2,306a1590-d96d-4196-8005-5e00ba2dbb3e
+True,3166,Marco Verratti,15,Left Center Midfield,86.6,21.2,ef72add2-ff54-443a-9105-bcdf667c8582
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,98.9,13.2,ef72add2-ff54-443a-9105-bcdf667c8582
+False,3089,Kevin De Bruyne,18,Right Attacking Midfield,86.4,22.1,ef72add2-ff54-443a-9105-bcdf667c8582
+False,2954,Youri Tielemans,9,Right Defensive Midfield,96.8,20.2,ef72add2-ff54-443a-9105-bcdf667c8582
+False,3176,Thomas Meunier,7,Right Wing Back,103.4,18.1,ef72add2-ff54-443a-9105-bcdf667c8582
+False,3509,Thibaut Courtois,1,Goalkeeper,118.5,38.9,ef72add2-ff54-443a-9105-bcdf667c8582
+False,20005,Toby Alderweireld,3,Right Center Back,102.7,23.8,ef72add2-ff54-443a-9105-bcdf667c8582
+False,6332,Thomas Vermaelen,4,Center Back,103.1,30.0,ef72add2-ff54-443a-9105-bcdf667c8582
+False,5642,Axel Witsel,11,Left Defensive Midfield,98.1,28.4,ef72add2-ff54-443a-9105-bcdf667c8582
+False,23650,Jeremy Doku,20,Left Attacking Midfield,87.1,42.1,ef72add2-ff54-443a-9105-bcdf667c8582
+False,3077,Jan Vertonghen,5,Left Center Back,102.4,39.2,ef72add2-ff54-443a-9105-bcdf667c8582
+False,5632,Thorgan Hazard,8,Left Wing Back,102.7,50.2,ef72add2-ff54-443a-9105-bcdf667c8582
+True,7156,Federico Chiesa,17,Right Wing,101.4,63.1,ef72add2-ff54-443a-9105-bcdf667c8582
+True,8181,Nicolò Barella,13,Right Center Midfield,98.3,36.8,ef72add2-ff54-443a-9105-bcdf667c8582
+True,8286,Leonardo Spinazzola,6,Left Back,105.0,21.4,ef72add2-ff54-443a-9105-bcdf667c8582
+True,7788,Ciro Immobile,23,Center Forward,95.6,31.1,ef72add2-ff54-443a-9105-bcdf667c8582
+True,11514,Giovanni Di Lorenzo,2,Right Back,80.2,48.9,ef72add2-ff54-443a-9105-bcdf667c8582
+True,5632,Thorgan Hazard,8,Left Wing Back,110.4,48.2,cc9420f0-3836-4c44-9f47-c1842954a821
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,118.0,35.9,cc9420f0-3836-4c44-9f47-c1842954a821
+False,8286,Leonardo Spinazzola,6,Left Back,111.9,45.2,cc9420f0-3836-4c44-9f47-c1842954a821
+False,3166,Marco Verratti,15,Left Center Midfield,110.2,40.8,cc9420f0-3836-4c44-9f47-c1842954a821
+False,6954,Giorgio Chiellini,5,Left Center Back,108.7,30.7,cc9420f0-3836-4c44-9f47-c1842954a821
+False,7173,Leonardo Bonucci,3,Right Center Back,112.5,35.0,cc9420f0-3836-4c44-9f47-c1842954a821
+False,11514,Giovanni Di Lorenzo,2,Right Back,114.1,28.6,cc9420f0-3836-4c44-9f47-c1842954a821
+True,5630,Dries Mertens,9,Right Defensive Midfield,103.0,25.6,cc9420f0-3836-4c44-9f47-c1842954a821
+True,3289,Romelu Lukaku Menama,23,Center Forward,113.2,36.9,cc9420f0-3836-4c44-9f47-c1842954a821
+True,23650,Jeremy Doku,20,Left Attacking Midfield,103.7,25.2,ea83a397-025c-40f3-84e4-a57770e42711
+True,3089,Kevin De Bruyne,9,Right Defensive Midfield,102.5,32.3,ea83a397-025c-40f3-84e4-a57770e42711
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,115.6,39.3,ea83a397-025c-40f3-84e4-a57770e42711
+False,7173,Leonardo Bonucci,3,Right Center Back,107.5,34.5,ea83a397-025c-40f3-84e4-a57770e42711
+False,6954,Giorgio Chiellini,5,Left Center Back,105.4,40.7,ea83a397-025c-40f3-84e4-a57770e42711
+False,11514,Giovanni Di Lorenzo,2,Right Back,100.0,34.2,ea83a397-025c-40f3-84e4-a57770e42711
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,103.7,41.0,ea83a397-025c-40f3-84e4-a57770e42711
+False,6993,Bryan Cristante,15,Left Center Midfield,102.9,43.4,ea83a397-025c-40f3-84e4-a57770e42711
+False,8181,Nicolò Barella,13,Right Center Midfield,94.4,32.5,ea83a397-025c-40f3-84e4-a57770e42711
+False,8286,Leonardo Spinazzola,6,Left Back,104.5,51.8,ea83a397-025c-40f3-84e4-a57770e42711
+True,5632,Thorgan Hazard,7,Right Wing Back,103.3,57.9,29564178-ccff-4e72-b73e-92c545e9fa0d
+True,5630,Dries Mertens,18,Right Attacking Midfield,92.5,39.1,29564178-ccff-4e72-b73e-92c545e9fa0d
+True,7015,Dennis Praet,8,Left Wing Back,97.3,18.2,29564178-ccff-4e72-b73e-92c545e9fa0d
+True,3089,Kevin De Bruyne,9,Right Defensive Midfield,105.7,26.1,29564178-ccff-4e72-b73e-92c545e9fa0d
+True,3289,Romelu Lukaku Menama,23,Center Forward,109.8,34.4,29564178-ccff-4e72-b73e-92c545e9fa0d
+False,7131,Domenico Berardi,21,Left Wing,89.2,15.5,29564178-ccff-4e72-b73e-92c545e9fa0d
+False,6993,Bryan Cristante,15,Left Center Midfield,100.8,34.2,29564178-ccff-4e72-b73e-92c545e9fa0d
+False,4355,Emerson Palmieri dos Santos,6,Left Back,101.1,40.6,29564178-ccff-4e72-b73e-92c545e9fa0d
+False,7173,Leonardo Bonucci,3,Right Center Back,108.6,34.7,29564178-ccff-4e72-b73e-92c545e9fa0d
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,99.6,25.4,29564178-ccff-4e72-b73e-92c545e9fa0d
+False,11514,Giovanni Di Lorenzo,2,Right Back,105.5,34.7,29564178-ccff-4e72-b73e-92c545e9fa0d
+False,6954,Giorgio Chiellini,5,Left Center Back,103.7,37.8,29564178-ccff-4e72-b73e-92c545e9fa0d
+False,7156,Federico Chiesa,17,Right Wing,105.9,51.0,29564178-ccff-4e72-b73e-92c545e9fa0d
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,118.7,41.2,29564178-ccff-4e72-b73e-92c545e9fa0d
+False,8181,Nicolò Barella,13,Right Center Midfield,103.2,17.3,29564178-ccff-4e72-b73e-92c545e9fa0d

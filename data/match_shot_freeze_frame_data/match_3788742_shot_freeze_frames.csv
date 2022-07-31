@@ -1,0 +1,318 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,5527,Thomas Delaney,15,Left Center Midfield,86.7,21.4,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+True,6797,Daniel Wass,2,Right Back,91.1,43.6,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+True,16554,Joakim Mæhle,6,Left Back,102.6,33.2,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,98.7,42.5,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+True,3043,Christian Dannemann Eriksen,13,Right Center Midfield,97.9,31.8,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+True,4447,Martin Braithwaite Christensen,21,Left Wing,102.2,17.0,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+False,16550,Jere Juhani Uronen,8,Left Wing Back,103.0,41.9,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,105.4,38.2,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+False,24455,Paulus Arajuuri,4,Center Back,100.7,32.2,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+False,13215,Glen Kamara,15,Left Center Midfield,92.5,37.0,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+False,24648,Tim Sparv,10,Center Defensive Midfield,98.7,29.4,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+False,24321,Robin Lod,13,Right Center Midfield,94.4,18.6,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+False,8667,Lukáš Hrádecký,1,Goalkeeper,119.2,38.1,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+False,15416,Jukka Raitala,7,Right Wing Back,103.0,24.6,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+False,26939,Joona Toivio,3,Right Center Back,103.4,33.3,df2e2e21-2444-4da6-adbd-b1eaad6a49dc
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,112.2,39.8,0eedc56a-b638-45be-9bed-a6033901fd7e
+False,15416,Jukka Raitala,7,Right Wing Back,110.6,37.6,0eedc56a-b638-45be-9bed-a6033901fd7e
+False,13215,Glen Kamara,15,Left Center Midfield,108.6,35.4,0eedc56a-b638-45be-9bed-a6033901fd7e
+False,26939,Joona Toivio,3,Right Center Back,108.0,37.3,0eedc56a-b638-45be-9bed-a6033901fd7e
+False,24648,Tim Sparv,10,Center Defensive Midfield,111.9,43.4,0eedc56a-b638-45be-9bed-a6033901fd7e
+False,24321,Robin Lod,13,Right Center Midfield,107.9,44.7,0eedc56a-b638-45be-9bed-a6033901fd7e
+False,24455,Paulus Arajuuri,4,Center Back,111.6,38.6,0eedc56a-b638-45be-9bed-a6033901fd7e
+False,9725,Joel Pohjanpalo,22,Right Center Forward,102.7,23.9,0eedc56a-b638-45be-9bed-a6033901fd7e
+False,8667,Lukáš Hrádecký,1,Goalkeeper,117.6,39.4,0eedc56a-b638-45be-9bed-a6033901fd7e
+True,3570,Pierre-Emile Højbjerg,10,Center Defensive Midfield,106.0,50.5,0eedc56a-b638-45be-9bed-a6033901fd7e
+True,5534,Simon Thorup Kjær,3,Right Center Back,110.9,44.0,0eedc56a-b638-45be-9bed-a6033901fd7e
+True,5527,Thomas Delaney,15,Left Center Midfield,112.2,38.8,0eedc56a-b638-45be-9bed-a6033901fd7e
+True,4447,Martin Braithwaite Christensen,21,Left Wing,110.6,37.3,0eedc56a-b638-45be-9bed-a6033901fd7e
+True,21261,Jonas Older Wind,23,Center Forward,108.3,35.1,0eedc56a-b638-45be-9bed-a6033901fd7e
+True,3959,Andreas Christensen,5,Left Center Back,96.3,42.3,0eedc56a-b638-45be-9bed-a6033901fd7e
+True,3043,Christian Dannemann Eriksen,13,Right Center Midfield,104.0,16.2,0eedc56a-b638-45be-9bed-a6033901fd7e
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,110.3,25.1,284789a1-885e-48cd-bad6-685fc0cdb6ee
+True,5527,Thomas Delaney,15,Left Center Midfield,109.4,39.4,284789a1-885e-48cd-bad6-685fc0cdb6ee
+True,21261,Jonas Older Wind,23,Center Forward,111.5,35.0,284789a1-885e-48cd-bad6-685fc0cdb6ee
+True,3043,Christian Dannemann Eriksen,13,Right Center Midfield,102.2,38.2,284789a1-885e-48cd-bad6-685fc0cdb6ee
+True,6797,Daniel Wass,2,Right Back,89.8,47.4,284789a1-885e-48cd-bad6-685fc0cdb6ee
+True,4447,Martin Braithwaite Christensen,21,Left Wing,100.9,30.5,284789a1-885e-48cd-bad6-685fc0cdb6ee
+False,8667,Lukáš Hrádecký,1,Goalkeeper,117.6,37.9,284789a1-885e-48cd-bad6-685fc0cdb6ee
+False,16550,Jere Juhani Uronen,8,Left Wing Back,109.5,44.2,284789a1-885e-48cd-bad6-685fc0cdb6ee
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,110.5,39.9,284789a1-885e-48cd-bad6-685fc0cdb6ee
+False,24455,Paulus Arajuuri,4,Center Back,112.8,35.7,284789a1-885e-48cd-bad6-685fc0cdb6ee
+False,26939,Joona Toivio,3,Right Center Back,109.2,33.2,284789a1-885e-48cd-bad6-685fc0cdb6ee
+False,13215,Glen Kamara,15,Left Center Midfield,101.2,44.6,284789a1-885e-48cd-bad6-685fc0cdb6ee
+False,15416,Jukka Raitala,7,Right Wing Back,109.1,26.7,284789a1-885e-48cd-bad6-685fc0cdb6ee
+False,24648,Tim Sparv,10,Center Defensive Midfield,104.6,29.6,284789a1-885e-48cd-bad6-685fc0cdb6ee
+False,24321,Robin Lod,13,Right Center Midfield,105.9,27.9,284789a1-885e-48cd-bad6-685fc0cdb6ee
+False,9725,Joel Pohjanpalo,22,Right Center Forward,91.0,33.4,284789a1-885e-48cd-bad6-685fc0cdb6ee
+True,5527,Thomas Delaney,15,Left Center Midfield,102.4,44.1,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+True,21261,Jonas Older Wind,23,Center Forward,90.8,47.2,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,106.7,59.4,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+False,24455,Paulus Arajuuri,4,Center Back,107.7,53.3,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+False,13215,Glen Kamara,15,Left Center Midfield,97.9,58.8,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+False,26939,Joona Toivio,3,Right Center Back,105.2,45.0,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+False,16550,Jere Juhani Uronen,8,Left Wing Back,89.5,64.9,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+False,24648,Tim Sparv,10,Center Defensive Midfield,99.9,47.8,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+False,15416,Jukka Raitala,7,Right Wing Back,104.3,31.9,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+False,24321,Robin Lod,13,Right Center Midfield,92.8,40.3,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+False,8667,Lukáš Hrádecký,1,Goalkeeper,115.7,44.5,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,99.6,67.4,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+True,4447,Martin Braithwaite Christensen,21,Left Wing,98.3,30.6,90ed5cfe-6511-4f50-9f7a-e85783e06d21
+False,16550,Jere Juhani Uronen,8,Left Wing Back,112.8,43.5,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+False,24455,Paulus Arajuuri,4,Center Back,113.3,37.7,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,112.3,44.2,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+True,4447,Martin Braithwaite Christensen,21,Left Wing,110.6,33.2,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+True,3043,Christian Dannemann Eriksen,13,Right Center Midfield,99.3,35.9,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+True,6797,Daniel Wass,2,Right Back,89.5,48.2,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+True,16554,Joakim Mæhle,6,Left Back,106.2,13.0,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+True,5527,Thomas Delaney,15,Left Center Midfield,99.8,17.8,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+False,8667,Lukáš Hrádecký,1,Goalkeeper,118.4,40.3,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,112.6,38.7,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+False,26939,Joona Toivio,3,Right Center Back,112.7,34.7,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+False,15416,Jukka Raitala,7,Right Wing Back,110.3,26.8,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+False,13215,Glen Kamara,15,Left Center Midfield,102.5,37.4,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+False,24321,Robin Lod,13,Right Center Midfield,103.5,30.7,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+False,24648,Tim Sparv,10,Center Defensive Midfield,107.7,21.0,4e0a9f53-2178-4a45-bd78-4ae93c7cbbe9
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,109.0,52.6,78cb3024-7db8-439b-9682-ae9ed18baa7b
+True,4447,Martin Braithwaite Christensen,21,Left Wing,109.8,46.8,78cb3024-7db8-439b-9682-ae9ed18baa7b
+True,21261,Jonas Older Wind,23,Center Forward,109.0,42.0,78cb3024-7db8-439b-9682-ae9ed18baa7b
+True,3043,Christian Dannemann Eriksen,13,Right Center Midfield,89.8,43.6,78cb3024-7db8-439b-9682-ae9ed18baa7b
+True,6797,Daniel Wass,2,Right Back,84.9,53.8,78cb3024-7db8-439b-9682-ae9ed18baa7b
+False,8667,Lukáš Hrádecký,1,Goalkeeper,119.2,39.9,78cb3024-7db8-439b-9682-ae9ed18baa7b
+False,16550,Jere Juhani Uronen,8,Left Wing Back,110.8,49.4,78cb3024-7db8-439b-9682-ae9ed18baa7b
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,109.7,43.7,78cb3024-7db8-439b-9682-ae9ed18baa7b
+False,24455,Paulus Arajuuri,4,Center Back,108.7,41.4,78cb3024-7db8-439b-9682-ae9ed18baa7b
+False,26939,Joona Toivio,3,Right Center Back,107.3,36.5,78cb3024-7db8-439b-9682-ae9ed18baa7b
+False,24321,Robin Lod,13,Right Center Midfield,97.8,49.8,78cb3024-7db8-439b-9682-ae9ed18baa7b
+False,24648,Tim Sparv,10,Center Defensive Midfield,97.0,42.5,78cb3024-7db8-439b-9682-ae9ed18baa7b
+False,15416,Jukka Raitala,7,Right Wing Back,102.9,22.0,78cb3024-7db8-439b-9682-ae9ed18baa7b
+False,26939,Joona Toivio,3,Right Center Back,108.9,39.4,ee6b4f7d-4639-443e-9378-282d130431e7
+True,21261,Jonas Older Wind,23,Center Forward,108.0,39.9,ee6b4f7d-4639-443e-9378-282d130431e7
+True,4447,Martin Braithwaite Christensen,21,Left Wing,102.1,65.5,ee6b4f7d-4639-443e-9378-282d130431e7
+True,6797,Daniel Wass,2,Right Back,105.7,48.5,ee6b4f7d-4639-443e-9378-282d130431e7
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,108.8,36.2,ee6b4f7d-4639-443e-9378-282d130431e7
+True,5527,Thomas Delaney,15,Left Center Midfield,104.2,33.3,ee6b4f7d-4639-443e-9378-282d130431e7
+True,16554,Joakim Mæhle,6,Left Back,103.9,26.6,ee6b4f7d-4639-443e-9378-282d130431e7
+False,8667,Lukáš Hrádecký,1,Goalkeeper,116.7,42.1,ee6b4f7d-4639-443e-9378-282d130431e7
+False,16550,Jere Juhani Uronen,8,Left Wing Back,101.5,57.9,ee6b4f7d-4639-443e-9378-282d130431e7
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,106.2,50.1,ee6b4f7d-4639-443e-9378-282d130431e7
+False,24455,Paulus Arajuuri,4,Center Back,108.3,42.2,ee6b4f7d-4639-443e-9378-282d130431e7
+False,24648,Tim Sparv,10,Center Defensive Midfield,101.5,49.1,ee6b4f7d-4639-443e-9378-282d130431e7
+False,15416,Jukka Raitala,7,Right Wing Back,109.5,35.7,ee6b4f7d-4639-443e-9378-282d130431e7
+False,13215,Glen Kamara,15,Left Center Midfield,99.9,39.1,ee6b4f7d-4639-443e-9378-282d130431e7
+False,24321,Robin Lod,13,Right Center Midfield,100.5,36.1,ee6b4f7d-4639-443e-9378-282d130431e7
+False,9725,Joel Pohjanpalo,22,Right Center Forward,91.7,44.4,ee6b4f7d-4639-443e-9378-282d130431e7
+False,26939,Joona Toivio,3,Right Center Back,114.7,45.7,05978612-000f-49ca-b888-f6b9a4154fea
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,114.3,46.6,05978612-000f-49ca-b888-f6b9a4154fea
+True,6797,Daniel Wass,2,Right Back,100.1,59.4,05978612-000f-49ca-b888-f6b9a4154fea
+True,3959,Andreas Christensen,5,Left Center Back,114.0,41.0,05978612-000f-49ca-b888-f6b9a4154fea
+True,21261,Jonas Older Wind,23,Center Forward,109.7,41.0,05978612-000f-49ca-b888-f6b9a4154fea
+True,5534,Simon Thorup Kjær,3,Right Center Back,111.6,36.8,05978612-000f-49ca-b888-f6b9a4154fea
+True,4447,Martin Braithwaite Christensen,21,Left Wing,110.4,36.5,05978612-000f-49ca-b888-f6b9a4154fea
+True,3570,Pierre-Emile Højbjerg,10,Center Defensive Midfield,90.3,45.4,05978612-000f-49ca-b888-f6b9a4154fea
+False,8667,Lukáš Hrádecký,1,Goalkeeper,117.8,36.4,05978612-000f-49ca-b888-f6b9a4154fea
+False,9476,Teemu Pukki,24,Left Center Forward,103.7,60.6,05978612-000f-49ca-b888-f6b9a4154fea
+False,9725,Joel Pohjanpalo,22,Right Center Forward,118.9,41.1,05978612-000f-49ca-b888-f6b9a4154fea
+False,16550,Jere Juhani Uronen,8,Left Wing Back,111.4,49.0,05978612-000f-49ca-b888-f6b9a4154fea
+False,13215,Glen Kamara,15,Left Center Midfield,115.6,35.7,05978612-000f-49ca-b888-f6b9a4154fea
+False,24455,Paulus Arajuuri,4,Center Back,112.8,36.4,05978612-000f-49ca-b888-f6b9a4154fea
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,110.3,34.3,05978612-000f-49ca-b888-f6b9a4154fea
+False,24648,Tim Sparv,10,Center Defensive Midfield,108.7,36.3,05978612-000f-49ca-b888-f6b9a4154fea
+False,15416,Jukka Raitala,7,Right Wing Back,110.9,30.7,05978612-000f-49ca-b888-f6b9a4154fea
+False,24321,Robin Lod,13,Right Center Midfield,103.8,36.3,05978612-000f-49ca-b888-f6b9a4154fea
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,107.3,45.5,31257319-d425-49a4-9f2b-8f2e3a401eca
+False,24455,Paulus Arajuuri,4,Center Back,109.5,28.4,31257319-d425-49a4-9f2b-8f2e3a401eca
+False,26939,Joona Toivio,3,Right Center Back,107.9,28.5,31257319-d425-49a4-9f2b-8f2e3a401eca
+False,9725,Joel Pohjanpalo,22,Right Center Forward,99.9,38.9,31257319-d425-49a4-9f2b-8f2e3a401eca
+False,15416,Jukka Raitala,7,Right Wing Back,106.5,26.4,31257319-d425-49a4-9f2b-8f2e3a401eca
+False,16550,Jere Juhani Uronen,8,Left Wing Back,90.8,54.0,31257319-d425-49a4-9f2b-8f2e3a401eca
+False,24648,Tim Sparv,10,Center Defensive Midfield,103.5,31.4,31257319-d425-49a4-9f2b-8f2e3a401eca
+False,13215,Glen Kamara,15,Left Center Midfield,90.1,46.2,31257319-d425-49a4-9f2b-8f2e3a401eca
+False,8667,Lukáš Hrádecký,1,Goalkeeper,116.7,36.1,31257319-d425-49a4-9f2b-8f2e3a401eca
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,97.5,58.8,31257319-d425-49a4-9f2b-8f2e3a401eca
+True,21261,Jonas Older Wind,23,Center Forward,103.5,46.4,31257319-d425-49a4-9f2b-8f2e3a401eca
+True,3043,Christian Dannemann Eriksen,13,Right Center Midfield,92.9,41.5,31257319-d425-49a4-9f2b-8f2e3a401eca
+False,26939,Joona Toivio,3,Right Center Back,110.8,48.7,33221875-66e0-460b-a65b-8fbd14472a69
+False,16550,Jere Juhani Uronen,8,Left Wing Back,99.8,68.3,33221875-66e0-460b-a65b-8fbd14472a69
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,109.2,58.9,33221875-66e0-460b-a65b-8fbd14472a69
+False,24648,Tim Sparv,10,Center Defensive Midfield,108.0,51.8,33221875-66e0-460b-a65b-8fbd14472a69
+False,24455,Paulus Arajuuri,4,Center Back,107.3,47.3,33221875-66e0-460b-a65b-8fbd14472a69
+False,24321,Robin Lod,13,Right Center Midfield,105.3,49.5,33221875-66e0-460b-a65b-8fbd14472a69
+False,15416,Jukka Raitala,7,Right Wing Back,110.9,41.4,33221875-66e0-460b-a65b-8fbd14472a69
+False,13215,Glen Kamara,15,Left Center Midfield,95.3,55.7,33221875-66e0-460b-a65b-8fbd14472a69
+False,8667,Lukáš Hrádecký,1,Goalkeeper,116.9,43.5,33221875-66e0-460b-a65b-8fbd14472a69
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,94.3,72.0,33221875-66e0-460b-a65b-8fbd14472a69
+True,3570,Pierre-Emile Højbjerg,10,Center Defensive Midfield,110.6,52.1,33221875-66e0-460b-a65b-8fbd14472a69
+True,3043,Christian Dannemann Eriksen,13,Right Center Midfield,104.9,51.2,33221875-66e0-460b-a65b-8fbd14472a69
+True,4447,Martin Braithwaite Christensen,21,Left Wing,109.3,41.5,33221875-66e0-460b-a65b-8fbd14472a69
+True,16554,Joakim Mæhle,6,Left Back,104.5,22.4,56ad78e2-105f-4558-8421-54fbba12d32a
+False,16550,Jere Juhani Uronen,8,Left Wing Back,105.0,45.9,56ad78e2-105f-4558-8421-54fbba12d32a
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,107.4,39.4,56ad78e2-105f-4558-8421-54fbba12d32a
+False,24455,Paulus Arajuuri,4,Center Back,106.2,34.9,56ad78e2-105f-4558-8421-54fbba12d32a
+False,24648,Tim Sparv,10,Center Defensive Midfield,106.4,32.7,56ad78e2-105f-4558-8421-54fbba12d32a
+False,15416,Jukka Raitala,7,Right Wing Back,107.0,23.1,56ad78e2-105f-4558-8421-54fbba12d32a
+False,26939,Joona Toivio,3,Right Center Back,104.0,28.3,56ad78e2-105f-4558-8421-54fbba12d32a
+False,13215,Glen Kamara,15,Left Center Midfield,99.8,34.2,56ad78e2-105f-4558-8421-54fbba12d32a
+False,24321,Robin Lod,13,Right Center Midfield,97.4,21.4,56ad78e2-105f-4558-8421-54fbba12d32a
+False,9725,Joel Pohjanpalo,22,Right Center Forward,86.7,33.7,56ad78e2-105f-4558-8421-54fbba12d32a
+False,8667,Lukáš Hrádecký,1,Goalkeeper,116.8,39.2,56ad78e2-105f-4558-8421-54fbba12d32a
+True,21261,Jonas Older Wind,23,Center Forward,106.1,36.3,56ad78e2-105f-4558-8421-54fbba12d32a
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,103.5,38.4,56ad78e2-105f-4558-8421-54fbba12d32a
+True,6797,Daniel Wass,2,Right Back,87.9,55.8,56ad78e2-105f-4558-8421-54fbba12d32a
+True,3043,Christian Dannemann Eriksen,13,Right Center Midfield,93.3,30.1,56ad78e2-105f-4558-8421-54fbba12d32a
+True,5527,Thomas Delaney,15,Left Center Midfield,89.7,22.1,56ad78e2-105f-4558-8421-54fbba12d32a
+False,16550,Jere Juhani Uronen,8,Left Wing Back,110.5,50.0,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,109.7,39.4,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+False,24455,Paulus Arajuuri,4,Center Back,108.2,34.7,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+False,26939,Joona Toivio,3,Right Center Back,106.4,32.8,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+True,4447,Martin Braithwaite Christensen,21,Left Wing,101.8,37.0,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+True,3043,Christian Dannemann Eriksen,13,Right Center Midfield,92.1,50.7,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,107.9,36.2,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+True,5527,Thomas Delaney,15,Left Center Midfield,99.7,28.9,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+False,13215,Glen Kamara,15,Left Center Midfield,95.4,44.8,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+False,24648,Tim Sparv,10,Center Defensive Midfield,97.3,36.5,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+False,8667,Lukáš Hrádecký,1,Goalkeeper,117.5,43.0,2114c74f-9fb4-40f0-8fdd-b64632f39c99
+True,4447,Martin Braithwaite Christensen,21,Left Wing,95.8,15.7,dd48dda8-6658-43ce-9a69-abc268daa189
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,103.1,17.7,dd48dda8-6658-43ce-9a69-abc268daa189
+False,13215,Glen Kamara,15,Left Center Midfield,95.6,39.4,dd48dda8-6658-43ce-9a69-abc268daa189
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,105.0,43.5,dd48dda8-6658-43ce-9a69-abc268daa189
+False,24648,Tim Sparv,10,Center Defensive Midfield,98.4,28.3,dd48dda8-6658-43ce-9a69-abc268daa189
+False,24455,Paulus Arajuuri,4,Center Back,101.6,31.9,dd48dda8-6658-43ce-9a69-abc268daa189
+False,26939,Joona Toivio,3,Right Center Back,102.1,25.9,dd48dda8-6658-43ce-9a69-abc268daa189
+False,15416,Jukka Raitala,7,Right Wing Back,91.3,10.9,dd48dda8-6658-43ce-9a69-abc268daa189
+False,8667,Lukáš Hrádecký,1,Goalkeeper,117.0,37.6,dd48dda8-6658-43ce-9a69-abc268daa189
+True,18722,Mathias Jensen,13,Right Center Midfield,91.7,41.5,dd48dda8-6658-43ce-9a69-abc268daa189
+True,21261,Jonas Older Wind,23,Center Forward,100.7,42.9,dd48dda8-6658-43ce-9a69-abc268daa189
+False,9725,Joel Pohjanpalo,22,Right Center Forward,85.4,22.2,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,16550,Jere Juhani Uronen,8,Left Wing Back,103.6,47.1,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,24321,Robin Lod,13,Right Center Midfield,98.9,36.4,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,9476,Teemu Pukki,24,Left Center Forward,96.6,32.6,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,104.7,39.9,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,24455,Paulus Arajuuri,4,Center Back,106.0,36.2,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,15416,Jukka Raitala,7,Right Wing Back,106.4,31.3,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,26939,Joona Toivio,3,Right Center Back,106.9,29.5,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,24648,Tim Sparv,10,Center Defensive Midfield,104.6,25.4,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,13215,Glen Kamara,15,Left Center Midfield,104.1,19.6,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+True,21261,Jonas Older Wind,23,Center Forward,105.6,35.2,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+True,3570,Pierre-Emile Højbjerg,10,Center Defensive Midfield,102.3,27.2,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,107.2,33.2,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+True,4447,Martin Braithwaite Christensen,21,Left Wing,105.5,21.3,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+True,3959,Andreas Christensen,5,Left Center Back,82.3,16.9,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+True,5527,Thomas Delaney,15,Left Center Midfield,97.3,20.6,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,8667,Lukáš Hrádecký,1,Goalkeeper,117.0,39.3,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+True,6797,Daniel Wass,2,Right Back,93.6,51.1,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+True,16554,Joakim Mæhle,6,Left Back,106.0,26.5,6e9b0d41-f6db-4e49-ae84-f45fd3bc3909
+False,8667,Lukáš Hrádecký,1,Goalkeeper,117.9,36.3,2bbb0c9b-c29d-45db-9d50-700f0e254961
+False,9725,Joel Pohjanpalo,22,Right Center Forward,96.7,38.2,2bbb0c9b-c29d-45db-9d50-700f0e254961
+False,24321,Robin Lod,13,Right Center Midfield,101.3,46.1,2bbb0c9b-c29d-45db-9d50-700f0e254961
+False,16550,Jere Juhani Uronen,8,Left Wing Back,110.9,44.7,2bbb0c9b-c29d-45db-9d50-700f0e254961
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,112.5,39.6,2bbb0c9b-c29d-45db-9d50-700f0e254961
+False,24648,Tim Sparv,10,Center Defensive Midfield,106.7,32.3,2bbb0c9b-c29d-45db-9d50-700f0e254961
+False,24455,Paulus Arajuuri,4,Center Back,114.6,39.0,2bbb0c9b-c29d-45db-9d50-700f0e254961
+False,13215,Glen Kamara,15,Left Center Midfield,107.4,27.1,2bbb0c9b-c29d-45db-9d50-700f0e254961
+False,26939,Joona Toivio,3,Right Center Back,113.3,33.1,2bbb0c9b-c29d-45db-9d50-700f0e254961
+False,15416,Jukka Raitala,7,Right Wing Back,111.7,27.6,2bbb0c9b-c29d-45db-9d50-700f0e254961
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,104.5,49.4,2bbb0c9b-c29d-45db-9d50-700f0e254961
+True,6797,Daniel Wass,2,Right Back,114.9,56.3,2bbb0c9b-c29d-45db-9d50-700f0e254961
+True,4447,Martin Braithwaite Christensen,21,Left Wing,111.3,37.1,2bbb0c9b-c29d-45db-9d50-700f0e254961
+True,16554,Joakim Mæhle,6,Left Back,104.1,26.1,2bbb0c9b-c29d-45db-9d50-700f0e254961
+True,5527,Thomas Delaney,15,Left Center Midfield,111.0,33.4,2bbb0c9b-c29d-45db-9d50-700f0e254961
+False,8667,Lukáš Hrádecký,1,Goalkeeper,117.0,39.7,7cc229fd-4423-451f-a115-710c1d8c8d3b
+False,15416,Jukka Raitala,7,Right Wing Back,104.7,38.1,7cc229fd-4423-451f-a115-710c1d8c8d3b
+False,24455,Paulus Arajuuri,4,Center Back,108.7,47.7,7cc229fd-4423-451f-a115-710c1d8c8d3b
+False,26939,Joona Toivio,3,Right Center Back,100.4,40.5,7cc229fd-4423-451f-a115-710c1d8c8d3b
+False,24648,Tim Sparv,10,Center Defensive Midfield,101.1,52.7,7cc229fd-4423-451f-a115-710c1d8c8d3b
+False,13215,Glen Kamara,15,Left Center Midfield,97.9,50.4,7cc229fd-4423-451f-a115-710c1d8c8d3b
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,102.5,61.0,7cc229fd-4423-451f-a115-710c1d8c8d3b
+False,16550,Jere Juhani Uronen,8,Left Wing Back,99.2,66.5,7cc229fd-4423-451f-a115-710c1d8c8d3b
+True,21261,Jonas Older Wind,23,Center Forward,105.1,41.4,7cc229fd-4423-451f-a115-710c1d8c8d3b
+True,5527,Thomas Delaney,15,Left Center Midfield,104.9,55.3,7cc229fd-4423-451f-a115-710c1d8c8d3b
+True,4447,Martin Braithwaite Christensen,21,Left Wing,97.5,53.5,7cc229fd-4423-451f-a115-710c1d8c8d3b
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,99.3,62.0,7cc229fd-4423-451f-a115-710c1d8c8d3b
+False,24321,Robin Lod,13,Right Center Midfield,103.5,42.9,62d91acd-d9bd-464b-b920-4b616259d258
+False,16550,Jere Juhani Uronen,8,Left Wing Back,106.7,42.5,62d91acd-d9bd-464b-b920-4b616259d258
+False,24648,Tim Sparv,10,Center Defensive Midfield,103.6,36.6,62d91acd-d9bd-464b-b920-4b616259d258
+False,8667,Lukáš Hrádecký,1,Goalkeeper,116.8,38.6,62d91acd-d9bd-464b-b920-4b616259d258
+False,9725,Joel Pohjanpalo,22,Right Center Forward,91.8,27.9,62d91acd-d9bd-464b-b920-4b616259d258
+False,13215,Glen Kamara,15,Left Center Midfield,102.5,28.6,62d91acd-d9bd-464b-b920-4b616259d258
+False,24455,Paulus Arajuuri,4,Center Back,110.1,37.3,62d91acd-d9bd-464b-b920-4b616259d258
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,109.1,34.0,62d91acd-d9bd-464b-b920-4b616259d258
+False,26939,Joona Toivio,3,Right Center Back,110.1,27.6,62d91acd-d9bd-464b-b920-4b616259d258
+False,15416,Jukka Raitala,7,Right Wing Back,105.4,21.0,62d91acd-d9bd-464b-b920-4b616259d258
+True,21261,Jonas Older Wind,23,Center Forward,109.5,30.7,62d91acd-d9bd-464b-b920-4b616259d258
+True,18722,Mathias Jensen,13,Right Center Midfield,107.1,26.3,62d91acd-d9bd-464b-b920-4b616259d258
+True,4447,Martin Braithwaite Christensen,21,Left Wing,108.2,22.8,62d91acd-d9bd-464b-b920-4b616259d258
+True,5536,Yussuf Yurary Poulsen,17,Right Wing,98.4,29.5,62d91acd-d9bd-464b-b920-4b616259d258
+True,3570,Pierre-Emile Højbjerg,10,Center Defensive Midfield,86.5,26.0,62d91acd-d9bd-464b-b920-4b616259d258
+True,6797,Daniel Wass,2,Right Back,103.2,47.6,62d91acd-d9bd-464b-b920-4b616259d258
+True,24321,Robin Lod,13,Right Center Midfield,114.5,37.2,da5fbab8-0347-4369-9056-df040c778889
+True,9476,Teemu Pukki,24,Left Center Forward,108.0,32.4,da5fbab8-0347-4369-9056-df040c778889
+False,3570,Pierre-Emile Højbjerg,10,Center Defensive Midfield,111.0,35.3,da5fbab8-0347-4369-9056-df040c778889
+False,3959,Andreas Christensen,5,Left Center Back,115.2,35.7,da5fbab8-0347-4369-9056-df040c778889
+False,16554,Joakim Mæhle,6,Left Back,113.0,43.7,da5fbab8-0347-4369-9056-df040c778889
+False,5534,Simon Thorup Kjær,3,Right Center Back,110.7,31.8,da5fbab8-0347-4369-9056-df040c778889
+False,18722,Mathias Jensen,13,Right Center Midfield,99.5,41.7,da5fbab8-0347-4369-9056-df040c778889
+False,5527,Thomas Delaney,15,Left Center Midfield,102.6,28.5,da5fbab8-0347-4369-9056-df040c778889
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.8,39.8,da5fbab8-0347-4369-9056-df040c778889
+False,24321,Robin Lod,13,Right Center Midfield,100.9,59.0,d205dc59-7151-4630-9e83-19d42d5c6ff8
+False,9725,Joel Pohjanpalo,22,Right Center Forward,104.0,55.0,d205dc59-7151-4630-9e83-19d42d5c6ff8
+False,24648,Tim Sparv,10,Center Defensive Midfield,102.5,49.9,d205dc59-7151-4630-9e83-19d42d5c6ff8
+False,13215,Glen Kamara,15,Left Center Midfield,99.9,43.7,d205dc59-7151-4630-9e83-19d42d5c6ff8
+False,16550,Jere Juhani Uronen,8,Left Wing Back,108.3,57.7,d205dc59-7151-4630-9e83-19d42d5c6ff8
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,105.8,53.2,d205dc59-7151-4630-9e83-19d42d5c6ff8
+False,26939,Joona Toivio,3,Right Center Back,108.0,42.4,d205dc59-7151-4630-9e83-19d42d5c6ff8
+False,24455,Paulus Arajuuri,4,Center Back,110.4,45.4,d205dc59-7151-4630-9e83-19d42d5c6ff8
+False,15416,Jukka Raitala,7,Right Wing Back,107.2,35.0,d205dc59-7151-4630-9e83-19d42d5c6ff8
+False,8667,Lukáš Hrádecký,1,Goalkeeper,117.2,41.6,d205dc59-7151-4630-9e83-19d42d5c6ff8
+True,3570,Pierre-Emile Højbjerg,10,Center Defensive Midfield,96.4,50.8,d205dc59-7151-4630-9e83-19d42d5c6ff8
+True,17042,Andreas Skov Olsen,17,Right Wing,99.7,57.3,d205dc59-7151-4630-9e83-19d42d5c6ff8
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,106.1,54.9,d205dc59-7151-4630-9e83-19d42d5c6ff8
+True,4447,Martin Braithwaite Christensen,21,Left Wing,107.6,42.6,d205dc59-7151-4630-9e83-19d42d5c6ff8
+True,16554,Joakim Mæhle,6,Left Back,97.3,27.3,d205dc59-7151-4630-9e83-19d42d5c6ff8
+True,5527,Thomas Delaney,15,Left Center Midfield,91.8,39.6,d205dc59-7151-4630-9e83-19d42d5c6ff8
+False,8667,Lukáš Hrádecký,1,Goalkeeper,118.0,42.7,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+False,24303,Joni Ensio Kauko,24,Left Center Forward,102.6,48.0,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+False,16550,Jere Juhani Uronen,8,Left Wing Back,110.0,56.7,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+False,24321,Robin Lod,13,Right Center Midfield,99.4,36.5,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+False,12807,Rasmus Schüller,10,Center Defensive Midfield,112.1,46.3,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,115.3,49.4,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+False,24455,Paulus Arajuuri,4,Center Back,111.6,41.4,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+False,13215,Glen Kamara,15,Left Center Midfield,103.8,27.5,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+False,26939,Joona Toivio,3,Right Center Back,110.3,35.3,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+False,15416,Jukka Raitala,7,Right Wing Back,109.9,33.7,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+True,3959,Andreas Christensen,3,Right Center Back,105.9,34.8,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,111.4,39.6,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+True,4447,Martin Braithwaite Christensen,21,Left Wing,106.9,32.8,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+True,18722,Mathias Jensen,13,Right Center Midfield,93.1,23.9,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+True,16554,Joakim Mæhle,6,Left Back,96.3,26.7,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+True,8815,Jannik Vestergaard,5,Left Center Back,109.5,41.6,80b51d1c-81d8-45da-94ba-30dbd151ceb8
+False,24303,Joni Ensio Kauko,24,Left Center Forward,105.0,51.1,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+False,12807,Rasmus Schüller,10,Center Defensive Midfield,107.2,42.8,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+False,21442,Leo Onni Artturi Väisänen,7,Right Wing Back,111.6,44.0,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+False,26939,Joona Toivio,3,Right Center Back,111.3,35.6,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+False,24455,Paulus Arajuuri,4,Center Back,109.9,39.2,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+False,13215,Glen Kamara,15,Left Center Midfield,104.6,37.4,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+False,24321,Robin Lod,13,Right Center Midfield,107.1,33.5,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,110.3,30.3,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+False,8667,Lukáš Hrádecký,1,Goalkeeper,119.3,40.7,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+True,5536,Yussuf Yurary Poulsen,19,Center Attacking Midfield,107.2,40.6,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+True,5732,Andreas Evald Cornelius,23,Center Forward,110.6,43.4,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+True,18722,Mathias Jensen,13,Right Center Midfield,90.5,31.2,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+True,16554,Joakim Mæhle,6,Left Back,98.5,29.3,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+True,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,110.6,31.3,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+True,4447,Martin Braithwaite Christensen,21,Left Wing,107.3,24.5,4b4ac1aa-ca00-4e67-b3dd-d1d9dd683cb9
+False,21442,Leo Onni Artturi Väisänen,7,Right Wing Back,114.2,43.8,92110c7a-9818-4829-936d-913c2e5b9aad
+False,16550,Jere Juhani Uronen,8,Left Wing Back,115.8,46.1,92110c7a-9818-4829-936d-913c2e5b9aad
+False,8667,Lukáš Hrádecký,1,Goalkeeper,118.9,38.9,92110c7a-9818-4829-936d-913c2e5b9aad
+False,13215,Glen Kamara,15,Left Center Midfield,105.6,38.6,92110c7a-9818-4829-936d-913c2e5b9aad
+False,38196,"Daniel O""Shaughnessy",5,Left Center Back,115.0,23.8,92110c7a-9818-4829-936d-913c2e5b9aad
+False,12807,Rasmus Schüller,10,Center Defensive Midfield,113.9,41.0,92110c7a-9818-4829-936d-913c2e5b9aad
+False,24455,Paulus Arajuuri,4,Center Back,113.9,39.4,92110c7a-9818-4829-936d-913c2e5b9aad
+False,26939,Joona Toivio,3,Right Center Back,113.3,35.9,92110c7a-9818-4829-936d-913c2e5b9aad
+False,24321,Robin Lod,13,Right Center Midfield,111.9,26.9,92110c7a-9818-4829-936d-913c2e5b9aad
+True,17042,Andreas Skov Olsen,17,Right Wing,104.3,47.4,92110c7a-9818-4829-936d-913c2e5b9aad
+True,5536,Yussuf Yurary Poulsen,19,Center Attacking Midfield,103.5,39.5,92110c7a-9818-4829-936d-913c2e5b9aad
+True,4447,Martin Braithwaite Christensen,21,Left Wing,109.2,45.4,92110c7a-9818-4829-936d-913c2e5b9aad
+True,5732,Andreas Evald Cornelius,23,Center Forward,112.4,42.6,92110c7a-9818-4829-936d-913c2e5b9aad
+True,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,111.4,31.2,92110c7a-9818-4829-936d-913c2e5b9aad

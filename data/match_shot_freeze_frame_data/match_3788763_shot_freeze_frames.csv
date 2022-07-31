@@ -1,0 +1,285 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,8524,Péter Gulácsi,1,Goalkeeper,116.2,41.2,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+True,5476,Benjamin Pavard,2,Right Back,99.5,64.8,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+True,3009,Kylian Mbappé Lottin,21,Left Wing,101.6,40.6,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+True,3026,Adrien Rabiot,15,Left Center Midfield,96.4,28.4,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+True,5487,Antoine Griezmann,17,Right Wing,107.8,39.5,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+True,6849,Lucas Digne,6,Left Back,97.5,18.4,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+False,42822,András Schäfer,15,Left Center Midfield,98.9,46.7,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+False,7162,Ádám Nagy,10,Center Defensive Midfield,99.0,41.3,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+False,46376,Attila Szalai,5,Left Center Back,101.0,44.7,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+False,8509,Willi Orban,4,Center Back,103.9,44.3,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+False,11268,Attila Fiola,8,Left Wing Back,106.4,48.2,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+False,31887,Endre Botka,3,Right Center Back,105.3,37.0,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+False,16741,Loïc Négo,7,Right Wing Back,101.1,28.4,09488ba9-5640-4ef3-b5bc-c1dd0f78e34d
+True,31887,Endre Botka,3,Right Center Back,79.6,57.1,df93a40e-c0df-42b0-986f-b3d46c458903
+True,11268,Attila Fiola,8,Left Wing Back,94.2,16.2,df93a40e-c0df-42b0-986f-b3d46c458903
+True,19316,Roland Sallai,22,Right Center Forward,84.7,50.3,df93a40e-c0df-42b0-986f-b3d46c458903
+True,42822,András Schäfer,15,Left Center Midfield,89.3,36.4,df93a40e-c0df-42b0-986f-b3d46c458903
+True,7162,Ádám Nagy,10,Center Defensive Midfield,93.7,35.6,df93a40e-c0df-42b0-986f-b3d46c458903
+True,8407,Ádám Szalai,24,Left Center Forward,96.8,34.7,df93a40e-c0df-42b0-986f-b3d46c458903
+False,3009,Kylian Mbappé Lottin,21,Left Wing,76.1,49.9,df93a40e-c0df-42b0-986f-b3d46c458903
+False,19677,Karim Benzema,23,Center Forward,79.8,45.0,df93a40e-c0df-42b0-986f-b3d46c458903
+False,5487,Antoine Griezmann,17,Right Wing,82.6,31.8,df93a40e-c0df-42b0-986f-b3d46c458903
+False,20004,Paul Pogba,13,Right Center Midfield,88.8,34.6,df93a40e-c0df-42b0-986f-b3d46c458903
+False,3026,Adrien Rabiot,15,Left Center Midfield,89.8,43.6,df93a40e-c0df-42b0-986f-b3d46c458903
+False,3961,N''Golo Kanté,10,Center Defensive Midfield,94.1,35.9,df93a40e-c0df-42b0-986f-b3d46c458903
+False,5476,Benjamin Pavard,2,Right Back,96.5,30.5,df93a40e-c0df-42b0-986f-b3d46c458903
+False,5485,Raphaël Varane,3,Right Center Back,99.6,35.8,df93a40e-c0df-42b0-986f-b3d46c458903
+False,2999,Presnel Kimpembe,5,Left Center Back,98.8,42.4,df93a40e-c0df-42b0-986f-b3d46c458903
+False,6849,Lucas Digne,6,Left Back,99.2,56.9,df93a40e-c0df-42b0-986f-b3d46c458903
+False,3099,Hugo Lloris,1,Goalkeeper,118.1,38.8,df93a40e-c0df-42b0-986f-b3d46c458903
+False,16741,Loïc Négo,7,Right Wing Back,110.0,14.8,d09f45b9-0d1f-400e-bec2-38220ca66293
+False,7162,Ádám Nagy,10,Center Defensive Midfield,116.4,24.8,d09f45b9-0d1f-400e-bec2-38220ca66293
+False,8509,Willi Orban,4,Center Back,111.5,32.9,d09f45b9-0d1f-400e-bec2-38220ca66293
+False,16502,László Kleinheisler,13,Right Center Midfield,96.4,16.0,d09f45b9-0d1f-400e-bec2-38220ca66293
+False,46376,Attila Szalai,5,Left Center Back,109.6,38.2,d09f45b9-0d1f-400e-bec2-38220ca66293
+False,42822,András Schäfer,15,Left Center Midfield,104.1,35.3,d09f45b9-0d1f-400e-bec2-38220ca66293
+False,11268,Attila Fiola,8,Left Wing Back,107.7,43.9,d09f45b9-0d1f-400e-bec2-38220ca66293
+False,8524,Péter Gulácsi,1,Goalkeeper,118.5,39.2,d09f45b9-0d1f-400e-bec2-38220ca66293
+True,3026,Adrien Rabiot,15,Left Center Midfield,107.2,22.6,d09f45b9-0d1f-400e-bec2-38220ca66293
+True,19677,Karim Benzema,23,Center Forward,104.9,25.4,d09f45b9-0d1f-400e-bec2-38220ca66293
+True,3961,N''Golo Kanté,10,Center Defensive Midfield,93.1,16.9,a0a799d7-ce5e-47ab-80d1-4e39b023ce47
+True,19677,Karim Benzema,23,Center Forward,109.8,20.9,a0a799d7-ce5e-47ab-80d1-4e39b023ce47
+False,8524,Péter Gulácsi,1,Goalkeeper,117.9,38.5,a0a799d7-ce5e-47ab-80d1-4e39b023ce47
+False,11268,Attila Fiola,8,Left Wing Back,108.7,49.8,a0a799d7-ce5e-47ab-80d1-4e39b023ce47
+False,46376,Attila Szalai,5,Left Center Back,110.5,40.0,a0a799d7-ce5e-47ab-80d1-4e39b023ce47
+False,7162,Ádám Nagy,10,Center Defensive Midfield,107.6,33.7,a0a799d7-ce5e-47ab-80d1-4e39b023ce47
+False,8509,Willi Orban,4,Center Back,110.8,32.3,a0a799d7-ce5e-47ab-80d1-4e39b023ce47
+False,16502,László Kleinheisler,13,Right Center Midfield,107.3,23.5,a0a799d7-ce5e-47ab-80d1-4e39b023ce47
+False,31887,Endre Botka,3,Right Center Back,110.0,25.6,a0a799d7-ce5e-47ab-80d1-4e39b023ce47
+False,16741,Loïc Négo,7,Right Wing Back,110.4,23.7,a0a799d7-ce5e-47ab-80d1-4e39b023ce47
+True,5487,Antoine Griezmann,17,Right Wing,89.6,48.2,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+True,6849,Lucas Digne,6,Left Back,92.9,31.2,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+True,2999,Presnel Kimpembe,5,Left Center Back,103.2,44.2,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+True,20004,Paul Pogba,13,Right Center Midfield,103.2,43.2,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+True,19677,Karim Benzema,23,Center Forward,103.3,38.8,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+True,3026,Adrien Rabiot,15,Left Center Midfield,102.1,33.1,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+True,5485,Raphaël Varane,3,Right Center Back,102.0,30.6,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,8524,Péter Gulácsi,1,Goalkeeper,118.7,38.8,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,19316,Roland Sallai,22,Right Center Forward,100.5,54.3,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,42822,András Schäfer,15,Left Center Midfield,101.0,47.0,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,46376,Attila Szalai,5,Left Center Back,101.0,46.5,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,12723,Nemanja Nikolić,24,Left Center Forward,101.0,45.8,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,8509,Willi Orban,4,Center Back,100.9,44.8,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,16502,László Kleinheisler,13,Right Center Midfield,100.8,44.1,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,11268,Attila Fiola,8,Left Wing Back,101.9,40.9,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,31887,Endre Botka,3,Right Center Back,101.7,37.5,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,7162,Ádám Nagy,10,Center Defensive Midfield,101.0,35.8,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+False,16741,Loïc Négo,7,Right Wing Back,101.9,33.5,9cdf0485-bb0f-4a7d-ac41-13fa7e7e97dc
+True,5476,Benjamin Pavard,2,Right Back,110.1,50.3,151de50b-1188-47e6-8f94-07e2a6f707bd
+True,3009,Kylian Mbappé Lottin,21,Left Wing,113.8,55.7,151de50b-1188-47e6-8f94-07e2a6f707bd
+True,6849,Lucas Digne,6,Left Back,98.7,20.3,151de50b-1188-47e6-8f94-07e2a6f707bd
+False,8524,Péter Gulácsi,1,Goalkeeper,117.0,41.6,151de50b-1188-47e6-8f94-07e2a6f707bd
+False,46376,Attila Szalai,5,Left Center Back,106.9,47.2,151de50b-1188-47e6-8f94-07e2a6f707bd
+False,11268,Attila Fiola,8,Left Wing Back,109.7,52.0,151de50b-1188-47e6-8f94-07e2a6f707bd
+False,8509,Willi Orban,4,Center Back,111.8,54.3,151de50b-1188-47e6-8f94-07e2a6f707bd
+False,31887,Endre Botka,3,Right Center Back,114.3,54.1,151de50b-1188-47e6-8f94-07e2a6f707bd
+False,16741,Loïc Négo,7,Right Wing Back,105.6,36.0,151de50b-1188-47e6-8f94-07e2a6f707bd
+True,3026,Adrien Rabiot,15,Left Center Midfield,94.6,41.5,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+True,5487,Antoine Griezmann,17,Right Wing,108.8,58.6,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+True,19677,Karim Benzema,23,Center Forward,107.0,42.0,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+True,3961,N''Golo Kanté,10,Center Defensive Midfield,106.5,39.2,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+True,6849,Lucas Digne,6,Left Back,103.8,24.5,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,8524,Péter Gulácsi,1,Goalkeeper,117.8,43.2,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,11268,Attila Fiola,8,Left Wing Back,103.5,57.8,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,12723,Nemanja Nikolić,24,Left Center Forward,99.3,44.9,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,42822,András Schäfer,15,Left Center Midfield,105.4,51.3,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,16502,László Kleinheisler,13,Right Center Midfield,103.5,45.0,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,7162,Ádám Nagy,10,Center Defensive Midfield,109.0,53.5,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,46376,Attila Szalai,5,Left Center Back,110.4,50.2,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,8509,Willi Orban,4,Center Back,111.1,49.8,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,31887,Endre Botka,3,Right Center Back,109.3,38.9,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,16741,Loïc Négo,7,Right Wing Back,108.9,36.1,b63f1e45-1bb6-441b-99f4-bde4a81b484c
+False,8524,Péter Gulácsi,1,Goalkeeper,118.3,44.0,64016949-d99e-4c8d-8842-af809b354b87
+True,6849,Lucas Digne,6,Left Back,86.9,21.5,64016949-d99e-4c8d-8842-af809b354b87
+True,5476,Benjamin Pavard,2,Right Back,105.4,51.9,64016949-d99e-4c8d-8842-af809b354b87
+True,3026,Adrien Rabiot,15,Left Center Midfield,97.6,36.3,64016949-d99e-4c8d-8842-af809b354b87
+True,19677,Karim Benzema,23,Center Forward,111.8,40.4,64016949-d99e-4c8d-8842-af809b354b87
+True,3009,Kylian Mbappé Lottin,21,Left Wing,99.0,13.9,64016949-d99e-4c8d-8842-af809b354b87
+False,12723,Nemanja Nikolić,24,Left Center Forward,96.7,49.1,64016949-d99e-4c8d-8842-af809b354b87
+False,7162,Ádám Nagy,10,Center Defensive Midfield,106.7,54.6,64016949-d99e-4c8d-8842-af809b354b87
+False,11268,Attila Fiola,8,Left Wing Back,112.8,57.8,64016949-d99e-4c8d-8842-af809b354b87
+False,16502,László Kleinheisler,13,Right Center Midfield,105.3,42.1,64016949-d99e-4c8d-8842-af809b354b87
+False,46376,Attila Szalai,5,Left Center Back,113.2,55.8,64016949-d99e-4c8d-8842-af809b354b87
+False,8509,Willi Orban,4,Center Back,113.9,42.1,64016949-d99e-4c8d-8842-af809b354b87
+False,31887,Endre Botka,3,Right Center Back,112.5,38.3,64016949-d99e-4c8d-8842-af809b354b87
+False,16741,Loïc Négo,7,Right Wing Back,108.0,30.1,64016949-d99e-4c8d-8842-af809b354b87
+False,3099,Hugo Lloris,1,Goalkeeper,117.5,38.1,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+False,3026,Adrien Rabiot,15,Left Center Midfield,104.9,40.8,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+False,2999,Presnel Kimpembe,5,Left Center Back,103.9,37.7,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+False,20004,Paul Pogba,13,Right Center Midfield,104.1,27.3,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+False,5485,Raphaël Varane,3,Right Center Back,101.8,21.9,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+False,6849,Lucas Digne,6,Left Back,88.5,51.5,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+False,3961,N''Golo Kanté,10,Center Defensive Midfield,95.2,35.6,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+False,5476,Benjamin Pavard,2,Right Back,97.3,25.5,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+True,16502,László Kleinheisler,13,Right Center Midfield,104.4,39.9,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+True,11268,Attila Fiola,8,Left Wing Back,103.2,22.3,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+True,42822,András Schäfer,15,Left Center Midfield,86.0,42.8,eb82d8fd-6e9a-491c-8d65-9f61a127ec51
+False,3099,Hugo Lloris,1,Goalkeeper,115.2,37.9,799e005b-bd56-4b85-929a-9dbb001698a5
+False,6849,Lucas Digne,6,Left Back,107.4,47.6,799e005b-bd56-4b85-929a-9dbb001698a5
+False,2999,Presnel Kimpembe,5,Left Center Back,109.2,35.3,799e005b-bd56-4b85-929a-9dbb001698a5
+False,5485,Raphaël Varane,3,Right Center Back,109.0,31.9,799e005b-bd56-4b85-929a-9dbb001698a5
+False,5476,Benjamin Pavard,2,Right Back,104.3,32.4,799e005b-bd56-4b85-929a-9dbb001698a5
+False,3961,N''Golo Kanté,10,Center Defensive Midfield,99.2,39.5,799e005b-bd56-4b85-929a-9dbb001698a5
+True,12723,Nemanja Nikolić,24,Left Center Forward,108.1,42.5,799e005b-bd56-4b85-929a-9dbb001698a5
+True,16502,László Kleinheisler,13,Right Center Midfield,89.9,59.2,799e005b-bd56-4b85-929a-9dbb001698a5
+True,19677,Karim Benzema,23,Center Forward,118.5,29.9,f3cad156-cf01-4bbe-8388-7468bfc569b0
+True,3009,Kylian Mbappé Lottin,21,Left Wing,111.9,39.3,f3cad156-cf01-4bbe-8388-7468bfc569b0
+True,5487,Antoine Griezmann,17,Right Wing,108.5,35.2,f3cad156-cf01-4bbe-8388-7468bfc569b0
+True,3026,Adrien Rabiot,15,Left Center Midfield,99.6,29.3,f3cad156-cf01-4bbe-8388-7468bfc569b0
+True,5485,Raphaël Varane,3,Right Center Back,87.1,56.6,f3cad156-cf01-4bbe-8388-7468bfc569b0
+True,3961,N''Golo Kanté,10,Center Defensive Midfield,89.2,49.4,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,16741,Loïc Négo,7,Right Wing Back,108.5,23.7,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,12723,Nemanja Nikolić,24,Left Center Forward,100.0,38.7,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,11268,Attila Fiola,8,Left Wing Back,113.0,45.3,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,7162,Ádám Nagy,10,Center Defensive Midfield,111.9,45.0,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,46376,Attila Szalai,5,Left Center Back,114.5,39.8,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,31887,Endre Botka,3,Right Center Back,114.3,32.0,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,16502,László Kleinheisler,13,Right Center Midfield,107.0,35.1,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,19316,Roland Sallai,22,Right Center Forward,93.6,55.2,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,8524,Péter Gulácsi,1,Goalkeeper,117.7,37.1,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,8509,Willi Orban,4,Center Back,112.6,50.1,f3cad156-cf01-4bbe-8388-7468bfc569b0
+False,42822,András Schäfer,15,Left Center Midfield,104.4,59.7,f3cad156-cf01-4bbe-8388-7468bfc569b0
+True,5476,Benjamin Pavard,2,Right Back,86.6,63.2,b883b007-6ba4-4423-8121-4a30160e2501
+True,6849,Lucas Digne,6,Left Back,87.3,41.2,b883b007-6ba4-4423-8121-4a30160e2501
+False,7162,Ádám Nagy,10,Center Defensive Midfield,96.9,61.6,b883b007-6ba4-4423-8121-4a30160e2501
+False,19316,Roland Sallai,22,Right Center Forward,86.0,61.2,b883b007-6ba4-4423-8121-4a30160e2501
+False,46376,Attila Szalai,5,Left Center Back,106.5,45.3,b883b007-6ba4-4423-8121-4a30160e2501
+False,8509,Willi Orban,4,Center Back,109.8,39.6,b883b007-6ba4-4423-8121-4a30160e2501
+False,31887,Endre Botka,3,Right Center Back,109.1,38.8,b883b007-6ba4-4423-8121-4a30160e2501
+False,11268,Attila Fiola,8,Left Wing Back,102.5,55.9,b883b007-6ba4-4423-8121-4a30160e2501
+False,16502,László Kleinheisler,13,Right Center Midfield,98.6,53.1,b883b007-6ba4-4423-8121-4a30160e2501
+False,12723,Nemanja Nikolić,24,Left Center Forward,98.7,49.8,b883b007-6ba4-4423-8121-4a30160e2501
+False,16741,Loïc Négo,7,Right Wing Back,108.3,36.1,b883b007-6ba4-4423-8121-4a30160e2501
+False,42822,András Schäfer,15,Left Center Midfield,105.9,31.5,b883b007-6ba4-4423-8121-4a30160e2501
+False,8524,Péter Gulácsi,1,Goalkeeper,116.1,41.1,b883b007-6ba4-4423-8121-4a30160e2501
+True,3009,Kylian Mbappé Lottin,21,Left Wing,107.3,30.8,b883b007-6ba4-4423-8121-4a30160e2501
+True,5485,Raphaël Varane,3,Right Center Back,104.7,37.7,b883b007-6ba4-4423-8121-4a30160e2501
+True,19677,Karim Benzema,23,Center Forward,107.9,34.0,b883b007-6ba4-4423-8121-4a30160e2501
+True,2999,Presnel Kimpembe,5,Left Center Back,106.6,41.5,b883b007-6ba4-4423-8121-4a30160e2501
+True,3026,Adrien Rabiot,15,Left Center Midfield,109.0,37.8,b883b007-6ba4-4423-8121-4a30160e2501
+True,20004,Paul Pogba,13,Right Center Midfield,107.2,45.1,b883b007-6ba4-4423-8121-4a30160e2501
+False,8524,Péter Gulácsi,1,Goalkeeper,118.3,39.9,5550612f-6f5e-4cd6-b594-86a21e6229e9
+False,31887,Endre Botka,3,Right Center Back,101.8,30.9,5550612f-6f5e-4cd6-b594-86a21e6229e9
+False,8509,Willi Orban,4,Center Back,102.8,32.6,5550612f-6f5e-4cd6-b594-86a21e6229e9
+False,46376,Attila Szalai,5,Left Center Back,98.8,38.7,5550612f-6f5e-4cd6-b594-86a21e6229e9
+False,16741,Loïc Négo,7,Right Wing Back,103.2,18.6,5550612f-6f5e-4cd6-b594-86a21e6229e9
+False,16502,László Kleinheisler,13,Right Center Midfield,97.1,29.9,5550612f-6f5e-4cd6-b594-86a21e6229e9
+False,42822,András Schäfer,15,Left Center Midfield,93.7,36.3,5550612f-6f5e-4cd6-b594-86a21e6229e9
+False,12723,Nemanja Nikolić,24,Left Center Forward,90.0,43.1,5550612f-6f5e-4cd6-b594-86a21e6229e9
+False,7162,Ádám Nagy,10,Center Defensive Midfield,93.4,32.8,5550612f-6f5e-4cd6-b594-86a21e6229e9
+False,11268,Attila Fiola,8,Left Wing Back,98.8,47.8,5550612f-6f5e-4cd6-b594-86a21e6229e9
+True,3026,Adrien Rabiot,15,Left Center Midfield,91.2,22.3,5550612f-6f5e-4cd6-b594-86a21e6229e9
+True,6849,Lucas Digne,6,Left Back,100.2,11.2,5550612f-6f5e-4cd6-b594-86a21e6229e9
+True,5487,Antoine Griezmann,17,Right Wing,98.3,30.9,5550612f-6f5e-4cd6-b594-86a21e6229e9
+True,19677,Karim Benzema,23,Center Forward,95.4,38.8,5550612f-6f5e-4cd6-b594-86a21e6229e9
+True,3009,Kylian Mbappé Lottin,21,Left Wing,101.3,31.3,5550612f-6f5e-4cd6-b594-86a21e6229e9
+True,5476,Benjamin Pavard,2,Right Back,88.4,55.2,5550612f-6f5e-4cd6-b594-86a21e6229e9
+True,11268,Attila Fiola,8,Left Wing Back,100.8,8.1,71b81a18-5ce5-4d75-b927-0f18fddf8447
+True,42822,András Schäfer,15,Left Center Midfield,104.7,17.7,71b81a18-5ce5-4d75-b927-0f18fddf8447
+True,16502,László Kleinheisler,13,Right Center Midfield,100.9,40.6,71b81a18-5ce5-4d75-b927-0f18fddf8447
+True,12723,Nemanja Nikolić,24,Left Center Forward,108.7,39.4,71b81a18-5ce5-4d75-b927-0f18fddf8447
+True,16741,Loïc Négo,7,Right Wing Back,109.2,57.7,71b81a18-5ce5-4d75-b927-0f18fddf8447
+False,5477,Ousmane Dembélé,15,Left Center Midfield,104.7,13.7,71b81a18-5ce5-4d75-b927-0f18fddf8447
+False,20004,Paul Pogba,13,Right Center Midfield,107.2,20.5,71b81a18-5ce5-4d75-b927-0f18fddf8447
+False,5476,Benjamin Pavard,2,Right Back,103.6,25.3,71b81a18-5ce5-4d75-b927-0f18fddf8447
+False,5487,Antoine Griezmann,17,Right Wing,97.4,25.8,71b81a18-5ce5-4d75-b927-0f18fddf8447
+False,3961,N''Golo Kanté,10,Center Defensive Midfield,103.6,34.8,71b81a18-5ce5-4d75-b927-0f18fddf8447
+False,5485,Raphaël Varane,3,Right Center Back,109.5,36.9,71b81a18-5ce5-4d75-b927-0f18fddf8447
+False,2999,Presnel Kimpembe,5,Left Center Back,108.4,43.2,71b81a18-5ce5-4d75-b927-0f18fddf8447
+False,6849,Lucas Digne,6,Left Back,107.4,48.0,71b81a18-5ce5-4d75-b927-0f18fddf8447
+False,3099,Hugo Lloris,1,Goalkeeper,118.4,39.6,71b81a18-5ce5-4d75-b927-0f18fddf8447
+False,8509,Willi Orban,4,Center Back,108.5,44.2,827521c2-e820-420c-a0b6-f8cfe3cb17da
+False,11268,Attila Fiola,8,Left Wing Back,105.6,53.5,827521c2-e820-420c-a0b6-f8cfe3cb17da
+False,46376,Attila Szalai,5,Left Center Back,102.7,52.4,827521c2-e820-420c-a0b6-f8cfe3cb17da
+False,31887,Endre Botka,3,Right Center Back,110.4,37.4,827521c2-e820-420c-a0b6-f8cfe3cb17da
+False,7162,Ádám Nagy,10,Center Defensive Midfield,104.8,44.6,827521c2-e820-420c-a0b6-f8cfe3cb17da
+False,42822,András Schäfer,15,Left Center Midfield,102.0,48.1,827521c2-e820-420c-a0b6-f8cfe3cb17da
+False,8524,Péter Gulácsi,1,Goalkeeper,117.4,43.3,827521c2-e820-420c-a0b6-f8cfe3cb17da
+True,3009,Kylian Mbappé Lottin,21,Left Wing,108.9,39.0,827521c2-e820-420c-a0b6-f8cfe3cb17da
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,102.1,55.8,827521c2-e820-420c-a0b6-f8cfe3cb17da
+True,3009,Kylian Mbappé Lottin,21,Left Wing,113.5,37.8,08b5ef3a-07e9-4baf-9912-747db6502681
+True,5477,Ousmane Dembélé,17,Right Wing,107.4,48.2,08b5ef3a-07e9-4baf-9912-747db6502681
+False,8524,Péter Gulácsi,1,Goalkeeper,118.2,39.6,08b5ef3a-07e9-4baf-9912-747db6502681
+False,19316,Roland Sallai,22,Right Center Forward,98.6,54.2,08b5ef3a-07e9-4baf-9912-747db6502681
+False,11268,Attila Fiola,8,Left Wing Back,111.0,43.6,08b5ef3a-07e9-4baf-9912-747db6502681
+False,8509,Willi Orban,4,Center Back,115.7,39.3,08b5ef3a-07e9-4baf-9912-747db6502681
+False,31887,Endre Botka,3,Right Center Back,115.9,38.4,08b5ef3a-07e9-4baf-9912-747db6502681
+False,7162,Ádám Nagy,10,Center Defensive Midfield,114.0,47.1,08b5ef3a-07e9-4baf-9912-747db6502681
+False,16741,Loïc Négo,7,Right Wing Back,116.2,54.4,08b5ef3a-07e9-4baf-9912-747db6502681
+False,11268,Attila Fiola,8,Left Wing Back,111.4,42.8,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+False,12723,Nemanja Nikolić,24,Left Center Forward,109.2,41.4,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+False,31887,Endre Botka,3,Right Center Back,110.0,38.3,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+False,8509,Willi Orban,4,Center Back,112.7,33.4,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+False,42822,András Schäfer,15,Left Center Midfield,111.4,48.5,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+False,7162,Ádám Nagy,10,Center Defensive Midfield,105.2,53.7,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+False,46376,Attila Szalai,5,Left Center Back,107.6,39.6,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+False,16741,Loïc Négo,7,Right Wing Back,108.4,34.2,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+False,19316,Roland Sallai,22,Right Center Forward,90.7,60.7,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+False,8524,Péter Gulácsi,1,Goalkeeper,118.2,43.4,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+True,19677,Karim Benzema,23,Center Forward,108.1,31.3,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+True,2999,Presnel Kimpembe,5,Left Center Back,104.5,38.8,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+True,5485,Raphaël Varane,3,Right Center Back,110.7,38.7,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+True,20004,Paul Pogba,9,Right Defensive Midfield,110.9,44.1,f6867bc9-5d6d-4c18-a6b6-f419ea89d880
+True,5476,Benjamin Pavard,2,Right Back,87.0,59.7,a358d342-b021-4d2a-beae-6ff7b0610d18
+True,20004,Paul Pogba,9,Right Defensive Midfield,89.5,55.4,a358d342-b021-4d2a-beae-6ff7b0610d18
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,96.0,45.6,a358d342-b021-4d2a-beae-6ff7b0610d18
+True,19677,Karim Benzema,23,Center Forward,104.4,32.1,a358d342-b021-4d2a-beae-6ff7b0610d18
+True,3009,Kylian Mbappé Lottin,21,Left Wing,110.5,42.2,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,16741,Loïc Négo,7,Right Wing Back,103.7,30.5,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,19316,Roland Sallai,22,Right Center Forward,93.0,54.6,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,16502,László Kleinheisler,13,Right Center Midfield,101.2,40.6,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,12723,Nemanja Nikolić,24,Left Center Forward,99.6,44.7,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,31887,Endre Botka,3,Right Center Back,109.1,33.2,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,7162,Ádám Nagy,10,Center Defensive Midfield,102.5,48.3,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,8509,Willi Orban,4,Center Back,103.7,42.3,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,42822,András Schäfer,15,Left Center Midfield,106.1,40.8,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,8524,Péter Gulácsi,1,Goalkeeper,118.3,39.4,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,46376,Attila Szalai,5,Left Center Back,112.3,51.6,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,11268,Attila Fiola,8,Left Wing Back,113.1,55.1,a358d342-b021-4d2a-beae-6ff7b0610d18
+False,5485,Raphaël Varane,3,Right Center Back,105.2,47.3,2105e64b-2fb1-47ed-a758-3307b6af17ca
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,98.2,56.6,2105e64b-2fb1-47ed-a758-3307b6af17ca
+False,6849,Lucas Digne,6,Left Back,105.2,56.7,2105e64b-2fb1-47ed-a758-3307b6af17ca
+False,2999,Presnel Kimpembe,5,Left Center Back,101.9,47.7,2105e64b-2fb1-47ed-a758-3307b6af17ca
+False,5477,Ousmane Dembélé,17,Right Wing,94.0,31.2,2105e64b-2fb1-47ed-a758-3307b6af17ca
+False,5476,Benjamin Pavard,2,Right Back,106.4,44.0,2105e64b-2fb1-47ed-a758-3307b6af17ca
+False,3099,Hugo Lloris,1,Goalkeeper,117.7,40.3,2105e64b-2fb1-47ed-a758-3307b6af17ca
+True,31887,Endre Botka,3,Right Center Back,105.4,57.7,2105e64b-2fb1-47ed-a758-3307b6af17ca
+True,11268,Attila Fiola,8,Left Wing Back,94.8,31.0,2105e64b-2fb1-47ed-a758-3307b6af17ca
+True,12723,Nemanja Nikolić,24,Left Center Forward,106.3,47.9,2105e64b-2fb1-47ed-a758-3307b6af17ca
+True,3604,Olivier Giroud,23,Center Forward,107.3,40.4,ff1cadad-3c81-4cef-896f-514ce145efc6
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,98.1,35.1,ff1cadad-3c81-4cef-896f-514ce145efc6
+False,8524,Péter Gulácsi,1,Goalkeeper,117.1,36.2,ff1cadad-3c81-4cef-896f-514ce145efc6
+False,7162,Ádám Nagy,10,Center Defensive Midfield,103.9,31.8,ff1cadad-3c81-4cef-896f-514ce145efc6
+False,31887,Endre Botka,3,Right Center Back,107.7,30.8,ff1cadad-3c81-4cef-896f-514ce145efc6
+False,8509,Willi Orban,4,Center Back,110.3,30.8,ff1cadad-3c81-4cef-896f-514ce145efc6
+False,46376,Attila Szalai,5,Left Center Back,108.2,36.4,ff1cadad-3c81-4cef-896f-514ce145efc6
+False,11268,Attila Fiola,8,Left Wing Back,99.0,51.6,ff1cadad-3c81-4cef-896f-514ce145efc6
+True,3604,Olivier Giroud,23,Center Forward,102.8,43.8,295a97de-f3fa-4efd-be73-167d11b561e6
+True,3009,Kylian Mbappé Lottin,21,Left Wing,100.3,35.0,295a97de-f3fa-4efd-be73-167d11b561e6
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,86.4,44.4,295a97de-f3fa-4efd-be73-167d11b561e6
+True,5476,Benjamin Pavard,2,Right Back,83.5,62.9,295a97de-f3fa-4efd-be73-167d11b561e6
+False,8524,Péter Gulácsi,1,Goalkeeper,117.3,40.6,295a97de-f3fa-4efd-be73-167d11b561e6
+False,16502,László Kleinheisler,13,Right Center Midfield,92.6,37.2,295a97de-f3fa-4efd-be73-167d11b561e6
+False,16741,Loïc Négo,7,Right Wing Back,101.8,33.2,295a97de-f3fa-4efd-be73-167d11b561e6
+False,19316,Roland Sallai,22,Right Center Forward,91.3,56.5,295a97de-f3fa-4efd-be73-167d11b561e6
+False,7162,Ádám Nagy,10,Center Defensive Midfield,99.7,40.3,295a97de-f3fa-4efd-be73-167d11b561e6
+False,31887,Endre Botka,3,Right Center Back,103.4,37.7,295a97de-f3fa-4efd-be73-167d11b561e6
+False,8509,Willi Orban,4,Center Back,103.1,42.4,295a97de-f3fa-4efd-be73-167d11b561e6
+False,46378,Tamás Cseri,15,Left Center Midfield,100.8,53.4,295a97de-f3fa-4efd-be73-167d11b561e6
+False,46376,Attila Szalai,5,Left Center Back,103.7,52.5,295a97de-f3fa-4efd-be73-167d11b561e6
+False,11268,Attila Fiola,8,Left Wing Back,103.6,59.2,295a97de-f3fa-4efd-be73-167d11b561e6
+False,8524,Péter Gulácsi,1,Goalkeeper,119.9,39.4,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+False,11268,Attila Fiola,8,Left Wing Back,114.7,43.5,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+False,46376,Attila Szalai,5,Left Center Back,114.3,41.6,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+False,8509,Willi Orban,4,Center Back,116.6,34.5,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+False,46378,Tamás Cseri,15,Left Center Midfield,109.9,40.1,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+False,16741,Loïc Négo,7,Right Wing Back,114.6,31.3,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+False,31887,Endre Botka,3,Right Center Back,112.8,27.8,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+False,7162,Ádám Nagy,10,Center Defensive Midfield,107.2,35.8,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+True,3604,Olivier Giroud,23,Center Forward,114.7,38.1,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+True,3009,Kylian Mbappé Lottin,17,Right Wing,113.1,39.4,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+True,5480,Corentin Tolisso,9,Right Defensive Midfield,112.9,42.3,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,110.9,56.6,168307ec-1d4c-4eeb-8960-5a08104e4cc4
+True,2999,Presnel Kimpembe,5,Left Center Back,113.4,47.7,168307ec-1d4c-4eeb-8960-5a08104e4cc4

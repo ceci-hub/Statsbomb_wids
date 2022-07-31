@@ -1,0 +1,281 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,9974,John McGinn,19,Center Attacking Midfield,102.4,58.3,deb526b2-a21d-42e9-ae52-52ac961043d9
+True,31067,Billy Gilmour,9,Right Defensive Midfield,97.9,65.9,deb526b2-a21d-42e9-ae52-52ac961043d9
+True,3620,Scott McTominay,3,Right Center Back,92.9,65.0,deb526b2-a21d-42e9-ae52-52ac961043d9
+True,10534,Callum McGregor,11,Left Defensive Midfield,98.5,48.6,deb526b2-a21d-42e9-ae52-52ac961043d9
+True,29571,Lyndon Dykes,24,Left Center Forward,111.5,38.3,deb526b2-a21d-42e9-ae52-52ac961043d9
+False,3468,Jordan Pickford,1,Goalkeeper,118.2,42.4,deb526b2-a21d-42e9-ae52-52ac961043d9
+False,4354,Philip Foden,17,Right Wing,102.6,36.9,deb526b2-a21d-42e9-ae52-52ac961043d9
+False,4706,Kalvin Phillips,13,Right Center Midfield,102.3,48.8,deb526b2-a21d-42e9-ae52-52ac961043d9
+False,9550,Reece James,2,Right Back,112.2,40.3,deb526b2-a21d-42e9-ae52-52ac961043d9
+False,3244,John Stones,3,Right Center Back,114.0,42.5,deb526b2-a21d-42e9-ae52-52ac961043d9
+False,3233,Raheem Sterling,21,Left Wing,96.6,69.7,deb526b2-a21d-42e9-ae52-52ac961043d9
+False,3943,Declan Rice,10,Center Defensive Midfield,114.2,47.3,deb526b2-a21d-42e9-ae52-52ac961043d9
+False,3323,Tyrone Mings,5,Left Center Back,108.2,58.2,deb526b2-a21d-42e9-ae52-52ac961043d9
+False,7843,Mason Mount,15,Left Center Midfield,107.4,66.1,deb526b2-a21d-42e9-ae52-52ac961043d9
+False,3382,Luke Shaw,6,Left Back,115.6,61.3,deb526b2-a21d-42e9-ae52-52ac961043d9
+True,3382,Luke Shaw,6,Left Back,98.6,26.6,722ad3c6-d3de-4761-8f68-7299596e5f76
+True,3233,Raheem Sterling,21,Left Wing,107.8,40.6,722ad3c6-d3de-4761-8f68-7299596e5f76
+True,10955,Harry Kane,23,Center Forward,104.7,26.3,722ad3c6-d3de-4761-8f68-7299596e5f76
+False,9645,David Marshall,1,Goalkeeper,117.1,38.9,722ad3c6-d3de-4761-8f68-7299596e5f76
+False,31067,Billy Gilmour,9,Right Defensive Midfield,97.1,48.1,722ad3c6-d3de-4761-8f68-7299596e5f76
+False,9974,John McGinn,19,Center Attacking Midfield,100.5,39.4,722ad3c6-d3de-4761-8f68-7299596e5f76
+False,3655,Andrew Robertson,8,Left Wing Back,107.8,48.2,722ad3c6-d3de-4761-8f68-7299596e5f76
+False,10534,Callum McGregor,11,Left Defensive Midfield,104.7,41.3,722ad3c6-d3de-4761-8f68-7299596e5f76
+False,10540,Kieran Tierney,5,Left Center Back,107.1,44.0,722ad3c6-d3de-4761-8f68-7299596e5f76
+False,9481,Grant Hanley,4,Center Back,102.9,35.8,722ad3c6-d3de-4761-8f68-7299596e5f76
+False,9048,"Stephen O""Donnell",7,Right Wing Back,102.2,32.9,722ad3c6-d3de-4761-8f68-7299596e5f76
+False,3620,Scott McTominay,3,Right Center Back,105.0,33.7,722ad3c6-d3de-4761-8f68-7299596e5f76
+True,9550,Reece James,2,Right Back,104.9,58.5,722ad3c6-d3de-4761-8f68-7299596e5f76
+True,4354,Philip Foden,17,Right Wing,103.3,44.8,722ad3c6-d3de-4761-8f68-7299596e5f76
+False,29571,Lyndon Dykes,24,Left Center Forward,112.7,45.3,0dfbe480-aecd-41f2-8715-2ef22669f678
+False,9645,David Marshall,1,Goalkeeper,119.1,41.4,0dfbe480-aecd-41f2-8715-2ef22669f678
+False,3655,Andrew Robertson,8,Left Wing Back,106.5,38.7,0dfbe480-aecd-41f2-8715-2ef22669f678
+False,10534,Callum McGregor,11,Left Defensive Midfield,112.5,47.7,0dfbe480-aecd-41f2-8715-2ef22669f678
+False,10540,Kieran Tierney,5,Left Center Back,115.3,51.4,0dfbe480-aecd-41f2-8715-2ef22669f678
+False,9048,"Stephen O""Donnell",7,Right Wing Back,113.9,45.6,0dfbe480-aecd-41f2-8715-2ef22669f678
+False,3620,Scott McTominay,3,Right Center Back,110.9,39.4,0dfbe480-aecd-41f2-8715-2ef22669f678
+False,9974,John McGinn,19,Center Attacking Midfield,117.1,47.4,0dfbe480-aecd-41f2-8715-2ef22669f678
+True,3323,Tyrone Mings,5,Left Center Back,111.2,37.8,0dfbe480-aecd-41f2-8715-2ef22669f678
+False,9481,Grant Hanley,4,Center Back,111.4,36.9,0dfbe480-aecd-41f2-8715-2ef22669f678
+True,7843,Mason Mount,15,Left Center Midfield,114.8,79.5,0dfbe480-aecd-41f2-8715-2ef22669f678
+True,3233,Raheem Sterling,21,Left Wing,104.5,38.9,0dfbe480-aecd-41f2-8715-2ef22669f678
+True,4354,Philip Foden,17,Right Wing,114.0,53.1,0dfbe480-aecd-41f2-8715-2ef22669f678
+True,10955,Harry Kane,23,Center Forward,113.8,46.5,0dfbe480-aecd-41f2-8715-2ef22669f678
+True,3943,Declan Rice,10,Center Defensive Midfield,110.2,39.3,0dfbe480-aecd-41f2-8715-2ef22669f678
+False,9481,Grant Hanley,4,Center Back,113.4,37.0,14f92c7d-2a61-4e73-a123-9c861dedc43b
+False,10540,Kieran Tierney,5,Left Center Back,113.9,41.2,14f92c7d-2a61-4e73-a123-9c861dedc43b
+False,10534,Callum McGregor,11,Left Defensive Midfield,105.8,38.6,14f92c7d-2a61-4e73-a123-9c861dedc43b
+False,3655,Andrew Robertson,8,Left Wing Back,103.3,53.3,14f92c7d-2a61-4e73-a123-9c861dedc43b
+True,3233,Raheem Sterling,21,Left Wing,115.0,27.2,14f92c7d-2a61-4e73-a123-9c861dedc43b
+True,4354,Philip Foden,17,Right Wing,112.8,40.4,14f92c7d-2a61-4e73-a123-9c861dedc43b
+True,10955,Harry Kane,23,Center Forward,108.0,37.5,14f92c7d-2a61-4e73-a123-9c861dedc43b
+True,3382,Luke Shaw,6,Left Back,95.4,18.3,14f92c7d-2a61-4e73-a123-9c861dedc43b
+False,9645,David Marshall,1,Goalkeeper,117.6,36.3,14f92c7d-2a61-4e73-a123-9c861dedc43b
+False,3620,Scott McTominay,3,Right Center Back,114.7,28.4,14f92c7d-2a61-4e73-a123-9c861dedc43b
+False,9048,"Stephen O""Donnell",7,Right Wing Back,110.5,27.3,14f92c7d-2a61-4e73-a123-9c861dedc43b
+False,31067,Billy Gilmour,9,Right Defensive Midfield,114.3,34.2,14f92c7d-2a61-4e73-a123-9c861dedc43b
+False,3468,Jordan Pickford,1,Goalkeeper,119.0,39.9,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,9550,Reece James,2,Right Back,104.9,33.5,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,3244,John Stones,3,Right Center Back,100.8,39.4,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,3382,Luke Shaw,6,Left Back,101.8,36.1,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,10955,Harry Kane,23,Center Forward,102.1,45.6,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,4706,Kalvin Phillips,13,Right Center Midfield,104.3,41.2,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,3323,Tyrone Mings,5,Left Center Back,102.9,40.5,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,3943,Declan Rice,10,Center Defensive Midfield,98.8,48.4,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,7843,Mason Mount,15,Left Center Midfield,104.3,29.2,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,3233,Raheem Sterling,21,Left Wing,96.7,42.0,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,4354,Philip Foden,17,Right Wing,88.0,38.5,9363127d-bdc1-4c8d-a216-e8cb170ff970
+True,31067,Billy Gilmour,9,Right Defensive Midfield,87.8,23.4,9363127d-bdc1-4c8d-a216-e8cb170ff970
+True,9974,John McGinn,19,Center Attacking Midfield,101.2,42.9,9363127d-bdc1-4c8d-a216-e8cb170ff970
+True,29571,Lyndon Dykes,24,Left Center Forward,101.2,37.5,9363127d-bdc1-4c8d-a216-e8cb170ff970
+True,9466,Che Adams,22,Right Center Forward,102.4,28.3,9363127d-bdc1-4c8d-a216-e8cb170ff970
+True,10534,Callum McGregor,11,Left Defensive Midfield,89.7,34.0,9363127d-bdc1-4c8d-a216-e8cb170ff970
+True,9481,Grant Hanley,4,Center Back,89.2,42.7,9363127d-bdc1-4c8d-a216-e8cb170ff970
+True,3620,Scott McTominay,3,Right Center Back,98.5,39.2,9363127d-bdc1-4c8d-a216-e8cb170ff970
+True,9048,"Stephen O""Donnell",7,Right Wing Back,78.0,50.9,9363127d-bdc1-4c8d-a216-e8cb170ff970
+False,3655,Andrew Robertson,8,Left Wing Back,106.0,57.5,67bd8512-f52f-4b2e-9b7b-d1e7ff19b7ea
+False,10540,Kieran Tierney,5,Left Center Back,105.8,52.3,67bd8512-f52f-4b2e-9b7b-d1e7ff19b7ea
+False,9481,Grant Hanley,4,Center Back,110.9,43.3,67bd8512-f52f-4b2e-9b7b-d1e7ff19b7ea
+False,9048,"Stephen O""Donnell",7,Right Wing Back,104.8,30.7,67bd8512-f52f-4b2e-9b7b-d1e7ff19b7ea
+False,3620,Scott McTominay,3,Right Center Back,109.8,37.5,67bd8512-f52f-4b2e-9b7b-d1e7ff19b7ea
+False,9645,David Marshall,1,Goalkeeper,116.9,38.4,67bd8512-f52f-4b2e-9b7b-d1e7ff19b7ea
+True,7843,Mason Mount,15,Left Center Midfield,98.7,48.2,67bd8512-f52f-4b2e-9b7b-d1e7ff19b7ea
+True,4354,Philip Foden,17,Right Wing,103.2,56.2,67bd8512-f52f-4b2e-9b7b-d1e7ff19b7ea
+True,3233,Raheem Sterling,21,Left Wing,100.4,32.7,67bd8512-f52f-4b2e-9b7b-d1e7ff19b7ea
+False,3382,Luke Shaw,6,Left Back,110.9,51.7,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+False,3323,Tyrone Mings,5,Left Center Back,113.5,42.9,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+False,3233,Raheem Sterling,21,Left Wing,107.5,50.1,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+False,3244,John Stones,3,Right Center Back,113.1,38.1,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+False,3943,Declan Rice,10,Center Defensive Midfield,109.9,42.2,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+False,7843,Mason Mount,15,Left Center Midfield,108.0,43.4,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+False,9550,Reece James,2,Right Back,112.3,27.7,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+False,4706,Kalvin Phillips,13,Right Center Midfield,106.9,30.9,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+False,3468,Jordan Pickford,1,Goalkeeper,117.8,43.0,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+True,10540,Kieran Tierney,5,Left Center Back,107.1,17.7,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+True,31067,Billy Gilmour,9,Right Defensive Midfield,97.1,42.6,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+True,9466,Che Adams,22,Right Center Forward,111.4,36.8,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+True,9974,John McGinn,19,Center Attacking Midfield,103.4,40.4,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+True,29571,Lyndon Dykes,24,Left Center Forward,110.6,44.5,d33abf15-e86e-44d0-9212-5a4ba8f32e71
+False,3382,Luke Shaw,6,Left Back,110.4,53.5,7a68d027-1e95-4114-86d4-e84e97e0a35b
+False,3323,Tyrone Mings,5,Left Center Back,115.4,42.4,7a68d027-1e95-4114-86d4-e84e97e0a35b
+False,3233,Raheem Sterling,21,Left Wing,107.9,51.1,7a68d027-1e95-4114-86d4-e84e97e0a35b
+False,7843,Mason Mount,15,Left Center Midfield,110.9,46.2,7a68d027-1e95-4114-86d4-e84e97e0a35b
+False,3244,John Stones,3,Right Center Back,116.4,35.1,7a68d027-1e95-4114-86d4-e84e97e0a35b
+False,3943,Declan Rice,10,Center Defensive Midfield,110.9,43.8,7a68d027-1e95-4114-86d4-e84e97e0a35b
+False,9550,Reece James,2,Right Back,114.0,30.4,7a68d027-1e95-4114-86d4-e84e97e0a35b
+False,4706,Kalvin Phillips,13,Right Center Midfield,107.3,34.8,7a68d027-1e95-4114-86d4-e84e97e0a35b
+False,3468,Jordan Pickford,1,Goalkeeper,116.7,42.7,7a68d027-1e95-4114-86d4-e84e97e0a35b
+True,10540,Kieran Tierney,5,Left Center Back,103.5,20.3,7a68d027-1e95-4114-86d4-e84e97e0a35b
+True,31067,Billy Gilmour,9,Right Defensive Midfield,97.6,45.3,7a68d027-1e95-4114-86d4-e84e97e0a35b
+True,9974,John McGinn,19,Center Attacking Midfield,103.2,40.8,7a68d027-1e95-4114-86d4-e84e97e0a35b
+True,9048,"Stephen O""Donnell",7,Right Wing Back,107.1,54.9,7a68d027-1e95-4114-86d4-e84e97e0a35b
+True,29571,Lyndon Dykes,24,Left Center Forward,112.0,43.9,7a68d027-1e95-4114-86d4-e84e97e0a35b
+True,3620,Scott McTominay,3,Right Center Back,90.7,46.0,7a68d027-1e95-4114-86d4-e84e97e0a35b
+True,9048,"Stephen O""Donnell",7,Right Wing Back,87.1,70.1,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+True,9974,John McGinn,19,Center Attacking Midfield,98.6,59.4,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+True,3655,Andrew Robertson,8,Left Wing Back,98.7,22.3,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+True,29571,Lyndon Dykes,24,Left Center Forward,99.1,36.5,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,4354,Philip Foden,17,Right Wing,90.9,33.2,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,7843,Mason Mount,15,Left Center Midfield,87.2,48.4,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,3233,Raheem Sterling,21,Left Wing,80.1,70.6,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,4706,Kalvin Phillips,13,Right Center Midfield,83.1,61.2,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,9550,Reece James,2,Right Back,101.4,34.6,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,3244,John Stones,3,Right Center Back,102.0,39.3,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,3323,Tyrone Mings,5,Left Center Back,97.7,49.2,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,3382,Luke Shaw,6,Left Back,95.7,62.2,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,3943,Declan Rice,10,Center Defensive Midfield,101.1,58.0,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,3468,Jordan Pickford,1,Goalkeeper,116.7,41.8,decbaba5-63e3-4dba-b793-56ac0d0bfe6c
+False,9466,Che Adams,22,Right Center Forward,85.5,40.6,45602b08-65cd-495c-a261-7a2a5dba54d0
+False,9974,John McGinn,19,Center Attacking Midfield,97.0,25.5,45602b08-65cd-495c-a261-7a2a5dba54d0
+False,31067,Billy Gilmour,9,Right Defensive Midfield,99.0,22.7,45602b08-65cd-495c-a261-7a2a5dba54d0
+False,9048,"Stephen O""Donnell",7,Right Wing Back,103.2,16.6,45602b08-65cd-495c-a261-7a2a5dba54d0
+False,3620,Scott McTominay,3,Right Center Back,104.3,19.8,45602b08-65cd-495c-a261-7a2a5dba54d0
+False,10534,Callum McGregor,11,Left Defensive Midfield,102.6,26.5,45602b08-65cd-495c-a261-7a2a5dba54d0
+False,9481,Grant Hanley,4,Center Back,102.9,31.9,45602b08-65cd-495c-a261-7a2a5dba54d0
+False,10540,Kieran Tierney,5,Left Center Back,103.2,39.0,45602b08-65cd-495c-a261-7a2a5dba54d0
+False,3655,Andrew Robertson,8,Left Wing Back,104.4,44.2,45602b08-65cd-495c-a261-7a2a5dba54d0
+True,10955,Harry Kane,23,Center Forward,105.4,42.4,45602b08-65cd-495c-a261-7a2a5dba54d0
+True,3382,Luke Shaw,6,Left Back,97.0,7.1,45602b08-65cd-495c-a261-7a2a5dba54d0
+True,4706,Kalvin Phillips,13,Right Center Midfield,93.1,31.9,45602b08-65cd-495c-a261-7a2a5dba54d0
+True,3233,Raheem Sterling,21,Left Wing,101.7,16.6,45602b08-65cd-495c-a261-7a2a5dba54d0
+True,9550,Reece James,2,Right Back,90.5,53.7,45602b08-65cd-495c-a261-7a2a5dba54d0
+True,4354,Philip Foden,17,Right Wing,103.3,22.9,45602b08-65cd-495c-a261-7a2a5dba54d0
+False,9645,David Marshall,1,Goalkeeper,116.9,38.6,45602b08-65cd-495c-a261-7a2a5dba54d0
+False,10534,Callum McGregor,11,Left Defensive Midfield,110.5,33.6,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+False,3655,Andrew Robertson,8,Left Wing Back,117.6,38.9,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+True,3233,Raheem Sterling,21,Left Wing,117.4,39.9,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+True,10955,Harry Kane,23,Center Forward,112.2,40.1,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+True,3244,John Stones,3,Right Center Back,110.8,42.2,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+True,3943,Declan Rice,10,Center Defensive Midfield,110.2,37.5,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+True,3323,Tyrone Mings,5,Left Center Back,108.6,39.3,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+False,9645,David Marshall,1,Goalkeeper,118.8,39.5,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+False,9974,John McGinn,19,Center Attacking Midfield,114.6,36.2,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+False,29571,Lyndon Dykes,24,Left Center Forward,110.6,41.7,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+False,9481,Grant Hanley,4,Center Back,109.5,40.8,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+False,3620,Scott McTominay,3,Right Center Back,113.7,33.4,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+False,10540,Kieran Tierney,5,Left Center Back,113.6,29.5,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+True,7843,Mason Mount,15,Left Center Midfield,119.3,6.4,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+False,9048,"Stephen O""Donnell",7,Right Wing Back,112.7,39.9,b581fcb4-53c9-4345-9e8d-d4ba06b7e815
+True,3233,Raheem Sterling,21,Left Wing,108.2,41.9,a193b50a-085a-45db-9d3b-fb13c02da5a7
+True,7843,Mason Mount,15,Left Center Midfield,105.1,55.5,a193b50a-085a-45db-9d3b-fb13c02da5a7
+False,9974,John McGinn,19,Center Attacking Midfield,97.1,35.5,a193b50a-085a-45db-9d3b-fb13c02da5a7
+False,31067,Billy Gilmour,9,Right Defensive Midfield,103.7,26.3,a193b50a-085a-45db-9d3b-fb13c02da5a7
+False,9048,"Stephen O""Donnell",7,Right Wing Back,108.6,23.9,a193b50a-085a-45db-9d3b-fb13c02da5a7
+False,9481,Grant Hanley,4,Center Back,106.1,35.9,a193b50a-085a-45db-9d3b-fb13c02da5a7
+False,3620,Scott McTominay,3,Right Center Back,107.8,33.3,a193b50a-085a-45db-9d3b-fb13c02da5a7
+False,10534,Callum McGregor,11,Left Defensive Midfield,106.0,42.9,a193b50a-085a-45db-9d3b-fb13c02da5a7
+False,10540,Kieran Tierney,5,Left Center Back,105.4,46.2,a193b50a-085a-45db-9d3b-fb13c02da5a7
+False,3655,Andrew Robertson,8,Left Wing Back,106.9,48.1,a193b50a-085a-45db-9d3b-fb13c02da5a7
+False,9645,David Marshall,1,Goalkeeper,117.0,41.5,a193b50a-085a-45db-9d3b-fb13c02da5a7
+True,10955,Harry Kane,23,Center Forward,111.4,20.3,a193b50a-085a-45db-9d3b-fb13c02da5a7
+True,4354,Philip Foden,17,Right Wing,104.7,35.1,a193b50a-085a-45db-9d3b-fb13c02da5a7
+False,3943,Declan Rice,10,Center Defensive Midfield,91.7,59.6,f11d8d57-3a3e-4406-aba1-4572f4bca628
+False,4354,Philip Foden,17,Right Wing,83.1,28.8,f11d8d57-3a3e-4406-aba1-4572f4bca628
+False,3323,Tyrone Mings,5,Left Center Back,97.6,60.2,f11d8d57-3a3e-4406-aba1-4572f4bca628
+False,3382,Luke Shaw,6,Left Back,101.9,56.6,f11d8d57-3a3e-4406-aba1-4572f4bca628
+False,4706,Kalvin Phillips,13,Right Center Midfield,97.7,45.5,f11d8d57-3a3e-4406-aba1-4572f4bca628
+False,3244,John Stones,3,Right Center Back,105.3,46.2,f11d8d57-3a3e-4406-aba1-4572f4bca628
+False,9550,Reece James,2,Right Back,102.6,40.4,f11d8d57-3a3e-4406-aba1-4572f4bca628
+False,3468,Jordan Pickford,1,Goalkeeper,116.0,39.9,f11d8d57-3a3e-4406-aba1-4572f4bca628
+True,3655,Andrew Robertson,8,Left Wing Back,90.4,23.5,f11d8d57-3a3e-4406-aba1-4572f4bca628
+True,9466,Che Adams,22,Right Center Forward,104.9,45.2,f11d8d57-3a3e-4406-aba1-4572f4bca628
+True,10534,Callum McGregor,11,Left Defensive Midfield,94.3,53.0,f11d8d57-3a3e-4406-aba1-4572f4bca628
+True,3655,Andrew Robertson,8,Left Wing Back,106.1,27.0,c58b6015-f21e-4903-8f40-7494231743dd
+True,10534,Callum McGregor,11,Left Defensive Midfield,102.1,42.8,c58b6015-f21e-4903-8f40-7494231743dd
+True,29571,Lyndon Dykes,24,Left Center Forward,98.1,40.2,c58b6015-f21e-4903-8f40-7494231743dd
+True,9048,"Stephen O""Donnell",7,Right Wing Back,101.7,59.8,c58b6015-f21e-4903-8f40-7494231743dd
+False,3468,Jordan Pickford,1,Goalkeeper,115.9,39.6,c58b6015-f21e-4903-8f40-7494231743dd
+False,4706,Kalvin Phillips,13,Right Center Midfield,106.0,39.9,c58b6015-f21e-4903-8f40-7494231743dd
+False,9550,Reece James,2,Right Back,110.6,35.2,c58b6015-f21e-4903-8f40-7494231743dd
+False,3323,Tyrone Mings,5,Left Center Back,111.2,41.0,c58b6015-f21e-4903-8f40-7494231743dd
+False,4354,Philip Foden,17,Right Wing,99.0,22.7,c58b6015-f21e-4903-8f40-7494231743dd
+False,3244,John Stones,3,Right Center Back,108.5,41.6,c58b6015-f21e-4903-8f40-7494231743dd
+False,3382,Luke Shaw,6,Left Back,108.1,43.8,c58b6015-f21e-4903-8f40-7494231743dd
+False,3943,Declan Rice,10,Center Defensive Midfield,103.1,44.3,c58b6015-f21e-4903-8f40-7494231743dd
+True,4354,Philip Foden,17,Right Wing,107.5,36.8,054c763f-fdf6-41da-b0ea-976d35e88865
+True,3382,Luke Shaw,6,Left Back,101.5,22.9,054c763f-fdf6-41da-b0ea-976d35e88865
+True,3943,Declan Rice,10,Center Defensive Midfield,88.1,66.3,054c763f-fdf6-41da-b0ea-976d35e88865
+False,10534,Callum McGregor,11,Left Defensive Midfield,106.9,58.1,054c763f-fdf6-41da-b0ea-976d35e88865
+False,3655,Andrew Robertson,8,Left Wing Back,105.2,48.9,054c763f-fdf6-41da-b0ea-976d35e88865
+False,10540,Kieran Tierney,5,Left Center Back,103.6,48.9,054c763f-fdf6-41da-b0ea-976d35e88865
+False,9481,Grant Hanley,4,Center Back,105.6,46.0,054c763f-fdf6-41da-b0ea-976d35e88865
+False,3620,Scott McTominay,3,Right Center Back,108.4,37.9,054c763f-fdf6-41da-b0ea-976d35e88865
+False,9048,"Stephen O""Donnell",7,Right Wing Back,106.7,33.6,054c763f-fdf6-41da-b0ea-976d35e88865
+False,9974,John McGinn,19,Center Attacking Midfield,93.3,58.2,054c763f-fdf6-41da-b0ea-976d35e88865
+False,31067,Billy Gilmour,9,Right Defensive Midfield,100.5,39.9,054c763f-fdf6-41da-b0ea-976d35e88865
+False,9645,David Marshall,1,Goalkeeper,116.6,42.1,054c763f-fdf6-41da-b0ea-976d35e88865
+True,9550,Reece James,2,Right Back,106.1,63.5,054c763f-fdf6-41da-b0ea-976d35e88865
+True,3233,Raheem Sterling,21,Left Wing,109.4,39.2,054c763f-fdf6-41da-b0ea-976d35e88865
+True,9974,John McGinn,19,Center Attacking Midfield,113.3,35.5,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+True,10534,Callum McGregor,11,Left Defensive Midfield,102.0,35.6,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+True,9466,Che Adams,22,Right Center Forward,116.7,33.0,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+True,3620,Scott McTominay,3,Right Center Back,114.2,41.7,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+True,29571,Lyndon Dykes,24,Left Center Forward,116.4,46.5,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+False,3468,Jordan Pickford,1,Goalkeeper,119.5,41.0,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+True,3655,Andrew Robertson,8,Left Wing Back,119.1,78.4,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+False,9550,Reece James,2,Right Back,116.4,34.9,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+False,3323,Tyrone Mings,5,Left Center Back,117.6,40.1,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+False,3382,Luke Shaw,6,Left Back,114.2,35.6,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+False,7843,Mason Mount,15,Left Center Midfield,104.4,35.7,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+False,3233,Raheem Sterling,21,Left Wing,102.9,47.2,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+False,3943,Declan Rice,10,Center Defensive Midfield,115.1,42.3,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+False,4706,Kalvin Phillips,13,Right Center Midfield,118.1,43.8,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+False,10955,Harry Kane,23,Center Forward,118.3,45.3,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+False,3244,John Stones,3,Right Center Back,117.7,41.8,9ed450ae-b7c5-4dd7-8d4d-c18fe13df3e9
+True,10534,Callum McGregor,11,Left Defensive Midfield,100.9,33.8,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+True,3655,Andrew Robertson,8,Left Wing Back,116.3,75.9,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+True,9466,Che Adams,22,Right Center Forward,115.1,30.1,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+True,9974,John McGinn,19,Center Attacking Midfield,112.2,36.6,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+True,3620,Scott McTominay,3,Right Center Back,113.3,42.2,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+True,9481,Grant Hanley,4,Center Back,112.1,40.5,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+False,3468,Jordan Pickford,1,Goalkeeper,119.2,41.0,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+False,9550,Reece James,2,Right Back,117.5,35.8,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+False,10955,Harry Kane,23,Center Forward,118.9,44.2,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+False,3323,Tyrone Mings,5,Left Center Back,117.3,42.3,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+False,3382,Luke Shaw,6,Left Back,113.0,36.5,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+False,3244,John Stones,3,Right Center Back,112.9,39.3,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+False,3943,Declan Rice,10,Center Defensive Midfield,114.2,42.3,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+False,4706,Kalvin Phillips,13,Right Center Midfield,113.6,45.4,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+False,7843,Mason Mount,15,Left Center Midfield,104.9,35.7,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+False,3233,Raheem Sterling,21,Left Wing,102.7,46.2,e7fa9e90-f632-48ef-a61e-0700df30fbfc
+True,9550,Reece James,2,Right Back,96.5,57.9,c397c1f1-d89c-481c-93c6-b0daaba225d7
+True,10955,Harry Kane,23,Center Forward,110.4,43.9,c397c1f1-d89c-481c-93c6-b0daaba225d7
+False,3620,Scott McTominay,3,Right Center Back,107.6,20.9,c397c1f1-d89c-481c-93c6-b0daaba225d7
+False,9048,"Stephen O""Donnell",7,Right Wing Back,112.5,24.5,c397c1f1-d89c-481c-93c6-b0daaba225d7
+False,9481,Grant Hanley,4,Center Back,112.1,28.3,c397c1f1-d89c-481c-93c6-b0daaba225d7
+False,10534,Callum McGregor,11,Left Defensive Midfield,106.9,34.6,c397c1f1-d89c-481c-93c6-b0daaba225d7
+False,10540,Kieran Tierney,5,Left Center Back,112.3,40.8,c397c1f1-d89c-481c-93c6-b0daaba225d7
+False,3655,Andrew Robertson,8,Left Wing Back,111.9,43.3,c397c1f1-d89c-481c-93c6-b0daaba225d7
+False,9645,David Marshall,1,Goalkeeper,117.8,35.8,c397c1f1-d89c-481c-93c6-b0daaba225d7
+True,3233,Raheem Sterling,17,Right Wing,106.9,32.5,c397c1f1-d89c-481c-93c6-b0daaba225d7
+False,3244,John Stones,3,Right Center Back,109.2,37.7,ff1b1124-3142-4118-9994-03edd9b87607
+False,3468,Jordan Pickford,1,Goalkeeper,118.7,43.9,ff1b1124-3142-4118-9994-03edd9b87607
+False,7843,Mason Mount,19,Center Attacking Midfield,102.8,46.2,ff1b1124-3142-4118-9994-03edd9b87607
+False,9638,Jack Grealish,21,Left Wing,115.6,49.1,ff1b1124-3142-4118-9994-03edd9b87607
+False,3943,Declan Rice,11,Left Defensive Midfield,108.5,36.0,ff1b1124-3142-4118-9994-03edd9b87607
+False,3233,Raheem Sterling,17,Right Wing,99.6,19.3,ff1b1124-3142-4118-9994-03edd9b87607
+False,3382,Luke Shaw,6,Left Back,114.2,42.3,ff1b1124-3142-4118-9994-03edd9b87607
+False,3323,Tyrone Mings,5,Left Center Back,112.6,37.8,ff1b1124-3142-4118-9994-03edd9b87607
+False,9550,Reece James,2,Right Back,106.9,20.7,ff1b1124-3142-4118-9994-03edd9b87607
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,113.7,28.3,ff1b1124-3142-4118-9994-03edd9b87607
+True,9974,John McGinn,19,Center Attacking Midfield,114.2,43.8,ff1b1124-3142-4118-9994-03edd9b87607
+True,29571,Lyndon Dykes,24,Left Center Forward,109.6,36.2,ff1b1124-3142-4118-9994-03edd9b87607
+True,10285,Stuart Armstrong,9,Right Defensive Midfield,114.5,27.6,ff1b1124-3142-4118-9994-03edd9b87607
+True,10540,Kieran Tierney,5,Left Center Back,102.6,11.2,ff1b1124-3142-4118-9994-03edd9b87607
+True,3655,Andrew Robertson,8,Left Wing Back,92.2,15.5,ff1b1124-3142-4118-9994-03edd9b87607
+False,3468,Jordan Pickford,1,Goalkeeper,118.3,40.2,b680761a-f5d8-4562-8a1a-4cbee20b7434
+False,9638,Jack Grealish,21,Left Wing,95.6,51.4,b680761a-f5d8-4562-8a1a-4cbee20b7434
+False,7843,Mason Mount,19,Center Attacking Midfield,92.6,40.4,b680761a-f5d8-4562-8a1a-4cbee20b7434
+False,3943,Declan Rice,11,Left Defensive Midfield,91.8,38.4,b680761a-f5d8-4562-8a1a-4cbee20b7434
+False,3233,Raheem Sterling,17,Right Wing,87.5,24.4,b680761a-f5d8-4562-8a1a-4cbee20b7434
+False,3382,Luke Shaw,6,Left Back,102.7,49.2,b680761a-f5d8-4562-8a1a-4cbee20b7434
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,99.3,32.0,b680761a-f5d8-4562-8a1a-4cbee20b7434
+False,3244,John Stones,3,Right Center Back,102.5,34.0,b680761a-f5d8-4562-8a1a-4cbee20b7434
+False,9550,Reece James,2,Right Back,100.5,22.9,b680761a-f5d8-4562-8a1a-4cbee20b7434
+False,3323,Tyrone Mings,5,Left Center Back,104.1,41.2,b680761a-f5d8-4562-8a1a-4cbee20b7434
+True,9048,"Stephen O""Donnell",7,Right Wing Back,93.6,72.7,b680761a-f5d8-4562-8a1a-4cbee20b7434
+True,10534,Callum McGregor,11,Left Defensive Midfield,89.3,35.3,b680761a-f5d8-4562-8a1a-4cbee20b7434
+True,9466,Che Adams,22,Right Center Forward,99.4,33.1,b680761a-f5d8-4562-8a1a-4cbee20b7434
+True,29571,Lyndon Dykes,24,Left Center Forward,102.9,41.3,b680761a-f5d8-4562-8a1a-4cbee20b7434
+True,10285,Stuart Armstrong,9,Right Defensive Midfield,102.9,14.4,b680761a-f5d8-4562-8a1a-4cbee20b7434

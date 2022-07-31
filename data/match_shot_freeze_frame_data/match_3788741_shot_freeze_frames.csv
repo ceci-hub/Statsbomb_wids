@@ -1,0 +1,354 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,8286,Leonardo Spinazzola,6,Left Back,102.1,28.6,13ed9521-c809-4b4f-87ee-cad4b8a039f1
+True,7037,Lorenzo Insigne,21,Left Wing,100.0,38.3,13ed9521-c809-4b4f-87ee-cad4b8a039f1
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.7,43.7,13ed9521-c809-4b4f-87ee-cad4b8a039f1
+False,8963,Caglar Söyüncü,5,Left Center Back,120.0,60.1,13ed9521-c809-4b4f-87ee-cad4b8a039f1
+False,23558,Merih Demiral,3,Right Center Back,115.0,48.7,13ed9521-c809-4b4f-87ee-cad4b8a039f1
+False,31042,Cengiz Umut Meraş,6,Left Back,117.8,58.1,13ed9521-c809-4b4f-87ee-cad4b8a039f1
+False,10349,Mehmet Zeki Çelik,2,Right Back,108.9,37.7,13ed9521-c809-4b4f-87ee-cad4b8a039f1
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,105.3,40.9,13ed9521-c809-4b4f-87ee-cad4b8a039f1
+True,7788,Ciro Immobile,23,Center Forward,107.8,34.6,e735a328-2e55-437f-a5d0-5317201855db
+True,8286,Leonardo Spinazzola,6,Left Back,102.9,26.2,e735a328-2e55-437f-a5d0-5317201855db
+True,7037,Lorenzo Insigne,21,Left Wing,100.7,39.0,e735a328-2e55-437f-a5d0-5317201855db
+True,8181,Nicolò Barella,13,Right Center Midfield,97.6,54.4,e735a328-2e55-437f-a5d0-5317201855db
+False,23558,Merih Demiral,3,Right Center Back,110.2,37.6,e735a328-2e55-437f-a5d0-5317201855db
+False,10349,Mehmet Zeki Çelik,2,Right Back,106.4,30.9,e735a328-2e55-437f-a5d0-5317201855db
+False,8963,Caglar Söyüncü,5,Left Center Back,107.1,45.5,e735a328-2e55-437f-a5d0-5317201855db
+False,8541,Kenan Karaman,12,Right Midfield,98.8,28.8,e735a328-2e55-437f-a5d0-5317201855db
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,102.8,55.1,e735a328-2e55-437f-a5d0-5317201855db
+False,11088,Ozan Tufan,15,Left Center Midfield,98.8,42.6,e735a328-2e55-437f-a5d0-5317201855db
+False,31042,Cengiz Umut Meraş,6,Left Back,103.5,58.9,e735a328-2e55-437f-a5d0-5317201855db
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.3,42.0,e735a328-2e55-437f-a5d0-5317201855db
+True,8286,Leonardo Spinazzola,6,Left Back,98.2,9.6,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+True,7788,Ciro Immobile,23,Center Forward,107.3,39.7,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+True,7131,Domenico Berardi,17,Right Wing,99.1,37.9,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+True,8181,Nicolò Barella,13,Right Center Midfield,98.6,42.4,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.8,37.3,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+False,10349,Mehmet Zeki Çelik,2,Right Back,103.8,26.1,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+False,8541,Kenan Karaman,12,Right Midfield,101.5,15.2,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+False,23558,Merih Demiral,3,Right Center Back,110.6,32.3,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+False,8963,Caglar Söyüncü,5,Left Center Back,108.9,38.0,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+False,31042,Cengiz Umut Meraş,6,Left Back,106.4,46.5,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+False,7039,Hakan Çalhanoğlu,16,Left Midfield,101.0,32.8,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+False,11088,Ozan Tufan,15,Left Center Midfield,93.5,25.0,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,107.2,33.5,f54b4948-5c37-4782-8118-6aeb9cd90a9a
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.4,41.0,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+False,7039,Hakan Çalhanoğlu,16,Left Midfield,94.0,32.3,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+False,11088,Ozan Tufan,15,Left Center Midfield,76.4,30.4,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+False,31042,Cengiz Umut Meraş,6,Left Back,91.6,54.2,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,94.2,45.5,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+False,8541,Kenan Karaman,12,Right Midfield,93.6,30.5,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+False,8963,Caglar Söyüncü,5,Left Center Back,103.3,47.8,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+False,23558,Merih Demiral,3,Right Center Back,104.1,40.8,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+False,10349,Mehmet Zeki Çelik,2,Right Back,101.2,28.3,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,86.2,52.2,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+True,8181,Nicolò Barella,13,Right Center Midfield,84.8,49.7,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+True,7037,Lorenzo Insigne,21,Left Wing,80.5,19.4,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+True,7038,Manuel Locatelli,15,Left Center Midfield,93.6,29.6,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+True,7788,Ciro Immobile,23,Center Forward,101.3,50.3,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+True,7131,Domenico Berardi,17,Right Wing,102.7,41.6,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+True,8286,Leonardo Spinazzola,6,Left Back,94.9,15.6,78eaf3e4-045e-4a62-b5ee-35446c308ff9
+True,7037,Lorenzo Insigne,21,Left Wing,95.3,33.3,fb09d898-1c43-4dce-b505-496391bafb6d
+True,7131,Domenico Berardi,17,Right Wing,98.0,65.3,fb09d898-1c43-4dce-b505-496391bafb6d
+True,8181,Nicolò Barella,13,Right Center Midfield,90.7,53.3,fb09d898-1c43-4dce-b505-496391bafb6d
+True,8286,Leonardo Spinazzola,6,Left Back,81.8,21.0,fb09d898-1c43-4dce-b505-496391bafb6d
+True,7038,Manuel Locatelli,15,Left Center Midfield,82.4,34.4,fb09d898-1c43-4dce-b505-496391bafb6d
+False,10349,Mehmet Zeki Çelik,2,Right Back,102.0,32.6,fb09d898-1c43-4dce-b505-496391bafb6d
+False,8963,Caglar Söyüncü,5,Left Center Back,105.5,42.7,fb09d898-1c43-4dce-b505-496391bafb6d
+False,23558,Merih Demiral,3,Right Center Back,102.6,36.5,fb09d898-1c43-4dce-b505-496391bafb6d
+False,31042,Cengiz Umut Meraş,6,Left Back,103.3,52.8,fb09d898-1c43-4dce-b505-496391bafb6d
+False,8541,Kenan Karaman,12,Right Midfield,93.4,25.6,fb09d898-1c43-4dce-b505-496391bafb6d
+False,7039,Hakan Çalhanoğlu,16,Left Midfield,99.1,45.9,fb09d898-1c43-4dce-b505-496391bafb6d
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,95.2,46.5,fb09d898-1c43-4dce-b505-496391bafb6d
+False,11088,Ozan Tufan,15,Left Center Midfield,89.8,43.6,fb09d898-1c43-4dce-b505-496391bafb6d
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.8,41.0,fb09d898-1c43-4dce-b505-496391bafb6d
+True,7788,Ciro Immobile,23,Center Forward,113.0,31.2,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+True,7038,Manuel Locatelli,15,Left Center Midfield,113.4,45.5,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+True,8181,Nicolò Barella,13,Right Center Midfield,105.7,41.4,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+True,8286,Leonardo Spinazzola,6,Left Back,99.7,30.4,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+True,7037,Lorenzo Insigne,21,Left Wing,115.4,78.0,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+False,30357,Uğurcan Çakır,1,Goalkeeper,119.2,40.1,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+True,7131,Domenico Berardi,17,Right Wing,106.9,49.3,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+True,7173,Leonardo Bonucci,3,Right Center Back,110.9,43.9,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+False,23558,Merih Demiral,3,Right Center Back,110.5,42.7,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+False,10349,Mehmet Zeki Çelik,2,Right Back,105.8,31.1,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+False,11086,Burak Yılmaz,23,Center Forward,111.0,47.3,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+False,11088,Ozan Tufan,15,Left Center Midfield,105.1,40.8,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+False,7039,Hakan Çalhanoğlu,16,Left Midfield,108.9,53.9,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+False,8963,Caglar Söyüncü,5,Left Center Back,112.3,31.8,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,115.0,40.4,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+False,8541,Kenan Karaman,12,Right Midfield,114.0,44.5,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+False,31042,Cengiz Umut Meraş,6,Left Back,114.5,50.9,cda276cc-8bce-43fc-bf15-0ce2cf43a692
+True,7788,Ciro Immobile,23,Center Forward,112.9,29.3,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+True,6954,Giorgio Chiellini,5,Left Center Back,116.1,35.8,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+True,8286,Leonardo Spinazzola,6,Left Back,100.2,30.0,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+True,7037,Lorenzo Insigne,21,Left Wing,116.0,78.3,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+True,7131,Domenico Berardi,17,Right Wing,109.4,54.9,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+True,8181,Nicolò Barella,13,Right Center Midfield,109.2,41.7,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+True,7038,Manuel Locatelli,15,Left Center Midfield,109.8,44.5,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+False,8963,Caglar Söyüncü,5,Left Center Back,113.3,30.4,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+False,23558,Merih Demiral,3,Right Center Back,111.7,39.3,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,112.1,42.9,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+False,10349,Mehmet Zeki Çelik,2,Right Back,106.7,32.1,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+False,8541,Kenan Karaman,12,Right Midfield,110.6,45.0,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+False,31042,Cengiz Umut Meraş,6,Left Back,112.8,51.6,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+False,11088,Ozan Tufan,15,Left Center Midfield,108.4,41.2,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+False,7039,Hakan Çalhanoğlu,16,Left Midfield,110.7,61.0,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+False,30357,Uğurcan Çakır,1,Goalkeeper,119.2,40.4,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+False,11086,Burak Yılmaz,23,Center Forward,109.3,45.9,2cf281d8-3423-41eb-8bf8-c719f2fd63ef
+True,7788,Ciro Immobile,23,Center Forward,104.6,25.0,dafce5fd-8163-488f-9b8c-323215eb685e
+True,7038,Manuel Locatelli,15,Left Center Midfield,103.1,29.5,dafce5fd-8163-488f-9b8c-323215eb685e
+True,8286,Leonardo Spinazzola,6,Left Back,92.4,16.8,dafce5fd-8163-488f-9b8c-323215eb685e
+True,7131,Domenico Berardi,17,Right Wing,99.2,38.1,dafce5fd-8163-488f-9b8c-323215eb685e
+True,7037,Lorenzo Insigne,21,Left Wing,93.8,27.7,dafce5fd-8163-488f-9b8c-323215eb685e
+True,6964,Alessandro Florenzi,2,Right Back,103.5,58.8,dafce5fd-8163-488f-9b8c-323215eb685e
+False,10349,Mehmet Zeki Çelik,2,Right Back,104.9,31.1,dafce5fd-8163-488f-9b8c-323215eb685e
+False,23558,Merih Demiral,3,Right Center Back,104.7,39.3,dafce5fd-8163-488f-9b8c-323215eb685e
+False,8541,Kenan Karaman,12,Right Midfield,97.8,20.6,dafce5fd-8163-488f-9b8c-323215eb685e
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,101.0,30.9,dafce5fd-8163-488f-9b8c-323215eb685e
+False,8963,Caglar Söyüncü,5,Left Center Back,103.1,44.3,dafce5fd-8163-488f-9b8c-323215eb685e
+False,31042,Cengiz Umut Meraş,6,Left Back,103.9,53.3,dafce5fd-8163-488f-9b8c-323215eb685e
+False,7039,Hakan Çalhanoğlu,16,Left Midfield,97.9,46.4,dafce5fd-8163-488f-9b8c-323215eb685e
+False,11088,Ozan Tufan,15,Left Center Midfield,92.2,33.4,dafce5fd-8163-488f-9b8c-323215eb685e
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,91.4,41.5,dafce5fd-8163-488f-9b8c-323215eb685e
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.0,40.3,dafce5fd-8163-488f-9b8c-323215eb685e
+True,8286,Leonardo Spinazzola,6,Left Back,104.2,14.5,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+True,7037,Lorenzo Insigne,21,Left Wing,114.9,39.7,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+True,7038,Manuel Locatelli,15,Left Center Midfield,97.2,22.2,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+False,30357,Uğurcan Çakır,1,Goalkeeper,119.0,42.1,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+False,10349,Mehmet Zeki Çelik,2,Right Back,118.9,25.5,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+False,8541,Kenan Karaman,12,Right Midfield,114.6,19.0,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+False,23558,Merih Demiral,3,Right Center Back,118.7,38.4,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,115.2,33.5,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,102.8,20.6,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+False,8963,Caglar Söyüncü,5,Left Center Back,112.3,46.5,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+False,31042,Cengiz Umut Meraş,6,Left Back,112.7,48.5,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+False,11088,Ozan Tufan,15,Left Center Midfield,108.0,38.8,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+False,7039,Hakan Çalhanoğlu,16,Left Midfield,104.9,49.0,f83a68bc-d13d-4e1f-9dae-ad6bd026d54d
+True,8286,Leonardo Spinazzola,6,Left Back,103.1,13.3,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+True,6954,Giorgio Chiellini,5,Left Center Back,106.1,27.4,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+True,7788,Ciro Immobile,23,Center Forward,107.4,36.7,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+True,8181,Nicolò Barella,13,Right Center Midfield,104.4,37.8,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+True,7131,Domenico Berardi,17,Right Wing,100.8,37.5,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+False,10349,Mehmet Zeki Çelik,2,Right Back,106.5,25.3,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+False,23558,Merih Demiral,3,Right Center Back,105.2,31.6,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+False,8963,Caglar Söyüncü,5,Left Center Back,107.2,40.1,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+False,8541,Kenan Karaman,12,Right Midfield,101.9,28.0,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,104.3,32.7,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+False,31042,Cengiz Umut Meraş,6,Left Back,107.5,47.0,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+False,11088,Ozan Tufan,15,Left Center Midfield,101.6,35.6,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,96.4,30.8,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.9,38.7,f482239a-5fb7-4ff9-9cad-f7a07e697c23
+True,7788,Ciro Immobile,23,Center Forward,108.3,35.1,56f36ec0-b08c-449a-8079-5b34b71fe777
+True,8286,Leonardo Spinazzola,6,Left Back,109.0,37.3,56f36ec0-b08c-449a-8079-5b34b71fe777
+True,7037,Lorenzo Insigne,21,Left Wing,105.8,30.8,56f36ec0-b08c-449a-8079-5b34b71fe777
+True,7038,Manuel Locatelli,15,Left Center Midfield,96.4,24.4,56f36ec0-b08c-449a-8079-5b34b71fe777
+True,6964,Alessandro Florenzi,2,Right Back,103.7,64.0,56f36ec0-b08c-449a-8079-5b34b71fe777
+True,8181,Nicolò Barella,13,Right Center Midfield,98.8,50.6,56f36ec0-b08c-449a-8079-5b34b71fe777
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.9,42.3,56f36ec0-b08c-449a-8079-5b34b71fe777
+False,10349,Mehmet Zeki Çelik,2,Right Back,109.5,33.3,56f36ec0-b08c-449a-8079-5b34b71fe777
+False,23558,Merih Demiral,3,Right Center Back,111.1,39.1,56f36ec0-b08c-449a-8079-5b34b71fe777
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,105.8,41.4,56f36ec0-b08c-449a-8079-5b34b71fe777
+False,8963,Caglar Söyüncü,5,Left Center Back,106.3,44.2,56f36ec0-b08c-449a-8079-5b34b71fe777
+False,8541,Kenan Karaman,12,Right Midfield,103.5,42.1,56f36ec0-b08c-449a-8079-5b34b71fe777
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,96.8,33.1,56f36ec0-b08c-449a-8079-5b34b71fe777
+False,31042,Cengiz Umut Meraş,6,Left Back,101.0,55.7,56f36ec0-b08c-449a-8079-5b34b71fe777
+False,7039,Hakan Çalhanoğlu,16,Left Midfield,100.2,51.1,56f36ec0-b08c-449a-8079-5b34b71fe777
+False,11088,Ozan Tufan,15,Left Center Midfield,97.6,47.6,56f36ec0-b08c-449a-8079-5b34b71fe777
+True,8181,Nicolò Barella,13,Right Center Midfield,109.4,41.9,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+True,8286,Leonardo Spinazzola,6,Left Back,99.7,19.5,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+True,7037,Lorenzo Insigne,21,Left Wing,105.1,38.5,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+True,7131,Domenico Berardi,17,Right Wing,94.7,44.8,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+False,10349,Mehmet Zeki Çelik,2,Right Back,107.3,34.7,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+False,8963,Caglar Söyüncü,5,Left Center Back,108.2,44.4,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+False,31042,Cengiz Umut Meraş,6,Left Back,106.8,46.6,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,103.9,40.9,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+False,23558,Merih Demiral,3,Right Center Back,104.5,46.2,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+False,8541,Kenan Karaman,12,Right Midfield,96.3,33.4,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+False,11088,Ozan Tufan,15,Left Center Midfield,101.1,47.5,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+False,7039,Hakan Çalhanoğlu,16,Left Midfield,100.4,60.0,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.4,42.2,1705c2a9-511d-442e-81d2-eb2a9d5321d6
+True,7131,Domenico Berardi,17,Right Wing,107.6,30.0,0294096d-6d78-42ab-85d6-58fb46053275
+True,7788,Ciro Immobile,23,Center Forward,110.1,37.6,0294096d-6d78-42ab-85d6-58fb46053275
+True,8181,Nicolò Barella,13,Right Center Midfield,105.1,26.5,0294096d-6d78-42ab-85d6-58fb46053275
+True,7038,Manuel Locatelli,15,Left Center Midfield,100.5,27.0,0294096d-6d78-42ab-85d6-58fb46053275
+True,8286,Leonardo Spinazzola,6,Left Back,119.4,24.5,0294096d-6d78-42ab-85d6-58fb46053275
+False,30357,Uğurcan Çakır,1,Goalkeeper,119.0,38.6,0294096d-6d78-42ab-85d6-58fb46053275
+False,8541,Kenan Karaman,12,Right Midfield,108.3,19.4,0294096d-6d78-42ab-85d6-58fb46053275
+False,10349,Mehmet Zeki Çelik,2,Right Back,110.7,25.1,0294096d-6d78-42ab-85d6-58fb46053275
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,107.9,24.5,0294096d-6d78-42ab-85d6-58fb46053275
+False,23558,Merih Demiral,3,Right Center Back,110.8,33.7,0294096d-6d78-42ab-85d6-58fb46053275
+False,8963,Caglar Söyüncü,5,Left Center Back,113.2,39.2,0294096d-6d78-42ab-85d6-58fb46053275
+False,31042,Cengiz Umut Meraş,6,Left Back,110.6,44.4,0294096d-6d78-42ab-85d6-58fb46053275
+False,11088,Ozan Tufan,15,Left Center Midfield,106.5,35.4,0294096d-6d78-42ab-85d6-58fb46053275
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,102.5,26.7,0294096d-6d78-42ab-85d6-58fb46053275
+True,8286,Leonardo Spinazzola,6,Left Back,100.7,15.0,9a3787de-0f1a-4cbe-b759-71a165eee719
+True,7037,Lorenzo Insigne,21,Left Wing,101.6,22.1,9a3787de-0f1a-4cbe-b759-71a165eee719
+True,7788,Ciro Immobile,23,Center Forward,106.8,38.6,9a3787de-0f1a-4cbe-b759-71a165eee719
+True,7038,Manuel Locatelli,15,Left Center Midfield,88.3,18.0,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.7,37.2,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,8541,Kenan Karaman,12,Right Midfield,103.5,17.3,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,23558,Merih Demiral,3,Right Center Back,110.2,33.9,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,10349,Mehmet Zeki Çelik,2,Right Back,106.4,27.0,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,8963,Caglar Söyüncü,5,Left Center Back,111.0,39.7,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,104.3,33.4,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,31042,Cengiz Umut Meraş,6,Left Back,105.2,45.9,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,94.6,27.2,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,7039,Hakan Çalhanoğlu,16,Left Midfield,98.2,44.6,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,11088,Ozan Tufan,15,Left Center Midfield,93.7,35.4,9a3787de-0f1a-4cbe-b759-71a165eee719
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,117.0,36.3,c1044061-e5f2-4720-a198-3469712331d5
+False,8286,Leonardo Spinazzola,6,Left Back,106.0,23.1,c1044061-e5f2-4720-a198-3469712331d5
+True,7039,Hakan Çalhanoğlu,13,Right Center Midfield,87.9,22.2,c1044061-e5f2-4720-a198-3469712331d5
+False,7037,Lorenzo Insigne,21,Left Wing,102.7,25.7,c1044061-e5f2-4720-a198-3469712331d5
+False,8181,Nicolò Barella,13,Right Center Midfield,97.4,39.8,c1044061-e5f2-4720-a198-3469712331d5
+False,31042,Cengiz Umut Meraş,6,Left Back,108.8,41.8,8ae53661-9c75-4431-8cc6-d4c95e357063
+False,8963,Caglar Söyüncü,5,Left Center Back,110.8,37.7,8ae53661-9c75-4431-8cc6-d4c95e357063
+True,7131,Domenico Berardi,17,Right Wing,103.9,39.5,8ae53661-9c75-4431-8cc6-d4c95e357063
+True,7788,Ciro Immobile,23,Center Forward,106.6,35.2,8ae53661-9c75-4431-8cc6-d4c95e357063
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.5,35.8,8ae53661-9c75-4431-8cc6-d4c95e357063
+False,23558,Merih Demiral,3,Right Center Back,112.6,31.9,8ae53661-9c75-4431-8cc6-d4c95e357063
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,102.1,33.1,8ae53661-9c75-4431-8cc6-d4c95e357063
+False,10349,Mehmet Zeki Çelik,2,Right Back,111.3,28.3,8ae53661-9c75-4431-8cc6-d4c95e357063
+True,7131,Domenico Berardi,17,Right Wing,106.1,38.1,42105157-6394-45af-9bed-b5f1d1f702cd
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,112.5,31.8,42105157-6394-45af-9bed-b5f1d1f702cd
+False,31042,Cengiz Umut Meraş,6,Left Back,111.2,39.9,42105157-6394-45af-9bed-b5f1d1f702cd
+False,8963,Caglar Söyüncü,5,Left Center Back,114.6,37.5,42105157-6394-45af-9bed-b5f1d1f702cd
+True,8181,Nicolò Barella,13,Right Center Midfield,105.0,50.3,42105157-6394-45af-9bed-b5f1d1f702cd
+True,8286,Leonardo Spinazzola,6,Left Back,115.9,27.6,42105157-6394-45af-9bed-b5f1d1f702cd
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.1,38.1,42105157-6394-45af-9bed-b5f1d1f702cd
+False,11088,Ozan Tufan,15,Left Center Midfield,103.1,39.9,42105157-6394-45af-9bed-b5f1d1f702cd
+False,23558,Merih Demiral,3,Right Center Back,115.0,30.7,42105157-6394-45af-9bed-b5f1d1f702cd
+False,10349,Mehmet Zeki Çelik,2,Right Back,114.4,27.6,42105157-6394-45af-9bed-b5f1d1f702cd
+True,7131,Domenico Berardi,17,Right Wing,105.3,44.1,02431b09-879a-4f0c-9031-5f0386136cce
+True,7788,Ciro Immobile,23,Center Forward,108.6,37.6,02431b09-879a-4f0c-9031-5f0386136cce
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.1,37.9,02431b09-879a-4f0c-9031-5f0386136cce
+False,31042,Cengiz Umut Meraş,6,Left Back,100.7,51.5,02431b09-879a-4f0c-9031-5f0386136cce
+False,23558,Merih Demiral,3,Right Center Back,109.3,31.4,02431b09-879a-4f0c-9031-5f0386136cce
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,108.0,35.8,02431b09-879a-4f0c-9031-5f0386136cce
+False,11088,Ozan Tufan,15,Left Center Midfield,109.3,33.1,02431b09-879a-4f0c-9031-5f0386136cce
+False,10349,Mehmet Zeki Çelik,2,Right Back,107.0,31.7,02431b09-879a-4f0c-9031-5f0386136cce
+False,8963,Caglar Söyüncü,5,Left Center Back,112.9,42.4,02431b09-879a-4f0c-9031-5f0386136cce
+False,31042,Cengiz Umut Meraş,6,Left Back,98.0,47.3,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+False,11088,Ozan Tufan,15,Left Center Midfield,90.2,37.1,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,97.5,33.6,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+False,8963,Caglar Söyüncü,5,Left Center Back,100.4,34.7,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+False,10349,Mehmet Zeki Çelik,2,Right Back,98.8,36.5,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+False,8541,Kenan Karaman,12,Right Midfield,77.1,31.4,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+False,11086,Burak Yılmaz,23,Center Forward,72.7,44.2,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+False,7039,Hakan Çalhanoğlu,13,Right Center Midfield,78.3,46.9,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+False,23558,Merih Demiral,3,Right Center Back,95.8,25.8,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+True,7131,Domenico Berardi,17,Right Wing,88.4,33.1,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+True,11514,Giovanni Di Lorenzo,2,Right Back,87.5,36.7,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+True,7038,Manuel Locatelli,15,Left Center Midfield,77.9,30.3,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+True,7173,Leonardo Bonucci,3,Right Center Back,99.5,34.3,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+True,7788,Ciro Immobile,23,Center Forward,101.3,25.6,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.1,40.3,9bdc1616-5fc8-411d-8d69-d6841765a8d2
+True,7173,Leonardo Bonucci,3,Right Center Back,100.6,43.7,a252b490-42c8-455d-9ad9-ef2d99e02e37
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.2,39.2,a252b490-42c8-455d-9ad9-ef2d99e02e37
+False,7039,Hakan Çalhanoğlu,13,Right Center Midfield,89.2,48.7,a252b490-42c8-455d-9ad9-ef2d99e02e37
+False,11088,Ozan Tufan,15,Left Center Midfield,95.2,36.6,a252b490-42c8-455d-9ad9-ef2d99e02e37
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,100.6,32.8,a252b490-42c8-455d-9ad9-ef2d99e02e37
+False,10349,Mehmet Zeki Çelik,2,Right Back,104.0,25.3,a252b490-42c8-455d-9ad9-ef2d99e02e37
+False,23558,Merih Demiral,3,Right Center Back,103.2,30.7,a252b490-42c8-455d-9ad9-ef2d99e02e37
+False,8963,Caglar Söyüncü,5,Left Center Back,105.6,39.6,a252b490-42c8-455d-9ad9-ef2d99e02e37
+False,31042,Cengiz Umut Meraş,6,Left Back,104.6,45.3,a252b490-42c8-455d-9ad9-ef2d99e02e37
+True,7037,Lorenzo Insigne,21,Left Wing,99.1,41.6,a252b490-42c8-455d-9ad9-ef2d99e02e37
+True,7131,Domenico Berardi,17,Right Wing,97.3,35.7,a252b490-42c8-455d-9ad9-ef2d99e02e37
+True,7788,Ciro Immobile,23,Center Forward,103.4,18.9,a252b490-42c8-455d-9ad9-ef2d99e02e37
+True,6954,Giorgio Chiellini,5,Left Center Back,103.4,14.5,a252b490-42c8-455d-9ad9-ef2d99e02e37
+False,7039,Hakan Çalhanoğlu,13,Right Center Midfield,95.0,51.0,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.1,39.0,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+False,11086,Burak Yılmaz,23,Center Forward,103.5,48.4,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,90.6,50.0,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+True,6954,Giorgio Chiellini,5,Left Center Back,106.6,35.0,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+True,11514,Giovanni Di Lorenzo,2,Right Back,110.3,40.1,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+False,11088,Ozan Tufan,15,Left Center Midfield,95.5,40.3,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+False,6971,Cengiz Ünder,16,Left Midfield,101.0,44.9,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+False,8963,Caglar Söyüncü,5,Left Center Back,110.2,28.1,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+False,8541,Kenan Karaman,12,Right Midfield,107.4,45.2,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,111.7,38.5,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+False,23558,Merih Demiral,3,Right Center Back,109.1,34.1,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+False,10349,Mehmet Zeki Çelik,2,Right Back,112.2,41.1,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+False,31042,Cengiz Umut Meraş,6,Left Back,112.7,45.2,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+True,7173,Leonardo Bonucci,3,Right Center Back,112.8,40.3,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+True,7038,Manuel Locatelli,15,Left Center Midfield,110.4,48.4,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+True,7037,Lorenzo Insigne,21,Left Wing,97.9,24.0,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+True,7788,Ciro Immobile,23,Center Forward,113.0,24.5,ea779639-e6b2-42dc-9141-4a6f5bc3545c
+True,7173,Leonardo Bonucci,3,Right Center Back,92.2,65.5,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+True,7037,Lorenzo Insigne,21,Left Wing,103.9,38.0,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+False,7039,Hakan Çalhanoğlu,13,Right Center Midfield,102.2,66.7,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+False,8963,Caglar Söyüncü,5,Left Center Back,112.7,51.3,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+False,31042,Cengiz Umut Meraş,6,Left Back,112.3,56.4,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.1,43.4,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,110.2,51.8,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+False,10349,Mehmet Zeki Çelik,2,Right Back,112.4,38.8,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+False,23558,Merih Demiral,3,Right Center Back,114.1,46.1,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+True,7038,Manuel Locatelli,15,Left Center Midfield,105.4,48.1,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+True,7788,Ciro Immobile,23,Center Forward,111.7,36.0,03e9fea5-d2d5-4f72-bb37-e09eaa771914
+True,11514,Giovanni Di Lorenzo,2,Right Back,98.3,50.7,9719a7a5-991c-48bf-b715-69cf9d4753c3
+True,8181,Nicolò Barella,13,Right Center Midfield,101.0,55.7,9719a7a5-991c-48bf-b715-69cf9d4753c3
+True,7037,Lorenzo Insigne,21,Left Wing,115.3,39.8,9719a7a5-991c-48bf-b715-69cf9d4753c3
+True,7131,Domenico Berardi,17,Right Wing,110.3,50.8,9719a7a5-991c-48bf-b715-69cf9d4753c3
+True,7788,Ciro Immobile,23,Center Forward,109.1,36.8,9719a7a5-991c-48bf-b715-69cf9d4753c3
+False,7039,Hakan Çalhanoğlu,13,Right Center Midfield,103.1,51.2,9719a7a5-991c-48bf-b715-69cf9d4753c3
+False,12293,Kaan Ayhan,15,Left Center Midfield,108.9,40.6,9719a7a5-991c-48bf-b715-69cf9d4753c3
+False,10349,Mehmet Zeki Çelik,2,Right Back,114.1,36.7,9719a7a5-991c-48bf-b715-69cf9d4753c3
+False,8963,Caglar Söyüncü,5,Left Center Back,113.3,39.0,9719a7a5-991c-48bf-b715-69cf9d4753c3
+False,31042,Cengiz Umut Meraş,6,Left Back,111.7,49.3,9719a7a5-991c-48bf-b715-69cf9d4753c3
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.1,38.2,9719a7a5-991c-48bf-b715-69cf9d4753c3
+False,30311,İrfan Can Kahveci,10,Center Defensive Midfield,105.5,31.5,9719a7a5-991c-48bf-b715-69cf9d4753c3
+False,23558,Merih Demiral,3,Right Center Back,111.3,32.3,9719a7a5-991c-48bf-b715-69cf9d4753c3
+False,6971,Cengiz Ünder,16,Left Midfield,109.1,31.6,9719a7a5-991c-48bf-b715-69cf9d4753c3
+True,8286,Leonardo Spinazzola,6,Left Back,104.7,29.8,009e954d-99b5-4cf4-83e9-5de8989b5725
+True,11514,Giovanni Di Lorenzo,2,Right Back,99.7,49.0,009e954d-99b5-4cf4-83e9-5de8989b5725
+True,8181,Nicolò Barella,13,Right Center Midfield,102.1,52.7,009e954d-99b5-4cf4-83e9-5de8989b5725
+True,7131,Domenico Berardi,17,Right Wing,108.7,47.2,009e954d-99b5-4cf4-83e9-5de8989b5725
+True,7037,Lorenzo Insigne,21,Left Wing,112.7,38.2,009e954d-99b5-4cf4-83e9-5de8989b5725
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.3,38.3,009e954d-99b5-4cf4-83e9-5de8989b5725
+False,7039,Hakan Çalhanoğlu,13,Right Center Midfield,102.1,50.2,009e954d-99b5-4cf4-83e9-5de8989b5725
+False,12293,Kaan Ayhan,15,Left Center Midfield,107.2,39.7,009e954d-99b5-4cf4-83e9-5de8989b5725
+False,30311,İrfan Can Kahveci,10,Center Defensive Midfield,108.2,26.0,009e954d-99b5-4cf4-83e9-5de8989b5725
+False,6971,Cengiz Ünder,16,Left Midfield,107.2,33.6,009e954d-99b5-4cf4-83e9-5de8989b5725
+False,23558,Merih Demiral,3,Right Center Back,110.8,34.6,009e954d-99b5-4cf4-83e9-5de8989b5725
+False,8963,Caglar Söyüncü,5,Left Center Back,112.7,41.3,009e954d-99b5-4cf4-83e9-5de8989b5725
+False,10349,Mehmet Zeki Çelik,2,Right Back,116.5,37.3,009e954d-99b5-4cf4-83e9-5de8989b5725
+False,31042,Cengiz Umut Meraş,6,Left Back,113.5,45.9,009e954d-99b5-4cf4-83e9-5de8989b5725
+False,30357,Uğurcan Çakır,1,Goalkeeper,116.2,37.9,34da2c2c-d565-436b-8afe-5baf2da2cf77
+False,7039,Hakan Çalhanoğlu,13,Right Center Midfield,99.3,40.5,34da2c2c-d565-436b-8afe-5baf2da2cf77
+False,23558,Merih Demiral,3,Right Center Back,106.7,37.7,34da2c2c-d565-436b-8afe-5baf2da2cf77
+False,8963,Caglar Söyüncü,5,Left Center Back,110.5,41.6,34da2c2c-d565-436b-8afe-5baf2da2cf77
+False,31042,Cengiz Umut Meraş,6,Left Back,106.9,49.7,34da2c2c-d565-436b-8afe-5baf2da2cf77
+True,7131,Domenico Berardi,17,Right Wing,106.7,48.4,34da2c2c-d565-436b-8afe-5baf2da2cf77
+True,8181,Nicolò Barella,13,Right Center Midfield,105.1,40.3,34da2c2c-d565-436b-8afe-5baf2da2cf77
+True,7788,Ciro Immobile,23,Center Forward,95.8,38.6,34da2c2c-d565-436b-8afe-5baf2da2cf77
+False,12293,Kaan Ayhan,15,Left Center Midfield,98.4,37.1,34da2c2c-d565-436b-8afe-5baf2da2cf77
+False,6954,Giorgio Chiellini,5,Left Center Back,112.6,32.3,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+False,11514,Giovanni Di Lorenzo,2,Right Back,109.2,33.0,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+False,7777,Federico Bernardeschi,17,Right Wing,97.1,30.1,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,116.5,35.1,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+True,12293,Kaan Ayhan,15,Left Center Midfield,88.6,14.5,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+True,7039,Hakan Çalhanoğlu,13,Right Center Midfield,93.3,31.1,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+True,6971,Cengiz Ünder,16,Left Midfield,109.8,38.4,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+True,21567,İbrahim Halil Dervişoğlu,12,Right Midfield,96.1,40.4,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,95.0,31.2,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+False,8181,Nicolò Barella,13,Right Center Midfield,93.5,23.2,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+False,7173,Leonardo Bonucci,3,Right Center Back,101.1,31.5,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+False,8286,Leonardo Spinazzola,6,Left Back,111.3,42.5,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+False,6993,Bryan Cristante,15,Left Center Midfield,102.6,39.0,15a3ee4c-5306-433f-98ca-90b4ce3756d4
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,118.2,41.6,8269bfa9-6d14-4195-a055-d70ddee60efa
+True,7039,Hakan Çalhanoğlu,13,Right Center Midfield,99.8,24.1,8269bfa9-6d14-4195-a055-d70ddee60efa
+False,7156,Federico Chiesa,21,Left Wing,101.6,43.7,8269bfa9-6d14-4195-a055-d70ddee60efa
+False,7777,Federico Bernardeschi,17,Right Wing,107.5,24.1,8269bfa9-6d14-4195-a055-d70ddee60efa
+True,8963,Caglar Söyüncü,5,Left Center Back,112.3,39.4,8269bfa9-6d14-4195-a055-d70ddee60efa
+True,21567,İbrahim Halil Dervişoğlu,12,Right Midfield,110.5,46.7,8269bfa9-6d14-4195-a055-d70ddee60efa
+True,11086,Burak Yılmaz,23,Center Forward,115.1,38.7,8269bfa9-6d14-4195-a055-d70ddee60efa
+True,10349,Mehmet Zeki Çelik,2,Right Back,113.8,46.7,8269bfa9-6d14-4195-a055-d70ddee60efa
+True,12293,Kaan Ayhan,15,Left Center Midfield,107.8,46.6,8269bfa9-6d14-4195-a055-d70ddee60efa
+False,7173,Leonardo Bonucci,3,Right Center Back,116.2,39.2,8269bfa9-6d14-4195-a055-d70ddee60efa
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,117.9,37.1,8269bfa9-6d14-4195-a055-d70ddee60efa
+False,6954,Giorgio Chiellini,5,Left Center Back,112.9,44.0,8269bfa9-6d14-4195-a055-d70ddee60efa
+False,8286,Leonardo Spinazzola,6,Left Back,112.1,46.1,8269bfa9-6d14-4195-a055-d70ddee60efa
+False,11514,Giovanni Di Lorenzo,2,Right Back,113.3,45.3,8269bfa9-6d14-4195-a055-d70ddee60efa
+False,8181,Nicolò Barella,13,Right Center Midfield,110.7,38.1,8269bfa9-6d14-4195-a055-d70ddee60efa
+False,7471,Andrea Belotti,23,Center Forward,111.6,34.6,8269bfa9-6d14-4195-a055-d70ddee60efa
+False,6993,Bryan Cristante,15,Left Center Midfield,109.7,46.0,8269bfa9-6d14-4195-a055-d70ddee60efa

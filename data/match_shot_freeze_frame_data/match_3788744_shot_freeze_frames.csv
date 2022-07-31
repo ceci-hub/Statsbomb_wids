@@ -1,0 +1,389 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,5543,Haris Seferović,22,Right Center Forward,110.4,40.6,96a2cd6d-0572-4418-8653-fa848a17390b
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,107.4,29.9,96a2cd6d-0572-4418-8653-fa848a17390b
+True,5545,Breel-Donald Embolo,24,Left Center Forward,105.8,23.8,96a2cd6d-0572-4418-8653-fa848a17390b
+False,11252,Daniel James,16,Left Midfield,99.0,48.6,96a2cd6d-0572-4418-8653-fa848a17390b
+False,3517,Aaron Ramsey,15,Left Center Midfield,106.0,39.6,96a2cd6d-0572-4418-8653-fa848a17390b
+False,3086,Ben Davies,6,Left Back,112.5,48.5,96a2cd6d-0572-4418-8653-fa848a17390b
+False,22074,Joseff Morrell,13,Right Center Midfield,101.7,25.2,96a2cd6d-0572-4418-8653-fa848a17390b
+False,11250,Joe Rodon,5,Left Center Back,111.6,41.3,96a2cd6d-0572-4418-8653-fa848a17390b
+False,10931,Joe Allen,10,Center Defensive Midfield,108.6,30.9,96a2cd6d-0572-4418-8653-fa848a17390b
+False,4767,Chris Mepham,3,Right Center Back,112.7,33.0,96a2cd6d-0572-4418-8653-fa848a17390b
+False,6399,Gareth Frank Bale,12,Right Midfield,109.4,18.7,96a2cd6d-0572-4418-8653-fa848a17390b
+False,9914,Danny Ward,1,Goalkeeper,118.0,42.6,96a2cd6d-0572-4418-8653-fa848a17390b
+True,6983,Remo Freuler,9,Right Defensive Midfield,93.1,38.9,96a2cd6d-0572-4418-8653-fa848a17390b
+True,3500,Granit Xhaka,11,Left Defensive Midfield,91.6,23.5,96a2cd6d-0572-4418-8653-fa848a17390b
+False,9914,Danny Ward,1,Goalkeeper,118.3,41.3,1c255abb-2403-4929-883e-65272acd953d
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,101.7,69.0,1c255abb-2403-4929-883e-65272acd953d
+True,16027,Kevin Mbabu,7,Right Wing Back,98.4,57.9,1c255abb-2403-4929-883e-65272acd953d
+True,6983,Remo Freuler,9,Right Defensive Midfield,100.3,49.6,1c255abb-2403-4929-883e-65272acd953d
+True,5543,Haris Seferović,22,Right Center Forward,103.1,43.5,1c255abb-2403-4929-883e-65272acd953d
+True,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,98.9,30.0,1c255abb-2403-4929-883e-65272acd953d
+True,5545,Breel-Donald Embolo,24,Left Center Forward,110.8,42.6,1c255abb-2403-4929-883e-65272acd953d
+False,22074,Joseff Morrell,13,Right Center Midfield,97.3,43.3,1c255abb-2403-4929-883e-65272acd953d
+False,10931,Joe Allen,10,Center Defensive Midfield,102.7,55.0,1c255abb-2403-4929-883e-65272acd953d
+False,3086,Ben Davies,6,Left Back,103.8,58.0,1c255abb-2403-4929-883e-65272acd953d
+False,6399,Gareth Frank Bale,12,Right Midfield,97.2,35.2,1c255abb-2403-4929-883e-65272acd953d
+False,3517,Aaron Ramsey,15,Left Center Midfield,101.7,46.6,1c255abb-2403-4929-883e-65272acd953d
+False,11250,Joe Rodon,5,Left Center Back,109.1,44.0,1c255abb-2403-4929-883e-65272acd953d
+False,4767,Chris Mepham,3,Right Center Back,107.7,39.2,1c255abb-2403-4929-883e-65272acd953d
+False,4774,Connor Roberts,2,Right Back,106.2,33.5,1c255abb-2403-4929-883e-65272acd953d
+True,4774,Connor Roberts,2,Right Back,92.7,53.3,93864a54-3663-4639-a1d0-d575213090e7
+True,3517,Aaron Ramsey,15,Left Center Midfield,100.1,35.4,93864a54-3663-4639-a1d0-d575213090e7
+True,11252,Daniel James,16,Left Midfield,115.1,14.4,93864a54-3663-4639-a1d0-d575213090e7
+True,6399,Gareth Frank Bale,12,Right Midfield,111.7,36.1,93864a54-3663-4639-a1d0-d575213090e7
+False,5550,Yann Sommer,1,Goalkeeper,118.9,40.5,93864a54-3663-4639-a1d0-d575213090e7
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,97.9,35.7,93864a54-3663-4639-a1d0-d575213090e7
+False,6983,Remo Freuler,9,Right Defensive Midfield,105.3,30.4,93864a54-3663-4639-a1d0-d575213090e7
+False,8814,Nico Elvedi,3,Right Center Back,110.2,22.2,93864a54-3663-4639-a1d0-d575213090e7
+False,16027,Kevin Mbabu,7,Right Wing Back,113.2,15.2,93864a54-3663-4639-a1d0-d575213090e7
+False,3500,Granit Xhaka,11,Left Defensive Midfield,110.8,35.4,93864a54-3663-4639-a1d0-d575213090e7
+False,5537,Fabian Lukas Schär,4,Center Back,112.0,38.3,93864a54-3663-4639-a1d0-d575213090e7
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,112.5,42.2,93864a54-3663-4639-a1d0-d575213090e7
+False,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,111.5,45.5,93864a54-3663-4639-a1d0-d575213090e7
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,102.8,17.9,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,5550,Yann Sommer,1,Goalkeeper,119.1,41.8,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,3500,Granit Xhaka,11,Left Defensive Midfield,116.6,39.3,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,16027,Kevin Mbabu,7,Right Wing Back,114.8,42.9,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,113.8,38.7,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,8814,Nico Elvedi,3,Right Center Back,115.2,35.0,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,5537,Fabian Lukas Schär,4,Center Back,112.1,40.7,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,5543,Haris Seferović,22,Right Center Forward,112.0,33.6,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,108.3,37.1,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,5545,Breel-Donald Embolo,24,Left Center Forward,101.4,46.2,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,6983,Remo Freuler,9,Right Defensive Midfield,102.3,33.1,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+True,3086,Ben Davies,6,Left Back,97.6,34.4,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+True,4767,Chris Mepham,3,Right Center Back,113.7,39.9,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+True,11250,Joe Rodon,5,Left Center Back,111.9,40.2,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+True,6399,Gareth Frank Bale,12,Right Midfield,115.0,34.2,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+True,11252,Daniel James,16,Left Midfield,119.2,2.3,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+True,22074,Joseff Morrell,13,Right Center Midfield,96.0,45.2,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+True,3517,Aaron Ramsey,15,Left Center Midfield,116.0,42.4,196f7f5a-750e-4129-9c6d-9bc40f3ca941
+False,11252,Daniel James,16,Left Midfield,109.1,66.2,f6151914-2613-437b-a674-998b761df308
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,115.1,45.0,f6151914-2613-437b-a674-998b761df308
+False,4774,Connor Roberts,2,Right Back,115.8,42.7,f6151914-2613-437b-a674-998b761df308
+False,9914,Danny Ward,1,Goalkeeper,119.0,41.6,f6151914-2613-437b-a674-998b761df308
+False,6399,Gareth Frank Bale,12,Right Midfield,94.6,37.7,f6151914-2613-437b-a674-998b761df308
+False,22074,Joseff Morrell,13,Right Center Midfield,114.5,60.3,f6151914-2613-437b-a674-998b761df308
+False,4767,Chris Mepham,3,Right Center Back,113.3,44.3,f6151914-2613-437b-a674-998b761df308
+False,3086,Ben Davies,6,Left Back,111.8,40.2,f6151914-2613-437b-a674-998b761df308
+False,11250,Joe Rodon,5,Left Center Back,110.3,35.9,f6151914-2613-437b-a674-998b761df308
+False,10931,Joe Allen,10,Center Defensive Midfield,111.1,36.7,f6151914-2613-437b-a674-998b761df308
+True,16027,Kevin Mbabu,7,Right Wing Back,106.3,69.6,f6151914-2613-437b-a674-998b761df308
+True,5545,Breel-Donald Embolo,24,Left Center Forward,115.8,41.5,f6151914-2613-437b-a674-998b761df308
+True,8814,Nico Elvedi,3,Right Center Back,112.2,38.3,f6151914-2613-437b-a674-998b761df308
+True,5543,Haris Seferović,22,Right Center Forward,112.4,35.5,f6151914-2613-437b-a674-998b761df308
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,111.3,35.1,f6151914-2613-437b-a674-998b761df308
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,119.1,73.0,f6151914-2613-437b-a674-998b761df308
+True,5545,Breel-Donald Embolo,24,Left Center Forward,106.9,38.0,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,114.2,39.2,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+False,9914,Danny Ward,1,Goalkeeper,118.2,40.7,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+False,11252,Daniel James,16,Left Midfield,102.6,54.5,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+False,3517,Aaron Ramsey,15,Left Center Midfield,100.2,45.3,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+False,22074,Joseff Morrell,13,Right Center Midfield,99.9,23.5,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+False,6399,Gareth Frank Bale,12,Right Midfield,102.3,28.2,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+False,3086,Ben Davies,6,Left Back,110.0,43.8,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+False,10931,Joe Allen,10,Center Defensive Midfield,108.2,35.9,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+False,11250,Joe Rodon,5,Left Center Back,112.9,42.7,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+False,4767,Chris Mepham,3,Right Center Back,111.4,38.3,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+False,4774,Connor Roberts,2,Right Back,110.7,32.7,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+True,6983,Remo Freuler,9,Right Defensive Midfield,94.2,27.5,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+True,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,92.6,16.9,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+True,16027,Kevin Mbabu,7,Right Wing Back,110.8,54.2,d6fe3251-1e5d-4a1e-a2a4-daccfd65a507
+True,5543,Haris Seferović,22,Right Center Forward,101.3,57.1,e46a1603-54a0-4876-993a-8d0d7fbd1923
+True,6983,Remo Freuler,9,Right Defensive Midfield,97.7,46.5,e46a1603-54a0-4876-993a-8d0d7fbd1923
+True,16027,Kevin Mbabu,7,Right Wing Back,99.1,46.0,e46a1603-54a0-4876-993a-8d0d7fbd1923
+True,5545,Breel-Donald Embolo,24,Left Center Forward,106.0,47.5,e46a1603-54a0-4876-993a-8d0d7fbd1923
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,104.3,37.2,e46a1603-54a0-4876-993a-8d0d7fbd1923
+True,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,110.8,34.8,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,9914,Danny Ward,1,Goalkeeper,117.3,40.9,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,91.5,47.7,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,11252,Daniel James,16,Left Midfield,94.8,60.0,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,22074,Joseff Morrell,13,Right Center Midfield,96.9,50.0,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,3517,Aaron Ramsey,15,Left Center Midfield,100.0,47.3,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,10931,Joe Allen,10,Center Defensive Midfield,101.9,43.5,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,6399,Gareth Frank Bale,12,Right Midfield,98.8,35.1,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,3086,Ben Davies,6,Left Back,106.2,51.6,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,4767,Chris Mepham,3,Right Center Back,104.9,39.1,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,11250,Joe Rodon,5,Left Center Back,108.4,46.1,e46a1603-54a0-4876-993a-8d0d7fbd1923
+False,4774,Connor Roberts,2,Right Back,110.2,41.0,e46a1603-54a0-4876-993a-8d0d7fbd1923
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,85.5,32.7,e46a1603-54a0-4876-993a-8d0d7fbd1923
+True,16027,Kevin Mbabu,7,Right Wing Back,101.9,65.0,c26836bb-826b-4936-bea7-264fdd96d95b
+True,3500,Granit Xhaka,11,Left Defensive Midfield,90.4,43.3,c26836bb-826b-4936-bea7-264fdd96d95b
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,91.0,55.5,c26836bb-826b-4936-bea7-264fdd96d95b
+False,4774,Connor Roberts,2,Right Back,108.7,32.6,c26836bb-826b-4936-bea7-264fdd96d95b
+False,4767,Chris Mepham,3,Right Center Back,110.3,40.8,c26836bb-826b-4936-bea7-264fdd96d95b
+False,11250,Joe Rodon,5,Left Center Back,105.8,50.1,c26836bb-826b-4936-bea7-264fdd96d95b
+False,22074,Joseff Morrell,13,Right Center Midfield,102.7,46.4,c26836bb-826b-4936-bea7-264fdd96d95b
+False,3086,Ben Davies,6,Left Back,106.3,59.5,c26836bb-826b-4936-bea7-264fdd96d95b
+False,6399,Gareth Frank Bale,12,Right Midfield,94.4,31.8,c26836bb-826b-4936-bea7-264fdd96d95b
+False,3517,Aaron Ramsey,15,Left Center Midfield,99.8,56.3,c26836bb-826b-4936-bea7-264fdd96d95b
+False,11252,Daniel James,16,Left Midfield,101.8,62.9,c26836bb-826b-4936-bea7-264fdd96d95b
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,83.9,42.0,c26836bb-826b-4936-bea7-264fdd96d95b
+True,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,103.6,37.6,c26836bb-826b-4936-bea7-264fdd96d95b
+True,6983,Remo Freuler,9,Right Defensive Midfield,107.8,56.6,c26836bb-826b-4936-bea7-264fdd96d95b
+True,5545,Breel-Donald Embolo,24,Left Center Forward,107.3,21.0,c26836bb-826b-4936-bea7-264fdd96d95b
+False,9914,Danny Ward,1,Goalkeeper,118.1,41.5,c26836bb-826b-4936-bea7-264fdd96d95b
+False,10931,Joe Allen,10,Center Defensive Midfield,107.2,53.0,c26836bb-826b-4936-bea7-264fdd96d95b
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,117.7,45.2,1fa6f818-6699-4409-88f5-a3b44fe2e707
+False,4774,Connor Roberts,2,Right Back,116.1,45.5,1fa6f818-6699-4409-88f5-a3b44fe2e707
+True,5545,Breel-Donald Embolo,24,Left Center Forward,115.3,46.2,1fa6f818-6699-4409-88f5-a3b44fe2e707
+False,3086,Ben Davies,6,Left Back,117.0,47.5,1fa6f818-6699-4409-88f5-a3b44fe2e707
+False,4767,Chris Mepham,3,Right Center Back,113.8,40.1,1fa6f818-6699-4409-88f5-a3b44fe2e707
+True,5537,Fabian Lukas Schär,4,Center Back,112.9,39.2,1fa6f818-6699-4409-88f5-a3b44fe2e707
+True,5543,Haris Seferović,22,Right Center Forward,113.3,34.8,1fa6f818-6699-4409-88f5-a3b44fe2e707
+False,10931,Joe Allen,10,Center Defensive Midfield,113.3,36.5,1fa6f818-6699-4409-88f5-a3b44fe2e707
+True,8814,Nico Elvedi,3,Right Center Back,111.3,33.8,1fa6f818-6699-4409-88f5-a3b44fe2e707
+False,11250,Joe Rodon,5,Left Center Back,111.2,35.6,1fa6f818-6699-4409-88f5-a3b44fe2e707
+False,9914,Danny Ward,1,Goalkeeper,118.6,43.4,1fa6f818-6699-4409-88f5-a3b44fe2e707
+False,3517,Aaron Ramsey,15,Left Center Midfield,99.0,42.5,1fa6f818-6699-4409-88f5-a3b44fe2e707
+False,11252,Daniel James,16,Left Midfield,107.3,64.4,1fa6f818-6699-4409-88f5-a3b44fe2e707
+False,22074,Joseff Morrell,13,Right Center Midfield,115.1,63.2,1fa6f818-6699-4409-88f5-a3b44fe2e707
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,119.7,77.4,1fa6f818-6699-4409-88f5-a3b44fe2e707
+True,6983,Remo Freuler,9,Right Defensive Midfield,99.9,32.3,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+True,5543,Haris Seferović,22,Right Center Forward,101.0,38.4,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+True,16027,Kevin Mbabu,7,Right Wing Back,98.2,59.3,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+True,3500,Granit Xhaka,11,Left Defensive Midfield,89.0,28.9,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,87.9,39.0,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,79.9,16.4,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,6399,Gareth Frank Bale,12,Right Midfield,97.4,15.1,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,4774,Connor Roberts,2,Right Back,100.5,26.9,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+True,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,98.6,8.1,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,10931,Joe Allen,10,Center Defensive Midfield,101.0,30.6,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,11250,Joe Rodon,5,Left Center Back,103.4,37.5,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,4767,Chris Mepham,3,Right Center Back,99.3,32.1,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,3086,Ben Davies,6,Left Back,102.6,46.8,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,22074,Joseff Morrell,13,Right Center Midfield,94.4,26.0,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,3517,Aaron Ramsey,15,Left Center Midfield,95.7,31.1,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,11252,Daniel James,16,Left Midfield,91.4,45.2,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,85.1,28.7,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+False,9914,Danny Ward,1,Goalkeeper,117.6,40.6,b951a6af-ab2e-4fd0-8f17-86538d1b4290
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,104.1,35.0,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+True,5545,Breel-Donald Embolo,24,Left Center Forward,105.8,35.4,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+True,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,105.0,23.2,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+False,9914,Danny Ward,1,Goalkeeper,116.0,41.8,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+False,11252,Daniel James,16,Left Midfield,97.5,48.2,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+False,3517,Aaron Ramsey,15,Left Center Midfield,102.8,47.0,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+False,10931,Joe Allen,10,Center Defensive Midfield,100.1,39.1,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+False,3086,Ben Davies,6,Left Back,105.6,47.4,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+False,11250,Joe Rodon,5,Left Center Back,105.9,45.9,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+False,22074,Joseff Morrell,13,Right Center Midfield,100.7,33.1,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+False,4767,Chris Mepham,3,Right Center Back,106.5,38.1,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+False,4774,Connor Roberts,2,Right Back,106.9,35.1,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+False,6399,Gareth Frank Bale,12,Right Midfield,106.5,26.0,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,86.1,21.2,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+True,16027,Kevin Mbabu,7,Right Wing Back,103.8,61.2,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+True,6983,Remo Freuler,9,Right Defensive Midfield,97.1,39.3,66ebefa1-8a09-4d07-ab54-a3b8cef96000
+True,5543,Haris Seferović,22,Right Center Forward,113.8,49.5,76b4020c-717e-4350-8f43-3d5c33344d58
+False,10931,Joe Allen,10,Center Defensive Midfield,112.2,47.9,76b4020c-717e-4350-8f43-3d5c33344d58
+False,11252,Daniel James,16,Left Midfield,103.1,35.2,76b4020c-717e-4350-8f43-3d5c33344d58
+False,22074,Joseff Morrell,13,Right Center Midfield,118.9,43.9,76b4020c-717e-4350-8f43-3d5c33344d58
+False,9914,Danny Ward,1,Goalkeeper,118.9,39.8,76b4020c-717e-4350-8f43-3d5c33344d58
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,110.9,45.7,76b4020c-717e-4350-8f43-3d5c33344d58
+False,11250,Joe Rodon,5,Left Center Back,111.8,43.9,76b4020c-717e-4350-8f43-3d5c33344d58
+True,5545,Breel-Donald Embolo,24,Left Center Forward,115.8,41.5,76b4020c-717e-4350-8f43-3d5c33344d58
+False,4774,Connor Roberts,2,Right Back,116.6,40.1,76b4020c-717e-4350-8f43-3d5c33344d58
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,113.7,36.0,76b4020c-717e-4350-8f43-3d5c33344d58
+True,8814,Nico Elvedi,3,Right Center Back,114.6,31.9,76b4020c-717e-4350-8f43-3d5c33344d58
+False,3086,Ben Davies,6,Left Back,114.7,33.3,76b4020c-717e-4350-8f43-3d5c33344d58
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,97.5,33.7,76b4020c-717e-4350-8f43-3d5c33344d58
+True,3500,Granit Xhaka,11,Left Defensive Midfield,98.8,17.2,76b4020c-717e-4350-8f43-3d5c33344d58
+False,3517,Aaron Ramsey,15,Left Center Midfield,113.0,21.5,76b4020c-717e-4350-8f43-3d5c33344d58
+True,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,115.8,9.7,76b4020c-717e-4350-8f43-3d5c33344d58
+False,4767,Chris Mepham,3,Right Center Back,111.4,41.9,76b4020c-717e-4350-8f43-3d5c33344d58
+True,5545,Breel-Donald Embolo,24,Left Center Forward,111.7,43.6,fb934d03-6766-45f0-821d-ee5030c44d23
+False,3086,Ben Davies,6,Left Back,103.0,61.6,fb934d03-6766-45f0-821d-ee5030c44d23
+False,22074,Joseff Morrell,13,Right Center Midfield,106.0,44.6,fb934d03-6766-45f0-821d-ee5030c44d23
+False,4767,Chris Mepham,3,Right Center Back,113.0,43.5,fb934d03-6766-45f0-821d-ee5030c44d23
+False,4774,Connor Roberts,2,Right Back,112.1,40.8,fb934d03-6766-45f0-821d-ee5030c44d23
+False,9914,Danny Ward,1,Goalkeeper,117.1,41.3,fb934d03-6766-45f0-821d-ee5030c44d23
+True,6983,Remo Freuler,9,Right Defensive Midfield,98.3,51.3,fb934d03-6766-45f0-821d-ee5030c44d23
+True,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,101.4,30.3,fb934d03-6766-45f0-821d-ee5030c44d23
+False,11250,Joe Rodon,5,Left Center Back,110.3,48.3,fb934d03-6766-45f0-821d-ee5030c44d23
+True,5543,Haris Seferović,22,Right Center Forward,108.0,39.0,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+True,16027,Kevin Mbabu,7,Right Wing Back,104.1,60.9,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+False,9914,Danny Ward,1,Goalkeeper,116.9,42.0,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+False,11252,Daniel James,16,Left Midfield,89.6,54.1,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+False,3517,Aaron Ramsey,15,Left Center Midfield,95.7,38.3,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+False,10931,Joe Allen,10,Center Defensive Midfield,101.5,47.4,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+False,4774,Connor Roberts,2,Right Back,108.1,33.4,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+False,11250,Joe Rodon,5,Left Center Back,103.1,50.5,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+False,4767,Chris Mepham,3,Right Center Back,109.5,41.3,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+False,3086,Ben Davies,6,Left Back,106.1,56.6,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+True,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,105.5,27.0,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,103.7,40.5,5c7dd4b5-a320-41d5-bd94-4a530974ee0f
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,90.2,64.8,44b77870-6829-420e-aa75-b35bf83f783a
+True,5543,Haris Seferović,22,Right Center Forward,95.7,34.4,44b77870-6829-420e-aa75-b35bf83f783a
+False,9914,Danny Ward,1,Goalkeeper,112.8,40.6,44b77870-6829-420e-aa75-b35bf83f783a
+False,3086,Ben Davies,6,Left Back,101.4,46.3,44b77870-6829-420e-aa75-b35bf83f783a
+False,4767,Chris Mepham,3,Right Center Back,101.4,39.6,44b77870-6829-420e-aa75-b35bf83f783a
+False,11250,Joe Rodon,5,Left Center Back,98.4,39.3,44b77870-6829-420e-aa75-b35bf83f783a
+False,10931,Joe Allen,10,Center Defensive Midfield,92.5,40.6,44b77870-6829-420e-aa75-b35bf83f783a
+False,4774,Connor Roberts,2,Right Back,93.8,24.9,44b77870-6829-420e-aa75-b35bf83f783a
+False,22074,Joseff Morrell,13,Right Center Midfield,110.3,49.7,bc366b8b-286a-471d-b6ec-71b546e80f12
+False,4767,Chris Mepham,3,Right Center Back,117.5,46.0,bc366b8b-286a-471d-b6ec-71b546e80f12
+False,9914,Danny Ward,1,Goalkeeper,118.0,41.1,bc366b8b-286a-471d-b6ec-71b546e80f12
+False,3517,Aaron Ramsey,15,Left Center Midfield,108.6,62.3,bc366b8b-286a-471d-b6ec-71b546e80f12
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,116.4,43.3,bc366b8b-286a-471d-b6ec-71b546e80f12
+False,6399,Gareth Frank Bale,12,Right Midfield,113.0,44.6,bc366b8b-286a-471d-b6ec-71b546e80f12
+False,3086,Ben Davies,6,Left Back,114.3,42.8,bc366b8b-286a-471d-b6ec-71b546e80f12
+False,4774,Connor Roberts,2,Right Back,114.3,40.4,bc366b8b-286a-471d-b6ec-71b546e80f12
+False,10931,Joe Allen,10,Center Defensive Midfield,113.1,38.6,bc366b8b-286a-471d-b6ec-71b546e80f12
+True,5543,Haris Seferović,22,Right Center Forward,112.7,35.9,bc366b8b-286a-471d-b6ec-71b546e80f12
+True,6983,Remo Freuler,9,Right Defensive Midfield,99.6,55.1,bc366b8b-286a-471d-b6ec-71b546e80f12
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,104.1,40.0,bc366b8b-286a-471d-b6ec-71b546e80f12
+False,11252,Daniel James,16,Left Midfield,97.8,60.3,bc366b8b-286a-471d-b6ec-71b546e80f12
+False,11250,Joe Rodon,5,Left Center Back,110.0,38.9,bc366b8b-286a-471d-b6ec-71b546e80f12
+True,3500,Granit Xhaka,11,Left Defensive Midfield,104.9,70.7,bc366b8b-286a-471d-b6ec-71b546e80f12
+True,16027,Kevin Mbabu,7,Right Wing Back,116.6,47.5,bc366b8b-286a-471d-b6ec-71b546e80f12
+True,8814,Nico Elvedi,3,Right Center Back,115.1,44.0,bc366b8b-286a-471d-b6ec-71b546e80f12
+True,5545,Breel-Donald Embolo,24,Left Center Forward,105.5,44.4,7dbfc95b-b4eb-42bb-b764-4b419cbba7e0
+True,6983,Remo Freuler,9,Right Defensive Midfield,107.3,37.1,7dbfc95b-b4eb-42bb-b764-4b419cbba7e0
+True,5543,Haris Seferović,22,Right Center Forward,102.7,41.8,7dbfc95b-b4eb-42bb-b764-4b419cbba7e0
+False,4774,Connor Roberts,2,Right Back,113.4,46.0,7dbfc95b-b4eb-42bb-b764-4b419cbba7e0
+False,3086,Ben Davies,6,Left Back,111.3,45.9,7dbfc95b-b4eb-42bb-b764-4b419cbba7e0
+False,4767,Chris Mepham,3,Right Center Back,110.3,39.2,7dbfc95b-b4eb-42bb-b764-4b419cbba7e0
+False,11250,Joe Rodon,5,Left Center Back,106.8,44.6,7dbfc95b-b4eb-42bb-b764-4b419cbba7e0
+False,10931,Joe Allen,10,Center Defensive Midfield,103.3,45.7,7dbfc95b-b4eb-42bb-b764-4b419cbba7e0
+False,22074,Joseff Morrell,13,Right Center Midfield,100.7,33.5,7dbfc95b-b4eb-42bb-b764-4b419cbba7e0
+False,9914,Danny Ward,1,Goalkeeper,116.5,42.1,7dbfc95b-b4eb-42bb-b764-4b419cbba7e0
+False,5537,Fabian Lukas Schär,4,Center Back,112.3,40.3,6386bfbf-b009-472b-8efc-df1287031976
+False,5550,Yann Sommer,1,Goalkeeper,118.0,40.0,6386bfbf-b009-472b-8efc-df1287031976
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,96.4,52.5,6386bfbf-b009-472b-8efc-df1287031976
+False,6983,Remo Freuler,9,Right Defensive Midfield,100.3,57.4,6386bfbf-b009-472b-8efc-df1287031976
+False,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,103.2,59.6,6386bfbf-b009-472b-8efc-df1287031976
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,108.9,42.5,6386bfbf-b009-472b-8efc-df1287031976
+False,3500,Granit Xhaka,11,Left Defensive Midfield,109.7,40.6,6386bfbf-b009-472b-8efc-df1287031976
+False,8814,Nico Elvedi,3,Right Center Back,111.5,37.0,6386bfbf-b009-472b-8efc-df1287031976
+False,16027,Kevin Mbabu,7,Right Wing Back,111.5,34.7,6386bfbf-b009-472b-8efc-df1287031976
+True,4774,Connor Roberts,2,Right Back,101.9,69.0,6386bfbf-b009-472b-8efc-df1287031976
+True,3517,Aaron Ramsey,15,Left Center Midfield,108.8,40.4,6386bfbf-b009-472b-8efc-df1287031976
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,110.8,36.8,6386bfbf-b009-472b-8efc-df1287031976
+True,6399,Gareth Frank Bale,12,Right Midfield,111.2,44.0,6386bfbf-b009-472b-8efc-df1287031976
+True,22074,Joseff Morrell,13,Right Center Midfield,93.6,59.2,6386bfbf-b009-472b-8efc-df1287031976
+True,3517,Aaron Ramsey,15,Left Center Midfield,99.9,27.8,54606341-433b-435a-a5c0-53091416077e
+True,6399,Gareth Frank Bale,12,Right Midfield,114.3,48.3,54606341-433b-435a-a5c0-53091416077e
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,107.0,48.5,54606341-433b-435a-a5c0-53091416077e
+False,5550,Yann Sommer,1,Goalkeeper,117.4,41.7,54606341-433b-435a-a5c0-53091416077e
+False,8814,Nico Elvedi,3,Right Center Back,115.9,31.6,54606341-433b-435a-a5c0-53091416077e
+False,5537,Fabian Lukas Schär,4,Center Back,113.7,37.0,54606341-433b-435a-a5c0-53091416077e
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,110.1,42.6,54606341-433b-435a-a5c0-53091416077e
+False,3500,Granit Xhaka,11,Left Defensive Midfield,105.5,35.1,54606341-433b-435a-a5c0-53091416077e
+False,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,108.6,47.3,54606341-433b-435a-a5c0-53091416077e
+False,6983,Remo Freuler,9,Right Defensive Midfield,106.8,51.1,54606341-433b-435a-a5c0-53091416077e
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,92.3,39.3,54606341-433b-435a-a5c0-53091416077e
+True,10931,Joe Allen,10,Center Defensive Midfield,99.2,24.8,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+True,4767,Chris Mepham,3,Right Center Back,111.8,36.9,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,111.2,40.0,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+True,11250,Joe Rodon,5,Left Center Back,108.2,40.8,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+True,6399,Gareth Frank Bale,12,Right Midfield,111.6,26.2,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+True,3517,Aaron Ramsey,15,Left Center Midfield,113.7,39.4,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,5550,Yann Sommer,1,Goalkeeper,118.9,38.5,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,102.6,22.8,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,5543,Haris Seferović,22,Right Center Forward,104.9,31.6,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,16027,Kevin Mbabu,7,Right Wing Back,109.7,42.1,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,6983,Remo Freuler,9,Right Defensive Midfield,104.3,35.4,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,114.1,39.3,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,5537,Fabian Lukas Schär,4,Center Back,110.1,31.4,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,8814,Nico Elvedi,3,Right Center Back,110.7,34.2,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,110.1,36.0,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,3500,Granit Xhaka,11,Left Defensive Midfield,112.2,40.1,d2fb0369-b033-4eca-9f77-6a0e2336dd98
+False,11250,Joe Rodon,5,Left Center Back,110.6,39.1,f15b3822-e676-4f5c-b3d7-83c4565d613d
+False,3086,Ben Davies,6,Left Back,107.5,40.9,f15b3822-e676-4f5c-b3d7-83c4565d613d
+False,4767,Chris Mepham,3,Right Center Back,110.5,26.4,f15b3822-e676-4f5c-b3d7-83c4565d613d
+False,4774,Connor Roberts,2,Right Back,107.9,27.3,f15b3822-e676-4f5c-b3d7-83c4565d613d
+False,10931,Joe Allen,10,Center Defensive Midfield,103.5,35.6,f15b3822-e676-4f5c-b3d7-83c4565d613d
+False,22074,Joseff Morrell,13,Right Center Midfield,100.8,28.4,f15b3822-e676-4f5c-b3d7-83c4565d613d
+False,9914,Danny Ward,1,Goalkeeper,117.6,37.0,f15b3822-e676-4f5c-b3d7-83c4565d613d
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,99.4,34.7,f15b3822-e676-4f5c-b3d7-83c4565d613d
+True,5543,Haris Seferović,22,Right Center Forward,106.3,39.1,f15b3822-e676-4f5c-b3d7-83c4565d613d
+False,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,115.0,41.9,60c11881-73e8-4221-8f15-fa793d0270bb
+False,3500,Granit Xhaka,11,Left Defensive Midfield,113.2,39.4,60c11881-73e8-4221-8f15-fa793d0270bb
+False,8814,Nico Elvedi,3,Right Center Back,112.5,38.0,60c11881-73e8-4221-8f15-fa793d0270bb
+False,5537,Fabian Lukas Schär,4,Center Back,111.3,42.6,60c11881-73e8-4221-8f15-fa793d0270bb
+False,5545,Breel-Donald Embolo,24,Left Center Forward,100.6,44.0,60c11881-73e8-4221-8f15-fa793d0270bb
+False,6983,Remo Freuler,9,Right Defensive Midfield,108.0,58.9,60c11881-73e8-4221-8f15-fa793d0270bb
+False,5543,Haris Seferović,22,Right Center Forward,103.4,53.9,60c11881-73e8-4221-8f15-fa793d0270bb
+True,10931,Joe Allen,10,Center Defensive Midfield,109.2,58.5,60c11881-73e8-4221-8f15-fa793d0270bb
+False,5538,Denis Lemi Zakaria Lako Lado,19,Center Attacking Midfield,110.1,38.1,60c11881-73e8-4221-8f15-fa793d0270bb
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,110.5,35.5,60c11881-73e8-4221-8f15-fa793d0270bb
+False,16027,Kevin Mbabu,7,Right Wing Back,113.1,33.1,60c11881-73e8-4221-8f15-fa793d0270bb
+False,5550,Yann Sommer,1,Goalkeeper,118.8,40.1,60c11881-73e8-4221-8f15-fa793d0270bb
+True,11252,Daniel James,16,Left Midfield,106.1,72.7,60c11881-73e8-4221-8f15-fa793d0270bb
+True,3086,Ben Davies,6,Left Back,96.8,40.2,60c11881-73e8-4221-8f15-fa793d0270bb
+True,11250,Joe Rodon,5,Left Center Back,110.1,32.8,60c11881-73e8-4221-8f15-fa793d0270bb
+True,3517,Aaron Ramsey,15,Left Center Midfield,113.9,41.6,60c11881-73e8-4221-8f15-fa793d0270bb
+True,6399,Gareth Frank Bale,12,Right Midfield,114.1,37.6,60c11881-73e8-4221-8f15-fa793d0270bb
+True,4767,Chris Mepham,3,Right Center Back,111.8,32.2,60c11881-73e8-4221-8f15-fa793d0270bb
+False,6983,Remo Freuler,9,Right Defensive Midfield,103.0,55.7,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+False,3500,Granit Xhaka,11,Left Defensive Midfield,101.1,46.2,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+False,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,106.2,50.0,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+False,5538,Denis Lemi Zakaria Lako Lado,19,Center Attacking Midfield,100.6,35.4,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+False,8814,Nico Elvedi,3,Right Center Back,102.8,33.3,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,107.3,43.1,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+False,5537,Fabian Lukas Schär,4,Center Back,106.3,38.8,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+False,16027,Kevin Mbabu,7,Right Wing Back,106.7,28.0,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+False,5550,Yann Sommer,1,Goalkeeper,117.7,38.9,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+True,22074,Joseff Morrell,13,Right Center Midfield,98.4,51.2,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+True,4567,David Brooks,12,Right Midfield,103.7,64.3,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+True,4774,Connor Roberts,2,Right Back,106.3,54.8,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+True,3517,Aaron Ramsey,15,Left Center Midfield,106.5,44.7,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,102.5,31.3,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+True,6399,Gareth Frank Bale,16,Left Midfield,103.1,20.0,1d38ebb6-a02c-46d7-84c0-037d02c9c43f
+True,16027,Kevin Mbabu,7,Right Wing Back,91.7,65.4,49e47b32-f7c6-497b-8b36-89d116a3e00d
+True,5545,Breel-Donald Embolo,24,Left Center Forward,102.4,58.7,49e47b32-f7c6-497b-8b36-89d116a3e00d
+True,5543,Haris Seferović,22,Right Center Forward,113.1,60.3,49e47b32-f7c6-497b-8b36-89d116a3e00d
+True,6983,Remo Freuler,9,Right Defensive Midfield,109.2,40.1,49e47b32-f7c6-497b-8b36-89d116a3e00d
+True,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,106.5,32.0,49e47b32-f7c6-497b-8b36-89d116a3e00d
+False,9914,Danny Ward,1,Goalkeeper,116.7,41.1,49e47b32-f7c6-497b-8b36-89d116a3e00d
+False,3517,Aaron Ramsey,15,Left Center Midfield,97.9,48.1,49e47b32-f7c6-497b-8b36-89d116a3e00d
+False,22074,Joseff Morrell,13,Right Center Midfield,104.1,47.4,49e47b32-f7c6-497b-8b36-89d116a3e00d
+False,4774,Connor Roberts,2,Right Back,112.8,34.6,49e47b32-f7c6-497b-8b36-89d116a3e00d
+False,6399,Gareth Frank Bale,16,Left Midfield,98.1,67.0,49e47b32-f7c6-497b-8b36-89d116a3e00d
+False,4767,Chris Mepham,3,Right Center Back,112.1,41.0,49e47b32-f7c6-497b-8b36-89d116a3e00d
+False,3086,Ben Davies,6,Left Back,110.1,47.3,49e47b32-f7c6-497b-8b36-89d116a3e00d
+False,10931,Joe Allen,10,Center Defensive Midfield,110.9,57.2,49e47b32-f7c6-497b-8b36-89d116a3e00d
+False,11250,Joe Rodon,5,Left Center Back,112.2,56.0,49e47b32-f7c6-497b-8b36-89d116a3e00d
+False,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,108.7,47.8,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,5543,Haris Seferović,22,Right Center Forward,96.8,40.3,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,5545,Breel-Donald Embolo,24,Left Center Forward,99.0,36.3,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,6983,Remo Freuler,9,Right Defensive Midfield,103.8,43.7,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,3500,Granit Xhaka,11,Left Defensive Midfield,104.3,38.1,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,108.2,41.3,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,5538,Denis Lemi Zakaria Lako Lado,19,Center Attacking Midfield,106.2,35.4,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,5537,Fabian Lukas Schär,4,Center Back,108.7,40.6,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,8814,Nico Elvedi,3,Right Center Back,107.9,34.3,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,16027,Kevin Mbabu,7,Right Wing Back,107.7,28.6,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,5550,Yann Sommer,1,Goalkeeper,119.1,40.1,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+True,4774,Connor Roberts,2,Right Back,92.9,45.5,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+True,3517,Aaron Ramsey,15,Left Center Midfield,104.3,47.8,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+True,10931,Joe Allen,10,Center Defensive Midfield,102.6,37.5,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+True,11250,Joe Rodon,5,Left Center Back,100.8,33.1,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,108.3,38.9,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+True,4567,David Brooks,12,Right Midfield,107.9,46.4,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+True,3086,Ben Davies,6,Left Back,92.4,31.3,ed50056d-0dcf-4c4d-af1b-acbcfa42ec26
+False,6983,Remo Freuler,9,Right Defensive Midfield,95.8,36.1,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+False,3500,Granit Xhaka,11,Left Defensive Midfield,98.0,27.7,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+False,16027,Kevin Mbabu,7,Right Wing Back,92.9,10.5,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+False,5544,Ricardo Iván Rodríguez Araya,8,Left Wing Back,107.7,40.6,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,106.2,33.2,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+False,8814,Nico Elvedi,3,Right Center Back,107.3,29.3,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+False,5537,Fabian Lukas Schär,4,Center Back,107.4,21.2,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+False,5550,Yann Sommer,1,Goalkeeper,117.1,38.9,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+True,4567,David Brooks,12,Right Midfield,103.8,47.7,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+True,3517,Aaron Ramsey,15,Left Center Midfield,105.8,17.7,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,98.4,26.5,1fda187c-4b9e-4dbf-b9e1-6f12f03edb69
+False,22074,Joseff Morrell,13,Right Center Midfield,119.5,36.5,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+False,11250,Joe Rodon,5,Left Center Back,114.9,42.0,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+False,10931,Joe Allen,10,Center Defensive Midfield,115.7,36.5,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+False,4767,Chris Mepham,3,Right Center Back,116.0,39.2,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+False,4774,Connor Roberts,2,Right Back,116.9,35.7,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+False,9914,Danny Ward,1,Goalkeeper,119.0,39.2,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+False,3086,Ben Davies,6,Left Back,116.4,46.3,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,115.6,44.5,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+False,4567,David Brooks,12,Right Midfield,103.3,59.6,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+True,5834,Mario Gavranović,22,Right Center Forward,114.8,34.8,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+True,8814,Nico Elvedi,3,Right Center Back,114.8,46.6,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+True,5538,Denis Lemi Zakaria Lako Lado,19,Center Attacking Midfield,102.1,64.3,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,114.9,40.2,6caec139-d3c9-41b1-a092-739fbfd8d4dc
+True,5537,Fabian Lukas Schär,4,Center Back,117.0,37.2,6caec139-d3c9-41b1-a092-739fbfd8d4dc

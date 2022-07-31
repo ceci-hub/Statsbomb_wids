@@ -1,0 +1,606 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,5543,Haris Seferović,23,Center Forward,99.3,43.0,ee8c8783-7ffe-4270-92db-4af4770a8baa
+True,5545,Breel-Donald Embolo,17,Right Wing,101.0,49.6,ee8c8783-7ffe-4270-92db-4af4770a8baa
+True,5548,Steven Zuber,21,Left Wing,102.1,24.0,ee8c8783-7ffe-4270-92db-4af4770a8baa
+True,6983,Remo Freuler,15,Left Center Midfield,78.9,39.2,ee8c8783-7ffe-4270-92db-4af4770a8baa
+False,11748,Unai Simón Mendibil,1,Goalkeeper,115.4,40.0,ee8c8783-7ffe-4270-92db-4af4770a8baa
+False,6748,Ferrán Torres García,17,Right Wing,77.9,24.3,ee8c8783-7ffe-4270-92db-4af4770a8baa
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,79.7,51.4,ee8c8783-7ffe-4270-92db-4af4770a8baa
+False,30486,Pedro González López,15,Left Center Midfield,84.5,38.8,ee8c8783-7ffe-4270-92db-4af4770a8baa
+False,4353,Aymeric Laporte,3,Right Center Back,95.8,37.5,ee8c8783-7ffe-4270-92db-4af4770a8baa
+False,3957,César Azpilicueta Tanco,2,Right Back,98.5,31.9,ee8c8783-7ffe-4270-92db-4af4770a8baa
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,96.4,45.1,ee8c8783-7ffe-4270-92db-4af4770a8baa
+False,5211,Jordi Alba Ramos,6,Left Back,100.4,47.0,ee8c8783-7ffe-4270-92db-4af4770a8baa
+False,6892,Pau Francisco Torres,5,Left Center Back,100.3,40.3,ee8c8783-7ffe-4270-92db-4af4770a8baa
+False,5543,Haris Seferović,23,Center Forward,104.9,48.6,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+False,6983,Remo Freuler,15,Left Center Midfield,103.7,45.9,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,106.4,65.8,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+False,5548,Steven Zuber,21,Left Wing,99.2,32.1,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+False,7796,Silvan Widmer,2,Right Back,109.3,40.6,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+False,5550,Yann Sommer,1,Goalkeeper,117.9,38.1,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+False,5545,Breel-Donald Embolo,17,Right Wing,111.9,34.7,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,110.1,38.1,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,109.0,42.8,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,110.4,45.6,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+False,8814,Nico Elvedi,3,Right Center Back,111.4,42.1,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+True,4353,Aymeric Laporte,3,Right Center Back,104.6,42.8,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,109.2,38.7,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+True,3957,César Azpilicueta Tanco,2,Right Back,110.5,32.9,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,113.7,43.0,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+True,6748,Ferrán Torres García,17,Right Wing,110.8,46.7,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+True,6720,Pablo Sarabia García,21,Left Wing,111.1,65.4,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+True,30486,Pedro González López,15,Left Center Midfield,97.1,46.7,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,114.6,76.2,7d54e87e-3b03-4a7c-b6e6-e196bfeeb2eb
+True,4353,Aymeric Laporte,3,Right Center Back,105.6,48.0,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,8814,Nico Elvedi,3,Right Center Back,105.6,37.1,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,7796,Silvan Widmer,2,Right Back,106.2,36.0,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,6983,Remo Freuler,15,Left Center Midfield,105.6,33.3,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,105.6,40.3,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,5550,Yann Sommer,1,Goalkeeper,118.8,39.9,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,106.3,46.5,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,100.9,35.6,a3d55da9-0b16-4c30-a120-d748cfd616ba
+True,30486,Pedro González López,15,Left Center Midfield,98.4,39.0,a3d55da9-0b16-4c30-a120-d748cfd616ba
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,106.4,33.2,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,5548,Steven Zuber,21,Left Wing,105.4,29.0,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,5543,Haris Seferović,23,Center Forward,105.4,30.1,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,105.4,31.1,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,5545,Breel-Donald Embolo,17,Right Wing,105.4,32.2,a3d55da9-0b16-4c30-a120-d748cfd616ba
+True,3957,César Azpilicueta Tanco,2,Right Back,103.5,31.0,a3d55da9-0b16-4c30-a120-d748cfd616ba
+True,6720,Pablo Sarabia García,21,Left Wing,94.4,27.9,a3d55da9-0b16-4c30-a120-d748cfd616ba
+True,6748,Ferrán Torres García,17,Right Wing,106.6,37.2,a3d55da9-0b16-4c30-a120-d748cfd616ba
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,105.0,35.8,a3d55da9-0b16-4c30-a120-d748cfd616ba
+True,5211,Jordi Alba Ramos,6,Left Back,86.2,26.5,a3d55da9-0b16-4c30-a120-d748cfd616ba
+False,5543,Haris Seferović,23,Center Forward,113.7,47.3,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,114.9,46.4,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,115.1,48.2,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+True,30486,Pedro González López,15,Left Center Midfield,97.9,47.0,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,108.1,65.7,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+False,5548,Steven Zuber,21,Left Wing,99.4,46.3,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+False,6983,Remo Freuler,15,Left Center Midfield,107.1,48.2,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+False,30401,Ruben Vargas,17,Right Wing,102.4,38.3,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,113.5,41.0,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+False,7796,Silvan Widmer,2,Right Back,110.8,35.7,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+False,8814,Nico Elvedi,3,Right Center Back,112.9,33.2,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+False,5550,Yann Sommer,1,Goalkeeper,119.0,39.6,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,114.0,43.4,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+True,6748,Ferrán Torres García,17,Right Wing,114.2,48.0,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+True,4353,Aymeric Laporte,3,Right Center Back,110.0,36.2,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,113.6,32.7,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+True,5211,Jordi Alba Ramos,6,Left Back,94.3,36.3,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+True,6720,Pablo Sarabia García,21,Left Wing,116.2,70.2,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,116.1,73.8,462fc4e1-6dc1-4894-a418-7c6b71f7346d
+True,30401,Ruben Vargas,17,Right Wing,101.8,48.0,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+True,5548,Steven Zuber,21,Left Wing,103.1,28.2,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,94.2,43.7,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+True,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,80.2,58.9,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,5211,Jordi Alba Ramos,6,Left Back,101.7,58.9,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,6748,Ferrán Torres García,21,Left Wing,98.4,63.4,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,6892,Pau Francisco Torres,5,Left Center Back,100.9,57.8,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,101.9,50.2,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,4353,Aymeric Laporte,3,Right Center Back,104.9,44.0,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,30486,Pedro González López,15,Left Center Midfield,94.0,57.2,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,3957,César Azpilicueta Tanco,2,Right Back,104.8,34.9,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,96.5,43.0,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,6720,Pablo Sarabia García,17,Right Wing,83.2,34.3,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,11748,Unai Simón Mendibil,1,Goalkeeper,117.1,42.3,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+True,7796,Silvan Widmer,2,Right Back,103.4,65.1,7daa3f84-81d2-4fa1-931a-7f9d2c0734b8
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,114.4,40.1,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,5211,Jordi Alba Ramos,6,Left Back,104.7,51.3,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,4353,Aymeric Laporte,3,Right Center Back,113.0,39.2,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,3477,Álvaro Borja Morata Martín,23,Center Forward,114.1,45.0,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,11748,Unai Simón Mendibil,1,Goalkeeper,119.3,39.4,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,6748,Ferrán Torres García,21,Left Wing,112.4,47.6,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,6892,Pau Francisco Torres,5,Left Center Back,115.4,36.5,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,3957,César Azpilicueta Tanco,2,Right Back,112.3,34.6,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,30486,Pedro González López,15,Left Center Midfield,99.2,45.6,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,101.9,37.7,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,6720,Pablo Sarabia García,17,Right Wing,101.1,35.0,bdc96d52-7995-4ca0-ab2f-6816e42be606
+True,5543,Haris Seferović,23,Center Forward,113.8,35.4,bdc96d52-7995-4ca0-ab2f-6816e42be606
+True,8814,Nico Elvedi,3,Right Center Back,113.4,32.2,bdc96d52-7995-4ca0-ab2f-6816e42be606
+True,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,102.5,53.5,bdc96d52-7995-4ca0-ab2f-6816e42be606
+True,5548,Steven Zuber,21,Left Wing,97.1,34.7,bdc96d52-7995-4ca0-ab2f-6816e42be606
+True,30401,Ruben Vargas,17,Right Wing,100.9,37.4,bdc96d52-7995-4ca0-ab2f-6816e42be606
+True,6983,Remo Freuler,15,Left Center Midfield,97.2,46.6,bdc96d52-7995-4ca0-ab2f-6816e42be606
+True,7796,Silvan Widmer,2,Right Back,113.5,49.4,bdc96d52-7995-4ca0-ab2f-6816e42be606
+False,3957,César Azpilicueta Tanco,2,Right Back,112.3,40.1,6f20188c-423d-4a51-ab9c-516aee480160
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,113.0,42.1,6f20188c-423d-4a51-ab9c-516aee480160
+False,3477,Álvaro Borja Morata Martín,23,Center Forward,112.6,47.2,6f20188c-423d-4a51-ab9c-516aee480160
+False,5211,Jordi Alba Ramos,6,Left Back,112.2,44.4,6f20188c-423d-4a51-ab9c-516aee480160
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,110.1,42.7,6f20188c-423d-4a51-ab9c-516aee480160
+False,6748,Ferrán Torres García,17,Right Wing,112.2,34.8,6f20188c-423d-4a51-ab9c-516aee480160
+False,4353,Aymeric Laporte,3,Right Center Back,113.2,35.5,6f20188c-423d-4a51-ab9c-516aee480160
+False,6892,Pau Francisco Torres,5,Left Center Back,112.7,33.4,6f20188c-423d-4a51-ab9c-516aee480160
+False,30486,Pedro González López,15,Left Center Midfield,99.8,44.2,6f20188c-423d-4a51-ab9c-516aee480160
+False,6720,Pablo Sarabia García,21,Left Wing,103.7,33.0,6f20188c-423d-4a51-ab9c-516aee480160
+True,5543,Haris Seferović,23,Center Forward,112.0,31.5,6f20188c-423d-4a51-ab9c-516aee480160
+True,5548,Steven Zuber,21,Left Wing,99.9,30.8,6f20188c-423d-4a51-ab9c-516aee480160
+False,11748,Unai Simón Mendibil,1,Goalkeeper,119.2,39.5,6f20188c-423d-4a51-ab9c-516aee480160
+True,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,113.3,44.7,6f20188c-423d-4a51-ab9c-516aee480160
+True,8814,Nico Elvedi,3,Right Center Back,113.0,39.9,6f20188c-423d-4a51-ab9c-516aee480160
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,114.7,36.5,6f20188c-423d-4a51-ab9c-516aee480160
+True,30401,Ruben Vargas,17,Right Wing,109.7,40.8,6f20188c-423d-4a51-ab9c-516aee480160
+True,6983,Remo Freuler,15,Left Center Midfield,96.9,45.6,6f20188c-423d-4a51-ab9c-516aee480160
+True,30486,Pedro González López,15,Left Center Midfield,96.1,35.0,40302fd3-9452-487d-9307-ec76de4d61d1
+False,30401,Ruben Vargas,17,Right Wing,86.6,31.5,40302fd3-9452-487d-9307-ec76de4d61d1
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,102.3,52.9,40302fd3-9452-487d-9307-ec76de4d61d1
+False,6983,Remo Freuler,15,Left Center Midfield,107.9,42.4,40302fd3-9452-487d-9307-ec76de4d61d1
+False,8814,Nico Elvedi,3,Right Center Back,102.3,50.3,40302fd3-9452-487d-9307-ec76de4d61d1
+False,7796,Silvan Widmer,2,Right Back,109.2,36.0,40302fd3-9452-487d-9307-ec76de4d61d1
+False,5548,Steven Zuber,21,Left Wing,84.8,55.7,40302fd3-9452-487d-9307-ec76de4d61d1
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,89.4,63.2,40302fd3-9452-487d-9307-ec76de4d61d1
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,98.5,36.5,40302fd3-9452-487d-9307-ec76de4d61d1
+False,5550,Yann Sommer,1,Goalkeeper,118.1,38.9,40302fd3-9452-487d-9307-ec76de4d61d1
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,103.1,58.5,40302fd3-9452-487d-9307-ec76de4d61d1
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,101.5,55.9,40302fd3-9452-487d-9307-ec76de4d61d1
+True,6748,Ferrán Torres García,17,Right Wing,109.0,41.4,40302fd3-9452-487d-9307-ec76de4d61d1
+False,6892,Pau Francisco Torres,5,Left Center Back,111.2,41.4,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+False,4353,Aymeric Laporte,3,Right Center Back,113.4,41.5,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+False,3957,César Azpilicueta Tanco,2,Right Back,112.6,40.5,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,110.3,40.6,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+False,30486,Pedro González López,15,Left Center Midfield,99.0,43.1,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+False,3477,Álvaro Borja Morata Martín,23,Center Forward,112.9,47.2,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+False,16532,Daniel Olmo Carvajal,21,Left Wing,111.3,45.1,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+False,5211,Jordi Alba Ramos,6,Left Back,103.8,31.8,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+False,11748,Unai Simón Mendibil,1,Goalkeeper,119.5,40.4,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,111.9,39.4,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+False,6748,Ferrán Torres García,17,Right Wing,111.8,36.1,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+True,30401,Ruben Vargas,17,Right Wing,114.6,47.1,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+True,6983,Remo Freuler,15,Left Center Midfield,94.5,45.2,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,117.8,73.2,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+True,5548,Steven Zuber,21,Left Wing,97.6,30.4,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+True,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,112.6,44.8,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+True,5543,Haris Seferović,23,Center Forward,111.1,40.8,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+True,8814,Nico Elvedi,3,Right Center Back,111.7,41.0,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+True,7796,Silvan Widmer,2,Right Back,109.8,37.2,1d109f88-8dbd-4dab-98b6-a2eb230bf742
+True,6748,Ferrán Torres García,17,Right Wing,108.8,40.7,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+False,5548,Steven Zuber,21,Left Wing,85.2,52.4,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+False,7796,Silvan Widmer,2,Right Back,108.8,21.6,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+False,8814,Nico Elvedi,3,Right Center Back,111.6,31.7,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,110.1,38.1,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,109.9,42.2,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+False,5550,Yann Sommer,1,Goalkeeper,118.2,38.6,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,101.4,30.3,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+False,30401,Ruben Vargas,17,Right Wing,107.3,22.6,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+False,6983,Remo Freuler,15,Left Center Midfield,103.2,41.0,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+True,3477,Álvaro Borja Morata Martín,23,Center Forward,98.1,41.4,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+True,16532,Daniel Olmo Carvajal,21,Left Wing,107.9,21.0,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+True,5211,Jordi Alba Ramos,6,Left Back,94.9,19.5,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+True,30486,Pedro González López,15,Left Center Midfield,96.4,31.4,b5b59ec1-3ed1-43a3-8fc5-e662f5e32863
+False,6892,Pau Francisco Torres,5,Left Center Back,112.1,42.8,62b5d595-2182-44fd-aac8-b4da21a798dd
+False,3957,César Azpilicueta Tanco,2,Right Back,111.9,37.5,62b5d595-2182-44fd-aac8-b4da21a798dd
+False,6748,Ferrán Torres García,17,Right Wing,110.5,45.2,62b5d595-2182-44fd-aac8-b4da21a798dd
+False,16532,Daniel Olmo Carvajal,21,Left Wing,111.6,44.6,62b5d595-2182-44fd-aac8-b4da21a798dd
+False,4353,Aymeric Laporte,3,Right Center Back,111.9,42.0,62b5d595-2182-44fd-aac8-b4da21a798dd
+False,30486,Pedro González López,15,Left Center Midfield,101.4,34.0,62b5d595-2182-44fd-aac8-b4da21a798dd
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,113.5,37.1,62b5d595-2182-44fd-aac8-b4da21a798dd
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,112.6,34.2,62b5d595-2182-44fd-aac8-b4da21a798dd
+False,6766,Gerard Moreno Balaguero,23,Center Forward,115.1,37.5,62b5d595-2182-44fd-aac8-b4da21a798dd
+False,5211,Jordi Alba Ramos,6,Left Back,115.1,15.8,62b5d595-2182-44fd-aac8-b4da21a798dd
+False,11748,Unai Simón Mendibil,1,Goalkeeper,118.9,41.4,62b5d595-2182-44fd-aac8-b4da21a798dd
+True,5548,Steven Zuber,21,Left Wing,97.3,34.7,62b5d595-2182-44fd-aac8-b4da21a798dd
+True,7796,Silvan Widmer,2,Right Back,109.3,46.1,62b5d595-2182-44fd-aac8-b4da21a798dd
+True,5543,Haris Seferović,23,Center Forward,110.9,42.9,62b5d595-2182-44fd-aac8-b4da21a798dd
+True,8814,Nico Elvedi,3,Right Center Back,111.9,36.4,62b5d595-2182-44fd-aac8-b4da21a798dd
+True,30401,Ruben Vargas,17,Right Wing,111.7,34.4,62b5d595-2182-44fd-aac8-b4da21a798dd
+True,5549,Manuel Obafemi Akanji,5,Left Center Back,115.7,33.2,62b5d595-2182-44fd-aac8-b4da21a798dd
+True,5544,Ricardo Iván Rodríguez Araya,6,Left Back,115.8,5.2,62b5d595-2182-44fd-aac8-b4da21a798dd
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,99.6,18.7,62b5d595-2182-44fd-aac8-b4da21a798dd
+True,3957,César Azpilicueta Tanco,2,Right Back,114.7,34.2,c54b0f55-622f-4242-9dd2-be871898048c
+True,16532,Daniel Olmo Carvajal,21,Left Wing,96.8,33.7,c54b0f55-622f-4242-9dd2-be871898048c
+False,30401,Ruben Vargas,17,Right Wing,93.3,36.7,c54b0f55-622f-4242-9dd2-be871898048c
+False,5548,Steven Zuber,21,Left Wing,95.7,42.9,c54b0f55-622f-4242-9dd2-be871898048c
+True,30486,Pedro González López,15,Left Center Midfield,95.1,45.4,c54b0f55-622f-4242-9dd2-be871898048c
+True,6892,Pau Francisco Torres,5,Left Center Back,113.0,37.5,c54b0f55-622f-4242-9dd2-be871898048c
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,114.2,36.5,c54b0f55-622f-4242-9dd2-be871898048c
+True,6766,Gerard Moreno Balaguero,23,Center Forward,114.3,39.8,c54b0f55-622f-4242-9dd2-be871898048c
+False,8814,Nico Elvedi,3,Right Center Back,111.3,36.7,c54b0f55-622f-4242-9dd2-be871898048c
+False,7796,Silvan Widmer,2,Right Back,113.4,39.4,c54b0f55-622f-4242-9dd2-be871898048c
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,114.6,35.4,c54b0f55-622f-4242-9dd2-be871898048c
+False,6983,Remo Freuler,15,Left Center Midfield,104.1,45.6,c54b0f55-622f-4242-9dd2-be871898048c
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,111.0,41.2,c54b0f55-622f-4242-9dd2-be871898048c
+False,5543,Haris Seferović,23,Center Forward,112.7,44.2,c54b0f55-622f-4242-9dd2-be871898048c
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,112.0,38.0,c54b0f55-622f-4242-9dd2-be871898048c
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,90.4,50.5,c54b0f55-622f-4242-9dd2-be871898048c
+False,5550,Yann Sommer,1,Goalkeeper,118.1,41.8,c54b0f55-622f-4242-9dd2-be871898048c
+False,11748,Unai Simón Mendibil,1,Goalkeeper,117.8,36.5,f493b380-ef07-4404-bbea-e4783a4766a3
+False,6766,Gerard Moreno Balaguero,23,Center Forward,87.2,51.5,f493b380-ef07-4404-bbea-e4783a4766a3
+False,16532,Daniel Olmo Carvajal,21,Left Wing,96.7,33.0,f493b380-ef07-4404-bbea-e4783a4766a3
+False,5211,Jordi Alba Ramos,6,Left Back,107.6,45.1,f493b380-ef07-4404-bbea-e4783a4766a3
+False,6892,Pau Francisco Torres,5,Left Center Back,111.6,43.1,f493b380-ef07-4404-bbea-e4783a4766a3
+False,6748,Ferrán Torres García,17,Right Wing,100.1,24.0,f493b380-ef07-4404-bbea-e4783a4766a3
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,110.6,40.1,f493b380-ef07-4404-bbea-e4783a4766a3
+False,4353,Aymeric Laporte,3,Right Center Back,113.5,32.9,f493b380-ef07-4404-bbea-e4783a4766a3
+False,30486,Pedro González López,15,Left Center Midfield,112.4,30.5,f493b380-ef07-4404-bbea-e4783a4766a3
+False,3957,César Azpilicueta Tanco,2,Right Back,110.5,25.5,f493b380-ef07-4404-bbea-e4783a4766a3
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,108.4,22.9,f493b380-ef07-4404-bbea-e4783a4766a3
+True,6983,Remo Freuler,15,Left Center Midfield,84.9,33.0,f493b380-ef07-4404-bbea-e4783a4766a3
+True,3533,Xherdan Shaqiri,19,Center Attacking Midfield,99.0,59.9,f493b380-ef07-4404-bbea-e4783a4766a3
+True,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,100.3,41.5,f493b380-ef07-4404-bbea-e4783a4766a3
+True,5543,Haris Seferović,23,Center Forward,108.8,43.3,f493b380-ef07-4404-bbea-e4783a4766a3
+True,5544,Ricardo Iván Rodríguez Araya,6,Left Back,98.0,23.4,f493b380-ef07-4404-bbea-e4783a4766a3
+True,30401,Ruben Vargas,17,Right Wing,107.2,24.8,f493b380-ef07-4404-bbea-e4783a4766a3
+False,11748,Unai Simón Mendibil,1,Goalkeeper,115.4,45.1,05cac736-e3a9-478e-b78a-bbfe6a43b9de
+False,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,103.1,51.9,05cac736-e3a9-478e-b78a-bbfe6a43b9de
+False,6892,Pau Francisco Torres,5,Left Center Back,108.7,59.3,05cac736-e3a9-478e-b78a-bbfe6a43b9de
+False,5199,Jorge Resurrección Merodio,13,Right Center Midfield,107.5,45.2,05cac736-e3a9-478e-b78a-bbfe6a43b9de
+False,4353,Aymeric Laporte,3,Right Center Back,112.0,50.8,05cac736-e3a9-478e-b78a-bbfe6a43b9de
+False,3957,César Azpilicueta Tanco,2,Right Back,110.6,43.0,05cac736-e3a9-478e-b78a-bbfe6a43b9de
+True,30401,Ruben Vargas,17,Right Wing,112.8,54.3,05cac736-e3a9-478e-b78a-bbfe6a43b9de
+True,5548,Steven Zuber,21,Left Wing,102.0,33.8,05cac736-e3a9-478e-b78a-bbfe6a43b9de
+True,5543,Haris Seferović,23,Center Forward,95.6,60.1,05cac736-e3a9-478e-b78a-bbfe6a43b9de
+True,6748,Ferrán Torres García,17,Right Wing,109.8,35.7,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+True,6766,Gerard Moreno Balaguero,23,Center Forward,113.4,42.9,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+False,8814,Nico Elvedi,3,Right Center Back,113.9,33.6,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+False,7796,Silvan Widmer,2,Right Back,116.0,30.8,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,109.9,36.6,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+False,30401,Ruben Vargas,17,Right Wing,102.8,17.6,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,100.2,48.6,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+True,3957,César Azpilicueta Tanco,2,Right Back,100.7,61.1,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,114.2,41.9,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+False,5550,Yann Sommer,1,Goalkeeper,117.9,36.9,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,96.8,48.4,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+False,5548,Steven Zuber,21,Left Wing,101.8,54.9,5dc99f7a-a50c-402e-9e06-d546949d7a2f
+True,6766,Gerard Moreno Balaguero,23,Center Forward,110.5,35.3,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,110.2,30.7,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+True,4353,Aymeric Laporte,3,Right Center Back,113.2,38.7,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,8814,Nico Elvedi,3,Right Center Back,112.2,34.6,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,30401,Ruben Vargas,17,Right Wing,99.9,38.6,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,5543,Haris Seferović,23,Center Forward,108.2,32.7,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,100.6,12.6,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,5550,Yann Sommer,1,Goalkeeper,118.7,39.8,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,6983,Remo Freuler,15,Left Center Midfield,102.3,23.1,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,111.6,31.2,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,5548,Steven Zuber,21,Left Wing,114.1,44.4,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,111.7,44.5,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,110.9,44.4,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+False,7796,Silvan Widmer,2,Right Back,112.4,39.0,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+True,6748,Ferrán Torres García,17,Right Wing,109.0,44.2,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+True,30486,Pedro González López,15,Left Center Midfield,94.3,42.3,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+True,16532,Daniel Olmo Carvajal,21,Left Wing,103.7,27.0,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,101.5,8.7,a8702c41-e0f1-45a9-84fe-9f43e3b2bfd6
+True,16532,Daniel Olmo Carvajal,21,Left Wing,96.9,33.5,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,109.5,28.0,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+True,3957,César Azpilicueta Tanco,2,Right Back,108.1,29.0,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+False,7796,Silvan Widmer,2,Right Back,109.5,32.4,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+False,8814,Nico Elvedi,3,Right Center Back,108.4,34.4,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,108.8,33.7,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+True,4353,Aymeric Laporte,3,Right Center Back,107.3,36.6,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+True,30486,Pedro González López,15,Left Center Midfield,92.5,46.1,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,108.4,36.8,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,108.0,39.0,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+False,5550,Yann Sommer,1,Goalkeeper,118.1,40.0,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+False,5543,Haris Seferović,23,Center Forward,108.3,41.6,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+True,6892,Pau Francisco Torres,5,Left Center Back,107.9,38.1,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+True,6748,Ferrán Torres García,23,Center Forward,107.7,40.8,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+False,30401,Ruben Vargas,17,Right Wing,99.4,34.5,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+False,5548,Steven Zuber,21,Left Wing,97.8,44.8,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+False,3533,Xherdan Shaqiri,19,Center Attacking Midfield,94.8,59.5,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,87.9,63.3,d2bee688-aaec-43e3-b5ce-7137c715f5f2
+True,6748,Ferrán Torres García,23,Center Forward,109.6,35.8,c0c4c23e-c617-46df-a4be-eacf180bff4c
+True,30486,Pedro González López,15,Left Center Midfield,101.1,44.6,c0c4c23e-c617-46df-a4be-eacf180bff4c
+True,16532,Daniel Olmo Carvajal,21,Left Wing,106.2,30.1,c0c4c23e-c617-46df-a4be-eacf180bff4c
+True,5211,Jordi Alba Ramos,6,Left Back,95.5,27.4,c0c4c23e-c617-46df-a4be-eacf180bff4c
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,91.7,47.0,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,30401,Ruben Vargas,17,Right Wing,101.4,30.9,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,16026,Djibril Sow,19,Center Attacking Midfield,106.7,50.4,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,5548,Steven Zuber,21,Left Wing,103.0,58.6,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,8814,Nico Elvedi,3,Right Center Back,109.2,41.5,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,7796,Silvan Widmer,2,Right Back,110.5,35.6,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,5550,Yann Sommer,1,Goalkeeper,118.9,40.2,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,109.0,53.3,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,112.0,46.2,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,102.7,45.4,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,5834,Mario Gavranović,23,Center Forward,84.8,44.9,c0c4c23e-c617-46df-a4be-eacf180bff4c
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,107.9,52.4,c0c4c23e-c617-46df-a4be-eacf180bff4c
+True,3957,César Azpilicueta Tanco,2,Right Back,97.0,63.1,c0c4c23e-c617-46df-a4be-eacf180bff4c
+False,30401,Ruben Vargas,17,Right Wing,101.8,24.6,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+False,16026,Djibril Sow,19,Center Attacking Midfield,92.8,38.6,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+False,5834,Mario Gavranović,23,Center Forward,95.1,30.3,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,93.4,44.3,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+False,7796,Silvan Widmer,2,Right Back,104.0,33.1,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+False,8814,Nico Elvedi,3,Right Center Back,104.2,40.6,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+True,6892,Pau Francisco Torres,5,Left Center Back,78.3,33.3,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+False,5548,Steven Zuber,21,Left Wing,98.1,54.8,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,103.9,44.5,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,104.3,52.6,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+False,5550,Yann Sommer,1,Goalkeeper,117.2,40.6,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+True,30486,Pedro González López,15,Left Center Midfield,92.3,27.0,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+True,16532,Daniel Olmo Carvajal,21,Left Wing,101.5,19.5,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+True,5211,Jordi Alba Ramos,6,Left Back,100.4,27.1,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,90.6,38.5,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+True,6748,Ferrán Torres García,23,Center Forward,104.6,41.6,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+True,6766,Gerard Moreno Balaguero,17,Right Wing,104.0,46.1,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+True,5199,Jorge Resurrección Merodio,13,Right Center Midfield,102.2,67.3,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+True,3957,César Azpilicueta Tanco,2,Right Back,89.1,58.6,65c2f4a3-2e82-4cc2-8cbd-c3f8773367f1
+False,16022,Christian Fassnacht,17,Right Wing,105.8,24.1,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,107.9,55.6,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+True,6840,Marcos Llorente Moreno,13,Right Center Midfield,105.6,51.2,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+False,5834,Mario Gavranović,23,Center Forward,93.1,44.7,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+False,30401,Ruben Vargas,21,Left Wing,102.4,57.3,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,103.5,43.4,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+False,16026,Djibril Sow,19,Center Attacking Midfield,98.7,33.5,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,108.8,48.9,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,113.7,38.8,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+False,5550,Yann Sommer,1,Goalkeeper,118.3,37.7,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+False,8814,Nico Elvedi,3,Right Center Back,112.7,31.8,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+False,7796,Silvan Widmer,2,Right Back,112.0,19.0,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+True,3957,César Azpilicueta Tanco,2,Right Back,92.2,60.2,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,93.9,42.1,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+True,30486,Pedro González López,15,Left Center Midfield,88.2,31.2,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+True,16532,Daniel Olmo Carvajal,21,Left Wing,105.1,29.9,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+True,5211,Jordi Alba Ramos,6,Left Back,112.5,11.4,d00f2776-8d67-4935-9bd7-4d5699ae86e5
+False,16026,Djibril Sow,19,Center Attacking Midfield,100.5,46.4,8456ae11-cf25-458d-bd35-679c8e10a63b
+False,16022,Christian Fassnacht,17,Right Wing,97.1,36.9,8456ae11-cf25-458d-bd35-679c8e10a63b
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,108.3,46.6,8456ae11-cf25-458d-bd35-679c8e10a63b
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,111.0,50.7,8456ae11-cf25-458d-bd35-679c8e10a63b
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,101.5,49.0,8456ae11-cf25-458d-bd35-679c8e10a63b
+False,8814,Nico Elvedi,3,Right Center Back,108.5,41.7,8456ae11-cf25-458d-bd35-679c8e10a63b
+False,7796,Silvan Widmer,2,Right Back,109.8,36.3,8456ae11-cf25-458d-bd35-679c8e10a63b
+False,5550,Yann Sommer,1,Goalkeeper,118.6,41.4,8456ae11-cf25-458d-bd35-679c8e10a63b
+True,16532,Daniel Olmo Carvajal,21,Left Wing,82.2,27.6,8456ae11-cf25-458d-bd35-679c8e10a63b
+True,6840,Marcos Llorente Moreno,13,Right Center Midfield,110.6,51.7,8456ae11-cf25-458d-bd35-679c8e10a63b
+True,6766,Gerard Moreno Balaguero,23,Center Forward,109.1,39.5,8456ae11-cf25-458d-bd35-679c8e10a63b
+True,5211,Jordi Alba Ramos,6,Left Back,102.3,25.5,8456ae11-cf25-458d-bd35-679c8e10a63b
+True,30486,Pedro González López,15,Left Center Midfield,102.9,38.9,8456ae11-cf25-458d-bd35-679c8e10a63b
+False,16026,Djibril Sow,19,Center Attacking Midfield,100.7,38.3,d019061b-0ade-4dac-a41f-13800e04ac95
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,106.2,47.1,d019061b-0ade-4dac-a41f-13800e04ac95
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,105.7,42.2,d019061b-0ade-4dac-a41f-13800e04ac95
+False,16022,Christian Fassnacht,17,Right Wing,102.4,29.0,d019061b-0ade-4dac-a41f-13800e04ac95
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,110.1,41.2,d019061b-0ade-4dac-a41f-13800e04ac95
+False,8814,Nico Elvedi,3,Right Center Back,108.0,35.4,d019061b-0ade-4dac-a41f-13800e04ac95
+False,7796,Silvan Widmer,2,Right Back,109.1,31.3,d019061b-0ade-4dac-a41f-13800e04ac95
+False,5550,Yann Sommer,1,Goalkeeper,119.1,38.9,d019061b-0ade-4dac-a41f-13800e04ac95
+True,6840,Marcos Llorente Moreno,13,Right Center Midfield,109.3,50.1,d019061b-0ade-4dac-a41f-13800e04ac95
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,101.3,40.2,d019061b-0ade-4dac-a41f-13800e04ac95
+True,30486,Pedro González López,15,Left Center Midfield,106.6,35.1,d019061b-0ade-4dac-a41f-13800e04ac95
+True,6766,Gerard Moreno Balaguero,23,Center Forward,109.7,39.6,d019061b-0ade-4dac-a41f-13800e04ac95
+True,16532,Daniel Olmo Carvajal,21,Left Wing,99.7,21.1,d019061b-0ade-4dac-a41f-13800e04ac95
+False,16026,Djibril Sow,19,Center Attacking Midfield,102.3,46.4,3a224095-0074-4b42-8709-a257bd60ea95
+False,30401,Ruben Vargas,21,Left Wing,105.2,35.9,3a224095-0074-4b42-8709-a257bd60ea95
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,112.7,45.9,3a224095-0074-4b42-8709-a257bd60ea95
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,115.9,46.5,3a224095-0074-4b42-8709-a257bd60ea95
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,116.1,43.5,3a224095-0074-4b42-8709-a257bd60ea95
+False,5834,Mario Gavranović,23,Center Forward,116.0,42.1,3a224095-0074-4b42-8709-a257bd60ea95
+False,7796,Silvan Widmer,2,Right Back,114.4,37.0,3a224095-0074-4b42-8709-a257bd60ea95
+False,8814,Nico Elvedi,3,Right Center Back,115.4,36.4,3a224095-0074-4b42-8709-a257bd60ea95
+False,16022,Christian Fassnacht,17,Right Wing,116.1,34.5,3a224095-0074-4b42-8709-a257bd60ea95
+False,5550,Yann Sommer,1,Goalkeeper,118.7,37.1,3a224095-0074-4b42-8709-a257bd60ea95
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,117.1,73.2,3a224095-0074-4b42-8709-a257bd60ea95
+True,3957,César Azpilicueta Tanco,2,Right Back,104.1,35.9,3a224095-0074-4b42-8709-a257bd60ea95
+True,30486,Pedro González López,15,Left Center Midfield,94.4,45.3,3a224095-0074-4b42-8709-a257bd60ea95
+True,4353,Aymeric Laporte,3,Right Center Back,111.9,35.6,3a224095-0074-4b42-8709-a257bd60ea95
+True,6892,Pau Francisco Torres,5,Left Center Back,114.6,47.5,3a224095-0074-4b42-8709-a257bd60ea95
+True,6766,Gerard Moreno Balaguero,23,Center Forward,112.0,34.6,3a224095-0074-4b42-8709-a257bd60ea95
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,115.7,43.8,3a224095-0074-4b42-8709-a257bd60ea95
+True,5211,Jordi Alba Ramos,6,Left Back,94.3,34.4,3a224095-0074-4b42-8709-a257bd60ea95
+True,16532,Daniel Olmo Carvajal,21,Left Wing,110.4,47.4,3a224095-0074-4b42-8709-a257bd60ea95
+True,6840,Marcos Llorente Moreno,13,Right Center Midfield,103.0,49.4,f5411a44-2d85-4262-9975-c6cef2710a00
+False,5834,Mario Gavranović,23,Center Forward,97.6,53.8,f5411a44-2d85-4262-9975-c6cef2710a00
+False,16022,Christian Fassnacht,17,Right Wing,104.0,63.0,f5411a44-2d85-4262-9975-c6cef2710a00
+False,16026,Djibril Sow,19,Center Attacking Midfield,100.3,44.1,f5411a44-2d85-4262-9975-c6cef2710a00
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,98.8,40.8,f5411a44-2d85-4262-9975-c6cef2710a00
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,105.9,49.9,f5411a44-2d85-4262-9975-c6cef2710a00
+False,8814,Nico Elvedi,3,Right Center Back,101.1,39.9,f5411a44-2d85-4262-9975-c6cef2710a00
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,106.2,42.6,f5411a44-2d85-4262-9975-c6cef2710a00
+False,30401,Ruben Vargas,21,Left Wing,100.2,30.4,f5411a44-2d85-4262-9975-c6cef2710a00
+False,7796,Silvan Widmer,2,Right Back,105.9,36.6,f5411a44-2d85-4262-9975-c6cef2710a00
+False,5550,Yann Sommer,1,Goalkeeper,117.8,39.7,f5411a44-2d85-4262-9975-c6cef2710a00
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,92.8,53.4,f5411a44-2d85-4262-9975-c6cef2710a00
+True,3957,César Azpilicueta Tanco,2,Right Back,100.3,69.7,f5411a44-2d85-4262-9975-c6cef2710a00
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,103.8,53.1,f5411a44-2d85-4262-9975-c6cef2710a00
+True,30486,Pedro González López,15,Left Center Midfield,91.0,41.4,f5411a44-2d85-4262-9975-c6cef2710a00
+True,6766,Gerard Moreno Balaguero,23,Center Forward,106.1,41.6,f5411a44-2d85-4262-9975-c6cef2710a00
+True,5211,Jordi Alba Ramos,6,Left Back,90.8,26.7,f5411a44-2d85-4262-9975-c6cef2710a00
+True,16532,Daniel Olmo Carvajal,21,Left Wing,114.9,53.1,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+True,3957,César Azpilicueta Tanco,2,Right Back,103.1,64.7,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,108.9,68.7,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+False,5550,Yann Sommer,1,Goalkeeper,117.8,42.2,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+False,16022,Christian Fassnacht,21,Left Wing,105.8,65.7,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+False,5834,Mario Gavranović,23,Center Forward,96.8,43.2,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+False,16026,Djibril Sow,19,Center Attacking Midfield,108.6,54.3,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,113.0,56.0,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,113.5,52.4,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+False,30401,Ruben Vargas,17,Right Wing,107.7,39.9,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,113.1,46.1,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+False,8814,Nico Elvedi,3,Right Center Back,112.9,42.6,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+False,7796,Silvan Widmer,2,Right Back,112.1,36.8,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,92.9,45.8,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+True,6766,Gerard Moreno Balaguero,23,Center Forward,114.4,42.8,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+True,30486,Pedro González López,15,Left Center Midfield,103.0,39.9,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+True,5211,Jordi Alba Ramos,6,Left Back,101.2,25.5,546618fa-e1f5-4ffc-ba9a-79cba14d43d7
+True,16532,Daniel Olmo Carvajal,21,Left Wing,113.9,35.6,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,115.7,44.8,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+True,4353,Aymeric Laporte,3,Right Center Back,114.7,40.7,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+True,6892,Pau Francisco Torres,5,Left Center Back,115.7,43.7,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+True,3957,César Azpilicueta Tanco,2,Right Back,108.0,39.0,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,118.1,72.8,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+True,6840,Marcos Llorente Moreno,13,Right Center Midfield,99.1,36.3,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+True,30486,Pedro González López,15,Left Center Midfield,98.6,47.6,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+True,5211,Jordi Alba Ramos,6,Left Back,89.8,39.8,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,114.4,35.3,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+False,30401,Ruben Vargas,17,Right Wing,111.2,37.7,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+False,7796,Silvan Widmer,2,Right Back,110.0,38.4,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+False,16022,Christian Fassnacht,21,Left Wing,104.4,38.6,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+False,16026,Djibril Sow,19,Center Attacking Midfield,102.2,44.1,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+False,5550,Yann Sommer,1,Goalkeeper,118.8,39.9,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,114.7,44.9,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+False,5834,Mario Gavranović,23,Center Forward,114.8,43.9,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+False,5538,Denis Lemi Zakaria Lako Lado,13,Right Center Midfield,116.6,44.5,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+False,8814,Nico Elvedi,3,Right Center Back,115.1,42.6,8e7be394-7fd0-4ff7-86c7-d9a27bb5a5bd
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,111.6,38.6,a3bbc9d4-56e7-472d-b94b-f8a61652ac41
+False,5550,Yann Sommer,1,Goalkeeper,114.9,38.3,a3bbc9d4-56e7-472d-b94b-f8a61652ac41
+False,8814,Nico Elvedi,3,Right Center Back,110.5,37.2,a3bbc9d4-56e7-472d-b94b-f8a61652ac41
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,112.0,39.0,a3bbc9d4-56e7-472d-b94b-f8a61652ac41
+False,16027,Kevin Mbabu,2,Right Back,101.0,26.9,a3bbc9d4-56e7-472d-b94b-f8a61652ac41
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,108.4,42.4,a3bbc9d4-56e7-472d-b94b-f8a61652ac41
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,90.0,37.0,a3bbc9d4-56e7-472d-b94b-f8a61652ac41
+True,16532,Daniel Olmo Carvajal,21,Left Wing,82.2,16.4,a3bbc9d4-56e7-472d-b94b-f8a61652ac41
+False,16022,Christian Fassnacht,21,Left Wing,101.6,49.8,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+False,5834,Mario Gavranović,23,Center Forward,82.4,38.3,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,93.1,42.3,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+True,3957,César Azpilicueta Tanco,2,Right Back,91.4,56.8,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+False,5550,Yann Sommer,1,Goalkeeper,116.8,41.7,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+False,16027,Kevin Mbabu,2,Right Back,108.1,35.4,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+False,8814,Nico Elvedi,3,Right Center Back,107.4,41.3,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+False,30401,Ruben Vargas,17,Right Wing,104.0,42.2,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,104.4,47.6,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+False,16026,Djibril Sow,19,Center Attacking Midfield,98.6,37.4,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,99.0,39.5,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,104.7,51.5,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+True,5211,Jordi Alba Ramos,6,Left Back,104.4,25.4,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+True,6766,Gerard Moreno Balaguero,23,Center Forward,108.0,39.4,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+True,6840,Marcos Llorente Moreno,13,Right Center Midfield,106.4,45.0,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+True,16532,Daniel Olmo Carvajal,21,Left Wing,102.9,45.7,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+True,30486,Pedro González López,15,Left Center Midfield,92.0,24.5,184c6664-5fe4-4dbc-8c4c-bfeff220c5f7
+False,16022,Christian Fassnacht,21,Left Wing,103.0,38.9,1206ed80-6e0e-4395-af92-0ba8c9a87272
+True,5211,Jordi Alba Ramos,6,Left Back,100.4,11.8,1206ed80-6e0e-4395-af92-0ba8c9a87272
+True,6766,Gerard Moreno Balaguero,23,Center Forward,110.2,31.9,1206ed80-6e0e-4395-af92-0ba8c9a87272
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,110.6,32.6,1206ed80-6e0e-4395-af92-0ba8c9a87272
+True,30486,Pedro González López,15,Left Center Midfield,100.0,28.7,1206ed80-6e0e-4395-af92-0ba8c9a87272
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,108.6,48.7,1206ed80-6e0e-4395-af92-0ba8c9a87272
+True,6840,Marcos Llorente Moreno,13,Right Center Midfield,101.4,38.1,1206ed80-6e0e-4395-af92-0ba8c9a87272
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,93.6,31.8,1206ed80-6e0e-4395-af92-0ba8c9a87272
+True,6892,Pau Francisco Torres,5,Left Center Back,83.7,21.9,1206ed80-6e0e-4395-af92-0ba8c9a87272
+True,3957,César Azpilicueta Tanco,2,Right Back,94.1,53.2,1206ed80-6e0e-4395-af92-0ba8c9a87272
+False,16027,Kevin Mbabu,2,Right Back,106.6,23.8,1206ed80-6e0e-4395-af92-0ba8c9a87272
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,105.6,28.3,1206ed80-6e0e-4395-af92-0ba8c9a87272
+False,8814,Nico Elvedi,3,Right Center Back,105.6,26.6,1206ed80-6e0e-4395-af92-0ba8c9a87272
+False,30401,Ruben Vargas,17,Right Wing,103.3,27.8,1206ed80-6e0e-4395-af92-0ba8c9a87272
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,110.4,43.8,1206ed80-6e0e-4395-af92-0ba8c9a87272
+False,16026,Djibril Sow,19,Center Attacking Midfield,101.1,32.1,1206ed80-6e0e-4395-af92-0ba8c9a87272
+False,5834,Mario Gavranović,23,Center Forward,93.4,26.5,1206ed80-6e0e-4395-af92-0ba8c9a87272
+False,5550,Yann Sommer,1,Goalkeeper,117.6,37.9,1206ed80-6e0e-4395-af92-0ba8c9a87272
+True,16532,Daniel Olmo Carvajal,21,Left Wing,104.8,40.5,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+True,6766,Gerard Moreno Balaguero,23,Center Forward,109.8,43.1,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+True,5211,Jordi Alba Ramos,6,Left Back,102.9,26.9,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+False,5834,Mario Gavranović,23,Center Forward,89.1,35.6,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,103.5,60.0,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+False,16022,Christian Fassnacht,21,Left Wing,107.8,59.2,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+False,16026,Djibril Sow,19,Center Attacking Midfield,107.5,53.7,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,109.6,56.7,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,106.5,45.7,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+False,30401,Ruben Vargas,17,Right Wing,106.4,37.8,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+False,8814,Nico Elvedi,3,Right Center Back,110.4,43.5,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+False,16027,Kevin Mbabu,2,Right Back,109.8,36.6,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+False,5550,Yann Sommer,1,Goalkeeper,117.7,42.0,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+True,30486,Pedro González López,15,Left Center Midfield,93.5,47.7,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+True,3957,César Azpilicueta Tanco,2,Right Back,100.1,64.4,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,92.4,40.3,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+True,6840,Marcos Llorente Moreno,13,Right Center Midfield,102.8,49.9,a3c5d7f5-c7c3-4dbe-a766-7e8d5c5a7d33
+True,5211,Jordi Alba Ramos,6,Left Back,116.8,19.0,f329454d-da62-4007-b7dd-1e6b1938f2fe
+True,3957,César Azpilicueta Tanco,2,Right Back,96.3,53.6,f329454d-da62-4007-b7dd-1e6b1938f2fe
+True,16532,Daniel Olmo Carvajal,21,Left Wing,106.1,29.2,f329454d-da62-4007-b7dd-1e6b1938f2fe
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,100.3,36.6,f329454d-da62-4007-b7dd-1e6b1938f2fe
+False,5550,Yann Sommer,1,Goalkeeper,117.4,39.3,f329454d-da62-4007-b7dd-1e6b1938f2fe
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,114.6,36.0,f329454d-da62-4007-b7dd-1e6b1938f2fe
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,111.1,40.3,f329454d-da62-4007-b7dd-1e6b1938f2fe
+False,8814,Nico Elvedi,3,Right Center Back,113.8,34.2,f329454d-da62-4007-b7dd-1e6b1938f2fe
+False,16022,Christian Fassnacht,21,Left Wing,111.3,22.4,f329454d-da62-4007-b7dd-1e6b1938f2fe
+False,16027,Kevin Mbabu,2,Right Back,115.3,26.2,f329454d-da62-4007-b7dd-1e6b1938f2fe
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,109.4,30.3,f329454d-da62-4007-b7dd-1e6b1938f2fe
+False,30401,Ruben Vargas,17,Right Wing,106.2,43.2,f329454d-da62-4007-b7dd-1e6b1938f2fe
+False,16026,Djibril Sow,19,Center Attacking Midfield,105.4,24.0,f329454d-da62-4007-b7dd-1e6b1938f2fe
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,113.6,48.9,f329454d-da62-4007-b7dd-1e6b1938f2fe
+True,6766,Gerard Moreno Balaguero,23,Center Forward,116.7,33.0,f329454d-da62-4007-b7dd-1e6b1938f2fe
+False,5550,Yann Sommer,1,Goalkeeper,117.4,39.8,fd1761df-bba1-4995-a6fa-97082bdf1643
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,105.1,46.4,fd1761df-bba1-4995-a6fa-97082bdf1643
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,109.6,39.1,fd1761df-bba1-4995-a6fa-97082bdf1643
+False,8814,Nico Elvedi,3,Right Center Back,110.7,33.3,fd1761df-bba1-4995-a6fa-97082bdf1643
+False,16027,Kevin Mbabu,2,Right Back,112.5,22.5,fd1761df-bba1-4995-a6fa-97082bdf1643
+False,30401,Ruben Vargas,17,Right Wing,99.9,45.0,fd1761df-bba1-4995-a6fa-97082bdf1643
+False,16022,Christian Fassnacht,21,Left Wing,106.9,22.9,fd1761df-bba1-4995-a6fa-97082bdf1643
+False,16026,Djibril Sow,19,Center Attacking Midfield,102.6,29.4,fd1761df-bba1-4995-a6fa-97082bdf1643
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,92.1,35.7,fd1761df-bba1-4995-a6fa-97082bdf1643
+True,3957,César Azpilicueta Tanco,2,Right Back,81.9,54.8,fd1761df-bba1-4995-a6fa-97082bdf1643
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,104.0,58.1,fd1761df-bba1-4995-a6fa-97082bdf1643
+True,6766,Gerard Moreno Balaguero,23,Center Forward,111.6,37.1,fd1761df-bba1-4995-a6fa-97082bdf1643
+True,6840,Marcos Llorente Moreno,13,Right Center Midfield,102.2,44.5,fd1761df-bba1-4995-a6fa-97082bdf1643
+True,5211,Jordi Alba Ramos,6,Left Back,114.6,17.2,fd1761df-bba1-4995-a6fa-97082bdf1643
+True,6840,Marcos Llorente Moreno,13,Right Center Midfield,118.2,64.1,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,16026,Djibril Sow,19,Center Attacking Midfield,106.5,45.3,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,5550,Yann Sommer,1,Goalkeeper,117.8,41.8,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,114.1,61.5,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,106.1,65.9,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,30401,Ruben Vargas,17,Right Wing,105.4,58.1,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,8814,Nico Elvedi,3,Right Center Back,108.3,46.1,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,16027,Kevin Mbabu,2,Right Back,111.0,39.4,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,105.0,48.6,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,16022,Christian Fassnacht,21,Left Wing,107.2,37.0,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,5834,Mario Gavranović,23,Center Forward,92.2,46.9,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,103.4,69.6,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+True,30486,Pedro González López,15,Left Center Midfield,107.0,38.4,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+True,6766,Gerard Moreno Balaguero,23,Center Forward,112.5,46.0,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+True,3957,César Azpilicueta Tanco,2,Right Back,91.9,62.2,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,97.2,49.5,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+True,5211,Jordi Alba Ramos,6,Left Back,95.2,26.5,b2e6e94d-2b04-4075-96d8-a2c34c60ea20
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,114.4,50.5,6afd9149-ad55-48b1-885f-66d9332eafab
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,112.4,42.5,6afd9149-ad55-48b1-885f-66d9332eafab
+False,30401,Ruben Vargas,17,Right Wing,107.5,44.8,6afd9149-ad55-48b1-885f-66d9332eafab
+False,8814,Nico Elvedi,3,Right Center Back,109.7,37.9,6afd9149-ad55-48b1-885f-66d9332eafab
+False,16027,Kevin Mbabu,2,Right Back,110.8,32.1,6afd9149-ad55-48b1-885f-66d9332eafab
+False,16026,Djibril Sow,19,Center Attacking Midfield,104.2,42.6,6afd9149-ad55-48b1-885f-66d9332eafab
+False,16022,Christian Fassnacht,21,Left Wing,103.3,38.3,6afd9149-ad55-48b1-885f-66d9332eafab
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,106.3,35.9,6afd9149-ad55-48b1-885f-66d9332eafab
+False,5834,Mario Gavranović,23,Center Forward,92.9,38.6,6afd9149-ad55-48b1-885f-66d9332eafab
+True,5211,Jordi Alba Ramos,6,Left Back,105.2,19.3,6afd9149-ad55-48b1-885f-66d9332eafab
+True,3957,César Azpilicueta Tanco,3,Right Center Back,89.9,46.6,6afd9149-ad55-48b1-885f-66d9332eafab
+True,4353,Aymeric Laporte,5,Left Center Back,91.8,37.3,6afd9149-ad55-48b1-885f-66d9332eafab
+False,5550,Yann Sommer,1,Goalkeeper,117.8,40.5,6afd9149-ad55-48b1-885f-66d9332eafab
+True,6840,Marcos Llorente Moreno,2,Right Back,116.7,48.5,6afd9149-ad55-48b1-885f-66d9332eafab
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,108.8,45.4,6afd9149-ad55-48b1-885f-66d9332eafab
+True,6766,Gerard Moreno Balaguero,23,Center Forward,109.1,40.4,6afd9149-ad55-48b1-885f-66d9332eafab
+True,5208,Thiago Alcântara do Nascimento,13,Right Center Midfield,100.2,52.6,6afd9149-ad55-48b1-885f-66d9332eafab
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,100.5,42.5,6afd9149-ad55-48b1-885f-66d9332eafab
+True,30486,Pedro González López,15,Left Center Midfield,102.2,38.3,6afd9149-ad55-48b1-885f-66d9332eafab
+True,16532,Daniel Olmo Carvajal,21,Left Wing,119.1,0.4,dd787972-66b2-4a47-992a-1d86255aea99
+False,16027,Kevin Mbabu,2,Right Back,117.1,39.8,dd787972-66b2-4a47-992a-1d86255aea99
+False,5550,Yann Sommer,1,Goalkeeper,119.0,38.6,dd787972-66b2-4a47-992a-1d86255aea99
+False,8814,Nico Elvedi,3,Right Center Back,115.3,40.2,dd787972-66b2-4a47-992a-1d86255aea99
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,116.3,37.4,dd787972-66b2-4a47-992a-1d86255aea99
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,116.8,36.2,dd787972-66b2-4a47-992a-1d86255aea99
+False,5834,Mario Gavranović,23,Center Forward,116.5,32.0,dd787972-66b2-4a47-992a-1d86255aea99
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,111.8,38.7,dd787972-66b2-4a47-992a-1d86255aea99
+False,16022,Christian Fassnacht,21,Left Wing,114.6,29.9,dd787972-66b2-4a47-992a-1d86255aea99
+False,30401,Ruben Vargas,17,Right Wing,106.2,42.5,dd787972-66b2-4a47-992a-1d86255aea99
+False,16026,Djibril Sow,19,Center Attacking Midfield,104.1,32.8,dd787972-66b2-4a47-992a-1d86255aea99
+True,6766,Gerard Moreno Balaguero,23,Center Forward,115.4,42.0,dd787972-66b2-4a47-992a-1d86255aea99
+True,4353,Aymeric Laporte,5,Left Center Back,116.0,39.4,dd787972-66b2-4a47-992a-1d86255aea99
+True,3957,César Azpilicueta Tanco,3,Right Center Back,115.8,36.9,dd787972-66b2-4a47-992a-1d86255aea99
+True,6840,Marcos Llorente Moreno,2,Right Back,103.4,47.7,dd787972-66b2-4a47-992a-1d86255aea99
+True,30486,Pedro González López,15,Left Center Midfield,99.4,34.0,dd787972-66b2-4a47-992a-1d86255aea99
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,118.2,29.5,dd787972-66b2-4a47-992a-1d86255aea99
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,103.9,47.0,9802e97d-9c03-45e9-82f2-ec6e2b01711c
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,105.1,38.8,9802e97d-9c03-45e9-82f2-ec6e2b01711c
+False,16027,Kevin Mbabu,2,Right Back,104.8,34.8,9802e97d-9c03-45e9-82f2-ec6e2b01711c
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,98.4,39.4,9802e97d-9c03-45e9-82f2-ec6e2b01711c
+False,8814,Nico Elvedi,3,Right Center Back,93.1,46.9,9802e97d-9c03-45e9-82f2-ec6e2b01711c
+False,5550,Yann Sommer,1,Goalkeeper,115.7,38.9,9802e97d-9c03-45e9-82f2-ec6e2b01711c
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,103.9,50.3,9802e97d-9c03-45e9-82f2-ec6e2b01711c
+True,6840,Marcos Llorente Moreno,2,Right Back,103.8,44.8,9802e97d-9c03-45e9-82f2-ec6e2b01711c
+True,16532,Daniel Olmo Carvajal,21,Left Wing,101.6,42.9,9802e97d-9c03-45e9-82f2-ec6e2b01711c
+True,16532,Daniel Olmo Carvajal,21,Left Wing,113.2,47.0,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+True,6685,Mikel Oyarzabal Ugarte,17,Right Wing,113.1,29.6,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+True,6766,Gerard Moreno Balaguero,23,Center Forward,112.0,37.3,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+True,4353,Aymeric Laporte,5,Left Center Back,110.5,39.2,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+True,5203,Sergio Busquets i Burgos,10,Center Defensive Midfield,96.9,55.1,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+True,5208,Thiago Alcântara do Nascimento,13,Right Center Midfield,91.7,37.9,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,5544,Ricardo Iván Rodríguez Araya,6,Left Back,115.3,58.7,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,30401,Ruben Vargas,17,Right Wing,112.0,48.8,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,5549,Manuel Obafemi Akanji,5,Left Center Back,113.8,44.7,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,8814,Nico Elvedi,3,Right Center Back,111.5,40.7,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,5537,Fabian Lukas Schär,13,Right Center Midfield,110.2,42.5,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,16027,Kevin Mbabu,2,Right Back,112.6,38.1,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,16026,Djibril Sow,19,Center Attacking Midfield,106.6,36.5,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,16022,Christian Fassnacht,21,Left Wing,106.7,27.1,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,5834,Mario Gavranović,23,Center Forward,96.3,39.6,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,5550,Yann Sommer,1,Goalkeeper,118.7,40.7,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+True,6840,Marcos Llorente Moreno,2,Right Back,116.7,62.3,5ffaff39-85e3-407e-8d44-59c7e62f8bf2
+False,5550,Yann Sommer,1,Goalkeeper,119.5,40.1,16573676-0856-4aa7-a9db-c2e410d3a2dd
+False,11748,Unai Simón Mendibil,1,Goalkeeper,119.6,40.5,2806c554-ebea-41c0-b614-65d08a5329d6
+False,5550,Yann Sommer,1,Goalkeeper,119.7,40.3,4d491748-701f-4eda-8e2d-a60f94b4ead1
+False,11748,Unai Simón Mendibil,1,Goalkeeper,119.1,39.9,d8433e6b-2095-4d60-914b-f7acdb6adef1
+False,5550,Yann Sommer,1,Goalkeeper,119.2,40.1,b534ec33-ed1f-4393-ace9-17c5f4dc950a
+False,11748,Unai Simón Mendibil,1,Goalkeeper,119.3,39.8,2ae1504b-c5a2-4033-a6c0-dccbefe0a4bc
+False,5550,Yann Sommer,1,Goalkeeper,119.4,40.0,be98c2dd-c442-428f-85c2-2af0f5eec3b6
+False,11748,Unai Simón Mendibil,1,Goalkeeper,119.3,39.6,3b1fe136-a4d5-4a58-94ab-e2ba8551cb16
+False,5550,Yann Sommer,1,Goalkeeper,119.2,39.4,a6217adf-c93a-4229-8ea9-f1a58752ca34

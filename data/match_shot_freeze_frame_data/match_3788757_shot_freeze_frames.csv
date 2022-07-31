@@ -1,0 +1,348 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,100.0,57.2,2fba73ef-d0bd-49fb-be0f-da32dc92f5d3
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,96.9,39.6,2fba73ef-d0bd-49fb-be0f-da32dc92f5d3
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,105.4,33.3,2fba73ef-d0bd-49fb-be0f-da32dc92f5d3
+False,13116,Jason Denayer,4,Center Back,105.5,45.5,2fba73ef-d0bd-49fb-be0f-da32dc92f5d3
+False,2954,Youri Tielemans,11,Left Defensive Midfield,97.3,41.1,2fba73ef-d0bd-49fb-be0f-da32dc92f5d3
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,103.7,44.3,2fba73ef-d0bd-49fb-be0f-da32dc92f5d3
+False,20005,Toby Alderweireld,3,Right Center Back,107.6,41.4,2fba73ef-d0bd-49fb-be0f-da32dc92f5d3
+False,3077,Jan Vertonghen,5,Left Center Back,105.1,51.7,2fba73ef-d0bd-49fb-be0f-da32dc92f5d3
+False,3509,Thibaut Courtois,1,Goalkeeper,115.3,42.3,2fba73ef-d0bd-49fb-be0f-da32dc92f5d3
+True,3176,Thomas Meunier,7,Right Wing Back,99.5,51.6,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,24443,Mikkel Damsgaard,20,Left Attacking Midfield,100.0,44.3,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,3815,Kasper Schmeichel,1,Goalkeeper,119.1,38.0,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,3959,Andreas Christensen,3,Right Center Back,108.1,31.5,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,5534,Simon Thorup Kjær,4,Center Back,111.7,35.4,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,16554,Joakim Mæhle,8,Left Wing Back,109.8,47.1,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,8815,Jannik Vestergaard,5,Left Center Back,112.2,42.4,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,5527,Thomas Delaney,11,Left Defensive Midfield,106.1,34.4,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,102.9,25.2,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,97.5,21.7,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,6797,Daniel Wass,7,Right Wing Back,105.4,16.9,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+True,3289,Romelu Lukaku Menama,23,Center Forward,112.0,41.7,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+True,2954,Youri Tielemans,11,Left Defensive Midfield,95.4,19.7,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+True,5632,Thorgan Hazard,8,Left Wing Back,106.4,23.6,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+True,5633,Yannick Ferreira Carrasco,20,Left Attacking Midfield,99.5,2.7,ccc77c39-cb4b-47ca-8d6b-063bda42674d
+False,5632,Thorgan Hazard,8,Left Wing Back,108.9,51.7,1c16f5a4-9c44-45f1-b97b-315e99023245
+False,3077,Jan Vertonghen,5,Left Center Back,112.5,40.9,1c16f5a4-9c44-45f1-b97b-315e99023245
+False,13116,Jason Denayer,4,Center Back,114.3,36.4,1c16f5a4-9c44-45f1-b97b-315e99023245
+False,20005,Toby Alderweireld,3,Right Center Back,113.5,32.3,1c16f5a4-9c44-45f1-b97b-315e99023245
+False,2954,Youri Tielemans,11,Left Defensive Midfield,107.5,39.0,1c16f5a4-9c44-45f1-b97b-315e99023245
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,108.4,33.8,1c16f5a4-9c44-45f1-b97b-315e99023245
+False,3176,Thomas Meunier,7,Right Wing Back,103.5,24.6,1c16f5a4-9c44-45f1-b97b-315e99023245
+False,5633,Yannick Ferreira Carrasco,20,Left Attacking Midfield,90.2,49.7,1c16f5a4-9c44-45f1-b97b-315e99023245
+False,5630,Dries Mertens,18,Right Attacking Midfield,98.1,32.6,1c16f5a4-9c44-45f1-b97b-315e99023245
+False,3509,Thibaut Courtois,1,Goalkeeper,115.1,35.3,1c16f5a4-9c44-45f1-b97b-315e99023245
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,104.5,35.3,1c16f5a4-9c44-45f1-b97b-315e99023245
+True,6797,Daniel Wass,7,Right Wing Back,88.9,52.8,1c16f5a4-9c44-45f1-b97b-315e99023245
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,115.2,37.7,1c16f5a4-9c44-45f1-b97b-315e99023245
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,96.9,58.6,1c16f5a4-9c44-45f1-b97b-315e99023245
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,112.1,36.5,1c16f5a4-9c44-45f1-b97b-315e99023245
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,114.7,60.8,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,3509,Thibaut Courtois,1,Goalkeeper,118.1,42.9,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,5633,Yannick Ferreira Carrasco,20,Left Attacking Midfield,91.0,56.7,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,3176,Thomas Meunier,7,Right Wing Back,110.4,34.7,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,2954,Youri Tielemans,11,Left Defensive Midfield,102.7,47.9,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,111.0,41.3,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,3077,Jan Vertonghen,5,Left Center Back,114.7,45.1,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,20005,Toby Alderweireld,3,Right Center Back,115.6,44.7,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,5630,Dries Mertens,18,Right Attacking Midfield,111.7,58.2,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,5632,Thorgan Hazard,8,Left Wing Back,110.0,61.3,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,13116,Jason Denayer,4,Center Back,117.2,60.5,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+True,6797,Daniel Wass,7,Right Wing Back,91.1,63.5,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,105.1,49.3,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+True,16554,Joakim Mæhle,8,Left Wing Back,106.3,35.5,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,89.5,53.9,1b1aec66-4a5b-43e3-a3b0-ffb5dba22c71
+False,2954,Youri Tielemans,11,Left Defensive Midfield,104.7,39.2,b2912dc4-9ae8-43c0-b9d1-278f2eb35a47
+False,20005,Toby Alderweireld,3,Right Center Back,110.6,35.0,b2912dc4-9ae8-43c0-b9d1-278f2eb35a47
+False,13116,Jason Denayer,4,Center Back,112.4,41.5,b2912dc4-9ae8-43c0-b9d1-278f2eb35a47
+False,3077,Jan Vertonghen,5,Left Center Back,113.1,46.4,b2912dc4-9ae8-43c0-b9d1-278f2eb35a47
+False,5632,Thorgan Hazard,8,Left Wing Back,113.4,47.2,b2912dc4-9ae8-43c0-b9d1-278f2eb35a47
+False,3509,Thibaut Courtois,1,Goalkeeper,119.3,41.4,b2912dc4-9ae8-43c0-b9d1-278f2eb35a47
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,111.1,31.9,b2912dc4-9ae8-43c0-b9d1-278f2eb35a47
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,111.9,47.3,b2912dc4-9ae8-43c0-b9d1-278f2eb35a47
+False,3509,Thibaut Courtois,1,Goalkeeper,115.2,39.2,9074de0f-06db-4b30-890e-7e85967b0086
+False,20005,Toby Alderweireld,3,Right Center Back,107.8,46.6,9074de0f-06db-4b30-890e-7e85967b0086
+False,5632,Thorgan Hazard,8,Left Wing Back,94.6,62.2,9074de0f-06db-4b30-890e-7e85967b0086
+False,3077,Jan Vertonghen,5,Left Center Back,100.7,52.6,9074de0f-06db-4b30-890e-7e85967b0086
+False,13116,Jason Denayer,4,Center Back,96.4,56.4,9074de0f-06db-4b30-890e-7e85967b0086
+False,2954,Youri Tielemans,11,Left Defensive Midfield,94.7,54.4,9074de0f-06db-4b30-890e-7e85967b0086
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,99.3,41.5,9074de0f-06db-4b30-890e-7e85967b0086
+False,3176,Thomas Meunier,7,Right Wing Back,107.8,37.6,9074de0f-06db-4b30-890e-7e85967b0086
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,90.7,59.6,9074de0f-06db-4b30-890e-7e85967b0086
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,106.9,54.3,9074de0f-06db-4b30-890e-7e85967b0086
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,112.6,40.9,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+False,3509,Thibaut Courtois,1,Goalkeeper,118.8,36.1,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+False,5633,Yannick Ferreira Carrasco,20,Left Attacking Midfield,96.3,36.8,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+False,2954,Youri Tielemans,11,Left Defensive Midfield,105.3,25.6,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+False,5630,Dries Mertens,18,Right Attacking Midfield,112.2,20.6,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+False,20005,Toby Alderweireld,3,Right Center Back,118.9,21.4,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,109.1,37.7,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+False,13116,Jason Denayer,4,Center Back,115.6,33.2,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+False,5632,Thorgan Hazard,8,Left Wing Back,107.0,49.3,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+False,3077,Jan Vertonghen,5,Left Center Back,112.9,42.6,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,102.7,24.5,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,97.8,44.3,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+True,16554,Joakim Mæhle,8,Left Wing Back,119.5,19.5,8bc259c6-4952-4b91-8feb-73bc4a78d8c2
+False,5632,Thorgan Hazard,8,Left Wing Back,97.8,51.6,e61f308e-4a02-4ec3-959b-eeb021e83892
+False,3077,Jan Vertonghen,5,Left Center Back,95.0,41.9,e61f308e-4a02-4ec3-959b-eeb021e83892
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,89.6,24.7,e61f308e-4a02-4ec3-959b-eeb021e83892
+False,13116,Jason Denayer,4,Center Back,91.6,34.4,e61f308e-4a02-4ec3-959b-eeb021e83892
+False,2954,Youri Tielemans,11,Left Defensive Midfield,89.6,35.9,e61f308e-4a02-4ec3-959b-eeb021e83892
+False,20005,Toby Alderweireld,3,Right Center Back,92.9,25.4,e61f308e-4a02-4ec3-959b-eeb021e83892
+False,3176,Thomas Meunier,7,Right Wing Back,97.3,27.8,e61f308e-4a02-4ec3-959b-eeb021e83892
+False,5633,Yannick Ferreira Carrasco,20,Left Attacking Midfield,83.7,35.0,e61f308e-4a02-4ec3-959b-eeb021e83892
+False,3509,Thibaut Courtois,1,Goalkeeper,116.0,39.6,e61f308e-4a02-4ec3-959b-eeb021e83892
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,95.1,56.4,e61f308e-4a02-4ec3-959b-eeb021e83892
+True,5527,Thomas Delaney,11,Left Defensive Midfield,82.8,28.4,e61f308e-4a02-4ec3-959b-eeb021e83892
+True,16554,Joakim Mæhle,8,Left Wing Back,94.3,22.4,e61f308e-4a02-4ec3-959b-eeb021e83892
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,92.9,29.9,e61f308e-4a02-4ec3-959b-eeb021e83892
+False,3176,Thomas Meunier,7,Right Wing Back,104.5,33.1,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,105.2,46.8,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+False,20005,Toby Alderweireld,3,Right Center Back,110.3,40.3,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+False,13116,Jason Denayer,4,Center Back,108.3,47.8,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+False,2954,Youri Tielemans,11,Left Defensive Midfield,103.2,52.9,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+False,3077,Jan Vertonghen,5,Left Center Back,107.1,51.9,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+False,3509,Thibaut Courtois,1,Goalkeeper,117.1,42.4,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+True,16554,Joakim Mæhle,8,Left Wing Back,97.0,31.7,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+True,5527,Thomas Delaney,11,Left Defensive Midfield,90.1,49.4,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+True,6797,Daniel Wass,7,Right Wing Back,91.0,61.5,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,110.3,38.7,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,107.7,43.1,8b1cf1bb-d342-46cb-af85-a6d870414b1d
+False,20005,Toby Alderweireld,3,Right Center Back,109.6,41.7,cc61753e-87e6-4563-bb80-de300e0215f9
+False,5632,Thorgan Hazard,8,Left Wing Back,88.9,65.0,cc61753e-87e6-4563-bb80-de300e0215f9
+False,5633,Yannick Ferreira Carrasco,20,Left Attacking Midfield,88.8,64.5,cc61753e-87e6-4563-bb80-de300e0215f9
+False,3176,Thomas Meunier,7,Right Wing Back,101.2,42.8,cc61753e-87e6-4563-bb80-de300e0215f9
+False,3077,Jan Vertonghen,5,Left Center Back,105.5,54.4,cc61753e-87e6-4563-bb80-de300e0215f9
+False,13116,Jason Denayer,4,Center Back,106.5,49.2,cc61753e-87e6-4563-bb80-de300e0215f9
+False,2954,Youri Tielemans,11,Left Defensive Midfield,93.0,53.3,cc61753e-87e6-4563-bb80-de300e0215f9
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,89.6,45.3,cc61753e-87e6-4563-bb80-de300e0215f9
+False,3509,Thibaut Courtois,1,Goalkeeper,117.0,42.5,cc61753e-87e6-4563-bb80-de300e0215f9
+True,16554,Joakim Mæhle,8,Left Wing Back,100.2,26.5,cc61753e-87e6-4563-bb80-de300e0215f9
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,96.5,43.7,cc61753e-87e6-4563-bb80-de300e0215f9
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,109.0,41.9,cc61753e-87e6-4563-bb80-de300e0215f9
+True,16554,Joakim Mæhle,8,Left Wing Back,97.9,19.5,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,103.5,33.3,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,101.5,43.0,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,102.0,48.1,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+True,6797,Daniel Wass,7,Right Wing Back,102.1,57.7,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+False,3509,Thibaut Courtois,1,Goalkeeper,116.6,38.7,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+False,3176,Thomas Meunier,7,Right Wing Back,102.4,28.5,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+False,20005,Toby Alderweireld,3,Right Center Back,99.8,33.8,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+False,13116,Jason Denayer,4,Center Back,101.1,37.7,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+False,3077,Jan Vertonghen,5,Left Center Back,102.7,45.4,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,97.9,40.0,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+False,5632,Thorgan Hazard,8,Left Wing Back,102.9,55.5,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+False,2954,Youri Tielemans,11,Left Defensive Midfield,95.3,46.5,669aacde-127b-45ae-af6d-0bf1a9f15c6d
+False,16554,Joakim Mæhle,8,Left Wing Back,108.8,42.2,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+False,8815,Jannik Vestergaard,5,Left Center Back,105.9,40.7,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+False,5534,Simon Thorup Kjær,4,Center Back,105.2,35.4,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+False,24443,Mikkel Damsgaard,20,Left Attacking Midfield,96.9,44.0,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+False,3959,Andreas Christensen,3,Right Center Back,101.5,29.8,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+False,6797,Daniel Wass,7,Right Wing Back,104.2,20.7,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,98.2,24.9,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+False,3815,Kasper Schmeichel,1,Goalkeeper,117.8,40.6,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+True,3289,Romelu Lukaku Menama,23,Center Forward,106.9,36.9,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+True,6331,Leander Dendoncker,9,Right Defensive Midfield,95.7,36.5,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+True,5633,Yannick Ferreira Carrasco,20,Left Attacking Midfield,101.7,19.4,ecb35b86-f170-4928-8e5c-9bfe9199cf45
+False,3509,Thibaut Courtois,1,Goalkeeper,118.6,40.0,95483673-6a21-4320-ade3-ea91a460b46c
+False,3089,Kevin De Bruyne,18,Right Attacking Midfield,102.3,41.9,95483673-6a21-4320-ade3-ea91a460b46c
+False,5632,Thorgan Hazard,8,Left Wing Back,107.3,42.8,95483673-6a21-4320-ade3-ea91a460b46c
+False,3077,Jan Vertonghen,5,Left Center Back,108.8,39.4,95483673-6a21-4320-ade3-ea91a460b46c
+False,13116,Jason Denayer,4,Center Back,110.2,38.2,95483673-6a21-4320-ade3-ea91a460b46c
+False,2954,Youri Tielemans,11,Left Defensive Midfield,109.2,30.0,95483673-6a21-4320-ade3-ea91a460b46c
+False,20005,Toby Alderweireld,3,Right Center Back,108.3,30.6,95483673-6a21-4320-ade3-ea91a460b46c
+False,3289,Romelu Lukaku Menama,23,Center Forward,108.5,29.9,95483673-6a21-4320-ade3-ea91a460b46c
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,108.5,29.0,95483673-6a21-4320-ade3-ea91a460b46c
+False,3176,Thomas Meunier,7,Right Wing Back,108.8,28.1,95483673-6a21-4320-ade3-ea91a460b46c
+False,5633,Yannick Ferreira Carrasco,20,Left Attacking Midfield,109.8,25.2,95483673-6a21-4320-ade3-ea91a460b46c
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,108.5,38.0,95483673-6a21-4320-ade3-ea91a460b46c
+True,5527,Thomas Delaney,11,Left Defensive Midfield,109.5,38.0,95483673-6a21-4320-ade3-ea91a460b46c
+True,8815,Jannik Vestergaard,5,Left Center Back,106.6,30.2,95483673-6a21-4320-ade3-ea91a460b46c
+True,5534,Simon Thorup Kjær,4,Center Back,106.9,29.9,95483673-6a21-4320-ade3-ea91a460b46c
+True,3959,Andreas Christensen,3,Right Center Back,107.0,29.4,95483673-6a21-4320-ade3-ea91a460b46c
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,108.9,23.0,95483673-6a21-4320-ade3-ea91a460b46c
+True,6797,Daniel Wass,7,Right Wing Back,96.1,23.0,95483673-6a21-4320-ade3-ea91a460b46c
+True,5633,Yannick Ferreira Carrasco,20,Left Attacking Midfield,112.8,36.1,0394f1b4-0df2-4cd8-ac2b-4de8734c793d
+False,3959,Andreas Christensen,3,Right Center Back,112.3,49.2,0394f1b4-0df2-4cd8-ac2b-4de8734c793d
+False,6797,Daniel Wass,7,Right Wing Back,109.6,48.7,0394f1b4-0df2-4cd8-ac2b-4de8734c793d
+False,8815,Jannik Vestergaard,5,Left Center Back,110.6,44.5,0394f1b4-0df2-4cd8-ac2b-4de8734c793d
+False,5527,Thomas Delaney,11,Left Defensive Midfield,111.0,40.4,0394f1b4-0df2-4cd8-ac2b-4de8734c793d
+False,16554,Joakim Mæhle,8,Left Wing Back,96.0,59.1,0394f1b4-0df2-4cd8-ac2b-4de8734c793d
+False,5534,Simon Thorup Kjær,4,Center Back,94.0,58.7,0394f1b4-0df2-4cd8-ac2b-4de8734c793d
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.2,41.6,0394f1b4-0df2-4cd8-ac2b-4de8734c793d
+True,3289,Romelu Lukaku Menama,23,Center Forward,120.0,51.3,0394f1b4-0df2-4cd8-ac2b-4de8734c793d
+True,3089,Kevin De Bruyne,18,Right Attacking Midfield,112.7,52.4,0394f1b4-0df2-4cd8-ac2b-4de8734c793d
+True,3959,Andreas Christensen,3,Right Center Back,110.3,49.3,6f4d4eb8-9450-4514-82bc-239682224fa2
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,107.4,42.9,6f4d4eb8-9450-4514-82bc-239682224fa2
+True,16554,Joakim Mæhle,8,Left Wing Back,97.5,24.5,6f4d4eb8-9450-4514-82bc-239682224fa2
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,108.6,38.0,6f4d4eb8-9450-4514-82bc-239682224fa2
+True,5534,Simon Thorup Kjær,4,Center Back,109.0,36.8,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,5633,Yannick Ferreira Carrasco,20,Left Attacking Midfield,95.6,50.9,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,3089,Kevin De Bruyne,18,Right Attacking Midfield,92.5,41.8,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,5632,Thorgan Hazard,8,Left Wing Back,103.9,51.0,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,3077,Jan Vertonghen,5,Left Center Back,104.9,48.1,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,6331,Leander Dendoncker,9,Right Defensive Midfield,107.6,50.1,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,3289,Romelu Lukaku Menama,23,Center Forward,99.9,35.8,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,2954,Youri Tielemans,11,Left Defensive Midfield,108.4,43.3,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,13116,Jason Denayer,4,Center Back,108.0,41.2,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,20005,Toby Alderweireld,3,Right Center Back,107.8,37.9,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,3176,Thomas Meunier,7,Right Wing Back,106.1,31.6,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,3509,Thibaut Courtois,1,Goalkeeper,117.7,41.4,6f4d4eb8-9450-4514-82bc-239682224fa2
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,93.4,51.7,6f4d4eb8-9450-4514-82bc-239682224fa2
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,89.4,36.6,6f4d4eb8-9450-4514-82bc-239682224fa2
+False,3509,Thibaut Courtois,1,Goalkeeper,117.6,37.2,01080aff-5051-419a-9a54-f6d4611986be
+False,3621,Eden Hazard,20,Left Attacking Midfield,89.8,47.4,01080aff-5051-419a-9a54-f6d4611986be
+False,5632,Thorgan Hazard,8,Left Wing Back,107.3,44.8,01080aff-5051-419a-9a54-f6d4611986be
+False,5642,Axel Witsel,11,Left Defensive Midfield,102.2,36.8,01080aff-5051-419a-9a54-f6d4611986be
+False,3077,Jan Vertonghen,5,Left Center Back,106.4,39.1,01080aff-5051-419a-9a54-f6d4611986be
+False,13116,Jason Denayer,4,Center Back,108.2,36.7,01080aff-5051-419a-9a54-f6d4611986be
+False,2954,Youri Tielemans,9,Right Defensive Midfield,100.3,25.0,01080aff-5051-419a-9a54-f6d4611986be
+False,20005,Toby Alderweireld,3,Right Center Back,105.4,28.9,01080aff-5051-419a-9a54-f6d4611986be
+False,3176,Thomas Meunier,7,Right Wing Back,105.9,27.4,01080aff-5051-419a-9a54-f6d4611986be
+True,7097,Christian Nørgaard,23,Center Forward,84.5,32.6,01080aff-5051-419a-9a54-f6d4611986be
+True,5524,Jens Stryger Larsen,7,Right Wing Back,105.6,47.9,01080aff-5051-419a-9a54-f6d4611986be
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,96.7,36.4,01080aff-5051-419a-9a54-f6d4611986be
+True,5527,Thomas Delaney,11,Left Defensive Midfield,92.4,18.5,01080aff-5051-419a-9a54-f6d4611986be
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,107.2,37.9,01080aff-5051-419a-9a54-f6d4611986be
+False,3509,Thibaut Courtois,1,Goalkeeper,117.6,38.2,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+False,2954,Youri Tielemans,9,Right Defensive Midfield,99.2,34.3,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+False,5632,Thorgan Hazard,8,Left Wing Back,106.1,44.4,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+False,3077,Jan Vertonghen,5,Left Center Back,105.1,40.5,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+False,5642,Axel Witsel,11,Left Defensive Midfield,100.6,28.2,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+False,13116,Jason Denayer,4,Center Back,107.1,36.2,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+False,20005,Toby Alderweireld,3,Right Center Back,104.9,32.1,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+False,3176,Thomas Meunier,7,Right Wing Back,105.5,26.5,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+True,3570,Pierre-Emile Højbjerg,7,Right Wing Back,97.7,49.2,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+True,7097,Christian Nørgaard,9,Right Defensive Midfield,91.9,31.1,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+True,5524,Jens Stryger Larsen,18,Right Attacking Midfield,105.1,46.0,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+True,5527,Thomas Delaney,11,Left Defensive Midfield,93.0,19.3,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+True,4447,Martin Braithwaite Christensen,23,Center Forward,106.4,36.2,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,101.4,20.5,780f1fc7-cb31-4ecf-9198-8aeb14603e14
+True,5642,Axel Witsel,11,Left Defensive Midfield,88.0,44.2,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+True,20005,Toby Alderweireld,3,Right Center Back,84.0,59.3,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+True,2954,Youri Tielemans,9,Right Defensive Midfield,92.1,47.9,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+True,3621,Eden Hazard,20,Left Attacking Midfield,101.1,44.2,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+True,5632,Thorgan Hazard,8,Left Wing Back,106.3,37.9,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+True,3289,Romelu Lukaku Menama,23,Center Forward,108.1,46.1,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+True,3176,Thomas Meunier,7,Right Wing Back,98.3,63.0,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+False,3815,Kasper Schmeichel,1,Goalkeeper,116.9,38.1,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+False,3570,Pierre-Emile Højbjerg,7,Right Wing Back,98.3,36.7,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+False,24443,Mikkel Damsgaard,20,Left Attacking Midfield,89.5,57.9,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+False,5524,Jens Stryger Larsen,18,Right Attacking Midfield,104.3,33.4,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+False,7097,Christian Nørgaard,9,Right Defensive Midfield,101.2,40.6,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+False,3959,Andreas Christensen,3,Right Center Back,106.0,36.8,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+False,5527,Thomas Delaney,11,Left Defensive Midfield,97.9,49.9,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+False,5534,Simon Thorup Kjær,4,Center Back,110.0,40.5,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+False,8815,Jannik Vestergaard,5,Left Center Back,108.6,46.7,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+False,16554,Joakim Mæhle,8,Left Wing Back,103.5,61.2,cc4b0115-a1fe-4539-b378-1e74a14c2f56
+True,5732,Andreas Evald Cornelius,20,Left Attacking Midfield,104.9,37.1,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+True,16554,Joakim Mæhle,8,Left Wing Back,109.9,35.2,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+False,5642,Axel Witsel,11,Left Defensive Midfield,105.0,55.8,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+False,5632,Thorgan Hazard,8,Left Wing Back,105.1,53.5,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+False,2954,Youri Tielemans,9,Right Defensive Midfield,100.0,41.3,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+False,3077,Jan Vertonghen,5,Left Center Back,107.4,44.9,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+False,20005,Toby Alderweireld,3,Right Center Back,105.8,41.0,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+False,13116,Jason Denayer,4,Center Back,109.6,44.0,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+False,3176,Thomas Meunier,7,Right Wing Back,110.3,34.8,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+False,3509,Thibaut Courtois,1,Goalkeeper,119.0,40.6,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+True,5524,Jens Stryger Larsen,18,Right Attacking Midfield,96.4,51.3,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+True,18722,Mathias Jensen,11,Left Defensive Midfield,96.8,35.3,2db2f0d4-2513-4d91-8ce2-5625b88d2608
+False,3815,Kasper Schmeichel,1,Goalkeeper,114.7,40.9,4fc8b0f3-d247-414a-9e10-5b7c18fb1cbe
+False,8815,Jannik Vestergaard,5,Left Center Back,97.8,40.6,4fc8b0f3-d247-414a-9e10-5b7c18fb1cbe
+False,5534,Simon Thorup Kjær,4,Center Back,94.9,37.1,4fc8b0f3-d247-414a-9e10-5b7c18fb1cbe
+False,7097,Christian Nørgaard,9,Right Defensive Midfield,87.0,35.9,4fc8b0f3-d247-414a-9e10-5b7c18fb1cbe
+False,18722,Mathias Jensen,11,Left Defensive Midfield,82.2,42.3,4fc8b0f3-d247-414a-9e10-5b7c18fb1cbe
+True,3289,Romelu Lukaku Menama,23,Center Forward,98.0,36.4,4fc8b0f3-d247-414a-9e10-5b7c18fb1cbe
+True,5732,Andreas Evald Cornelius,20,Left Attacking Midfield,100.8,35.0,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+True,16554,Joakim Mæhle,8,Left Wing Back,98.1,26.2,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+False,3509,Thibaut Courtois,1,Goalkeeper,117.4,40.8,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+False,5642,Axel Witsel,11,Left Defensive Midfield,102.4,50.7,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+False,5632,Thorgan Hazard,8,Left Wing Back,105.5,53.0,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+False,2954,Youri Tielemans,9,Right Defensive Midfield,102.3,42.6,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+False,3077,Jan Vertonghen,5,Left Center Back,106.6,45.8,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+False,20005,Toby Alderweireld,3,Right Center Back,107.2,41.6,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+False,3176,Thomas Meunier,7,Right Wing Back,103.9,31.6,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+True,5524,Jens Stryger Larsen,18,Right Attacking Midfield,102.9,56.0,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+True,18722,Mathias Jensen,11,Left Defensive Midfield,99.6,38.9,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+False,13116,Jason Denayer,4,Center Back,104.6,44.1,91e769a6-4ca4-43f9-987b-03b4965f2ab4
+False,3509,Thibaut Courtois,1,Goalkeeper,118.0,40.7,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+False,3621,Eden Hazard,20,Left Attacking Midfield,99.2,50.0,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+False,5632,Thorgan Hazard,8,Left Wing Back,110.9,56.6,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+False,5642,Axel Witsel,11,Left Defensive Midfield,110.7,47.6,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+False,3077,Jan Vertonghen,5,Left Center Back,112.5,45.3,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+False,13116,Jason Denayer,4,Center Back,112.0,42.0,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+False,2954,Youri Tielemans,9,Right Defensive Midfield,100.4,26.6,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+False,20005,Toby Alderweireld,3,Right Center Back,111.2,38.7,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+False,3176,Thomas Meunier,7,Right Wing Back,110.4,35.8,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+True,5524,Jens Stryger Larsen,7,Right Wing Back,105.6,47.6,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+True,16554,Joakim Mæhle,8,Left Wing Back,103.3,38.2,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+True,5732,Andreas Evald Cornelius,24,Left Center Forward,111.4,43.5,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+True,18722,Mathias Jensen,15,Left Center Midfield,92.3,26.3,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+True,3570,Pierre-Emile Højbjerg,13,Right Center Midfield,93.2,40.8,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+True,17042,Andreas Skov Olsen,5,Left Center Back,108.0,61.4,1ca140e0-8031-4f8a-87a6-ba7a10969e41
+False,3509,Thibaut Courtois,1,Goalkeeper,117.4,37.9,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+False,5632,Thorgan Hazard,8,Left Wing Back,106.3,45.5,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+False,3077,Jan Vertonghen,5,Left Center Back,105.8,39.6,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+False,2954,Youri Tielemans,9,Right Defensive Midfield,98.5,28.7,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+False,13116,Jason Denayer,4,Center Back,105.2,33.0,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+False,20005,Toby Alderweireld,3,Right Center Back,105.1,30.7,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+False,5642,Axel Witsel,11,Left Defensive Midfield,101.1,24.1,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+False,3176,Thomas Meunier,7,Right Wing Back,104.8,23.8,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+True,5524,Jens Stryger Larsen,7,Right Wing Back,95.3,44.8,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+True,17042,Andreas Skov Olsen,5,Left Center Back,105.1,55.6,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+True,5732,Andreas Evald Cornelius,24,Left Center Forward,105.2,45.2,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+True,4447,Martin Braithwaite Christensen,22,Right Center Forward,105.4,35.4,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+True,16554,Joakim Mæhle,8,Left Wing Back,103.8,24.6,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+True,18722,Mathias Jensen,15,Left Center Midfield,94.6,16.9,5101413b-3ca3-4f45-96a3-9b64f5a7266d
+False,3509,Thibaut Courtois,1,Goalkeeper,118.9,39.6,f5e1dce7-edb9-4961-b4ea-9d293199142a
+False,3621,Eden Hazard,20,Left Attacking Midfield,96.0,41.7,f5e1dce7-edb9-4961-b4ea-9d293199142a
+False,2954,Youri Tielemans,9,Right Defensive Midfield,100.0,33.3,f5e1dce7-edb9-4961-b4ea-9d293199142a
+False,3077,Jan Vertonghen,5,Left Center Back,105.5,40.8,f5e1dce7-edb9-4961-b4ea-9d293199142a
+False,13116,Jason Denayer,4,Center Back,106.0,36.9,f5e1dce7-edb9-4961-b4ea-9d293199142a
+False,20005,Toby Alderweireld,3,Right Center Back,107.0,35.3,f5e1dce7-edb9-4961-b4ea-9d293199142a
+False,5642,Axel Witsel,11,Left Defensive Midfield,101.7,27.0,f5e1dce7-edb9-4961-b4ea-9d293199142a
+False,3176,Thomas Meunier,7,Right Wing Back,108.8,30.3,f5e1dce7-edb9-4961-b4ea-9d293199142a
+True,17042,Andreas Skov Olsen,5,Left Center Back,104.2,55.5,f5e1dce7-edb9-4961-b4ea-9d293199142a
+True,5524,Jens Stryger Larsen,7,Right Wing Back,98.3,43.3,f5e1dce7-edb9-4961-b4ea-9d293199142a
+False,5632,Thorgan Hazard,8,Left Wing Back,104.7,42.8,f5e1dce7-edb9-4961-b4ea-9d293199142a
+True,3570,Pierre-Emile Højbjerg,13,Right Center Midfield,102.8,33.1,f5e1dce7-edb9-4961-b4ea-9d293199142a
+True,4447,Martin Braithwaite Christensen,22,Right Center Forward,106.0,35.2,f5e1dce7-edb9-4961-b4ea-9d293199142a
+True,16554,Joakim Mæhle,8,Left Wing Back,109.7,34.0,f5e1dce7-edb9-4961-b4ea-9d293199142a
+True,18722,Mathias Jensen,15,Left Center Midfield,97.0,16.9,f5e1dce7-edb9-4961-b4ea-9d293199142a
+True,17042,Andreas Skov Olsen,18,Right Attacking Midfield,96.1,45.2,02fb6237-52e6-4fd6-866a-d5b80773a571
+True,16554,Joakim Mæhle,6,Left Back,89.3,22.2,02fb6237-52e6-4fd6-866a-d5b80773a571
+True,5732,Andreas Evald Cornelius,24,Left Center Forward,103.0,33.6,02fb6237-52e6-4fd6-866a-d5b80773a571
+False,5642,Axel Witsel,11,Left Defensive Midfield,89.1,37.1,02fb6237-52e6-4fd6-866a-d5b80773a571
+False,2954,Youri Tielemans,9,Right Defensive Midfield,96.8,50.5,02fb6237-52e6-4fd6-866a-d5b80773a571
+False,3077,Jan Vertonghen,5,Left Center Back,99.2,46.1,02fb6237-52e6-4fd6-866a-d5b80773a571
+False,13116,Jason Denayer,4,Center Back,102.0,48.7,02fb6237-52e6-4fd6-866a-d5b80773a571
+False,20005,Toby Alderweireld,3,Right Center Back,103.0,36.5,02fb6237-52e6-4fd6-866a-d5b80773a571
+False,3176,Thomas Meunier,7,Right Wing Back,98.0,27.3,02fb6237-52e6-4fd6-866a-d5b80773a571
+False,3509,Thibaut Courtois,1,Goalkeeper,118.7,42.0,02fb6237-52e6-4fd6-866a-d5b80773a571
+True,4447,Martin Braithwaite Christensen,22,Right Center Forward,83.5,36.5,02fb6237-52e6-4fd6-866a-d5b80773a571
+True,5524,Jens Stryger Larsen,2,Right Back,93.2,56.0,02fb6237-52e6-4fd6-866a-d5b80773a571
+True,3621,Eden Hazard,20,Left Attacking Midfield,82.5,35.6,27804b3d-02fc-49c3-988b-12235a4e8055
+True,6332,Thomas Vermaelen,8,Left Wing Back,48.8,25.9,27804b3d-02fc-49c3-988b-12235a4e8055
+True,5642,Axel Witsel,11,Left Defensive Midfield,46.8,36.1,27804b3d-02fc-49c3-988b-12235a4e8055
+True,3089,Kevin De Bruyne,18,Right Attacking Midfield,70.4,36.1,27804b3d-02fc-49c3-988b-12235a4e8055
+True,3289,Romelu Lukaku Menama,23,Center Forward,62.9,49.7,27804b3d-02fc-49c3-988b-12235a4e8055
+False,16554,Joakim Mæhle,6,Left Back,90.0,38.0,27804b3d-02fc-49c3-988b-12235a4e8055
+False,18722,Mathias Jensen,20,Left Attacking Midfield,71.8,33.4,27804b3d-02fc-49c3-988b-12235a4e8055
+False,7097,Christian Nørgaard,11,Left Defensive Midfield,58.9,52.1,27804b3d-02fc-49c3-988b-12235a4e8055
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,76.4,48.3,27804b3d-02fc-49c3-988b-12235a4e8055
+False,17042,Andreas Skov Olsen,18,Right Attacking Midfield,105.5,42.5,27804b3d-02fc-49c3-988b-12235a4e8055
+False,5524,Jens Stryger Larsen,2,Right Back,84.6,23.0,27804b3d-02fc-49c3-988b-12235a4e8055
+False,3959,Andreas Christensen,3,Right Center Back,74.7,53.2,27804b3d-02fc-49c3-988b-12235a4e8055
+False,3815,Kasper Schmeichel,1,Goalkeeper,55.3,42.9,27804b3d-02fc-49c3-988b-12235a4e8055
+False,6332,Thomas Vermaelen,8,Left Wing Back,109.5,42.7,4dea5f59-2bb0-4840-a88e-6acdb7c113cf
+False,5642,Axel Witsel,11,Left Defensive Midfield,97.5,37.0,4dea5f59-2bb0-4840-a88e-6acdb7c113cf
+False,3077,Jan Vertonghen,5,Left Center Back,106.2,36.8,4dea5f59-2bb0-4840-a88e-6acdb7c113cf
+False,3509,Thibaut Courtois,1,Goalkeeper,117.5,37.1,4dea5f59-2bb0-4840-a88e-6acdb7c113cf
+False,3176,Thomas Meunier,7,Right Wing Back,90.9,27.5,4dea5f59-2bb0-4840-a88e-6acdb7c113cf
+False,13116,Jason Denayer,4,Center Back,106.4,28.9,4dea5f59-2bb0-4840-a88e-6acdb7c113cf
+False,20005,Toby Alderweireld,3,Right Center Back,105.9,26.5,4dea5f59-2bb0-4840-a88e-6acdb7c113cf
+True,18722,Mathias Jensen,20,Left Attacking Midfield,86.1,22.0,4dea5f59-2bb0-4840-a88e-6acdb7c113cf
+True,17042,Andreas Skov Olsen,18,Right Attacking Midfield,105.0,47.7,4dea5f59-2bb0-4840-a88e-6acdb7c113cf
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,99.6,37.3,4dea5f59-2bb0-4840-a88e-6acdb7c113cf
+True,5732,Andreas Evald Cornelius,24,Left Center Forward,108.8,42.2,4dea5f59-2bb0-4840-a88e-6acdb7c113cf

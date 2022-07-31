@@ -1,0 +1,380 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,34794,Neco Williams,8,Left Wing Back,112.1,48.6,528e0610-8d4a-4aca-9abb-fb6621e7ade4
+False,10928,Chris Gunter,5,Left Center Back,112.2,40.9,528e0610-8d4a-4aca-9abb-fb6621e7ade4
+False,4934,Ethan Ampadu,4,Center Back,114.4,35.6,528e0610-8d4a-4aca-9abb-fb6621e7ade4
+False,10931,Joe Allen,11,Left Defensive Midfield,103.6,38.0,528e0610-8d4a-4aca-9abb-fb6621e7ade4
+False,11250,Joe Rodon,3,Right Center Back,105.8,23.2,528e0610-8d4a-4aca-9abb-fb6621e7ade4
+False,4774,Connor Roberts,7,Right Wing Back,104.1,17.3,528e0610-8d4a-4aca-9abb-fb6621e7ade4
+False,9914,Danny Ward,1,Goalkeeper,117.8,42.1,528e0610-8d4a-4aca-9abb-fb6621e7ade4
+True,11601,Matteo Pessina,13,Right Center Midfield,105.4,35.2,528e0610-8d4a-4aca-9abb-fb6621e7ade4
+True,7156,Federico Chiesa,21,Left Wing,107.6,29.8,528e0610-8d4a-4aca-9abb-fb6621e7ade4
+True,7777,Federico Bernardeschi,17,Right Wing,111.3,57.6,528e0610-8d4a-4aca-9abb-fb6621e7ade4
+True,3166,Marco Verratti,15,Left Center Midfield,86.6,30.6,b3498100-384a-4a6f-8f60-63a6699efdc0
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,87.3,44.3,b3498100-384a-4a6f-8f60-63a6699efdc0
+True,11601,Matteo Pessina,13,Right Center Midfield,93.3,50.7,b3498100-384a-4a6f-8f60-63a6699efdc0
+True,7156,Federico Chiesa,17,Right Wing,100.3,65.6,b3498100-384a-4a6f-8f60-63a6699efdc0
+True,7471,Andrea Belotti,23,Center Forward,102.4,42.2,b3498100-384a-4a6f-8f60-63a6699efdc0
+True,7777,Federico Bernardeschi,21,Left Wing,96.3,12.8,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,6399,Gareth Frank Bale,17,Right Wing,87.6,42.3,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,3517,Aaron Ramsey,23,Center Forward,87.8,47.3,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,22074,Joseff Morrell,9,Right Defensive Midfield,93.2,28.4,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,11250,Joe Rodon,3,Right Center Back,96.6,28.1,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,4774,Connor Roberts,7,Right Wing Back,100.1,21.8,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,10931,Joe Allen,11,Left Defensive Midfield,94.1,44.9,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,11252,Daniel James,21,Left Wing,91.7,60.6,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,4934,Ethan Ampadu,4,Center Back,103.5,41.6,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,10928,Chris Gunter,5,Left Center Back,102.2,46.5,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,34794,Neco Williams,8,Left Wing Back,102.6,51.1,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,9914,Danny Ward,1,Goalkeeper,118.1,39.0,b3498100-384a-4a6f-8f60-63a6699efdc0
+False,22074,Joseff Morrell,9,Right Defensive Midfield,97.3,33.0,ba07c34b-5f76-4510-bb8d-27e0ee981931
+False,4774,Connor Roberts,7,Right Wing Back,106.9,28.4,ba07c34b-5f76-4510-bb8d-27e0ee981931
+False,34794,Neco Williams,8,Left Wing Back,110.7,45.4,ba07c34b-5f76-4510-bb8d-27e0ee981931
+False,10928,Chris Gunter,5,Left Center Back,111.6,43.0,ba07c34b-5f76-4510-bb8d-27e0ee981931
+False,4934,Ethan Ampadu,4,Center Back,109.6,40.1,ba07c34b-5f76-4510-bb8d-27e0ee981931
+False,11250,Joe Rodon,3,Right Center Back,106.7,35.7,ba07c34b-5f76-4510-bb8d-27e0ee981931
+False,10931,Joe Allen,11,Left Defensive Midfield,101.4,48.8,ba07c34b-5f76-4510-bb8d-27e0ee981931
+False,11252,Daniel James,21,Left Wing,99.7,48.2,ba07c34b-5f76-4510-bb8d-27e0ee981931
+False,9914,Danny Ward,1,Goalkeeper,116.4,41.7,ba07c34b-5f76-4510-bb8d-27e0ee981931
+True,4355,Emerson Palmieri dos Santos,6,Left Back,101.0,15.5,ba07c34b-5f76-4510-bb8d-27e0ee981931
+True,7777,Federico Bernardeschi,21,Left Wing,96.8,28.6,ba07c34b-5f76-4510-bb8d-27e0ee981931
+True,7471,Andrea Belotti,23,Center Forward,112.2,47.8,ba07c34b-5f76-4510-bb8d-27e0ee981931
+True,7156,Federico Chiesa,17,Right Wing,100.4,53.3,ba07c34b-5f76-4510-bb8d-27e0ee981931
+True,11601,Matteo Pessina,13,Right Center Midfield,105.4,40.4,ba07c34b-5f76-4510-bb8d-27e0ee981931
+False,10928,Chris Gunter,5,Left Center Back,111.2,43.8,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+False,34794,Neco Williams,8,Left Wing Back,109.7,45.8,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+False,4934,Ethan Ampadu,4,Center Back,110.1,40.4,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+False,11250,Joe Rodon,3,Right Center Back,106.8,36.7,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+False,10931,Joe Allen,11,Left Defensive Midfield,101.2,47.9,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+False,4774,Connor Roberts,7,Right Wing Back,107.0,28.9,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+False,11252,Daniel James,21,Left Wing,99.2,49.3,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+False,22074,Joseff Morrell,9,Right Defensive Midfield,97.7,33.7,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+False,9914,Danny Ward,1,Goalkeeper,115.9,42.1,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+True,4355,Emerson Palmieri dos Santos,6,Left Back,100.5,16.6,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+True,7777,Federico Bernardeschi,21,Left Wing,97.6,29.5,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+True,7156,Federico Chiesa,17,Right Wing,100.0,55.1,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+True,7002,Rafael Tolói,2,Right Back,97.9,50.7,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+True,7471,Andrea Belotti,23,Center Forward,111.5,48.0,75c0ce84-502a-4b00-a09a-faa9e1cf7177
+False,22074,Joseff Morrell,9,Right Defensive Midfield,98.9,39.7,6908660e-fcb3-4378-83f8-b171456b2273
+False,34794,Neco Williams,8,Left Wing Back,101.6,49.3,6908660e-fcb3-4378-83f8-b171456b2273
+False,10928,Chris Gunter,5,Left Center Back,103.2,48.1,6908660e-fcb3-4378-83f8-b171456b2273
+False,4774,Connor Roberts,7,Right Wing Back,106.7,36.9,6908660e-fcb3-4378-83f8-b171456b2273
+False,11250,Joe Rodon,3,Right Center Back,112.5,41.6,6908660e-fcb3-4378-83f8-b171456b2273
+False,4934,Ethan Ampadu,4,Center Back,112.6,48.3,6908660e-fcb3-4378-83f8-b171456b2273
+False,9914,Danny Ward,1,Goalkeeper,117.0,44.9,6908660e-fcb3-4378-83f8-b171456b2273
+True,7777,Federico Bernardeschi,21,Left Wing,95.7,52.1,6908660e-fcb3-4378-83f8-b171456b2273
+True,4355,Emerson Palmieri dos Santos,6,Left Back,102.6,38.3,6908660e-fcb3-4378-83f8-b171456b2273
+True,7156,Federico Chiesa,17,Right Wing,111.8,43.3,6908660e-fcb3-4378-83f8-b171456b2273
+False,7002,Rafael Tolói,2,Right Back,114.2,45.0,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,7777,Federico Bernardeschi,21,Left Wing,111.3,42.3,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,11601,Matteo Pessina,13,Right Center Midfield,111.5,37.0,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,7480,Alessandro Bastoni,5,Left Center Back,114.5,41.2,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,7173,Leonardo Bonucci,3,Right Center Back,113.2,37.0,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,3166,Marco Verratti,15,Left Center Midfield,112.1,34.0,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,4355,Emerson Palmieri dos Santos,6,Left Back,117.8,42.6,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,7156,Federico Chiesa,17,Right Wing,104.8,33.5,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,115.2,15.5,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,118.3,38.5,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,7471,Andrea Belotti,23,Center Forward,117.0,34.9,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+True,4934,Ethan Ampadu,4,Center Back,110.0,47.3,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+True,11250,Joe Rodon,3,Right Center Back,114.1,43.4,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+True,3517,Aaron Ramsey,23,Center Forward,116.0,38.1,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+True,6399,Gareth Frank Bale,17,Right Wing,110.6,37.1,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+True,10931,Joe Allen,11,Left Defensive Midfield,107.7,12.2,e7a43a9d-2034-4dbd-a64c-cb6216673b92
+False,34794,Neco Williams,8,Left Wing Back,107.7,44.3,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+False,10928,Chris Gunter,5,Left Center Back,110.0,39.8,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+False,4934,Ethan Ampadu,4,Center Back,110.7,35.8,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+False,11250,Joe Rodon,3,Right Center Back,109.4,30.7,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+False,4774,Connor Roberts,7,Right Wing Back,109.5,24.0,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+False,11252,Daniel James,21,Left Wing,97.7,50.9,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+False,10931,Joe Allen,11,Left Defensive Midfield,104.7,28.8,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+False,22074,Joseff Morrell,9,Right Defensive Midfield,105.9,24.8,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+False,3517,Aaron Ramsey,23,Center Forward,102.9,30.9,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+False,9914,Danny Ward,1,Goalkeeper,117.3,38.1,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+True,11601,Matteo Pessina,13,Right Center Midfield,99.2,29.3,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+True,4355,Emerson Palmieri dos Santos,6,Left Back,105.6,14.8,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+True,7002,Rafael Tolói,2,Right Back,92.6,53.2,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+True,7471,Andrea Belotti,23,Center Forward,109.0,40.5,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+True,7777,Federico Bernardeschi,21,Left Wing,107.2,35.1,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+True,7156,Federico Chiesa,17,Right Wing,99.3,41.8,9d3acd87-6e6b-4104-b8ce-04a5868137ad
+False,10928,Chris Gunter,5,Left Center Back,116.0,44.8,4f260e24-a5cf-4cff-bd07-1569c5609c78
+False,9914,Danny Ward,1,Goalkeeper,118.9,43.9,4f260e24-a5cf-4cff-bd07-1569c5609c78
+False,34794,Neco Williams,8,Left Wing Back,115.7,48.2,4f260e24-a5cf-4cff-bd07-1569c5609c78
+False,4934,Ethan Ampadu,4,Center Back,117.6,39.7,4f260e24-a5cf-4cff-bd07-1569c5609c78
+False,11252,Daniel James,21,Left Wing,103.9,57.8,4f260e24-a5cf-4cff-bd07-1569c5609c78
+False,10931,Joe Allen,11,Left Defensive Midfield,111.0,40.5,4f260e24-a5cf-4cff-bd07-1569c5609c78
+False,11250,Joe Rodon,3,Right Center Back,111.5,33.4,4f260e24-a5cf-4cff-bd07-1569c5609c78
+False,22074,Joseff Morrell,9,Right Defensive Midfield,105.9,36.5,4f260e24-a5cf-4cff-bd07-1569c5609c78
+False,4774,Connor Roberts,7,Right Wing Back,105.8,23.5,4f260e24-a5cf-4cff-bd07-1569c5609c78
+True,4355,Emerson Palmieri dos Santos,6,Left Back,104.1,32.2,4f260e24-a5cf-4cff-bd07-1569c5609c78
+True,7002,Rafael Tolói,2,Right Back,97.6,56.5,4f260e24-a5cf-4cff-bd07-1569c5609c78
+True,11601,Matteo Pessina,13,Right Center Midfield,107.1,42.0,4f260e24-a5cf-4cff-bd07-1569c5609c78
+True,7777,Federico Bernardeschi,21,Left Wing,109.6,36.0,4f260e24-a5cf-4cff-bd07-1569c5609c78
+True,7471,Andrea Belotti,23,Center Forward,115.9,44.4,4f260e24-a5cf-4cff-bd07-1569c5609c78
+False,7173,Leonardo Bonucci,3,Right Center Back,109.4,31.1,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+False,3166,Marco Verratti,15,Left Center Midfield,98.1,54.2,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+False,4355,Emerson Palmieri dos Santos,6,Left Back,109.2,48.7,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+False,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,109.3,42.8,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+False,7480,Alessandro Bastoni,5,Left Center Back,109.7,39.8,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+False,7156,Federico Chiesa,17,Right Wing,104.8,26.6,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+False,11601,Matteo Pessina,13,Right Center Midfield,109.0,34.1,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+False,7002,Rafael Tolói,2,Right Back,109.5,29.3,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,117.1,38.0,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+True,4934,Ethan Ampadu,4,Center Back,103.1,42.7,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+True,3517,Aaron Ramsey,23,Center Forward,107.2,50.1,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+True,6399,Gareth Frank Bale,17,Right Wing,107.6,43.4,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+True,10928,Chris Gunter,5,Left Center Back,103.4,31.1,f83e8664-c6d8-45c7-9cc2-6ec1aa153e0c
+True,3166,Marco Verratti,15,Left Center Midfield,87.3,36.1,8586cbb8-776c-45f1-be52-82a2db0ae336
+True,4355,Emerson Palmieri dos Santos,6,Left Back,98.6,15.2,8586cbb8-776c-45f1-be52-82a2db0ae336
+True,7471,Andrea Belotti,23,Center Forward,99.9,36.1,8586cbb8-776c-45f1-be52-82a2db0ae336
+True,11601,Matteo Pessina,13,Right Center Midfield,94.5,54.4,8586cbb8-776c-45f1-be52-82a2db0ae336
+True,7156,Federico Chiesa,17,Right Wing,103.2,45.7,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,9914,Danny Ward,1,Goalkeeper,115.4,38.9,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,11252,Daniel James,21,Left Wing,88.9,26.0,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,6399,Gareth Frank Bale,17,Right Wing,85.7,52.8,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,3517,Aaron Ramsey,23,Center Forward,92.9,43.7,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,22074,Joseff Morrell,9,Right Defensive Midfield,96.4,31.8,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,11250,Joe Rodon,3,Right Center Back,100.0,30.8,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,10931,Joe Allen,11,Left Defensive Midfield,97.6,39.2,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,4774,Connor Roberts,7,Right Wing Back,104.4,21.4,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,4934,Ethan Ampadu,4,Center Back,102.9,35.7,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,10928,Chris Gunter,5,Left Center Back,103.6,42.6,8586cbb8-776c-45f1-be52-82a2db0ae336
+False,34794,Neco Williams,8,Left Wing Back,103.1,48.3,8586cbb8-776c-45f1-be52-82a2db0ae336
+True,7173,Leonardo Bonucci,3,Right Center Back,110.9,39.4,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,10931,Joe Allen,11,Left Defensive Midfield,103.4,40.5,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,10928,Chris Gunter,5,Left Center Back,109.9,39.3,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,4774,Connor Roberts,7,Right Wing Back,110.6,33.4,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,11250,Joe Rodon,3,Right Center Back,109.6,33.6,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,6399,Gareth Frank Bale,17,Right Wing,110.3,35.9,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,4934,Ethan Ampadu,4,Center Back,109.7,36.8,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,34794,Neco Williams,8,Left Wing Back,109.7,40.1,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,22074,Joseff Morrell,9,Right Defensive Midfield,109.6,44.0,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,9914,Danny Ward,1,Goalkeeper,117.3,41.9,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,3517,Aaron Ramsey,23,Center Forward,104.0,55.0,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,11252,Daniel James,21,Left Wing,104.5,57.6,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,95.0,45.6,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+True,7471,Andrea Belotti,23,Center Forward,110.0,34.3,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+True,7002,Rafael Tolói,2,Right Back,110.6,41.7,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+True,7480,Alessandro Bastoni,5,Left Center Back,109.0,36.7,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+True,7777,Federico Bernardeschi,21,Left Wing,105.8,62.4,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+True,3166,Marco Verratti,15,Left Center Midfield,95.4,62.4,8c3fd9f3-313a-45eb-89b2-452124f41c1d
+False,22074,Joseff Morrell,9,Right Defensive Midfield,107.2,26.9,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+False,3517,Aaron Ramsey,23,Center Forward,97.3,26.1,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+False,9914,Danny Ward,1,Goalkeeper,117.0,38.9,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+False,34794,Neco Williams,8,Left Wing Back,109.8,47.5,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+False,4934,Ethan Ampadu,4,Center Back,112.1,38.3,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+False,10928,Chris Gunter,5,Left Center Back,107.9,43.8,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+False,11250,Joe Rodon,3,Right Center Back,110.3,30.3,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+False,11252,Daniel James,21,Left Wing,106.3,39.0,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+False,10931,Joe Allen,11,Left Defensive Midfield,106.1,33.3,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+False,4774,Connor Roberts,7,Right Wing Back,107.9,19.8,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+False,6399,Gareth Frank Bale,17,Right Wing,102.9,21.3,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+True,7480,Alessandro Bastoni,5,Left Center Back,109.3,2.4,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+True,3166,Marco Verratti,15,Left Center Midfield,101.7,17.2,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+True,7002,Rafael Tolói,2,Right Back,88.6,45.3,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+True,4355,Emerson Palmieri dos Santos,6,Left Back,97.8,13.0,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+True,7156,Federico Chiesa,17,Right Wing,111.0,24.6,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+True,7777,Federico Bernardeschi,21,Left Wing,102.9,45.7,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+True,7471,Andrea Belotti,23,Center Forward,112.7,41.5,0a4c4d5f-ec51-4813-81db-34dcc14f3aa4
+True,7156,Federico Chiesa,17,Right Wing,101.4,38.5,0b3458c0-b6df-43cb-899a-472f7de20022
+True,7471,Andrea Belotti,23,Center Forward,103.8,45.1,0b3458c0-b6df-43cb-899a-472f7de20022
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,101.3,40.4,0b3458c0-b6df-43cb-899a-472f7de20022
+True,3166,Marco Verratti,15,Left Center Midfield,92.6,47.2,0b3458c0-b6df-43cb-899a-472f7de20022
+False,22074,Joseff Morrell,9,Right Defensive Midfield,102.0,40.6,0b3458c0-b6df-43cb-899a-472f7de20022
+False,10931,Joe Allen,11,Left Defensive Midfield,100.5,41.2,0b3458c0-b6df-43cb-899a-472f7de20022
+False,11250,Joe Rodon,3,Right Center Back,100.5,42.1,0b3458c0-b6df-43cb-899a-472f7de20022
+False,10928,Chris Gunter,5,Left Center Back,100.5,43.2,0b3458c0-b6df-43cb-899a-472f7de20022
+False,4934,Ethan Ampadu,4,Center Back,100.6,44.2,0b3458c0-b6df-43cb-899a-472f7de20022
+False,6399,Gareth Frank Bale,17,Right Wing,100.7,45.3,0b3458c0-b6df-43cb-899a-472f7de20022
+False,4774,Connor Roberts,7,Right Wing Back,102.7,37.6,0b3458c0-b6df-43cb-899a-472f7de20022
+True,7119,Francesco Acerbi,3,Right Center Back,99.3,44.1,0b3458c0-b6df-43cb-899a-472f7de20022
+True,7480,Alessandro Bastoni,5,Left Center Back,99.3,43.1,0b3458c0-b6df-43cb-899a-472f7de20022
+True,11601,Matteo Pessina,13,Right Center Midfield,99.2,42.0,0b3458c0-b6df-43cb-899a-472f7de20022
+False,11252,Daniel James,21,Left Wing,93.2,56.5,0b3458c0-b6df-43cb-899a-472f7de20022
+False,9914,Danny Ward,1,Goalkeeper,119.0,39.6,0b3458c0-b6df-43cb-899a-472f7de20022
+False,3517,Aaron Ramsey,23,Center Forward,101.1,52.9,0b3458c0-b6df-43cb-899a-472f7de20022
+False,34794,Neco Williams,8,Left Wing Back,101.4,47.7,0b3458c0-b6df-43cb-899a-472f7de20022
+False,10928,Chris Gunter,5,Left Center Back,107.7,59.5,4f5544fd-5a09-4cec-98e3-0d031f86744f
+False,4934,Ethan Ampadu,4,Center Back,110.9,56.9,4f5544fd-5a09-4cec-98e3-0d031f86744f
+False,11250,Joe Rodon,3,Right Center Back,103.2,35.9,4f5544fd-5a09-4cec-98e3-0d031f86744f
+False,4774,Connor Roberts,7,Right Wing Back,99.4,25.3,4f5544fd-5a09-4cec-98e3-0d031f86744f
+False,9914,Danny Ward,1,Goalkeeper,117.9,44.6,4f5544fd-5a09-4cec-98e3-0d031f86744f
+True,7777,Federico Bernardeschi,21,Left Wing,98.8,77.7,4f5544fd-5a09-4cec-98e3-0d031f86744f
+True,7480,Alessandro Bastoni,5,Left Center Back,89.7,13.9,4f5544fd-5a09-4cec-98e3-0d031f86744f
+True,7156,Federico Chiesa,17,Right Wing,100.3,36.5,4f5544fd-5a09-4cec-98e3-0d031f86744f
+True,7777,Federico Bernardeschi,21,Left Wing,96.7,49.4,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+True,7471,Andrea Belotti,23,Center Forward,109.5,39.7,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+True,4355,Emerson Palmieri dos Santos,6,Left Back,106.8,36.7,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+True,11601,Matteo Pessina,13,Right Center Midfield,106.4,54.5,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+True,3166,Marco Verratti,15,Left Center Midfield,96.3,27.1,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+False,4774,Connor Roberts,7,Right Wing Back,111.2,36.9,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+False,11250,Joe Rodon,3,Right Center Back,110.8,40.6,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+False,10928,Chris Gunter,5,Left Center Back,110.0,46.2,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+False,6399,Gareth Frank Bale,17,Right Wing,100.9,34.4,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+False,10931,Joe Allen,11,Left Defensive Midfield,107.2,54.7,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+False,22074,Joseff Morrell,9,Right Defensive Midfield,103.5,51.5,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+False,11252,Daniel James,21,Left Wing,105.2,62.6,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+False,9914,Danny Ward,1,Goalkeeper,116.8,42.5,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+False,34794,Neco Williams,8,Left Wing Back,107.7,55.6,0ce85603-59d8-4fe1-9b5f-ff4f6076fcc8
+True,3166,Marco Verratti,15,Left Center Midfield,103.3,32.6,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+True,4355,Emerson Palmieri dos Santos,6,Left Back,98.4,25.4,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+True,7777,Federico Bernardeschi,21,Left Wing,116.7,41.1,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+True,7156,Federico Chiesa,17,Right Wing,119.3,50.4,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+True,11601,Matteo Pessina,13,Right Center Midfield,106.7,45.5,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+False,4774,Connor Roberts,7,Right Wing Back,118.0,43.1,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+False,9914,Danny Ward,1,Goalkeeper,118.5,44.3,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+False,11250,Joe Rodon,3,Right Center Back,113.4,47.0,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+False,10931,Joe Allen,11,Left Defensive Midfield,107.8,46.9,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+False,34794,Neco Williams,8,Left Wing Back,110.8,53.6,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+False,3517,Aaron Ramsey,23,Center Forward,105.2,43.5,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+False,10928,Chris Gunter,5,Left Center Back,118.3,49.6,1392d663-2a7e-4127-bb1e-e82a5d60eea4
+False,9914,Danny Ward,1,Goalkeeper,118.1,41.7,99d36898-744c-4b33-99c5-99859db6cbab
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,99.0,41.8,99d36898-744c-4b33-99c5-99859db6cbab
+True,7156,Federico Chiesa,17,Right Wing,97.2,29.5,99d36898-744c-4b33-99c5-99859db6cbab
+True,3166,Marco Verratti,15,Left Center Midfield,112.8,72.8,99d36898-744c-4b33-99c5-99859db6cbab
+True,7777,Federico Bernardeschi,21,Left Wing,120.0,74.7,99d36898-744c-4b33-99c5-99859db6cbab
+True,7480,Alessandro Bastoni,5,Left Center Back,115.6,45.5,99d36898-744c-4b33-99c5-99859db6cbab
+True,7119,Francesco Acerbi,3,Right Center Back,113.8,38.9,99d36898-744c-4b33-99c5-99859db6cbab
+True,7471,Andrea Belotti,23,Center Forward,112.5,32.8,99d36898-744c-4b33-99c5-99859db6cbab
+False,34794,Neco Williams,8,Left Wing Back,101.9,40.8,99d36898-744c-4b33-99c5-99859db6cbab
+False,11252,Daniel James,21,Left Wing,113.6,64.1,99d36898-744c-4b33-99c5-99859db6cbab
+False,10931,Joe Allen,11,Left Defensive Midfield,112.8,45.5,99d36898-744c-4b33-99c5-99859db6cbab
+False,10928,Chris Gunter,5,Left Center Back,115.0,49.0,99d36898-744c-4b33-99c5-99859db6cbab
+False,3517,Aaron Ramsey,23,Center Forward,116.3,50.5,99d36898-744c-4b33-99c5-99859db6cbab
+False,11250,Joe Rodon,3,Right Center Back,112.6,40.9,99d36898-744c-4b33-99c5-99859db6cbab
+False,6399,Gareth Frank Bale,17,Right Wing,115.5,43.9,99d36898-744c-4b33-99c5-99859db6cbab
+False,3853,Kieffer Roberto Francisco Moore,9,Right Defensive Midfield,116.8,44.4,99d36898-744c-4b33-99c5-99859db6cbab
+False,4774,Connor Roberts,7,Right Wing Back,114.0,34.1,99d36898-744c-4b33-99c5-99859db6cbab
+True,3166,Marco Verratti,15,Left Center Midfield,91.8,36.3,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+True,4355,Emerson Palmieri dos Santos,6,Left Back,104.3,21.5,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+True,7471,Andrea Belotti,23,Center Forward,107.5,43.2,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+True,7156,Federico Chiesa,21,Left Wing,108.4,30.1,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+True,11601,Matteo Pessina,13,Right Center Midfield,103.5,47.5,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,90.6,49.0,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,4774,Connor Roberts,7,Right Wing Back,110.0,32.7,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,11250,Joe Rodon,3,Right Center Back,108.8,42.9,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,10928,Chris Gunter,5,Left Center Back,107.4,45.8,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,10931,Joe Allen,11,Left Defensive Midfield,105.7,50.1,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,6399,Gareth Frank Bale,17,Right Wing,97.4,33.1,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,3517,Aaron Ramsey,23,Center Forward,101.0,49.5,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,34794,Neco Williams,8,Left Wing Back,102.6,57.6,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,11252,Daniel James,21,Left Wing,100.4,55.6,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,3853,Kieffer Roberto Francisco Moore,9,Right Defensive Midfield,92.8,49.2,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,9914,Danny Ward,1,Goalkeeper,117.0,42.1,b9723ff8-d0b0-4f2d-bda3-2e0ae815467e
+False,9914,Danny Ward,1,Goalkeeper,117.5,42.1,beb9f6be-dc4b-484b-a137-34e47a7c5488
+True,7471,Andrea Belotti,23,Center Forward,112.8,36.1,beb9f6be-dc4b-484b-a137-34e47a7c5488
+True,7156,Federico Chiesa,21,Left Wing,108.5,43.6,beb9f6be-dc4b-484b-a137-34e47a7c5488
+True,7024,Jorge Luiz Frello Filho,10,Center Defensive Midfield,116.2,54.1,beb9f6be-dc4b-484b-a137-34e47a7c5488
+False,6399,Gareth Frank Bale,17,Right Wing,110.9,37.3,beb9f6be-dc4b-484b-a137-34e47a7c5488
+False,11250,Joe Rodon,3,Right Center Back,112.7,42.0,beb9f6be-dc4b-484b-a137-34e47a7c5488
+False,3517,Aaron Ramsey,23,Center Forward,110.3,47.0,beb9f6be-dc4b-484b-a137-34e47a7c5488
+False,4774,Connor Roberts,7,Right Wing Back,114.6,52.2,beb9f6be-dc4b-484b-a137-34e47a7c5488
+False,10931,Joe Allen,11,Left Defensive Midfield,113.4,48.5,beb9f6be-dc4b-484b-a137-34e47a7c5488
+False,34794,Neco Williams,8,Left Wing Back,113.2,58.2,beb9f6be-dc4b-484b-a137-34e47a7c5488
+False,11252,Daniel James,21,Left Wing,108.5,55.4,beb9f6be-dc4b-484b-a137-34e47a7c5488
+True,9540,Harry Wilson,21,Left Wing,101.0,37.7,97d081d4-dc05-4431-af28-777007e09b48
+True,3517,Aaron Ramsey,23,Center Forward,101.5,47.6,97d081d4-dc05-4431-af28-777007e09b48
+True,10928,Chris Gunter,5,Left Center Back,100.1,32.3,97d081d4-dc05-4431-af28-777007e09b48
+True,11250,Joe Rodon,3,Right Center Back,106.4,27.5,97d081d4-dc05-4431-af28-777007e09b48
+True,3853,Kieffer Roberto Francisco Moore,9,Right Defensive Midfield,112.2,34.6,97d081d4-dc05-4431-af28-777007e09b48
+False,6993,Bryan Cristante,10,Center Defensive Midfield,110.1,39.6,97d081d4-dc05-4431-af28-777007e09b48
+False,7480,Alessandro Bastoni,5,Left Center Back,112.4,36.7,97d081d4-dc05-4431-af28-777007e09b48
+False,7036,Gianluigi Donnarumma,1,Goalkeeper,117.6,40.4,97d081d4-dc05-4431-af28-777007e09b48
+False,11601,Matteo Pessina,13,Right Center Midfield,106.1,32.5,97d081d4-dc05-4431-af28-777007e09b48
+False,25048,Giacomo Raspadori,21,Left Wing,101.5,46.0,97d081d4-dc05-4431-af28-777007e09b48
+False,4355,Emerson Palmieri dos Santos,6,Left Back,108.7,28.9,97d081d4-dc05-4431-af28-777007e09b48
+False,3166,Marco Verratti,15,Left Center Midfield,106.1,38.4,97d081d4-dc05-4431-af28-777007e09b48
+False,7002,Rafael Tolói,2,Right Back,111.1,32.5,97d081d4-dc05-4431-af28-777007e09b48
+False,7119,Francesco Acerbi,3,Right Center Back,112.5,33.6,97d081d4-dc05-4431-af28-777007e09b48
+True,4355,Emerson Palmieri dos Santos,6,Left Back,104.8,36.6,a5ecdb43-d169-4611-9d87-de6528daea0f
+True,7471,Andrea Belotti,23,Center Forward,113.8,37.5,a5ecdb43-d169-4611-9d87-de6528daea0f
+True,11601,Matteo Pessina,13,Right Center Midfield,114.7,49.7,a5ecdb43-d169-4611-9d87-de6528daea0f
+True,25048,Giacomo Raspadori,21,Left Wing,111.5,42.5,a5ecdb43-d169-4611-9d87-de6528daea0f
+True,3166,Marco Verratti,15,Left Center Midfield,106.8,49.2,a5ecdb43-d169-4611-9d87-de6528daea0f
+False,9914,Danny Ward,1,Goalkeeper,118.5,44.0,a5ecdb43-d169-4611-9d87-de6528daea0f
+False,4774,Connor Roberts,7,Right Wing Back,115.4,39.0,a5ecdb43-d169-4611-9d87-de6528daea0f
+False,11250,Joe Rodon,3,Right Center Back,113.9,41.3,a5ecdb43-d169-4611-9d87-de6528daea0f
+False,10928,Chris Gunter,5,Left Center Back,114.6,47.1,a5ecdb43-d169-4611-9d87-de6528daea0f
+False,34794,Neco Williams,8,Left Wing Back,113.0,50.1,a5ecdb43-d169-4611-9d87-de6528daea0f
+False,10931,Joe Allen,11,Left Defensive Midfield,114.0,52.9,a5ecdb43-d169-4611-9d87-de6528daea0f
+False,6399,Gareth Frank Bale,17,Right Wing,108.8,44.1,a5ecdb43-d169-4611-9d87-de6528daea0f
+False,3517,Aaron Ramsey,23,Center Forward,109.3,48.3,a5ecdb43-d169-4611-9d87-de6528daea0f
+False,9540,Harry Wilson,21,Left Wing,109.4,53.7,a5ecdb43-d169-4611-9d87-de6528daea0f
+True,7471,Andrea Belotti,23,Center Forward,113.7,35.3,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+True,7480,Alessandro Bastoni,5,Left Center Back,113.5,42.6,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+True,7119,Francesco Acerbi,3,Right Center Back,105.3,33.6,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+True,6993,Bryan Cristante,10,Center Defensive Midfield,101.6,36.5,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+True,11601,Matteo Pessina,13,Right Center Midfield,96.8,26.8,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+True,7002,Rafael Tolói,2,Right Back,111.1,40.3,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+False,9914,Danny Ward,1,Goalkeeper,117.9,36.3,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+False,4774,Connor Roberts,7,Right Wing Back,111.9,26.7,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+False,10931,Joe Allen,11,Left Defensive Midfield,109.0,26.2,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+False,3853,Kieffer Roberto Francisco Moore,9,Right Defensive Midfield,111.9,36.1,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+False,11250,Joe Rodon,3,Right Center Back,113.0,33.0,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+False,6399,Gareth Frank Bale,17,Right Wing,113.5,44.9,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+False,34794,Neco Williams,8,Left Wing Back,111.0,46.0,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+False,9540,Harry Wilson,21,Left Wing,99.0,31.1,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+False,3517,Aaron Ramsey,23,Center Forward,112.0,48.5,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+False,10928,Chris Gunter,5,Left Center Back,112.2,41.0,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+True,25048,Giacomo Raspadori,21,Left Wing,112.8,49.5,2543ddbc-3be1-482d-b2c2-1f2f6f2e8e7c
+True,4355,Emerson Palmieri dos Santos,6,Left Back,99.8,18.2,4f052531-8a9f-4863-b236-27beadcca9fd
+True,25048,Giacomo Raspadori,21,Left Wing,100.5,28.8,4f052531-8a9f-4863-b236-27beadcca9fd
+True,7471,Andrea Belotti,23,Center Forward,104.2,49.3,4f052531-8a9f-4863-b236-27beadcca9fd
+True,30707,Gaetano Castrovilli,13,Right Center Midfield,103.4,57.3,4f052531-8a9f-4863-b236-27beadcca9fd
+True,7156,Federico Chiesa,17,Right Wing,93.3,38.5,4f052531-8a9f-4863-b236-27beadcca9fd
+False,9914,Danny Ward,1,Goalkeeper,116.1,38.9,4f052531-8a9f-4863-b236-27beadcca9fd
+False,4774,Connor Roberts,7,Right Wing Back,103.1,24.2,4f052531-8a9f-4863-b236-27beadcca9fd
+False,11250,Joe Rodon,3,Right Center Back,102.1,32.2,4f052531-8a9f-4863-b236-27beadcca9fd
+False,10928,Chris Gunter,5,Left Center Back,104.5,39.9,4f052531-8a9f-4863-b236-27beadcca9fd
+False,3086,Ben Davies,8,Left Wing Back,104.9,46.1,4f052531-8a9f-4863-b236-27beadcca9fd
+False,4567,David Brooks,17,Right Wing,97.6,32.1,4f052531-8a9f-4863-b236-27beadcca9fd
+False,33144,Dylan Levitt,11,Left Defensive Midfield,96.8,42.0,4f052531-8a9f-4863-b236-27beadcca9fd
+False,9540,Harry Wilson,21,Left Wing,100.9,48.6,4f052531-8a9f-4863-b236-27beadcca9fd
+False,3517,Aaron Ramsey,23,Center Forward,98.1,34.1,4f052531-8a9f-4863-b236-27beadcca9fd
+True,30707,Gaetano Castrovilli,13,Right Center Midfield,103.8,49.2,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+True,3166,Marco Verratti,15,Left Center Midfield,94.8,26.5,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+True,4355,Emerson Palmieri dos Santos,6,Left Back,104.5,15.4,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+True,7156,Federico Chiesa,17,Right Wing,105.0,27.7,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+True,7471,Andrea Belotti,23,Center Forward,104.8,40.2,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+False,4774,Connor Roberts,7,Right Wing Back,106.6,27.0,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+False,4567,David Brooks,17,Right Wing,98.1,26.3,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+False,3517,Aaron Ramsey,23,Center Forward,100.8,27.4,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+False,11250,Joe Rodon,3,Right Center Back,102.2,32.3,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+False,3086,Ben Davies,8,Left Wing Back,106.7,43.9,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+False,33144,Dylan Levitt,11,Left Defensive Midfield,100.5,34.4,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+False,9540,Harry Wilson,21,Left Wing,104.2,46.8,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+False,9914,Danny Ward,1,Goalkeeper,115.9,38.0,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+False,10928,Chris Gunter,5,Left Center Back,105.2,36.5,b9de2d45-9ba5-4ac9-86ae-1e2c59aa1887
+True,30707,Gaetano Castrovilli,13,Right Center Midfield,103.2,51.4,d743053d-710f-415b-a80b-88d03d4733d4
+True,3166,Marco Verratti,15,Left Center Midfield,97.6,34.4,d743053d-710f-415b-a80b-88d03d4733d4
+True,6993,Bryan Cristante,10,Center Defensive Midfield,93.1,39.0,d743053d-710f-415b-a80b-88d03d4733d4
+False,9914,Danny Ward,1,Goalkeeper,117.5,41.0,d743053d-710f-415b-a80b-88d03d4733d4
+True,4355,Emerson Palmieri dos Santos,6,Left Back,107.8,25.0,d743053d-710f-415b-a80b-88d03d4733d4
+True,7156,Federico Chiesa,17,Right Wing,110.1,40.9,d743053d-710f-415b-a80b-88d03d4733d4
+True,25048,Giacomo Raspadori,21,Left Wing,103.4,35.9,d743053d-710f-415b-a80b-88d03d4733d4
+False,4774,Connor Roberts,7,Right Wing Back,108.6,37.5,d743053d-710f-415b-a80b-88d03d4733d4
+False,4567,David Brooks,17,Right Wing,101.8,28.1,d743053d-710f-415b-a80b-88d03d4733d4
+False,11250,Joe Rodon,3,Right Center Back,104.2,37.2,d743053d-710f-415b-a80b-88d03d4733d4
+False,33144,Dylan Levitt,11,Left Defensive Midfield,102.2,36.1,d743053d-710f-415b-a80b-88d03d4733d4
+False,3086,Ben Davies,8,Left Wing Back,104.9,47.8,d743053d-710f-415b-a80b-88d03d4733d4
+False,10928,Chris Gunter,5,Left Center Back,102.8,41.9,d743053d-710f-415b-a80b-88d03d4733d4
+False,3517,Aaron Ramsey,23,Center Forward,99.4,38.4,d743053d-710f-415b-a80b-88d03d4733d4
+False,9540,Harry Wilson,21,Left Wing,106.8,43.9,d743053d-710f-415b-a80b-88d03d4733d4
+False,9914,Danny Ward,1,Goalkeeper,116.9,41.4,98697dff-850d-4e25-99f5-4a7ffc76ab02
+False,9540,Harry Wilson,21,Left Wing,100.1,54.5,98697dff-850d-4e25-99f5-4a7ffc76ab02
+False,4567,David Brooks,17,Right Wing,95.2,26.8,98697dff-850d-4e25-99f5-4a7ffc76ab02
+False,3853,Kieffer Roberto Francisco Moore,9,Right Defensive Midfield,94.0,48.7,98697dff-850d-4e25-99f5-4a7ffc76ab02
+False,3086,Ben Davies,8,Left Wing Back,97.4,51.6,98697dff-850d-4e25-99f5-4a7ffc76ab02
+False,33144,Dylan Levitt,11,Left Defensive Midfield,98.9,50.0,98697dff-850d-4e25-99f5-4a7ffc76ab02
+False,3517,Aaron Ramsey,23,Center Forward,98.1,39.2,98697dff-850d-4e25-99f5-4a7ffc76ab02
+False,10928,Chris Gunter,5,Left Center Back,105.2,43.8,98697dff-850d-4e25-99f5-4a7ffc76ab02
+False,11250,Joe Rodon,3,Right Center Back,106.4,38.6,98697dff-850d-4e25-99f5-4a7ffc76ab02
+False,4774,Connor Roberts,7,Right Wing Back,105.5,34.9,98697dff-850d-4e25-99f5-4a7ffc76ab02
+True,7156,Federico Chiesa,17,Right Wing,101.6,64.0,98697dff-850d-4e25-99f5-4a7ffc76ab02
+True,30707,Gaetano Castrovilli,13,Right Center Midfield,101.7,45.0,98697dff-850d-4e25-99f5-4a7ffc76ab02
+True,25048,Giacomo Raspadori,21,Left Wing,104.4,38.5,98697dff-850d-4e25-99f5-4a7ffc76ab02
+True,7471,Andrea Belotti,23,Center Forward,104.0,39.7,98697dff-850d-4e25-99f5-4a7ffc76ab02
+True,4355,Emerson Palmieri dos Santos,6,Left Back,103.5,37.0,98697dff-850d-4e25-99f5-4a7ffc76ab02
+True,7119,Francesco Acerbi,3,Right Center Back,84.6,45.3,98697dff-850d-4e25-99f5-4a7ffc76ab02
+True,7002,Rafael Tolói,2,Right Back,90.0,59.1,98697dff-850d-4e25-99f5-4a7ffc76ab02
+True,3166,Marco Verratti,15,Left Center Midfield,85.0,32.0,98697dff-850d-4e25-99f5-4a7ffc76ab02
+True,7480,Alessandro Bastoni,5,Left Center Back,84.1,15.8,98697dff-850d-4e25-99f5-4a7ffc76ab02

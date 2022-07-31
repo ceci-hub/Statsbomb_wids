@@ -1,0 +1,446 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,8552,Robin Quaison,22,Right Center Forward,108.0,38.8,a739f7c1-4c62-46f9-b52e-186ee816a314
+False,5660,Piotr Zieliński,19,Center Attacking Midfield,87.5,43.7,a739f7c1-4c62-46f9-b52e-186ee816a314
+False,3034,Kamil Glik,4,Center Back,102.4,40.0,a739f7c1-4c62-46f9-b52e-186ee816a314
+False,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,102.5,41.8,a739f7c1-4c62-46f9-b52e-186ee816a314
+False,4673,Kamil Jóźwiak,7,Right Wing Back,106.8,34.1,a739f7c1-4c62-46f9-b52e-186ee816a314
+False,5673,Bartosz Bereszyński,3,Right Center Back,105.3,39.5,a739f7c1-4c62-46f9-b52e-186ee816a314
+False,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,104.4,43.8,a739f7c1-4c62-46f9-b52e-186ee816a314
+False,4626,Jan Bednarek,5,Left Center Back,109.3,35.3,a739f7c1-4c62-46f9-b52e-186ee816a314
+False,8737,Tymoteusz Puchacz,8,Left Wing Back,100.6,55.5,a739f7c1-4c62-46f9-b52e-186ee816a314
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.3,37.7,a739f7c1-4c62-46f9-b52e-186ee816a314
+True,23444,Kristoffer Olsson,9,Right Defensive Midfield,97.9,39.0,a739f7c1-4c62-46f9-b52e-186ee816a314
+True,8819,Alexander Isak,24,Left Center Forward,101.0,41.3,a739f7c1-4c62-46f9-b52e-186ee816a314
+True,5621,Ludwig Augustinsson,6,Left Back,104.0,24.1,a739f7c1-4c62-46f9-b52e-186ee816a314
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,82.1,18.3,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+True,5660,Piotr Zieliński,19,Center Attacking Midfield,100.7,40.5,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+True,8836,Karol Świderski,22,Right Center Forward,95.3,37.7,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+True,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,83.4,38.4,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+True,4673,Kamil Jóźwiak,7,Right Wing Back,96.1,66.3,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+False,5612,Mikael Lustig,2,Right Back,101.6,37.3,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,102.4,41.6,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+False,5617,Sebastian Larsson,12,Right Midfield,97.2,41.5,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+False,5621,Ludwig Augustinsson,6,Left Back,100.6,57.3,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,98.9,53.2,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+False,5624,Albin Ekdal,11,Left Defensive Midfield,94.8,50.0,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,89.4,37.0,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+False,5625,Emil Peter Forsberg,16,Left Midfield,91.7,50.4,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+False,5622,Robin Olsen,1,Goalkeeper,115.9,41.4,6b1f96de-ebc2-4444-8d11-e5de7f3bc9f9
+False,8552,Robin Quaison,22,Right Center Forward,114.7,49.6,69435253-a840-4c4b-9309-a359d2dedfe3
+False,5617,Sebastian Larsson,12,Right Midfield,112.9,46.0,69435253-a840-4c4b-9309-a359d2dedfe3
+False,5621,Ludwig Augustinsson,6,Left Back,112.3,46.0,69435253-a840-4c4b-9309-a359d2dedfe3
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,115.4,49.4,69435253-a840-4c4b-9309-a359d2dedfe3
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,105.0,51.9,69435253-a840-4c4b-9309-a359d2dedfe3
+False,5625,Emil Peter Forsberg,16,Left Midfield,114.4,51.4,69435253-a840-4c4b-9309-a359d2dedfe3
+False,5624,Albin Ekdal,11,Left Defensive Midfield,108.9,38.6,69435253-a840-4c4b-9309-a359d2dedfe3
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,111.6,40.4,69435253-a840-4c4b-9309-a359d2dedfe3
+False,5612,Mikael Lustig,2,Right Back,111.6,34.2,69435253-a840-4c4b-9309-a359d2dedfe3
+False,8819,Alexander Isak,24,Left Center Forward,118.3,44.3,69435253-a840-4c4b-9309-a359d2dedfe3
+False,5622,Robin Olsen,1,Goalkeeper,118.7,41.7,69435253-a840-4c4b-9309-a359d2dedfe3
+True,4626,Jan Bednarek,5,Left Center Back,113.7,47.9,69435253-a840-4c4b-9309-a359d2dedfe3
+True,8836,Karol Świderski,22,Right Center Forward,115.3,50.9,69435253-a840-4c4b-9309-a359d2dedfe3
+True,3034,Kamil Glik,4,Center Back,108.8,39.2,69435253-a840-4c4b-9309-a359d2dedfe3
+True,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,111.9,33.4,69435253-a840-4c4b-9309-a359d2dedfe3
+True,4673,Kamil Jóźwiak,7,Right Wing Back,114.7,40.2,69435253-a840-4c4b-9309-a359d2dedfe3
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,97.9,30.2,69435253-a840-4c4b-9309-a359d2dedfe3
+True,5660,Piotr Zieliński,19,Center Attacking Midfield,116.7,75.0,69435253-a840-4c4b-9309-a359d2dedfe3
+False,5617,Sebastian Larsson,12,Right Midfield,113.4,46.9,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+False,5625,Emil Peter Forsberg,16,Left Midfield,113.3,52.0,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,110.2,43.8,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+False,8819,Alexander Isak,24,Left Center Forward,118.5,43.0,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+False,8552,Robin Quaison,22,Right Center Forward,109.9,51.4,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,110.7,49.1,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,102.8,49.7,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+False,5621,Ludwig Augustinsson,6,Left Back,114.1,46.9,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+False,5624,Albin Ekdal,11,Left Defensive Midfield,112.7,39.0,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+False,5622,Robin Olsen,1,Goalkeeper,119.3,39.2,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+False,5612,Mikael Lustig,2,Right Back,117.2,35.9,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+True,5660,Piotr Zieliński,19,Center Attacking Midfield,112.4,73.0,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+True,4626,Jan Bednarek,5,Left Center Back,115.3,47.8,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+True,8836,Karol Świderski,22,Right Center Forward,111.5,50.8,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+True,3034,Kamil Glik,4,Center Back,113.3,39.3,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+True,4673,Kamil Jóźwiak,7,Right Wing Back,116.2,40.1,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+True,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,118.8,36.7,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,97.7,29.8,81f3ec22-67a0-4e58-93ca-1b3dd59d6392
+True,5668,Robert Lewandowski,24,Left Center Forward,95.0,48.5,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+True,5660,Piotr Zieliński,19,Center Attacking Midfield,102.5,20.7,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,94.6,30.3,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+True,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,107.2,13.5,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+True,3034,Kamil Glik,4,Center Back,111.5,34.1,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+True,4626,Jan Bednarek,5,Left Center Back,111.6,39.3,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+True,8836,Karol Świderski,22,Right Center Forward,107.0,37.1,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+True,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,108.5,45.1,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+True,4673,Kamil Jóźwiak,7,Right Wing Back,112.6,39.2,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,5622,Robin Olsen,1,Goalkeeper,117.4,40.1,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,5625,Emil Peter Forsberg,16,Left Midfield,106.6,22.6,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,8819,Alexander Isak,24,Left Center Forward,111.2,37.3,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,99.4,26.5,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,113.2,41.5,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,5617,Sebastian Larsson,12,Right Midfield,99.6,46.8,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,8552,Robin Quaison,22,Right Center Forward,108.5,39.4,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,5624,Albin Ekdal,11,Left Defensive Midfield,109.3,40.8,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,107.1,42.9,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,5612,Mikael Lustig,2,Right Back,108.8,49.2,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+False,5621,Ludwig Augustinsson,6,Left Back,110.8,43.0,e17ddfbd-3272-4dd8-aa18-96c89f77cac9
+True,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,103.0,15.2,f9c17570-f4de-4411-9967-f965688358e7
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,95.1,28.9,f9c17570-f4de-4411-9967-f965688358e7
+True,8836,Karol Świderski,22,Right Center Forward,102.7,34.7,f9c17570-f4de-4411-9967-f965688358e7
+True,4626,Jan Bednarek,5,Left Center Back,103.4,38.1,f9c17570-f4de-4411-9967-f965688358e7
+True,3034,Kamil Glik,4,Center Back,105.5,30.9,f9c17570-f4de-4411-9967-f965688358e7
+True,4673,Kamil Jóźwiak,7,Right Wing Back,108.2,34.8,f9c17570-f4de-4411-9967-f965688358e7
+True,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,107.4,47.6,f9c17570-f4de-4411-9967-f965688358e7
+True,5668,Robert Lewandowski,24,Left Center Forward,97.2,52.2,f9c17570-f4de-4411-9967-f965688358e7
+True,5673,Bartosz Bereszyński,3,Right Center Back,91.4,46.8,f9c17570-f4de-4411-9967-f965688358e7
+False,5622,Robin Olsen,1,Goalkeeper,117.5,37.9,f9c17570-f4de-4411-9967-f965688358e7
+False,8819,Alexander Isak,24,Left Center Forward,106.1,30.2,f9c17570-f4de-4411-9967-f965688358e7
+False,5625,Emil Peter Forsberg,16,Left Midfield,104.8,29.5,f9c17570-f4de-4411-9967-f965688358e7
+False,8552,Robin Quaison,22,Right Center Forward,104.0,33.1,f9c17570-f4de-4411-9967-f965688358e7
+False,5617,Sebastian Larsson,12,Right Midfield,95.6,44.9,f9c17570-f4de-4411-9967-f965688358e7
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,107.3,43.7,f9c17570-f4de-4411-9967-f965688358e7
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,98.4,32.2,f9c17570-f4de-4411-9967-f965688358e7
+False,5624,Albin Ekdal,11,Left Defensive Midfield,101.5,39.0,f9c17570-f4de-4411-9967-f965688358e7
+False,5612,Mikael Lustig,2,Right Back,104.0,47.0,f9c17570-f4de-4411-9967-f965688358e7
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,109.2,36.8,f9c17570-f4de-4411-9967-f965688358e7
+False,5621,Ludwig Augustinsson,6,Left Back,103.4,40.1,f9c17570-f4de-4411-9967-f965688358e7
+True,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,88.5,35.8,9c995a90-f0ff-4383-a67f-d0b931d92253
+True,4673,Kamil Jóźwiak,7,Right Wing Back,98.6,63.5,9c995a90-f0ff-4383-a67f-d0b931d92253
+True,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,90.7,46.2,9c995a90-f0ff-4383-a67f-d0b931d92253
+False,5622,Robin Olsen,1,Goalkeeper,118.6,39.6,9c995a90-f0ff-4383-a67f-d0b931d92253
+True,8737,Tymoteusz Puchacz,8,Left Wing Back,94.1,18.9,9c995a90-f0ff-4383-a67f-d0b931d92253
+True,5668,Robert Lewandowski,24,Left Center Forward,104.4,42.5,9c995a90-f0ff-4383-a67f-d0b931d92253
+True,8836,Karol Świderski,22,Right Center Forward,104.3,49.7,9c995a90-f0ff-4383-a67f-d0b931d92253
+False,5617,Sebastian Larsson,12,Right Midfield,101.0,32.6,9c995a90-f0ff-4383-a67f-d0b931d92253
+False,5612,Mikael Lustig,2,Right Back,101.6,36.1,9c995a90-f0ff-4383-a67f-d0b931d92253
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,103.5,38.6,9c995a90-f0ff-4383-a67f-d0b931d92253
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,106.0,44.1,9c995a90-f0ff-4383-a67f-d0b931d92253
+False,5621,Ludwig Augustinsson,6,Left Back,106.0,49.6,9c995a90-f0ff-4383-a67f-d0b931d92253
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,101.4,41.1,9c995a90-f0ff-4383-a67f-d0b931d92253
+False,5625,Emil Peter Forsberg,16,Left Midfield,99.6,43.9,9c995a90-f0ff-4383-a67f-d0b931d92253
+False,5624,Albin Ekdal,11,Left Defensive Midfield,98.7,51.2,9c995a90-f0ff-4383-a67f-d0b931d92253
+True,4673,Kamil Jóźwiak,7,Right Wing Back,87.5,67.0,0599f23e-c109-4f5e-94f2-3e345fa13834
+True,5668,Robert Lewandowski,24,Left Center Forward,101.8,39.2,0599f23e-c109-4f5e-94f2-3e345fa13834
+True,8836,Karol Świderski,22,Right Center Forward,99.8,45.0,0599f23e-c109-4f5e-94f2-3e345fa13834
+True,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,101.4,52.6,0599f23e-c109-4f5e-94f2-3e345fa13834
+True,5673,Bartosz Bereszyński,3,Right Center Back,72.2,59.6,0599f23e-c109-4f5e-94f2-3e345fa13834
+True,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,85.0,46.1,0599f23e-c109-4f5e-94f2-3e345fa13834
+True,7979,Przemysław Frankowski,8,Left Wing Back,96.1,21.6,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,8819,Alexander Isak,24,Left Center Forward,74.1,59.2,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,8552,Robin Quaison,22,Right Center Forward,83.3,45.5,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,84.5,56.5,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,5617,Sebastian Larsson,12,Right Midfield,93.6,46.5,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,5612,Mikael Lustig,2,Right Back,101.1,37.8,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,5624,Albin Ekdal,11,Left Defensive Midfield,94.6,53.4,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,5625,Emil Peter Forsberg,16,Left Midfield,88.8,65.1,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,102.3,43.5,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,100.1,49.0,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,5621,Ludwig Augustinsson,6,Left Back,102.1,54.3,0599f23e-c109-4f5e-94f2-3e345fa13834
+False,5622,Robin Olsen,1,Goalkeeper,118.0,40.6,0599f23e-c109-4f5e-94f2-3e345fa13834
+True,8836,Karol Świderski,22,Right Center Forward,102.0,35.2,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+True,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,103.4,41.6,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+True,4673,Kamil Jóźwiak,7,Right Wing Back,97.7,61.0,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+True,5668,Robert Lewandowski,24,Left Center Forward,102.2,19.6,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+True,7979,Przemysław Frankowski,8,Left Wing Back,87.9,26.8,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+False,5622,Robin Olsen,1,Goalkeeper,116.7,38.7,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+False,5617,Sebastian Larsson,12,Right Midfield,91.5,27.4,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+False,5625,Emil Peter Forsberg,16,Left Midfield,88.1,46.8,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,97.5,32.0,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+False,5624,Albin Ekdal,11,Left Defensive Midfield,98.0,40.0,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+False,5612,Mikael Lustig,2,Right Back,104.0,28.0,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,103.7,31.6,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,102.8,35.9,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+False,5621,Ludwig Augustinsson,6,Left Back,104.3,42.5,f8c3542b-6caa-4daa-8e9d-c8aece180bd9
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,107.3,37.9,de17cb02-d07e-4868-94eb-c2d4136d61b1
+False,8552,Robin Quaison,22,Right Center Forward,107.3,39.3,de17cb02-d07e-4868-94eb-c2d4136d61b1
+False,5617,Sebastian Larsson,12,Right Midfield,110.5,39.9,de17cb02-d07e-4868-94eb-c2d4136d61b1
+False,5621,Ludwig Augustinsson,6,Left Back,104.0,36.8,de17cb02-d07e-4868-94eb-c2d4136d61b1
+False,5624,Albin Ekdal,11,Left Defensive Midfield,105.0,39.8,de17cb02-d07e-4868-94eb-c2d4136d61b1
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,110.6,42.3,de17cb02-d07e-4868-94eb-c2d4136d61b1
+False,5612,Mikael Lustig,2,Right Back,110.0,47.9,de17cb02-d07e-4868-94eb-c2d4136d61b1
+False,8819,Alexander Isak,24,Left Center Forward,107.3,33.9,de17cb02-d07e-4868-94eb-c2d4136d61b1
+False,5625,Emil Peter Forsberg,16,Left Midfield,102.1,22.5,de17cb02-d07e-4868-94eb-c2d4136d61b1
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,90.6,28.5,de17cb02-d07e-4868-94eb-c2d4136d61b1
+False,5622,Robin Olsen,1,Goalkeeper,117.1,40.0,de17cb02-d07e-4868-94eb-c2d4136d61b1
+True,3034,Kamil Glik,4,Center Back,105.1,39.1,de17cb02-d07e-4868-94eb-c2d4136d61b1
+True,4626,Jan Bednarek,5,Left Center Back,102.9,36.8,de17cb02-d07e-4868-94eb-c2d4136d61b1
+True,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,102.2,12.7,de17cb02-d07e-4868-94eb-c2d4136d61b1
+True,5673,Bartosz Bereszyński,3,Right Center Back,87.0,42.8,de17cb02-d07e-4868-94eb-c2d4136d61b1
+True,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,107.0,53.1,de17cb02-d07e-4868-94eb-c2d4136d61b1
+True,5668,Robert Lewandowski,24,Left Center Forward,109.9,39.5,de17cb02-d07e-4868-94eb-c2d4136d61b1
+True,4673,Kamil Jóźwiak,7,Right Wing Back,106.2,41.4,de17cb02-d07e-4868-94eb-c2d4136d61b1
+True,5625,Emil Peter Forsberg,16,Left Midfield,92.5,41.0,5125dc65-e204-4d75-847c-5e519f717b77
+True,23444,Kristoffer Olsson,9,Right Defensive Midfield,101.3,57.0,5125dc65-e204-4d75-847c-5e519f717b77
+False,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,98.0,49.4,5125dc65-e204-4d75-847c-5e519f717b77
+False,7979,Przemysław Frankowski,8,Left Wing Back,101.0,67.0,5125dc65-e204-4d75-847c-5e519f717b77
+False,5669,Wojciech Szczęsny,1,Goalkeeper,115.7,41.2,5125dc65-e204-4d75-847c-5e519f717b77
+False,5673,Bartosz Bereszyński,3,Right Center Back,103.4,42.2,5125dc65-e204-4d75-847c-5e519f717b77
+False,3034,Kamil Glik,4,Center Back,106.9,49.6,5125dc65-e204-4d75-847c-5e519f717b77
+False,4626,Jan Bednarek,5,Left Center Back,107.8,50.5,5125dc65-e204-4d75-847c-5e519f717b77
+False,4673,Kamil Jóźwiak,7,Right Wing Back,86.8,29.0,ab353d1d-0091-4ad8-9e03-efb56eb4f3cb
+False,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,97.5,49.6,ab353d1d-0091-4ad8-9e03-efb56eb4f3cb
+False,7979,Przemysław Frankowski,8,Left Wing Back,106.4,60.4,ab353d1d-0091-4ad8-9e03-efb56eb4f3cb
+True,8819,Alexander Isak,24,Left Center Forward,103.8,41.7,ab353d1d-0091-4ad8-9e03-efb56eb4f3cb
+False,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,108.0,48.1,ab353d1d-0091-4ad8-9e03-efb56eb4f3cb
+True,23444,Kristoffer Olsson,9,Right Defensive Midfield,108.6,49.6,ab353d1d-0091-4ad8-9e03-efb56eb4f3cb
+False,5669,Wojciech Szczęsny,1,Goalkeeper,117.1,39.7,ab353d1d-0091-4ad8-9e03-efb56eb4f3cb
+False,4626,Jan Bednarek,5,Left Center Back,112.1,40.7,ab353d1d-0091-4ad8-9e03-efb56eb4f3cb
+False,3034,Kamil Glik,4,Center Back,106.6,41.2,ab353d1d-0091-4ad8-9e03-efb56eb4f3cb
+False,5673,Bartosz Bereszyński,3,Right Center Back,106.2,35.4,ab353d1d-0091-4ad8-9e03-efb56eb4f3cb
+True,8552,Robin Quaison,22,Right Center Forward,111.3,36.4,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,8836,Karol Świderski,22,Right Center Forward,105.6,37.3,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,110.2,43.8,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+True,5621,Ludwig Augustinsson,6,Left Back,99.8,48.2,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+True,8819,Alexander Isak,24,Left Center Forward,113.7,44.0,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,4673,Kamil Jóźwiak,7,Right Wing Back,110.4,48.4,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+True,3702,Victor Nilsson Lindelöf,3,Right Center Back,110.4,40.2,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+True,26875,Marcus Andreas Danielsson,5,Left Center Back,111.0,35.6,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.2,41.8,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,5660,Piotr Zieliński,19,Center Attacking Midfield,100.4,37.6,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,7979,Przemysław Frankowski,8,Left Wing Back,113.9,51.5,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,4626,Jan Bednarek,5,Left Center Back,113.2,43.0,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,5668,Robert Lewandowski,24,Left Center Forward,105.6,30.5,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,3034,Kamil Glik,4,Center Back,112.4,39.4,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,107.9,31.1,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+False,5673,Bartosz Bereszyński,3,Right Center Back,110.8,33.1,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+True,5617,Sebastian Larsson,12,Right Midfield,95.2,37.3,29fe2b50-ad4a-4b36-be77-0d8737b515e0
+True,5673,Bartosz Bereszyński,3,Right Center Back,87.0,48.5,6201a7c0-6f92-40ef-8e02-0aa39f924911
+True,4673,Kamil Jóźwiak,7,Right Wing Back,94.7,60.4,6201a7c0-6f92-40ef-8e02-0aa39f924911
+True,8836,Karol Świderski,22,Right Center Forward,102.5,40.6,6201a7c0-6f92-40ef-8e02-0aa39f924911
+True,5660,Piotr Zieliński,19,Center Attacking Midfield,103.0,42.8,6201a7c0-6f92-40ef-8e02-0aa39f924911
+True,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,101.8,50.1,6201a7c0-6f92-40ef-8e02-0aa39f924911
+True,5668,Robert Lewandowski,24,Left Center Forward,101.2,30.7,6201a7c0-6f92-40ef-8e02-0aa39f924911
+True,7979,Przemysław Frankowski,8,Left Wing Back,98.6,12.7,6201a7c0-6f92-40ef-8e02-0aa39f924911
+False,8552,Robin Quaison,22,Right Center Forward,93.5,39.5,6201a7c0-6f92-40ef-8e02-0aa39f924911
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,96.1,37.2,6201a7c0-6f92-40ef-8e02-0aa39f924911
+False,5625,Emil Peter Forsberg,16,Left Midfield,94.7,55.1,6201a7c0-6f92-40ef-8e02-0aa39f924911
+False,5624,Albin Ekdal,11,Left Defensive Midfield,100.7,45.9,6201a7c0-6f92-40ef-8e02-0aa39f924911
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,104.1,41.9,6201a7c0-6f92-40ef-8e02-0aa39f924911
+False,5621,Ludwig Augustinsson,6,Left Back,103.1,49.8,6201a7c0-6f92-40ef-8e02-0aa39f924911
+False,5622,Robin Olsen,1,Goalkeeper,118.2,39.6,6201a7c0-6f92-40ef-8e02-0aa39f924911
+False,5617,Sebastian Larsson,12,Right Midfield,102.1,25.3,6201a7c0-6f92-40ef-8e02-0aa39f924911
+False,5612,Mikael Lustig,2,Right Back,102.3,33.3,6201a7c0-6f92-40ef-8e02-0aa39f924911
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,102.5,39.3,6201a7c0-6f92-40ef-8e02-0aa39f924911
+True,5625,Emil Peter Forsberg,16,Left Midfield,90.8,27.7,c66d4729-021a-4d99-b88f-dcdb95020dae
+True,5621,Ludwig Augustinsson,6,Left Back,100.4,26.9,c66d4729-021a-4d99-b88f-dcdb95020dae
+True,22818,Dejan Kulusevski,22,Right Center Forward,100.8,36.6,c66d4729-021a-4d99-b88f-dcdb95020dae
+True,8819,Alexander Isak,24,Left Center Forward,102.7,48.6,c66d4729-021a-4d99-b88f-dcdb95020dae
+True,5617,Sebastian Larsson,12,Right Midfield,101.1,62.0,c66d4729-021a-4d99-b88f-dcdb95020dae
+False,5669,Wojciech Szczęsny,1,Goalkeeper,117.3,42.1,c66d4729-021a-4d99-b88f-dcdb95020dae
+False,5673,Bartosz Bereszyński,3,Right Center Back,101.8,32.9,c66d4729-021a-4d99-b88f-dcdb95020dae
+False,3034,Kamil Glik,4,Center Back,103.0,37.6,c66d4729-021a-4d99-b88f-dcdb95020dae
+False,4626,Jan Bednarek,5,Left Center Back,103.6,46.8,c66d4729-021a-4d99-b88f-dcdb95020dae
+False,7979,Przemysław Frankowski,8,Left Wing Back,101.9,49.2,c66d4729-021a-4d99-b88f-dcdb95020dae
+False,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,91.7,28.1,c66d4729-021a-4d99-b88f-dcdb95020dae
+False,4673,Kamil Jóźwiak,7,Right Wing Back,88.7,22.9,c66d4729-021a-4d99-b88f-dcdb95020dae
+False,5660,Piotr Zieliński,19,Center Attacking Midfield,85.9,37.2,c66d4729-021a-4d99-b88f-dcdb95020dae
+False,5668,Robert Lewandowski,24,Left Center Forward,107.4,43.3,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,105.5,40.9,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,5660,Piotr Zieliński,19,Center Attacking Midfield,98.4,42.7,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,104.5,47.9,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,8836,Karol Świderski,22,Right Center Forward,105.6,46.7,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,5673,Bartosz Bereszyński,3,Right Center Back,106.3,44.6,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,3034,Kamil Glik,4,Center Back,107.1,34.2,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,7979,Przemysław Frankowski,8,Left Wing Back,104.3,30.2,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,4626,Jan Bednarek,5,Left Center Back,106.6,36.7,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,4673,Kamil Jóźwiak,7,Right Wing Back,102.9,36.1,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+True,5617,Sebastian Larsson,12,Right Midfield,113.0,77.9,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.4,38.9,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+True,5621,Ludwig Augustinsson,6,Left Back,85.8,23.4,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+True,5624,Albin Ekdal,11,Left Defensive Midfield,95.3,47.3,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+True,22818,Dejan Kulusevski,22,Right Center Forward,97.4,35.1,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+True,5612,Mikael Lustig,2,Right Back,110.7,43.9,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+True,3702,Victor Nilsson Lindelöf,3,Right Center Back,106.1,39.7,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+True,26875,Marcus Andreas Danielsson,5,Left Center Back,108.2,45.0,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+True,8819,Alexander Isak,24,Left Center Forward,108.4,53.6,8743a42a-b7c1-4a5d-abe1-57135ec02d8d
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,102.0,44.7,1c124c5f-9979-44a2-9a23-fac994bff5f8
+False,5612,Mikael Lustig,2,Right Back,102.7,36.7,1c124c5f-9979-44a2-9a23-fac994bff5f8
+False,5621,Ludwig Augustinsson,6,Left Back,101.5,52.5,1c124c5f-9979-44a2-9a23-fac994bff5f8
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,100.7,53.3,1c124c5f-9979-44a2-9a23-fac994bff5f8
+False,5625,Emil Peter Forsberg,16,Left Midfield,94.0,61.8,1c124c5f-9979-44a2-9a23-fac994bff5f8
+False,5624,Albin Ekdal,11,Left Defensive Midfield,96.7,55.0,1c124c5f-9979-44a2-9a23-fac994bff5f8
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,93.6,46.8,1c124c5f-9979-44a2-9a23-fac994bff5f8
+False,5617,Sebastian Larsson,12,Right Midfield,97.8,32.4,1c124c5f-9979-44a2-9a23-fac994bff5f8
+False,22818,Dejan Kulusevski,22,Right Center Forward,85.0,47.5,1c124c5f-9979-44a2-9a23-fac994bff5f8
+False,5622,Robin Olsen,1,Goalkeeper,116.7,41.1,1c124c5f-9979-44a2-9a23-fac994bff5f8
+True,5668,Robert Lewandowski,24,Left Center Forward,103.2,34.9,1c124c5f-9979-44a2-9a23-fac994bff5f8
+True,7979,Przemysław Frankowski,8,Left Wing Back,93.1,22.7,1c124c5f-9979-44a2-9a23-fac994bff5f8
+True,4673,Kamil Jóźwiak,7,Right Wing Back,103.1,60.4,1c124c5f-9979-44a2-9a23-fac994bff5f8
+True,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,101.8,50.2,1c124c5f-9979-44a2-9a23-fac994bff5f8
+True,8836,Karol Świderski,22,Right Center Forward,102.2,45.4,1c124c5f-9979-44a2-9a23-fac994bff5f8
+True,5660,Piotr Zieliński,19,Center Attacking Midfield,93.0,57.5,1c124c5f-9979-44a2-9a23-fac994bff5f8
+True,5673,Bartosz Bereszyński,3,Right Center Back,81.8,60.5,1c124c5f-9979-44a2-9a23-fac994bff5f8
+True,23444,Kristoffer Olsson,9,Right Defensive Midfield,111.6,49.2,e54b29a0-6589-4391-9c2b-d095ced3ad04
+True,8819,Alexander Isak,24,Left Center Forward,108.9,37.5,e54b29a0-6589-4391-9c2b-d095ced3ad04
+True,22818,Dejan Kulusevski,22,Right Center Forward,104.4,46.6,e54b29a0-6589-4391-9c2b-d095ced3ad04
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.0,41.0,e54b29a0-6589-4391-9c2b-d095ced3ad04
+False,5673,Bartosz Bereszyński,3,Right Center Back,106.9,40.1,e54b29a0-6589-4391-9c2b-d095ced3ad04
+False,3034,Kamil Glik,4,Center Back,109.4,43.0,e54b29a0-6589-4391-9c2b-d095ced3ad04
+False,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,108.6,45.2,e54b29a0-6589-4391-9c2b-d095ced3ad04
+False,4626,Jan Bednarek,5,Left Center Back,107.0,45.7,e54b29a0-6589-4391-9c2b-d095ced3ad04
+False,7979,Przemysław Frankowski,8,Left Wing Back,105.8,47.6,e54b29a0-6589-4391-9c2b-d095ced3ad04
+False,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,94.2,38.4,e54b29a0-6589-4391-9c2b-d095ced3ad04
+True,8836,Karol Świderski,22,Right Center Forward,99.3,44.6,ddc51941-07d8-46c8-bcd8-47337c82ed83
+True,5660,Piotr Zieliński,19,Center Attacking Midfield,90.8,38.5,ddc51941-07d8-46c8-bcd8-47337c82ed83
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,103.8,42.0,ddc51941-07d8-46c8-bcd8-47337c82ed83
+False,5622,Robin Olsen,1,Goalkeeper,116.9,37.9,ddc51941-07d8-46c8-bcd8-47337c82ed83
+False,5624,Albin Ekdal,11,Left Defensive Midfield,91.0,42.0,ddc51941-07d8-46c8-bcd8-47337c82ed83
+False,5612,Mikael Lustig,2,Right Back,107.1,28.2,ddc51941-07d8-46c8-bcd8-47337c82ed83
+False,5617,Sebastian Larsson,12,Right Midfield,93.8,28.9,ddc51941-07d8-46c8-bcd8-47337c82ed83
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,92.1,35.5,ddc51941-07d8-46c8-bcd8-47337c82ed83
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,108.2,26.5,ddc51941-07d8-46c8-bcd8-47337c82ed83
+True,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,102.1,65.2,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+True,5668,Robert Lewandowski,24,Left Center Forward,104.2,35.4,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+True,18927,Jakub Świerczok,22,Right Center Forward,103.2,42.4,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+True,5660,Piotr Zieliński,20,Left Attacking Midfield,103.5,47.3,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+True,8836,Karol Świderski,18,Right Attacking Midfield,95.7,46.6,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+True,7979,Przemysław Frankowski,6,Left Back,100.3,19.3,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,5622,Robin Olsen,1,Goalkeeper,116.5,38.7,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,22818,Dejan Kulusevski,22,Right Center Forward,79.4,54.7,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,8819,Alexander Isak,24,Left Center Forward,92.2,39.9,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,5617,Sebastian Larsson,12,Right Midfield,99.5,29.9,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,5625,Emil Peter Forsberg,16,Left Midfield,92.0,48.1,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,98.1,35.9,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,5624,Albin Ekdal,11,Left Defensive Midfield,98.6,43.8,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,5612,Mikael Lustig,2,Right Back,103.8,35.5,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,103.4,39.6,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,103.8,45.6,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,5621,Ludwig Augustinsson,6,Left Back,102.4,52.0,5f7976d9-d1cf-4f4f-bda5-5cef8b32d062
+False,5669,Wojciech Szczęsny,1,Goalkeeper,117.8,38.4,75687dd3-3d5a-49c8-b967-883288b84ed4
+False,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,97.5,26.8,75687dd3-3d5a-49c8-b967-883288b84ed4
+False,18927,Jakub Świerczok,22,Right Center Forward,97.9,22.4,75687dd3-3d5a-49c8-b967-883288b84ed4
+False,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,100.5,25.7,75687dd3-3d5a-49c8-b967-883288b84ed4
+False,8836,Karol Świderski,18,Right Attacking Midfield,104.7,30.7,75687dd3-3d5a-49c8-b967-883288b84ed4
+False,3034,Kamil Glik,3,Right Center Back,107.4,39.6,75687dd3-3d5a-49c8-b967-883288b84ed4
+False,4626,Jan Bednarek,5,Left Center Back,104.8,35.3,75687dd3-3d5a-49c8-b967-883288b84ed4
+False,5668,Robert Lewandowski,24,Left Center Forward,106.3,44.9,75687dd3-3d5a-49c8-b967-883288b84ed4
+False,5673,Bartosz Bereszyński,2,Right Back,104.9,39.1,75687dd3-3d5a-49c8-b967-883288b84ed4
+False,7979,Przemysław Frankowski,6,Left Back,106.6,48.5,75687dd3-3d5a-49c8-b967-883288b84ed4
+False,5660,Piotr Zieliński,20,Left Attacking Midfield,103.4,49.1,75687dd3-3d5a-49c8-b967-883288b84ed4
+True,26875,Marcus Andreas Danielsson,5,Left Center Back,105.5,45.0,75687dd3-3d5a-49c8-b967-883288b84ed4
+True,3702,Victor Nilsson Lindelöf,3,Right Center Back,100.6,32.5,75687dd3-3d5a-49c8-b967-883288b84ed4
+True,22818,Dejan Kulusevski,22,Right Center Forward,105.1,59.3,75687dd3-3d5a-49c8-b967-883288b84ed4
+True,6358,Emil Krafth,2,Right Back,91.7,37.6,75687dd3-3d5a-49c8-b967-883288b84ed4
+True,11098,Marcus Berg,24,Left Center Forward,106.4,39.6,75687dd3-3d5a-49c8-b967-883288b84ed4
+True,5624,Albin Ekdal,11,Left Defensive Midfield,102.5,42.2,75687dd3-3d5a-49c8-b967-883288b84ed4
+True,5617,Sebastian Larsson,12,Right Midfield,97.0,39.6,75687dd3-3d5a-49c8-b967-883288b84ed4
+True,22818,Dejan Kulusevski,22,Right Center Forward,101.6,55.4,e50a484d-f4bc-4041-8231-ddbc056af848
+True,11098,Marcus Berg,24,Left Center Forward,110.3,28.3,e50a484d-f4bc-4041-8231-ddbc056af848
+True,3702,Victor Nilsson Lindelöf,3,Right Center Back,112.4,29.9,e50a484d-f4bc-4041-8231-ddbc056af848
+True,5624,Albin Ekdal,11,Left Defensive Midfield,106.7,40.7,e50a484d-f4bc-4041-8231-ddbc056af848
+True,5617,Sebastian Larsson,12,Right Midfield,94.2,30.6,e50a484d-f4bc-4041-8231-ddbc056af848
+True,26875,Marcus Andreas Danielsson,5,Left Center Back,113.9,39.8,e50a484d-f4bc-4041-8231-ddbc056af848
+False,18927,Jakub Świerczok,22,Right Center Forward,106.7,49.7,e50a484d-f4bc-4041-8231-ddbc056af848
+False,7979,Przemysław Frankowski,6,Left Back,109.9,47.7,e50a484d-f4bc-4041-8231-ddbc056af848
+False,8836,Karol Świderski,18,Right Attacking Midfield,108.7,31.2,e50a484d-f4bc-4041-8231-ddbc056af848
+False,3637,Grzegorz Krychowiak,9,Right Defensive Midfield,105.3,40.0,e50a484d-f4bc-4041-8231-ddbc056af848
+False,4626,Jan Bednarek,5,Left Center Back,109.9,41.9,e50a484d-f4bc-4041-8231-ddbc056af848
+False,3034,Kamil Glik,3,Right Center Back,109.9,37.6,e50a484d-f4bc-4041-8231-ddbc056af848
+False,5673,Bartosz Bereszyński,2,Right Back,107.9,26.3,e50a484d-f4bc-4041-8231-ddbc056af848
+False,5668,Robert Lewandowski,24,Left Center Forward,109.4,34.2,e50a484d-f4bc-4041-8231-ddbc056af848
+False,9622,Mateusz Andrzej Klich,11,Left Defensive Midfield,98.4,44.4,e50a484d-f4bc-4041-8231-ddbc056af848
+False,5660,Piotr Zieliński,20,Left Attacking Midfield,98.9,31.7,e50a484d-f4bc-4041-8231-ddbc056af848
+False,5669,Wojciech Szczęsny,1,Goalkeeper,118.8,39.9,e50a484d-f4bc-4041-8231-ddbc056af848
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,109.8,32.3,61044757-163b-47db-814d-170b6ddb2899
+False,5613,Viktor Claesson,16,Left Midfield,116.6,44.5,61044757-163b-47db-814d-170b6ddb2899
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,110.6,41.2,61044757-163b-47db-814d-170b6ddb2899
+False,5624,Albin Ekdal,11,Left Defensive Midfield,110.5,39.3,61044757-163b-47db-814d-170b6ddb2899
+False,11098,Marcus Berg,24,Left Center Forward,112.1,34.3,61044757-163b-47db-814d-170b6ddb2899
+False,5617,Sebastian Larsson,12,Right Midfield,113.6,36.6,61044757-163b-47db-814d-170b6ddb2899
+False,5621,Ludwig Augustinsson,6,Left Back,110.5,30.9,61044757-163b-47db-814d-170b6ddb2899
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,115.1,40.7,61044757-163b-47db-814d-170b6ddb2899
+False,6358,Emil Krafth,2,Right Back,109.0,49.1,61044757-163b-47db-814d-170b6ddb2899
+False,22818,Dejan Kulusevski,22,Right Center Forward,94.1,38.7,61044757-163b-47db-814d-170b6ddb2899
+False,5622,Robin Olsen,1,Goalkeeper,117.7,41.8,61044757-163b-47db-814d-170b6ddb2899
+True,7979,Przemysław Frankowski,6,Left Back,95.1,30.4,61044757-163b-47db-814d-170b6ddb2899
+True,3034,Kamil Glik,3,Right Center Back,110.5,36.7,61044757-163b-47db-814d-170b6ddb2899
+True,4626,Jan Bednarek,5,Left Center Back,115.8,34.6,61044757-163b-47db-814d-170b6ddb2899
+True,5660,Piotr Zieliński,20,Left Attacking Midfield,114.5,9.5,61044757-163b-47db-814d-170b6ddb2899
+True,5673,Bartosz Bereszyński,2,Right Back,91.4,42.8,61044757-163b-47db-814d-170b6ddb2899
+True,8836,Karol Świderski,18,Right Attacking Midfield,108.4,34.3,61044757-163b-47db-814d-170b6ddb2899
+True,5668,Robert Lewandowski,24,Left Center Forward,112.9,37.1,61044757-163b-47db-814d-170b6ddb2899
+True,26718,Kacper Kozłowski,11,Left Defensive Midfield,104.4,42.1,61044757-163b-47db-814d-170b6ddb2899
+True,18927,Jakub Świerczok,22,Right Center Forward,109.2,55.5,61044757-163b-47db-814d-170b6ddb2899
+True,27691,Przemysław Płacheta,9,Right Defensive Midfield,109.9,53.9,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+True,18927,Jakub Świerczok,22,Right Center Forward,103.4,46.4,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+False,5613,Viktor Claesson,16,Left Midfield,99.0,52.5,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,109.2,36.8,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,109.9,38.6,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+False,5621,Ludwig Augustinsson,6,Left Back,113.6,47.2,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+False,5622,Robin Olsen,1,Goalkeeper,115.6,41.0,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+True,26718,Kacper Kozłowski,11,Left Defensive Midfield,95.9,44.5,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+False,5617,Sebastian Larsson,12,Right Midfield,98.9,26.6,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+False,5624,Albin Ekdal,11,Left Defensive Midfield,103.1,39.1,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,101.8,31.8,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+False,6358,Emil Krafth,2,Right Back,109.5,33.6,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+True,8836,Karol Świderski,18,Right Attacking Midfield,110.6,33.0,9064d4fa-d13c-41c0-8b9e-38d27270faf4
+False,22818,Dejan Kulusevski,22,Right Center Forward,87.3,37.6,e0883b00-bcfb-42ce-aa8e-74a83463f060
+False,11098,Marcus Berg,24,Left Center Forward,104.9,40.0,e0883b00-bcfb-42ce-aa8e-74a83463f060
+False,5617,Sebastian Larsson,12,Right Midfield,109.3,32.2,e0883b00-bcfb-42ce-aa8e-74a83463f060
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,105.8,41.6,e0883b00-bcfb-42ce-aa8e-74a83463f060
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,109.9,37.5,e0883b00-bcfb-42ce-aa8e-74a83463f060
+False,6358,Emil Krafth,2,Right Back,109.2,34.5,e0883b00-bcfb-42ce-aa8e-74a83463f060
+False,5622,Robin Olsen,1,Goalkeeper,119.0,37.9,e0883b00-bcfb-42ce-aa8e-74a83463f060
+False,5613,Viktor Claesson,16,Left Midfield,100.3,55.2,e0883b00-bcfb-42ce-aa8e-74a83463f060
+False,5621,Ludwig Augustinsson,6,Left Back,107.9,52.1,e0883b00-bcfb-42ce-aa8e-74a83463f060
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,112.5,43.0,e0883b00-bcfb-42ce-aa8e-74a83463f060
+False,5624,Albin Ekdal,11,Left Defensive Midfield,103.0,45.2,e0883b00-bcfb-42ce-aa8e-74a83463f060
+True,7979,Przemysław Frankowski,6,Left Back,111.7,29.9,e0883b00-bcfb-42ce-aa8e-74a83463f060
+True,5668,Robert Lewandowski,24,Left Center Forward,112.5,33.2,e0883b00-bcfb-42ce-aa8e-74a83463f060
+True,8836,Karol Świderski,18,Right Attacking Midfield,107.7,41.8,e0883b00-bcfb-42ce-aa8e-74a83463f060
+True,5660,Piotr Zieliński,20,Left Attacking Midfield,109.8,40.5,e0883b00-bcfb-42ce-aa8e-74a83463f060
+True,26718,Kacper Kozłowski,11,Left Defensive Midfield,108.7,44.2,e0883b00-bcfb-42ce-aa8e-74a83463f060
+True,18927,Jakub Świerczok,22,Right Center Forward,110.4,48.8,e0883b00-bcfb-42ce-aa8e-74a83463f060
+True,27691,Przemysław Płacheta,9,Right Defensive Midfield,99.1,63.0,e0883b00-bcfb-42ce-aa8e-74a83463f060
+True,27691,Przemysław Płacheta,9,Right Defensive Midfield,117.8,60.7,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+False,5622,Robin Olsen,1,Goalkeeper,119.4,40.0,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+False,5621,Ludwig Augustinsson,6,Left Back,118.3,51.3,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+False,5613,Viktor Claesson,16,Left Midfield,116.0,48.1,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+False,5624,Albin Ekdal,11,Left Defensive Midfield,113.8,42.4,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,117.5,36.8,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,115.9,36.5,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+False,5617,Sebastian Larsson,12,Right Midfield,113.5,33.9,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+False,6358,Emil Krafth,2,Right Back,113.1,29.1,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,106.8,39.3,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+False,11098,Marcus Berg,24,Left Center Forward,97.9,26.8,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+True,5660,Piotr Zieliński,20,Left Attacking Midfield,104.2,40.0,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+True,5668,Robert Lewandowski,24,Left Center Forward,104.9,20.2,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+True,5673,Bartosz Bereszyński,2,Right Back,91.1,43.6,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+True,7979,Przemysław Frankowski,6,Left Back,98.8,20.2,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+True,8836,Karol Świderski,18,Right Attacking Midfield,115.9,46.5,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+True,26718,Kacper Kozłowski,11,Left Defensive Midfield,113.0,44.1,2ae48dee-06ae-4e61-8b99-4a06e87b4cf1
+True,5668,Robert Lewandowski,24,Left Center Forward,103.0,35.6,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+True,7979,Przemysław Frankowski,6,Left Back,100.6,18.1,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+True,26718,Kacper Kozłowski,11,Left Defensive Midfield,89.3,45.9,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+True,5660,Piotr Zieliński,20,Left Attacking Midfield,94.6,32.2,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+True,5673,Bartosz Bereszyński,2,Right Back,80.3,55.2,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+True,18927,Jakub Świerczok,22,Right Center Forward,109.9,43.0,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+False,5622,Robin Olsen,1,Goalkeeper,119.3,39.4,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+False,5617,Sebastian Larsson,12,Right Midfield,102.8,20.4,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+False,23444,Kristoffer Olsson,9,Right Defensive Midfield,101.3,26.8,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+False,6358,Emil Krafth,2,Right Back,105.7,24.9,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+False,5624,Albin Ekdal,11,Left Defensive Midfield,103.2,39.1,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+False,3702,Victor Nilsson Lindelöf,3,Right Center Back,109.5,35.9,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+False,5621,Ludwig Augustinsson,6,Left Back,108.6,46.3,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+False,26875,Marcus Andreas Danielsson,5,Left Center Back,110.5,41.7,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+False,5613,Viktor Claesson,16,Left Midfield,94.4,51.1,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+True,27691,Przemysław Płacheta,9,Right Defensive Midfield,101.8,59.7,c79a92a4-2f25-45ce-aeff-0ff2284ecc32
+True,23444,Kristoffer Olsson,9,Right Defensive Midfield,92.5,44.5,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+False,5669,Wojciech Szczęsny,1,Goalkeeper,117.2,43.4,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+False,4626,Jan Bednarek,5,Left Center Back,109.6,44.0,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+False,26718,Kacper Kozłowski,11,Left Defensive Midfield,103.7,32.5,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+False,27691,Przemysław Płacheta,9,Right Defensive Midfield,89.9,22.8,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+True,22818,Dejan Kulusevski,22,Right Center Forward,100.9,43.0,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+False,7979,Przemysław Frankowski,6,Left Back,106.1,48.7,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+False,5673,Bartosz Bereszyński,2,Right Back,101.1,42.0,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+False,5660,Piotr Zieliński,20,Left Attacking Midfield,94.5,34.2,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+False,3034,Kamil Glik,3,Right Center Back,94.8,39.0,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+True,11098,Marcus Berg,24,Left Center Forward,107.1,33.7,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+True,5613,Viktor Claesson,16,Left Midfield,106.4,45.1,e0071407-70d9-4bfb-8c65-07ca2cb7da79
+True,11098,Marcus Berg,24,Left Center Forward,109.9,43.6,4f40f7f9-c4c9-443e-9c94-aec56789e6d8
+True,22818,Dejan Kulusevski,22,Right Center Forward,101.0,29.3,4f40f7f9-c4c9-443e-9c94-aec56789e6d8
+False,26718,Kacper Kozłowski,11,Left Defensive Midfield,97.4,38.8,4f40f7f9-c4c9-443e-9c94-aec56789e6d8
+False,5660,Piotr Zieliński,20,Left Attacking Midfield,102.5,35.0,4f40f7f9-c4c9-443e-9c94-aec56789e6d8
+False,3034,Kamil Glik,3,Right Center Back,104.6,31.9,4f40f7f9-c4c9-443e-9c94-aec56789e6d8
+False,5673,Bartosz Bereszyński,2,Right Back,113.5,39.1,4f40f7f9-c4c9-443e-9c94-aec56789e6d8
+False,4626,Jan Bednarek,5,Left Center Back,107.9,30.0,4f40f7f9-c4c9-443e-9c94-aec56789e6d8
+False,27691,Przemysław Płacheta,9,Right Defensive Midfield,109.4,27.4,4f40f7f9-c4c9-443e-9c94-aec56789e6d8
+False,5669,Wojciech Szczęsny,1,Goalkeeper,114.5,33.8,4f40f7f9-c4c9-443e-9c94-aec56789e6d8

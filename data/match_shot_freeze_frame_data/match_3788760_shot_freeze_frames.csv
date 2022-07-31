@@ -1,0 +1,323 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,5456,Mateo Kovačić,15,Left Center Midfield,107.3,39.2,f9a4b349-e849-42f3-8e20-0fb25d021cba
+False,5461,Šime Vrsaljko,2,Right Back,109.8,32.4,f9a4b349-e849-42f3-8e20-0fb25d021cba
+False,3471,Dejan Lovren,3,Right Center Back,112.1,33.1,f9a4b349-e849-42f3-8e20-0fb25d021cba
+False,16531,Dominik Livaković,1,Goalkeeper,117.6,41.3,f9a4b349-e849-42f3-8e20-0fb25d021cba
+False,5468,Domagoj Vida,5,Left Center Back,112.1,41.2,f9a4b349-e849-42f3-8e20-0fb25d021cba
+False,33018,Joško Gvardiol,6,Left Back,106.2,43.2,f9a4b349-e849-42f3-8e20-0fb25d021cba
+False,8946,Josip Brekalo,21,Left Wing,102.9,42.5,f9a4b349-e849-42f3-8e20-0fb25d021cba
+False,5463,Luka Modrić,13,Right Center Midfield,98.2,28.9,f9a4b349-e849-42f3-8e20-0fb25d021cba
+True,8095,Jakub Jankto,21,Left Wing,113.0,23.8,f9a4b349-e849-42f3-8e20-0fb25d021cba
+True,7044,Patrik Schick,23,Center Forward,110.7,38.4,f9a4b349-e849-42f3-8e20-0fb25d021cba
+True,8579,Vladimír Darida,19,Center Attacking Midfield,109.9,54.2,f9a4b349-e849-42f3-8e20-0fb25d021cba
+True,16472,Lukáš Masopust,17,Right Wing,118.9,43.1,f9a4b349-e849-42f3-8e20-0fb25d021cba
+True,4870,Tomáš Souček,15,Left Center Midfield,110.6,35.7,f9a4b349-e849-42f3-8e20-0fb25d021cba
+False,33018,Joško Gvardiol,6,Left Back,112.6,35.1,39b08b16-c474-4f91-818e-a9394538dbd6
+False,5468,Domagoj Vida,5,Left Center Back,114.8,43.7,39b08b16-c474-4f91-818e-a9394538dbd6
+False,5461,Šime Vrsaljko,2,Right Back,118.3,36.7,39b08b16-c474-4f91-818e-a9394538dbd6
+False,5460,Andrej Kramarić,19,Center Attacking Midfield,112.7,43.3,39b08b16-c474-4f91-818e-a9394538dbd6
+False,3471,Dejan Lovren,3,Right Center Back,113.0,41.6,39b08b16-c474-4f91-818e-a9394538dbd6
+False,5456,Mateo Kovačić,15,Left Center Midfield,118.7,43.9,39b08b16-c474-4f91-818e-a9394538dbd6
+False,16531,Dominik Livaković,1,Goalkeeper,118.9,41.6,39b08b16-c474-4f91-818e-a9394538dbd6
+False,5474,Ivan Perišić,17,Right Wing,113.5,44.4,39b08b16-c474-4f91-818e-a9394538dbd6
+False,5465,Ante Rebić,23,Center Forward,112.4,48.6,39b08b16-c474-4f91-818e-a9394538dbd6
+False,8946,Josip Brekalo,21,Left Wing,101.7,49.4,39b08b16-c474-4f91-818e-a9394538dbd6
+False,5463,Luka Modrić,13,Right Center Midfield,103.8,39.5,39b08b16-c474-4f91-818e-a9394538dbd6
+True,8579,Vladimír Darida,19,Center Attacking Midfield,95.8,43.1,39b08b16-c474-4f91-818e-a9394538dbd6
+True,30328,Ondrej Celustka,3,Right Center Back,114.1,40.3,39b08b16-c474-4f91-818e-a9394538dbd6
+True,7044,Patrik Schick,23,Center Forward,114.0,34.6,39b08b16-c474-4f91-818e-a9394538dbd6
+True,13197,Tomáš Kalas,5,Left Center Back,112.2,40.9,39b08b16-c474-4f91-818e-a9394538dbd6
+True,16469,Tomáš Holeš,13,Right Center Midfield,112.8,44.0,39b08b16-c474-4f91-818e-a9394538dbd6
+True,16472,Lukáš Masopust,17,Right Wing,115.9,45.5,39b08b16-c474-4f91-818e-a9394538dbd6
+False,16469,Tomáš Holeš,13,Right Center Midfield,104.4,41.3,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,13197,Tomáš Kalas,5,Left Center Back,103.6,38.4,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,4875,Jan Bořil,6,Left Back,104.4,46.0,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,11541,Tomáš Vaclík,1,Goalkeeper,118.7,39.8,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,7044,Patrik Schick,23,Center Forward,103.7,37.7,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,8579,Vladimír Darida,19,Center Attacking Midfield,103.4,41.9,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,30328,Ondrej Celustka,3,Right Center Back,104.7,42.6,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,4870,Tomáš Souček,15,Left Center Midfield,103.8,39.2,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,8095,Jakub Jankto,21,Left Wing,103.7,36.8,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,16570,Vladimír Coufal,2,Right Back,103.9,32.6,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,16472,Lukáš Masopust,17,Right Wing,104.4,29.3,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+True,5474,Ivan Perišić,17,Right Wing,103.1,51.7,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+True,5460,Andrej Kramarić,19,Center Attacking Midfield,103.8,42.8,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+True,5465,Ante Rebić,23,Center Forward,103.8,41.0,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+True,8946,Josip Brekalo,21,Left Wing,104.3,30.6,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+True,5456,Mateo Kovačić,15,Left Center Midfield,99.0,31.5,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+True,5463,Luka Modrić,13,Right Center Midfield,90.5,40.9,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+True,33018,Joško Gvardiol,6,Left Back,89.6,19.3,5b8b1279-23ff-4fed-a637-cafdfb83ce54
+False,5474,Ivan Perišić,17,Right Wing,105.6,39.0,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+False,5463,Luka Modrić,13,Right Center Midfield,107.9,41.5,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+False,5456,Mateo Kovačić,15,Left Center Midfield,107.8,48.1,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+False,5461,Šime Vrsaljko,2,Right Back,112.4,35.4,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+False,3471,Dejan Lovren,3,Right Center Back,114.9,43.0,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+False,33018,Joško Gvardiol,6,Left Back,114.7,50.2,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+False,5468,Domagoj Vida,5,Left Center Back,110.6,58.8,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+False,16531,Dominik Livaković,1,Goalkeeper,120.0,37.7,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+True,8579,Vladimír Darida,19,Center Attacking Midfield,113.5,44.3,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+True,7044,Patrik Schick,23,Center Forward,114.1,38.4,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+True,4875,Jan Bořil,6,Left Back,99.9,41.7,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+True,4870,Tomáš Souček,15,Left Center Midfield,114.4,53.8,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+True,16472,Lukáš Masopust,17,Right Wing,103.9,67.8,c1b6cd0d-d6c2-427d-9fc0-ab82ad9002e3
+False,5460,Andrej Kramarić,19,Center Attacking Midfield,106.1,35.9,0ef04670-c6c8-4be9-9c68-319db4b67d91
+False,8946,Josip Brekalo,21,Left Wing,111.4,43.9,0ef04670-c6c8-4be9-9c68-319db4b67d91
+False,5456,Mateo Kovačić,15,Left Center Midfield,111.4,40.2,0ef04670-c6c8-4be9-9c68-319db4b67d91
+False,5461,Šime Vrsaljko,2,Right Back,112.9,29.2,0ef04670-c6c8-4be9-9c68-319db4b67d91
+False,3471,Dejan Lovren,3,Right Center Back,115.1,34.1,0ef04670-c6c8-4be9-9c68-319db4b67d91
+False,5463,Luka Modrić,13,Right Center Midfield,102.2,32.0,0ef04670-c6c8-4be9-9c68-319db4b67d91
+False,33018,Joško Gvardiol,6,Left Back,114.7,49.9,0ef04670-c6c8-4be9-9c68-319db4b67d91
+False,5468,Domagoj Vida,5,Left Center Back,117.3,38.6,0ef04670-c6c8-4be9-9c68-319db4b67d91
+False,16531,Dominik Livaković,1,Goalkeeper,118.8,42.1,0ef04670-c6c8-4be9-9c68-319db4b67d91
+True,16469,Tomáš Holeš,13,Right Center Midfield,102.0,39.1,0ef04670-c6c8-4be9-9c68-319db4b67d91
+True,8579,Vladimír Darida,19,Center Attacking Midfield,115.3,38.5,0ef04670-c6c8-4be9-9c68-319db4b67d91
+True,8095,Jakub Jankto,21,Left Wing,108.4,23.5,0ef04670-c6c8-4be9-9c68-319db4b67d91
+True,4870,Tomáš Souček,15,Left Center Midfield,116.2,34.7,0ef04670-c6c8-4be9-9c68-319db4b67d91
+True,16472,Lukáš Masopust,17,Right Wing,94.2,53.6,0ef04670-c6c8-4be9-9c68-319db4b67d91
+True,16570,Vladimír Coufal,2,Right Back,113.8,55.2,0ef04670-c6c8-4be9-9c68-319db4b67d91
+False,16570,Vladimír Coufal,2,Right Back,111.3,31.6,16c2130d-8520-4be9-ac1b-5d747074906b
+False,16472,Lukáš Masopust,17,Right Wing,110.7,24.3,16c2130d-8520-4be9-ac1b-5d747074906b
+False,4875,Jan Bořil,6,Left Back,112.5,40.1,16c2130d-8520-4be9-ac1b-5d747074906b
+False,13197,Tomáš Kalas,5,Left Center Back,113.3,43.5,16c2130d-8520-4be9-ac1b-5d747074906b
+False,16469,Tomáš Holeš,13,Right Center Midfield,111.7,41.4,16c2130d-8520-4be9-ac1b-5d747074906b
+False,30328,Ondrej Celustka,3,Right Center Back,113.3,36.0,16c2130d-8520-4be9-ac1b-5d747074906b
+False,7044,Patrik Schick,23,Center Forward,110.3,34.7,16c2130d-8520-4be9-ac1b-5d747074906b
+False,4870,Tomáš Souček,15,Left Center Midfield,112.5,38.7,16c2130d-8520-4be9-ac1b-5d747074906b
+False,8579,Vladimír Darida,19,Center Attacking Midfield,104.5,17.2,16c2130d-8520-4be9-ac1b-5d747074906b
+False,8095,Jakub Jankto,21,Left Wing,98.8,38.6,16c2130d-8520-4be9-ac1b-5d747074906b
+False,11541,Tomáš Vaclík,1,Goalkeeper,117.8,38.6,16c2130d-8520-4be9-ac1b-5d747074906b
+True,33018,Joško Gvardiol,6,Left Back,111.4,41.8,16c2130d-8520-4be9-ac1b-5d747074906b
+True,3471,Dejan Lovren,3,Right Center Back,111.7,43.5,16c2130d-8520-4be9-ac1b-5d747074906b
+True,5468,Domagoj Vida,5,Left Center Back,114.9,36.5,16c2130d-8520-4be9-ac1b-5d747074906b
+True,5465,Ante Rebić,23,Center Forward,111.4,30.6,16c2130d-8520-4be9-ac1b-5d747074906b
+True,5460,Andrej Kramarić,19,Center Attacking Midfield,109.7,26.5,16c2130d-8520-4be9-ac1b-5d747074906b
+True,8946,Josip Brekalo,21,Left Wing,93.0,34.4,16c2130d-8520-4be9-ac1b-5d747074906b
+True,5463,Luka Modrić,13,Right Center Midfield,107.1,11.4,16c2130d-8520-4be9-ac1b-5d747074906b
+True,5456,Mateo Kovačić,15,Left Center Midfield,90.1,10.8,16c2130d-8520-4be9-ac1b-5d747074906b
+False,16469,Tomáš Holeš,13,Right Center Midfield,96.9,36.3,ca6ea57c-d40c-4eb3-a541-498385844882
+False,8095,Jakub Jankto,21,Left Wing,96.5,45.2,ca6ea57c-d40c-4eb3-a541-498385844882
+False,4875,Jan Bořil,6,Left Back,105.4,46.9,ca6ea57c-d40c-4eb3-a541-498385844882
+False,16472,Lukáš Masopust,17,Right Wing,99.6,29.2,ca6ea57c-d40c-4eb3-a541-498385844882
+False,4870,Tomáš Souček,15,Left Center Midfield,103.9,35.5,ca6ea57c-d40c-4eb3-a541-498385844882
+False,16570,Vladimír Coufal,2,Right Back,105.5,28.8,ca6ea57c-d40c-4eb3-a541-498385844882
+False,13197,Tomáš Kalas,5,Left Center Back,109.1,40.3,ca6ea57c-d40c-4eb3-a541-498385844882
+False,30328,Ondrej Celustka,3,Right Center Back,109.0,32.2,ca6ea57c-d40c-4eb3-a541-498385844882
+False,11541,Tomáš Vaclík,1,Goalkeeper,115.0,33.9,ca6ea57c-d40c-4eb3-a541-498385844882
+True,5460,Andrej Kramarić,19,Center Attacking Midfield,107.2,38.6,ca6ea57c-d40c-4eb3-a541-498385844882
+True,5474,Ivan Perišić,17,Right Wing,101.6,61.3,ca6ea57c-d40c-4eb3-a541-498385844882
+True,8946,Josip Brekalo,21,Left Wing,92.8,23.2,ca6ea57c-d40c-4eb3-a541-498385844882
+True,33018,Joško Gvardiol,6,Left Back,96.4,14.3,ca6ea57c-d40c-4eb3-a541-498385844882
+False,16472,Lukáš Masopust,17,Right Wing,104.2,23.6,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+False,11541,Tomáš Vaclík,1,Goalkeeper,119.1,36.7,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+False,8579,Vladimír Darida,19,Center Attacking Midfield,94.9,32.9,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+False,16469,Tomáš Holeš,13,Right Center Midfield,100.3,28.8,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+False,8095,Jakub Jankto,21,Left Wing,97.0,48.4,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+False,4875,Jan Bořil,6,Left Back,109.0,45.6,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+False,13197,Tomáš Kalas,5,Left Center Back,108.5,37.2,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+False,30328,Ondrej Celustka,3,Right Center Back,106.0,31.7,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+False,4870,Tomáš Souček,15,Left Center Midfield,100.4,25.2,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+False,16570,Vladimír Coufal,2,Right Back,108.6,21.5,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+True,5465,Ante Rebić,23,Center Forward,108.8,38.7,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+True,5474,Ivan Perišić,17,Right Wing,108.9,46.6,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+True,8946,Josip Brekalo,21,Left Wing,102.6,19.0,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+True,33018,Joško Gvardiol,6,Left Back,110.1,14.3,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+True,5456,Mateo Kovačić,15,Left Center Midfield,87.1,24.1,dd91ff0e-efea-455a-bfe1-0b6944ceaa4d
+False,5456,Mateo Kovačić,15,Left Center Midfield,105.1,42.5,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,5460,Andrej Kramarić,19,Center Attacking Midfield,105.5,36.7,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,5468,Domagoj Vida,5,Left Center Back,105.4,35.0,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,8946,Josip Brekalo,21,Left Wing,104.3,47.3,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,5463,Luka Modrić,13,Right Center Midfield,103.3,27.6,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,5465,Ante Rebić,23,Center Forward,103.9,31.9,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,5474,Ivan Perišić,17,Right Wing,104.0,31.4,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,33018,Joško Gvardiol,6,Left Back,104.3,30.7,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,3471,Dejan Lovren,3,Right Center Back,104.4,29.8,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,5461,Šime Vrsaljko,2,Right Back,104.7,28.8,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,16531,Dominik Livaković,1,Goalkeeper,118.6,41.4,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+True,30328,Ondrej Celustka,3,Right Center Back,104.6,35.5,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+True,16570,Vladimír Coufal,2,Right Back,89.6,46.8,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+True,16469,Tomáš Holeš,13,Right Center Midfield,104.3,49.7,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+True,16472,Lukáš Masopust,17,Right Wing,106.2,41.2,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+True,4870,Tomáš Souček,15,Left Center Midfield,105.1,36.4,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+True,8095,Jakub Jankto,21,Left Wing,103.8,34.0,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+True,4875,Jan Bořil,6,Left Back,95.7,38.0,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+True,8579,Vladimír Darida,19,Center Attacking Midfield,95.8,36.6,f2a81c07-82a8-4f63-bc71-8911b7bb0c57
+False,16472,Lukáš Masopust,17,Right Wing,97.9,21.3,a9666328-af25-43f3-a8a1-099e9a712641
+False,8579,Vladimír Darida,19,Center Attacking Midfield,93.1,32.9,a9666328-af25-43f3-a8a1-099e9a712641
+False,16570,Vladimír Coufal,2,Right Back,103.6,32.0,a9666328-af25-43f3-a8a1-099e9a712641
+False,30328,Ondrej Celustka,3,Right Center Back,103.1,38.3,a9666328-af25-43f3-a8a1-099e9a712641
+False,4875,Jan Bořil,6,Left Back,102.5,49.6,a9666328-af25-43f3-a8a1-099e9a712641
+False,16469,Tomáš Holeš,13,Right Center Midfield,102.3,43.3,a9666328-af25-43f3-a8a1-099e9a712641
+False,13197,Tomáš Kalas,5,Left Center Back,106.9,39.3,a9666328-af25-43f3-a8a1-099e9a712641
+False,4870,Tomáš Souček,15,Left Center Midfield,105.7,37.6,a9666328-af25-43f3-a8a1-099e9a712641
+False,7044,Patrik Schick,23,Center Forward,102.0,35.8,a9666328-af25-43f3-a8a1-099e9a712641
+False,8095,Jakub Jankto,21,Left Wing,95.1,36.9,a9666328-af25-43f3-a8a1-099e9a712641
+True,28368,Luka Ivanušec,17,Right Wing,102.2,50.7,a9666328-af25-43f3-a8a1-099e9a712641
+True,7693,Bruno Petković,23,Center Forward,103.5,35.0,a9666328-af25-43f3-a8a1-099e9a712641
+True,5460,Andrej Kramarić,19,Center Attacking Midfield,102.6,32.0,a9666328-af25-43f3-a8a1-099e9a712641
+True,5474,Ivan Perišić,21,Left Wing,95.4,33.1,a9666328-af25-43f3-a8a1-099e9a712641
+True,33018,Joško Gvardiol,6,Left Back,108.9,38.0,a9666328-af25-43f3-a8a1-099e9a712641
+True,5468,Domagoj Vida,5,Left Center Back,105.3,39.8,a9666328-af25-43f3-a8a1-099e9a712641
+True,3471,Dejan Lovren,3,Right Center Back,105.0,43.3,a9666328-af25-43f3-a8a1-099e9a712641
+True,5463,Luka Modrić,13,Right Center Midfield,90.4,17.6,a9666328-af25-43f3-a8a1-099e9a712641
+False,11541,Tomáš Vaclík,1,Goalkeeper,118.4,40.2,a9666328-af25-43f3-a8a1-099e9a712641
+True,5460,Andrej Kramarić,19,Center Attacking Midfield,98.7,36.1,059b5509-2b2b-4213-912b-bc438cd238c9
+True,7693,Bruno Petković,23,Center Forward,105.5,33.0,059b5509-2b2b-4213-912b-bc438cd238c9
+False,16469,Tomáš Holeš,13,Right Center Midfield,99.6,34.8,059b5509-2b2b-4213-912b-bc438cd238c9
+False,4875,Jan Bořil,6,Left Back,108.9,40.7,059b5509-2b2b-4213-912b-bc438cd238c9
+False,30328,Ondrej Celustka,3,Right Center Back,110.6,31.2,059b5509-2b2b-4213-912b-bc438cd238c9
+False,13197,Tomáš Kalas,5,Left Center Back,108.8,34.5,059b5509-2b2b-4213-912b-bc438cd238c9
+False,16570,Vladimír Coufal,2,Right Back,110.9,25.5,059b5509-2b2b-4213-912b-bc438cd238c9
+False,4870,Tomáš Souček,15,Left Center Midfield,106.4,26.2,059b5509-2b2b-4213-912b-bc438cd238c9
+False,8095,Jakub Jankto,21,Left Wing,99.3,41.9,059b5509-2b2b-4213-912b-bc438cd238c9
+False,11541,Tomáš Vaclík,1,Goalkeeper,118.0,36.4,059b5509-2b2b-4213-912b-bc438cd238c9
+True,28368,Luka Ivanušec,17,Right Wing,104.1,41.7,059b5509-2b2b-4213-912b-bc438cd238c9
+False,16531,Dominik Livaković,1,Goalkeeper,118.4,42.2,b65b934a-386a-412d-8bce-7867f6223fbe
+False,5474,Ivan Perišić,21,Left Wing,91.9,68.6,b65b934a-386a-412d-8bce-7867f6223fbe
+False,5463,Luka Modrić,13,Right Center Midfield,97.8,50.4,b65b934a-386a-412d-8bce-7867f6223fbe
+False,5456,Mateo Kovačić,15,Left Center Midfield,102.4,61.1,b65b934a-386a-412d-8bce-7867f6223fbe
+False,33018,Joško Gvardiol,6,Left Back,107.4,62.0,b65b934a-386a-412d-8bce-7867f6223fbe
+False,5468,Domagoj Vida,5,Left Center Back,105.0,48.7,b65b934a-386a-412d-8bce-7867f6223fbe
+False,3471,Dejan Lovren,3,Right Center Back,104.8,46.4,b65b934a-386a-412d-8bce-7867f6223fbe
+False,28368,Luka Ivanušec,17,Right Wing,100.4,32.7,b65b934a-386a-412d-8bce-7867f6223fbe
+False,5461,Šime Vrsaljko,2,Right Back,105.9,41.2,b65b934a-386a-412d-8bce-7867f6223fbe
+True,16570,Vladimír Coufal,2,Right Back,90.6,70.8,b65b934a-386a-412d-8bce-7867f6223fbe
+True,16472,Lukáš Masopust,17,Right Wing,107.0,72.6,b65b934a-386a-412d-8bce-7867f6223fbe
+True,8095,Jakub Jankto,21,Left Wing,106.8,60.1,b65b934a-386a-412d-8bce-7867f6223fbe
+True,7044,Patrik Schick,23,Center Forward,105.8,47.2,b65b934a-386a-412d-8bce-7867f6223fbe
+True,4875,Jan Bořil,6,Left Back,92.7,31.0,b65b934a-386a-412d-8bce-7867f6223fbe
+True,16469,Tomáš Holeš,13,Right Center Midfield,89.3,52.6,b65b934a-386a-412d-8bce-7867f6223fbe
+True,8579,Vladimír Darida,19,Center Attacking Midfield,96.0,62.3,b65b934a-386a-412d-8bce-7867f6223fbe
+True,8095,Jakub Jankto,21,Left Wing,100.5,20.7,e9230baa-4ae9-4aff-87d7-002e7594ad59
+True,16469,Tomáš Holeš,13,Right Center Midfield,116.9,50.0,e9230baa-4ae9-4aff-87d7-002e7594ad59
+False,5461,Šime Vrsaljko,2,Right Back,114.9,37.1,e9230baa-4ae9-4aff-87d7-002e7594ad59
+False,16531,Dominik Livaković,1,Goalkeeper,118.8,41.7,e9230baa-4ae9-4aff-87d7-002e7594ad59
+True,8579,Vladimír Darida,19,Center Attacking Midfield,103.2,48.1,e9230baa-4ae9-4aff-87d7-002e7594ad59
+True,16570,Vladimír Coufal,2,Right Back,106.8,54.8,e9230baa-4ae9-4aff-87d7-002e7594ad59
+True,16472,Lukáš Masopust,17,Right Wing,111.9,45.3,e9230baa-4ae9-4aff-87d7-002e7594ad59
+True,4870,Tomáš Souček,15,Left Center Midfield,111.5,40.3,e9230baa-4ae9-4aff-87d7-002e7594ad59
+False,28368,Luka Ivanušec,17,Right Wing,95.4,26.8,e9230baa-4ae9-4aff-87d7-002e7594ad59
+False,5474,Ivan Perišić,21,Left Wing,109.6,54.0,e9230baa-4ae9-4aff-87d7-002e7594ad59
+False,5456,Mateo Kovačić,15,Left Center Midfield,107.0,47.2,e9230baa-4ae9-4aff-87d7-002e7594ad59
+False,5463,Luka Modrić,13,Right Center Midfield,103.6,34.5,e9230baa-4ae9-4aff-87d7-002e7594ad59
+False,33018,Joško Gvardiol,6,Left Back,115.0,48.9,e9230baa-4ae9-4aff-87d7-002e7594ad59
+False,5468,Domagoj Vida,5,Left Center Back,114.3,43.6,e9230baa-4ae9-4aff-87d7-002e7594ad59
+False,3471,Dejan Lovren,3,Right Center Back,108.9,28.2,e9230baa-4ae9-4aff-87d7-002e7594ad59
+False,11541,Tomáš Vaclík,1,Goalkeeper,118.7,38.4,10ee5c0a-d35f-4247-996e-a4be835282d9
+False,16472,Lukáš Masopust,17,Right Wing,96.2,10.3,10ee5c0a-d35f-4247-996e-a4be835282d9
+False,8579,Vladimír Darida,19,Center Attacking Midfield,85.6,28.6,10ee5c0a-d35f-4247-996e-a4be835282d9
+False,16570,Vladimír Coufal,2,Right Back,103.6,18.2,10ee5c0a-d35f-4247-996e-a4be835282d9
+False,30328,Ondrej Celustka,3,Right Center Back,101.8,30.7,10ee5c0a-d35f-4247-996e-a4be835282d9
+False,13197,Tomáš Kalas,5,Left Center Back,103.1,38.7,10ee5c0a-d35f-4247-996e-a4be835282d9
+False,4870,Tomáš Souček,15,Left Center Midfield,98.8,26.2,10ee5c0a-d35f-4247-996e-a4be835282d9
+False,16469,Tomáš Holeš,13,Right Center Midfield,96.6,33.3,10ee5c0a-d35f-4247-996e-a4be835282d9
+False,8095,Jakub Jankto,21,Left Wing,92.3,43.3,10ee5c0a-d35f-4247-996e-a4be835282d9
+False,4875,Jan Bořil,6,Left Back,103.3,49.4,10ee5c0a-d35f-4247-996e-a4be835282d9
+True,33018,Joško Gvardiol,6,Left Back,89.1,4.3,10ee5c0a-d35f-4247-996e-a4be835282d9
+True,5456,Mateo Kovačić,15,Left Center Midfield,85.4,32.4,10ee5c0a-d35f-4247-996e-a4be835282d9
+True,5474,Ivan Perišić,21,Left Wing,99.0,15.0,10ee5c0a-d35f-4247-996e-a4be835282d9
+True,5460,Andrej Kramarić,19,Center Attacking Midfield,91.8,37.1,10ee5c0a-d35f-4247-996e-a4be835282d9
+True,5461,Šime Vrsaljko,2,Right Back,80.8,59.9,10ee5c0a-d35f-4247-996e-a4be835282d9
+True,7693,Bruno Petković,23,Center Forward,101.4,56.0,10ee5c0a-d35f-4247-996e-a4be835282d9
+False,8095,Jakub Jankto,21,Left Wing,107.2,44.1,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+False,13197,Tomáš Kalas,5,Left Center Back,107.6,38.5,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+False,30328,Ondrej Celustka,3,Right Center Back,108.1,35.7,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+False,4875,Jan Bořil,6,Left Back,103.1,41.5,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+False,16570,Vladimír Coufal,2,Right Back,107.6,30.8,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+False,16469,Tomáš Holeš,13,Right Center Midfield,102.6,36.0,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+False,4870,Tomáš Souček,15,Left Center Midfield,103.2,32.5,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+False,8579,Vladimír Darida,19,Center Attacking Midfield,95.8,36.9,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+False,11541,Tomáš Vaclík,1,Goalkeeper,117.9,39.6,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+True,28368,Luka Ivanušec,17,Right Wing,109.2,52.2,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+True,33018,Joško Gvardiol,6,Left Back,109.0,30.7,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+True,7693,Bruno Petković,23,Center Forward,101.2,40.2,2c5fbee4-14fc-479b-b739-5b1e0bc926f9
+False,33018,Joško Gvardiol,6,Left Back,110.3,39.4,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,7693,Bruno Petković,23,Center Forward,115.6,33.3,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,5474,Ivan Perišić,21,Left Wing,116.1,34.8,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,5468,Domagoj Vida,5,Left Center Back,116.3,38.6,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,5461,Šime Vrsaljko,2,Right Back,115.3,45.0,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,3471,Dejan Lovren,3,Right Center Back,115.4,43.2,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+True,16472,Lukáš Masopust,17,Right Wing,115.4,38.7,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+True,16469,Tomáš Holeš,13,Right Center Midfield,115.0,37.6,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+True,7044,Patrik Schick,23,Center Forward,111.8,50.7,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+True,13197,Tomáš Kalas,5,Left Center Back,109.2,39.1,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+True,30328,Ondrej Celustka,3,Right Center Back,114.4,46.3,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,5460,Andrej Kramarić,19,Center Attacking Midfield,112.5,49.3,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,5456,Mateo Kovačić,15,Left Center Midfield,107.8,31.1,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,5463,Luka Modrić,13,Right Center Midfield,112.6,20.8,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,28368,Luka Ivanušec,17,Right Wing,113.7,20.4,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,16531,Dominik Livaković,1,Goalkeeper,119.5,38.5,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+True,4875,Jan Bořil,6,Left Back,95.5,26.2,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+True,8095,Jakub Jankto,21,Left Wing,104.0,15.9,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+True,8579,Vladimír Darida,19,Center Attacking Midfield,110.4,10.7,08ffea7d-ce02-408c-881c-9dc3b31aa3e4
+False,5461,Šime Vrsaljko,2,Right Back,114.8,44.6,f5164032-1374-43fa-888b-11a21431ccf0
+True,16472,Lukáš Masopust,17,Right Wing,113.9,44.1,f5164032-1374-43fa-888b-11a21431ccf0
+False,16531,Dominik Livaković,1,Goalkeeper,119.4,40.9,f5164032-1374-43fa-888b-11a21431ccf0
+True,30328,Ondrej Celustka,3,Right Center Back,114.3,44.9,f5164032-1374-43fa-888b-11a21431ccf0
+True,13197,Tomáš Kalas,5,Left Center Back,115.5,51.1,f5164032-1374-43fa-888b-11a21431ccf0
+True,4870,Tomáš Souček,15,Left Center Midfield,115.2,37.6,f5164032-1374-43fa-888b-11a21431ccf0
+True,16469,Tomáš Holeš,13,Right Center Midfield,113.5,33.0,f5164032-1374-43fa-888b-11a21431ccf0
+False,5460,Andrej Kramarić,19,Center Attacking Midfield,113.0,49.3,f5164032-1374-43fa-888b-11a21431ccf0
+False,3471,Dejan Lovren,3,Right Center Back,114.8,44.0,f5164032-1374-43fa-888b-11a21431ccf0
+False,5456,Mateo Kovačić,15,Left Center Midfield,119.3,36.9,f5164032-1374-43fa-888b-11a21431ccf0
+False,33018,Joško Gvardiol,6,Left Back,113.0,39.6,f5164032-1374-43fa-888b-11a21431ccf0
+False,5468,Domagoj Vida,5,Left Center Back,114.9,38.8,f5164032-1374-43fa-888b-11a21431ccf0
+False,5474,Ivan Perišić,21,Left Wing,115.0,36.7,f5164032-1374-43fa-888b-11a21431ccf0
+False,7693,Bruno Petković,23,Center Forward,114.9,34.3,f5164032-1374-43fa-888b-11a21431ccf0
+False,5463,Luka Modrić,13,Right Center Midfield,103.0,30.6,f5164032-1374-43fa-888b-11a21431ccf0
+True,33018,Joško Gvardiol,6,Left Back,99.1,19.8,a3661310-f2e2-4805-bda7-5bf692f88dcd
+False,23452,Alex Král,13,Right Center Midfield,106.4,29.8,a3661310-f2e2-4805-bda7-5bf692f88dcd
+False,30328,Ondrej Celustka,3,Right Center Back,106.8,25.1,a3661310-f2e2-4805-bda7-5bf692f88dcd
+False,16570,Vladimír Coufal,2,Right Back,108.7,34.9,a3661310-f2e2-4805-bda7-5bf692f88dcd
+False,4875,Jan Bořil,6,Left Back,109.0,40.8,a3661310-f2e2-4805-bda7-5bf692f88dcd
+False,13197,Tomáš Kalas,5,Left Center Back,110.6,34.8,a3661310-f2e2-4805-bda7-5bf692f88dcd
+False,28239,Adam Hložek,17,Right Wing,103.3,48.7,a3661310-f2e2-4805-bda7-5bf692f88dcd
+False,4870,Tomáš Souček,15,Left Center Midfield,104.3,35.7,a3661310-f2e2-4805-bda7-5bf692f88dcd
+False,8579,Vladimír Darida,19,Center Attacking Midfield,99.0,40.7,a3661310-f2e2-4805-bda7-5bf692f88dcd
+False,8095,Jakub Jankto,21,Left Wing,101.7,20.8,a3661310-f2e2-4805-bda7-5bf692f88dcd
+False,11541,Tomáš Vaclík,1,Goalkeeper,117.6,39.1,a3661310-f2e2-4805-bda7-5bf692f88dcd
+True,7693,Bruno Petković,23,Center Forward,109.3,27.0,a3661310-f2e2-4805-bda7-5bf692f88dcd
+True,5474,Ivan Perišić,21,Left Wing,105.3,40.0,a3661310-f2e2-4805-bda7-5bf692f88dcd
+True,28368,Luka Ivanušec,17,Right Wing,109.2,50.3,a3661310-f2e2-4805-bda7-5bf692f88dcd
+True,23454,Petr Ševčík,21,Left Wing,107.4,57.9,a237c201-392e-4022-aeff-76ff2a38e3fe
+True,4870,Tomáš Souček,15,Left Center Midfield,110.0,40.5,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,16531,Dominik Livaković,1,Goalkeeper,119.0,38.8,a237c201-392e-4022-aeff-76ff2a38e3fe
+True,4875,Jan Bořil,6,Left Back,92.5,27.0,a237c201-392e-4022-aeff-76ff2a38e3fe
+True,8579,Vladimír Darida,19,Center Attacking Midfield,103.2,35.3,a237c201-392e-4022-aeff-76ff2a38e3fe
+True,23452,Alex Král,13,Right Center Midfield,113.6,48.4,a237c201-392e-4022-aeff-76ff2a38e3fe
+True,16037,Michael Krmenčík,23,Center Forward,108.6,38.9,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,3441,Nikola Vlašić,19,Center Attacking Midfield,98.4,37.7,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,5474,Ivan Perišić,21,Left Wing,105.5,50.5,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,33018,Joško Gvardiol,6,Left Back,111.1,53.8,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,5456,Mateo Kovačić,15,Left Center Midfield,109.0,49.2,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,5463,Luka Modrić,13,Right Center Midfield,107.4,39.1,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,28368,Luka Ivanušec,17,Right Wing,107.6,33.9,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,3471,Dejan Lovren,3,Right Center Back,110.2,36.1,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,5468,Domagoj Vida,5,Left Center Back,113.7,41.1,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,5461,Šime Vrsaljko,2,Right Back,114.7,36.5,a237c201-392e-4022-aeff-76ff2a38e3fe
+False,16570,Vladimír Coufal,2,Right Back,108.8,30.8,fe788a75-0dd5-4bdb-8d08-1c6344b0abb3
+False,11541,Tomáš Vaclík,1,Goalkeeper,115.1,37.8,fe788a75-0dd5-4bdb-8d08-1c6344b0abb3
+False,30328,Ondrej Celustka,3,Right Center Back,110.6,34.4,fe788a75-0dd5-4bdb-8d08-1c6344b0abb3
+False,13197,Tomáš Kalas,5,Left Center Back,107.4,36.7,fe788a75-0dd5-4bdb-8d08-1c6344b0abb3
+False,4875,Jan Bořil,6,Left Back,101.7,51.5,fe788a75-0dd5-4bdb-8d08-1c6344b0abb3
+False,23452,Alex Král,13,Right Center Midfield,97.2,44.0,fe788a75-0dd5-4bdb-8d08-1c6344b0abb3
+False,4870,Tomáš Souček,15,Left Center Midfield,100.5,35.1,fe788a75-0dd5-4bdb-8d08-1c6344b0abb3
+False,28239,Adam Hložek,21,Left Wing,86.2,57.0,fe788a75-0dd5-4bdb-8d08-1c6344b0abb3
+True,5474,Ivan Perišić,21,Left Wing,109.3,25.0,fe788a75-0dd5-4bdb-8d08-1c6344b0abb3
+True,3441,Nikola Vlašić,19,Center Attacking Midfield,93.8,56.5,fe788a75-0dd5-4bdb-8d08-1c6344b0abb3
+False,23452,Alex Král,13,Right Center Midfield,109.1,36.9,626eb16c-eeaa-4915-968c-aae9732ece59
+False,4875,Jan Bořil,6,Left Back,108.8,33.5,626eb16c-eeaa-4915-968c-aae9732ece59
+False,16570,Vladimír Coufal,2,Right Back,110.0,40.3,626eb16c-eeaa-4915-968c-aae9732ece59
+False,7801,Antonín Barák,19,Center Attacking Midfield,109.8,38.7,626eb16c-eeaa-4915-968c-aae9732ece59
+False,13197,Tomáš Kalas,5,Left Center Back,109.9,35.6,626eb16c-eeaa-4915-968c-aae9732ece59
+False,4870,Tomáš Souček,15,Left Center Midfield,111.0,41.7,626eb16c-eeaa-4915-968c-aae9732ece59
+False,28239,Adam Hložek,21,Left Wing,116.6,43.0,626eb16c-eeaa-4915-968c-aae9732ece59
+False,30328,Ondrej Celustka,3,Right Center Back,111.9,43.5,626eb16c-eeaa-4915-968c-aae9732ece59
+False,16037,Michael Krmenčík,23,Center Forward,111.7,45.7,626eb16c-eeaa-4915-968c-aae9732ece59
+False,11541,Tomáš Vaclík,1,Goalkeeper,118.7,40.9,626eb16c-eeaa-4915-968c-aae9732ece59
+False,23454,Petr Ševčík,17,Right Wing,105.3,48.9,626eb16c-eeaa-4915-968c-aae9732ece59
+True,3441,Nikola Vlašić,19,Center Attacking Midfield,109.1,39.0,626eb16c-eeaa-4915-968c-aae9732ece59
+True,28368,Luka Ivanušec,17,Right Wing,108.6,37.3,626eb16c-eeaa-4915-968c-aae9732ece59
+True,5468,Domagoj Vida,5,Left Center Back,112.1,45.5,626eb16c-eeaa-4915-968c-aae9732ece59
+True,3471,Dejan Lovren,3,Right Center Back,106.5,35.2,626eb16c-eeaa-4915-968c-aae9732ece59
+True,5474,Ivan Perišić,21,Left Wing,106.5,30.4,626eb16c-eeaa-4915-968c-aae9732ece59
+True,5469,Marcelo Brozović,15,Left Center Midfield,98.5,46.9,626eb16c-eeaa-4915-968c-aae9732ece59

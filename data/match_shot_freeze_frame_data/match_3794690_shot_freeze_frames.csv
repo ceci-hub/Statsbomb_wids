@@ -1,0 +1,251 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,23454,Petr Ševčík,16,Left Midfield,87.0,27.2,1fc16571-a096-46d4-931f-6f76fdcd903f
+True,7801,Antonín Barák,15,Left Center Midfield,98.2,40.4,1fc16571-a096-46d4-931f-6f76fdcd903f
+True,7044,Patrik Schick,23,Center Forward,98.9,29.3,1fc16571-a096-46d4-931f-6f76fdcd903f
+True,9397,Pavel Kadeřábek,6,Left Back,92.5,3.7,1fc16571-a096-46d4-931f-6f76fdcd903f
+True,16570,Vladimír Coufal,2,Right Back,90.5,68.2,1fc16571-a096-46d4-931f-6f76fdcd903f
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.7,40.6,1fc16571-a096-46d4-931f-6f76fdcd903f
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,87.2,35.9,1fc16571-a096-46d4-931f-6f76fdcd903f
+True,4870,Tomáš Souček,13,Right Center Midfield,90.7,32.9,1fc16571-a096-46d4-931f-6f76fdcd903f
+True,16472,Lukáš Masopust,12,Right Midfield,84.9,9.9,1fc16571-a096-46d4-931f-6f76fdcd903f
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,91.4,40.9,1fc16571-a096-46d4-931f-6f76fdcd903f
+False,6994,Marten de Roon,9,Right Defensive Midfield,93.3,33.6,1fc16571-a096-46d4-931f-6f76fdcd903f
+False,7787,Stefan de Vrij,3,Right Center Back,94.7,27.4,1fc16571-a096-46d4-931f-6f76fdcd903f
+False,8125,Denzel Dumfries,7,Right Wing Back,96.6,17.9,1fc16571-a096-46d4-931f-6f76fdcd903f
+False,8069,Matthijs de Ligt,4,Center Back,100.6,32.4,1fc16571-a096-46d4-931f-6f76fdcd903f
+False,3311,Daley Blind,5,Left Center Back,100.2,40.6,1fc16571-a096-46d4-931f-6f76fdcd903f
+False,3321,Patrick van Aanholt,8,Left Wing Back,97.7,55.0,1fc16571-a096-46d4-931f-6f76fdcd903f
+True,6994,Marten de Roon,9,Right Defensive Midfield,99.2,35.3,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+True,2988,Memphis Depay,22,Right Center Forward,111.1,61.3,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+False,7801,Antonín Barák,15,Left Center Midfield,108.2,52.6,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+False,7044,Patrik Schick,23,Center Forward,104.2,45.8,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+False,16472,Lukáš Masopust,12,Right Midfield,103.8,38.3,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,110.2,46.2,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+True,8125,Denzel Dumfries,7,Right Wing Back,111.9,43.0,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+True,15582,Donyell Malen,24,Left Center Forward,115.4,44.7,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+True,7787,Stefan de Vrij,3,Right Center Back,113.3,39.5,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+False,9397,Pavel Kadeřábek,6,Left Back,113.0,43.8,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+False,13197,Tomáš Kalas,5,Left Center Back,118.9,37.0,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+False,16469,Tomáš Holeš,10,Center Defensive Midfield,113.9,33.1,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+False,30328,Ondrej Celustka,3,Right Center Back,111.8,39.5,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+False,4870,Tomáš Souček,13,Right Center Midfield,107.8,41.0,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+False,16570,Vladimír Coufal,2,Right Back,110.4,42.1,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+False,11541,Tomáš Vaclík,1,Goalkeeper,117.9,38.2,6a0d5659-6a1e-4bed-bb16-867d87c6a91c
+True,6994,Marten de Roon,9,Right Defensive Midfield,96.3,36.7,652e7d32-21df-48d9-917d-99a476331ad5
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,109.4,47.1,652e7d32-21df-48d9-917d-99a476331ad5
+True,8125,Denzel Dumfries,7,Right Wing Back,112.8,44.2,652e7d32-21df-48d9-917d-99a476331ad5
+True,7787,Stefan de Vrij,3,Right Center Back,113.4,40.6,652e7d32-21df-48d9-917d-99a476331ad5
+True,15582,Donyell Malen,24,Left Center Forward,115.0,41.9,652e7d32-21df-48d9-917d-99a476331ad5
+True,8069,Matthijs de Ligt,4,Center Back,120.0,33.5,652e7d32-21df-48d9-917d-99a476331ad5
+False,13197,Tomáš Kalas,5,Left Center Back,120.0,34.6,652e7d32-21df-48d9-917d-99a476331ad5
+False,7044,Patrik Schick,23,Center Forward,108.2,47.9,652e7d32-21df-48d9-917d-99a476331ad5
+False,7801,Antonín Barák,15,Left Center Midfield,112.8,55.4,652e7d32-21df-48d9-917d-99a476331ad5
+False,16472,Lukáš Masopust,12,Right Midfield,104.5,37.5,652e7d32-21df-48d9-917d-99a476331ad5
+False,4870,Tomáš Souček,13,Right Center Midfield,110.3,42.3,652e7d32-21df-48d9-917d-99a476331ad5
+False,9397,Pavel Kadeřábek,6,Left Back,113.5,44.2,652e7d32-21df-48d9-917d-99a476331ad5
+False,16570,Vladimír Coufal,2,Right Back,111.7,39.6,652e7d32-21df-48d9-917d-99a476331ad5
+False,30328,Ondrej Celustka,3,Right Center Back,113.8,40.0,652e7d32-21df-48d9-917d-99a476331ad5
+False,16469,Tomáš Holeš,10,Center Defensive Midfield,114.1,36.4,652e7d32-21df-48d9-917d-99a476331ad5
+False,11541,Tomáš Vaclík,1,Goalkeeper,119.7,37.1,652e7d32-21df-48d9-917d-99a476331ad5
+True,9397,Pavel Kadeřábek,6,Left Back,112.5,22.8,663b4368-71e2-4049-ba22-c5c28d7d7d16
+True,7044,Patrik Schick,23,Center Forward,109.9,37.7,663b4368-71e2-4049-ba22-c5c28d7d7d16
+False,8125,Denzel Dumfries,7,Right Wing Back,113.7,36.4,663b4368-71e2-4049-ba22-c5c28d7d7d16
+False,7787,Stefan de Vrij,3,Right Center Back,112.1,40.7,663b4368-71e2-4049-ba22-c5c28d7d7d16
+False,8069,Matthijs de Ligt,4,Center Back,107.5,54.5,663b4368-71e2-4049-ba22-c5c28d7d7d16
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,112.2,48.7,663b4368-71e2-4049-ba22-c5c28d7d7d16
+False,3321,Patrick van Aanholt,8,Left Wing Back,109.1,67.1,663b4368-71e2-4049-ba22-c5c28d7d7d16
+False,3311,Daley Blind,5,Left Center Back,117.2,63.4,663b4368-71e2-4049-ba22-c5c28d7d7d16
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.7,43.6,663b4368-71e2-4049-ba22-c5c28d7d7d16
+False,6994,Marten de Roon,9,Right Defensive Midfield,113.7,44.4,663b4368-71e2-4049-ba22-c5c28d7d7d16
+True,7801,Antonín Barák,19,Center Attacking Midfield,108.1,44.5,663b4368-71e2-4049-ba22-c5c28d7d7d16
+True,16472,Lukáš Masopust,21,Left Wing,103.8,53.5,663b4368-71e2-4049-ba22-c5c28d7d7d16
+False,6994,Marten de Roon,9,Right Defensive Midfield,97.5,46.2,8773613b-e172-4c65-9ed5-e22e5dd9d613
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,99.7,48.8,8773613b-e172-4c65-9ed5-e22e5dd9d613
+False,3321,Patrick van Aanholt,8,Left Wing Back,105.0,61.8,8773613b-e172-4c65-9ed5-e22e5dd9d613
+False,3311,Daley Blind,5,Left Center Back,105.2,44.3,8773613b-e172-4c65-9ed5-e22e5dd9d613
+False,8069,Matthijs de Ligt,4,Center Back,108.0,38.9,8773613b-e172-4c65-9ed5-e22e5dd9d613
+False,7787,Stefan de Vrij,3,Right Center Back,108.1,33.3,8773613b-e172-4c65-9ed5-e22e5dd9d613
+False,8125,Denzel Dumfries,7,Right Wing Back,106.5,28.6,8773613b-e172-4c65-9ed5-e22e5dd9d613
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.6,40.3,8773613b-e172-4c65-9ed5-e22e5dd9d613
+True,7801,Antonín Barák,19,Center Attacking Midfield,103.1,29.0,8773613b-e172-4c65-9ed5-e22e5dd9d613
+True,16472,Lukáš Masopust,21,Left Wing,107.5,32.5,8773613b-e172-4c65-9ed5-e22e5dd9d613
+True,4870,Tomáš Souček,15,Left Center Midfield,106.9,38.9,8773613b-e172-4c65-9ed5-e22e5dd9d613
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,112.3,43.9,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+True,3321,Patrick van Aanholt,8,Left Wing Back,96.8,19.5,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+True,2988,Memphis Depay,22,Right Center Forward,112.2,37.0,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+False,7801,Antonín Barák,19,Center Attacking Midfield,95.6,46.5,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+False,16472,Lukáš Masopust,17,Right Wing,90.8,34.8,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+False,9397,Pavel Kadeřábek,6,Left Back,110.4,56.0,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+False,23454,Petr Ševčík,21,Left Wing,108.0,50.9,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+False,13197,Tomáš Kalas,5,Left Center Back,111.3,47.7,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+False,4870,Tomáš Souček,15,Left Center Midfield,108.2,41.4,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+False,16469,Tomáš Holeš,13,Right Center Midfield,111.1,45.4,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+False,30328,Ondrej Celustka,3,Right Center Back,111.9,45.2,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+False,16570,Vladimír Coufal,2,Right Back,112.7,36.6,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+False,11541,Tomáš Vaclík,1,Goalkeeper,117.8,44.4,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+True,8125,Denzel Dumfries,7,Right Wing Back,109.8,57.6,98fcf7b7-608f-4be0-8750-2eac3a5bbf97
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,114.2,37.9,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+True,15582,Donyell Malen,24,Left Center Forward,115.4,40.8,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+True,7787,Stefan de Vrij,3,Right Center Back,116.3,36.4,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+True,8125,Denzel Dumfries,7,Right Wing Back,113.9,33.6,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,16570,Vladimír Coufal,2,Right Back,111.6,37.1,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,30328,Ondrej Celustka,3,Right Center Back,109.3,39.1,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,9397,Pavel Kadeřábek,6,Left Back,109.0,36.3,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,11541,Tomáš Vaclík,1,Goalkeeper,119.3,40.6,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,16469,Tomáš Holeš,13,Right Center Midfield,109.7,44.9,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,4870,Tomáš Souček,15,Left Center Midfield,105.0,39.6,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,13197,Tomáš Kalas,5,Left Center Back,113.4,49.0,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,7044,Patrik Schick,23,Center Forward,112.0,52.0,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,16472,Lukáš Masopust,17,Right Wing,99.9,47.9,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,23454,Petr Ševčík,21,Left Wing,95.9,51.4,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,7801,Antonín Barák,19,Center Attacking Midfield,111.4,61.8,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+True,8069,Matthijs de Ligt,4,Center Back,107.7,51.3,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+True,8118,Frenkie de Jong,11,Left Defensive Midfield,102.2,67.7,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+True,2988,Memphis Depay,22,Right Center Forward,110.8,74.6,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+True,3311,Daley Blind,5,Left Center Back,100.0,49.8,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+True,6994,Marten de Roon,9,Right Defensive Midfield,95.8,40.5,9e9156f3-6a99-43f9-8132-d1a2b499cc95
+False,8125,Denzel Dumfries,7,Right Wing Back,112.6,33.4,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+False,7787,Stefan de Vrij,3,Right Center Back,109.8,42.4,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+False,8069,Matthijs de Ligt,4,Center Back,111.5,49.5,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+False,6994,Marten de Roon,9,Right Defensive Midfield,107.8,49.9,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+False,3311,Daley Blind,5,Left Center Back,99.8,51.7,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.9,40.6,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,102.9,43.5,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+True,9397,Pavel Kadeřábek,6,Left Back,108.0,28.3,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+True,23454,Petr Ševčík,21,Left Wing,101.7,44.0,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+True,7044,Patrik Schick,23,Center Forward,108.2,38.8,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+True,16472,Lukáš Masopust,17,Right Wing,107.2,48.5,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+True,16570,Vladimír Coufal,2,Right Back,99.6,63.1,27fbf687-f7e5-4502-981c-a8ac7c8ea406
+False,8069,Matthijs de Ligt,4,Center Back,114.1,38.1,a03aaf86-2547-4c92-ab53-9ae40326bad0
+False,3311,Daley Blind,5,Left Center Back,112.8,40.2,a03aaf86-2547-4c92-ab53-9ae40326bad0
+False,7787,Stefan de Vrij,3,Right Center Back,112.2,41.0,a03aaf86-2547-4c92-ab53-9ae40326bad0
+False,6994,Marten de Roon,9,Right Defensive Midfield,113.8,34.2,a03aaf86-2547-4c92-ab53-9ae40326bad0
+False,8125,Denzel Dumfries,7,Right Wing Back,113.3,44.0,a03aaf86-2547-4c92-ab53-9ae40326bad0
+False,15582,Donyell Malen,24,Left Center Forward,112.4,45.9,a03aaf86-2547-4c92-ab53-9ae40326bad0
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,114.9,45.6,a03aaf86-2547-4c92-ab53-9ae40326bad0
+False,20201,Maarten Stekelenburg,1,Goalkeeper,119.2,40.5,a03aaf86-2547-4c92-ab53-9ae40326bad0
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,113.7,54.5,a03aaf86-2547-4c92-ab53-9ae40326bad0
+False,2988,Memphis Depay,22,Right Center Forward,107.1,42.2,a03aaf86-2547-4c92-ab53-9ae40326bad0
+True,13197,Tomáš Kalas,5,Left Center Back,114.1,38.9,a03aaf86-2547-4c92-ab53-9ae40326bad0
+True,7044,Patrik Schick,23,Center Forward,113.6,34.7,a03aaf86-2547-4c92-ab53-9ae40326bad0
+True,30328,Ondrej Celustka,3,Right Center Back,113.5,46.5,a03aaf86-2547-4c92-ab53-9ae40326bad0
+True,16469,Tomáš Holeš,13,Right Center Midfield,114.2,51.7,a03aaf86-2547-4c92-ab53-9ae40326bad0
+True,23454,Petr Ševčík,21,Left Wing,101.5,49.4,a03aaf86-2547-4c92-ab53-9ae40326bad0
+False,16469,Tomáš Holeš,13,Right Center Midfield,103.3,31.2,ad8cca05-caa2-46b5-995b-730cf4c4e239
+False,11541,Tomáš Vaclík,1,Goalkeeper,116.5,35.4,ad8cca05-caa2-46b5-995b-730cf4c4e239
+False,9397,Pavel Kadeřábek,6,Left Back,110.7,45.6,ad8cca05-caa2-46b5-995b-730cf4c4e239
+False,16472,Lukáš Masopust,17,Right Wing,109.6,38.2,ad8cca05-caa2-46b5-995b-730cf4c4e239
+False,30328,Ondrej Celustka,3,Right Center Back,111.1,36.4,ad8cca05-caa2-46b5-995b-730cf4c4e239
+False,4870,Tomáš Souček,15,Left Center Midfield,110.0,29.2,ad8cca05-caa2-46b5-995b-730cf4c4e239
+False,23454,Petr Ševčík,21,Left Wing,105.5,22.3,ad8cca05-caa2-46b5-995b-730cf4c4e239
+False,16570,Vladimír Coufal,2,Right Back,110.4,23.2,ad8cca05-caa2-46b5-995b-730cf4c4e239
+False,13197,Tomáš Kalas,5,Left Center Back,111.6,21.2,ad8cca05-caa2-46b5-995b-730cf4c4e239
+True,8125,Denzel Dumfries,7,Right Wing Back,110.1,48.1,ad8cca05-caa2-46b5-995b-730cf4c4e239
+True,15582,Donyell Malen,24,Left Center Forward,109.5,41.7,ad8cca05-caa2-46b5-995b-730cf4c4e239
+True,8118,Frenkie de Jong,11,Left Defensive Midfield,102.5,29.9,ad8cca05-caa2-46b5-995b-730cf4c4e239
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,109.5,37.2,ad8cca05-caa2-46b5-995b-730cf4c4e239
+True,3311,Daley Blind,5,Left Center Back,107.7,26.2,ad8cca05-caa2-46b5-995b-730cf4c4e239
+True,2988,Memphis Depay,22,Right Center Forward,109.9,16.0,ad8cca05-caa2-46b5-995b-730cf4c4e239
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.4,39.7,77ca34da-0d78-4b2e-bbfd-f36608f29080
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,107.9,46.9,77ca34da-0d78-4b2e-bbfd-f36608f29080
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,107.6,42.8,77ca34da-0d78-4b2e-bbfd-f36608f29080
+False,3321,Patrick van Aanholt,8,Left Wing Back,108.0,40.9,77ca34da-0d78-4b2e-bbfd-f36608f29080
+False,2988,Memphis Depay,22,Right Center Forward,106.3,38.1,77ca34da-0d78-4b2e-bbfd-f36608f29080
+False,15582,Donyell Malen,24,Left Center Forward,106.0,31.6,77ca34da-0d78-4b2e-bbfd-f36608f29080
+False,3311,Daley Blind,5,Left Center Back,106.3,30.8,77ca34da-0d78-4b2e-bbfd-f36608f29080
+False,6994,Marten de Roon,9,Right Defensive Midfield,106.4,30.1,77ca34da-0d78-4b2e-bbfd-f36608f29080
+False,7787,Stefan de Vrij,3,Right Center Back,106.5,29.4,77ca34da-0d78-4b2e-bbfd-f36608f29080
+False,8125,Denzel Dumfries,7,Right Wing Back,106.7,28.7,77ca34da-0d78-4b2e-bbfd-f36608f29080
+True,16472,Lukáš Masopust,17,Right Wing,98.9,37.5,77ca34da-0d78-4b2e-bbfd-f36608f29080
+True,30328,Ondrej Celustka,3,Right Center Back,108.0,47.8,77ca34da-0d78-4b2e-bbfd-f36608f29080
+True,23454,Petr Ševčík,21,Left Wing,106.2,41.6,77ca34da-0d78-4b2e-bbfd-f36608f29080
+True,7044,Patrik Schick,23,Center Forward,95.6,23.6,77ca34da-0d78-4b2e-bbfd-f36608f29080
+True,4870,Tomáš Souček,15,Left Center Midfield,108.7,41.5,77ca34da-0d78-4b2e-bbfd-f36608f29080
+True,7801,Antonín Barák,19,Center Attacking Midfield,107.7,38.7,77ca34da-0d78-4b2e-bbfd-f36608f29080
+True,16469,Tomáš Holeš,13,Right Center Midfield,105.7,33.8,77ca34da-0d78-4b2e-bbfd-f36608f29080
+False,3321,Patrick van Aanholt,8,Left Wing Back,119.9,42.9,e601fd69-1805-4c82-a111-0fb5dd0560ac
+False,2988,Memphis Depay,22,Right Center Forward,104.4,48.6,e601fd69-1805-4c82-a111-0fb5dd0560ac
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,115.2,54.2,e601fd69-1805-4c82-a111-0fb5dd0560ac
+False,13360,Quincy Anton Promes,24,Left Center Forward,111.2,41.8,e601fd69-1805-4c82-a111-0fb5dd0560ac
+False,8125,Denzel Dumfries,7,Right Wing Back,117.6,49.1,e601fd69-1805-4c82-a111-0fb5dd0560ac
+False,3311,Daley Blind,5,Left Center Back,113.8,42.4,e601fd69-1805-4c82-a111-0fb5dd0560ac
+False,7787,Stefan de Vrij,3,Right Center Back,114.0,40.8,e601fd69-1805-4c82-a111-0fb5dd0560ac
+True,4870,Tomáš Souček,15,Left Center Midfield,113.6,42.7,e601fd69-1805-4c82-a111-0fb5dd0560ac
+True,16469,Tomáš Holeš,13,Right Center Midfield,112.7,39.8,e601fd69-1805-4c82-a111-0fb5dd0560ac
+True,13197,Tomáš Kalas,5,Left Center Back,113.0,38.7,e601fd69-1805-4c82-a111-0fb5dd0560ac
+True,30328,Ondrej Celustka,3,Right Center Back,112.0,35.9,e601fd69-1805-4c82-a111-0fb5dd0560ac
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.9,41.0,e601fd69-1805-4c82-a111-0fb5dd0560ac
+False,6994,Marten de Roon,9,Right Defensive Midfield,114.9,39.0,e601fd69-1805-4c82-a111-0fb5dd0560ac
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,114.2,36.3,e601fd69-1805-4c82-a111-0fb5dd0560ac
+True,23454,Petr Ševčík,21,Left Wing,100.4,43.0,e601fd69-1805-4c82-a111-0fb5dd0560ac
+True,16472,Lukáš Masopust,17,Right Wing,115.4,53.4,e601fd69-1805-4c82-a111-0fb5dd0560ac
+True,7801,Antonín Barák,19,Center Attacking Midfield,119.1,78.7,e601fd69-1805-4c82-a111-0fb5dd0560ac
+False,3311,Daley Blind,5,Left Center Back,110.2,38.7,c5d27a06-b8dc-4b13-80bb-f8605c9705bb
+False,7787,Stefan de Vrij,3,Right Center Back,112.0,40.5,c5d27a06-b8dc-4b13-80bb-f8605c9705bb
+False,3567,Georginio Wijnaldum,17,Right Wing,106.8,33.2,c5d27a06-b8dc-4b13-80bb-f8605c9705bb
+False,8125,Denzel Dumfries,2,Right Back,114.1,36.3,c5d27a06-b8dc-4b13-80bb-f8605c9705bb
+False,20201,Maarten Stekelenburg,1,Goalkeeper,117.3,37.3,c5d27a06-b8dc-4b13-80bb-f8605c9705bb
+True,16472,Lukáš Masopust,17,Right Wing,112.1,42.5,c5d27a06-b8dc-4b13-80bb-f8605c9705bb
+True,7044,Patrik Schick,23,Center Forward,109.1,38.1,c5d27a06-b8dc-4b13-80bb-f8605c9705bb
+True,16472,Lukáš Masopust,17,Right Wing,107.8,40.4,85c50972-0474-464f-8d66-d55f092a5987
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.5,36.4,85c50972-0474-464f-8d66-d55f092a5987
+False,3567,Georginio Wijnaldum,17,Right Wing,117.0,31.5,85c50972-0474-464f-8d66-d55f092a5987
+False,7787,Stefan de Vrij,3,Right Center Back,119.1,39.4,85c50972-0474-464f-8d66-d55f092a5987
+False,6994,Marten de Roon,13,Right Center Midfield,115.5,35.5,85c50972-0474-464f-8d66-d55f092a5987
+False,3321,Patrick van Aanholt,6,Left Back,119.7,42.6,85c50972-0474-464f-8d66-d55f092a5987
+False,8125,Denzel Dumfries,2,Right Back,117.5,40.8,85c50972-0474-464f-8d66-d55f092a5987
+False,13360,Quincy Anton Promes,21,Left Wing,111.3,40.0,85c50972-0474-464f-8d66-d55f092a5987
+False,3311,Daley Blind,5,Left Center Back,108.5,45.2,85c50972-0474-464f-8d66-d55f092a5987
+False,8118,Frenkie de Jong,15,Left Center Midfield,112.4,52.3,85c50972-0474-464f-8d66-d55f092a5987
+True,13197,Tomáš Kalas,5,Left Center Back,116.3,32.1,85c50972-0474-464f-8d66-d55f092a5987
+True,4870,Tomáš Souček,15,Left Center Midfield,115.7,40.0,85c50972-0474-464f-8d66-d55f092a5987
+True,7044,Patrik Schick,23,Center Forward,110.6,34.2,85c50972-0474-464f-8d66-d55f092a5987
+True,30328,Ondrej Celustka,3,Right Center Back,115.4,42.0,85c50972-0474-464f-8d66-d55f092a5987
+True,16472,Lukáš Masopust,17,Right Wing,102.4,39.9,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+True,7801,Antonín Barák,19,Center Attacking Midfield,97.2,29.7,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+True,7044,Patrik Schick,23,Center Forward,103.2,37.8,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+True,9397,Pavel Kadeřábek,6,Left Back,89.1,7.2,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+True,23454,Petr Ševčík,21,Left Wing,96.7,8.8,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+False,13360,Quincy Anton Promes,21,Left Wing,95.8,50.0,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+False,8118,Frenkie de Jong,13,Right Center Midfield,95.1,36.5,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+False,7829,Wout Weghorst,23,Center Forward,91.0,26.5,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+False,3321,Patrick van Aanholt,6,Left Back,104.1,43.3,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+False,3311,Daley Blind,5,Left Center Back,102.8,36.4,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+False,7787,Stefan de Vrij,3,Right Center Back,100.0,30.4,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+False,3567,Georginio Wijnaldum,17,Right Wing,97.2,18.5,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+False,8125,Denzel Dumfries,2,Right Back,101.6,20.5,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+False,20201,Maarten Stekelenburg,1,Goalkeeper,117.6,38.3,eddb53fe-5fde-41d7-8a6a-d57e6dbe7f91
+True,23454,Petr Ševčík,21,Left Wing,95.0,13.1,2aab447e-c08b-498f-8baa-3a42fb60d91c
+True,9397,Pavel Kadeřábek,6,Left Back,107.4,31.7,2aab447e-c08b-498f-8baa-3a42fb60d91c
+True,4870,Tomáš Souček,15,Left Center Midfield,107.6,39.0,2aab447e-c08b-498f-8baa-3a42fb60d91c
+True,7044,Patrik Schick,23,Center Forward,110.6,44.5,2aab447e-c08b-498f-8baa-3a42fb60d91c
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.2,38.2,2aab447e-c08b-498f-8baa-3a42fb60d91c
+False,3567,Georginio Wijnaldum,17,Right Wing,107.7,16.7,2aab447e-c08b-498f-8baa-3a42fb60d91c
+False,8125,Denzel Dumfries,2,Right Back,105.4,26.7,2aab447e-c08b-498f-8baa-3a42fb60d91c
+False,7787,Stefan de Vrij,3,Right Center Back,107.6,31.2,2aab447e-c08b-498f-8baa-3a42fb60d91c
+False,7829,Wout Weghorst,23,Center Forward,99.9,21.1,2aab447e-c08b-498f-8baa-3a42fb60d91c
+False,3311,Daley Blind,5,Left Center Back,112.3,38.5,2aab447e-c08b-498f-8baa-3a42fb60d91c
+False,3321,Patrick van Aanholt,6,Left Back,111.0,40.1,2aab447e-c08b-498f-8baa-3a42fb60d91c
+False,8118,Frenkie de Jong,13,Right Center Midfield,103.3,34.6,2aab447e-c08b-498f-8baa-3a42fb60d91c
+False,13360,Quincy Anton Promes,21,Left Wing,105.7,49.1,2aab447e-c08b-498f-8baa-3a42fb60d91c
+False,7787,Stefan de Vrij,3,Right Center Back,114.2,28.1,de3cc8db-8280-4bd1-948a-6a4aea3c8215
+False,20201,Maarten Stekelenburg,1,Goalkeeper,117.2,36.9,de3cc8db-8280-4bd1-948a-6a4aea3c8215
+True,23454,Petr Ševčík,21,Left Wing,107.2,43.5,de3cc8db-8280-4bd1-948a-6a4aea3c8215
+True,16469,Tomáš Holeš,13,Right Center Midfield,114.3,25.3,de3cc8db-8280-4bd1-948a-6a4aea3c8215
+False,8125,Denzel Dumfries,2,Right Back,106.5,31.8,de3cc8db-8280-4bd1-948a-6a4aea3c8215
+False,3311,Daley Blind,5,Left Center Back,109.8,35.0,de3cc8db-8280-4bd1-948a-6a4aea3c8215
+True,7745,Steven Berghuis,22,Right Center Forward,97.3,37.9,b80987cf-3a72-4f96-b41f-1f43e1c59369
+True,7829,Wout Weghorst,24,Left Center Forward,97.9,32.4,b80987cf-3a72-4f96-b41f-1f43e1c59369
+True,3567,Georginio Wijnaldum,3,Right Center Back,89.3,43.4,b80987cf-3a72-4f96-b41f-1f43e1c59369
+False,9397,Pavel Kadeřábek,6,Left Back,108.1,45.0,b80987cf-3a72-4f96-b41f-1f43e1c59369
+False,13197,Tomáš Kalas,5,Left Center Back,111.1,38.4,b80987cf-3a72-4f96-b41f-1f43e1c59369
+False,30328,Ondrej Celustka,3,Right Center Back,107.5,32.8,b80987cf-3a72-4f96-b41f-1f43e1c59369
+False,4870,Tomáš Souček,15,Left Center Midfield,104.2,37.8,b80987cf-3a72-4f96-b41f-1f43e1c59369
+False,16570,Vladimír Coufal,2,Right Back,107.2,26.4,b80987cf-3a72-4f96-b41f-1f43e1c59369
+False,28239,Adam Hložek,21,Left Wing,97.1,45.3,b80987cf-3a72-4f96-b41f-1f43e1c59369
+False,23452,Alex Král,13,Right Center Midfield,103.9,32.5,b80987cf-3a72-4f96-b41f-1f43e1c59369
+False,8095,Jakub Jankto,17,Right Wing,98.2,29.5,b80987cf-3a72-4f96-b41f-1f43e1c59369
+False,11541,Tomáš Vaclík,1,Goalkeeper,118.0,37.2,b80987cf-3a72-4f96-b41f-1f43e1c59369
+True,8125,Denzel Dumfries,7,Right Wing Back,109.6,47.3,b80987cf-3a72-4f96-b41f-1f43e1c59369
+True,2988,Memphis Depay,15,Left Center Midfield,109.6,37.5,b80987cf-3a72-4f96-b41f-1f43e1c59369
+True,8118,Frenkie de Jong,13,Right Center Midfield,106.8,33.8,b80987cf-3a72-4f96-b41f-1f43e1c59369

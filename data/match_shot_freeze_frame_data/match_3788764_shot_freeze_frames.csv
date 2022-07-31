@@ -1,0 +1,228 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,119.0,39.7,5eb91436-d340-473d-a008-12b8e87024df
+True,8400,Serge Gnabry,23,Center Forward,101.9,58.4,5eb91436-d340-473d-a008-12b8e87024df
+True,5579,Joshua Kimmich,7,Right Wing Back,100.7,58.4,5eb91436-d340-473d-a008-12b8e87024df
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,101.6,60.1,5eb91436-d340-473d-a008-12b8e87024df
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,103.6,50.8,5eb91436-d340-473d-a008-12b8e87024df
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,96.2,49.7,5eb91436-d340-473d-a008-12b8e87024df
+True,10287,İlkay Gündoğan,9,Right Defensive Midfield,82.6,57.1,5eb91436-d340-473d-a008-12b8e87024df
+True,5562,Thomas Müller,18,Right Attacking Midfield,93.6,44.4,5eb91436-d340-473d-a008-12b8e87024df
+True,8808,Matthias Ginter,3,Right Center Back,87.7,59.9,5eb91436-d340-473d-a008-12b8e87024df
+False,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,76.3,67.1,5eb91436-d340-473d-a008-12b8e87024df
+False,5214,William Silva de Carvalho,15,Left Center Midfield,86.9,53.7,5eb91436-d340-473d-a008-12b8e87024df
+False,5204,Bruno Miguel Borges Fernandes,13,Right Center Midfield,92.7,40.9,5eb91436-d340-473d-a008-12b8e87024df
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,98.4,39.1,5eb91436-d340-473d-a008-12b8e87024df
+False,6374,Nélson Cabral Semedo,2,Right Back,99.9,36.8,5eb91436-d340-473d-a008-12b8e87024df
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,96.7,43.8,5eb91436-d340-473d-a008-12b8e87024df
+True,6985,Robin Gosens,8,Left Wing Back,119.3,21.3,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+True,8966,Kai Havertz,20,Left Attacking Midfield,105.3,42.4,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+True,5562,Thomas Müller,18,Right Attacking Midfield,109.7,43.5,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+True,8400,Serge Gnabry,23,Center Forward,118.0,32.8,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+True,5579,Joshua Kimmich,7,Right Wing Back,115.7,46.3,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+False,5214,William Silva de Carvalho,15,Left Center Midfield,104.2,36.0,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+False,6374,Nélson Cabral Semedo,2,Right Back,111.2,31.5,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+False,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,117.8,25.9,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,117.7,28.4,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,113.9,34.6,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,111.7,38.4,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,110.8,45.4,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,117.9,41.7,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,119.1,36.4,f46c97ea-cdd7-4525-92cd-ca191d4341b0
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,104.2,54.7,93e0adc0-993a-450d-b254-b51312b8269a
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,100.3,56.4,93e0adc0-993a-450d-b254-b51312b8269a
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,99.0,51.2,93e0adc0-993a-450d-b254-b51312b8269a
+False,5214,William Silva de Carvalho,15,Left Center Midfield,90.6,53.9,93e0adc0-993a-450d-b254-b51312b8269a
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,97.3,39.6,93e0adc0-993a-450d-b254-b51312b8269a
+False,6374,Nélson Cabral Semedo,2,Right Back,97.3,26.1,93e0adc0-993a-450d-b254-b51312b8269a
+True,5579,Joshua Kimmich,7,Right Wing Back,102.7,61.5,93e0adc0-993a-450d-b254-b51312b8269a
+True,8966,Kai Havertz,20,Left Attacking Midfield,86.0,57.8,93e0adc0-993a-450d-b254-b51312b8269a
+True,8400,Serge Gnabry,23,Center Forward,95.1,39.1,93e0adc0-993a-450d-b254-b51312b8269a
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.0,41.2,93e0adc0-993a-450d-b254-b51312b8269a
+True,9929,Diogo José Teixeira da Silva,16,Left Midfield,116.5,34.7,1e5722dc-4393-4d19-8893-8a2d0f7ad883
+False,5579,Joshua Kimmich,7,Right Wing Back,116.6,36.6,1e5722dc-4393-4d19-8893-8a2d0f7ad883
+False,5570,Manuel Neuer,1,Goalkeeper,114.3,36.9,1e5722dc-4393-4d19-8893-8a2d0f7ad883
+False,6985,Robin Gosens,8,Left Wing Back,114.5,45.1,1e5722dc-4393-4d19-8893-8a2d0f7ad883
+False,8966,Kai Havertz,20,Left Attacking Midfield,107.9,36.9,1e5722dc-4393-4d19-8893-8a2d0f7ad883
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,86.8,60.2,230de5d0-5302-461a-9626-4250247bf04f
+False,6374,Nélson Cabral Semedo,2,Right Back,108.5,24.3,230de5d0-5302-461a-9626-4250247bf04f
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,105.1,33.9,230de5d0-5302-461a-9626-4250247bf04f
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,105.3,44.1,230de5d0-5302-461a-9626-4250247bf04f
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,104.6,49.2,230de5d0-5302-461a-9626-4250247bf04f
+True,8400,Serge Gnabry,23,Center Forward,98.0,30.2,230de5d0-5302-461a-9626-4250247bf04f
+True,8808,Matthias Ginter,3,Right Center Back,84.7,65.6,230de5d0-5302-461a-9626-4250247bf04f
+True,8966,Kai Havertz,20,Left Attacking Midfield,101.5,42.9,230de5d0-5302-461a-9626-4250247bf04f
+True,5562,Thomas Müller,18,Right Attacking Midfield,102.3,50.1,230de5d0-5302-461a-9626-4250247bf04f
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.5,36.0,230de5d0-5302-461a-9626-4250247bf04f
+False,5204,Bruno Miguel Borges Fernandes,13,Right Center Midfield,93.2,34.6,230de5d0-5302-461a-9626-4250247bf04f
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,94.1,41.6,230de5d0-5302-461a-9626-4250247bf04f
+False,5214,William Silva de Carvalho,15,Left Center Midfield,91.1,48.0,230de5d0-5302-461a-9626-4250247bf04f
+True,5204,Bruno Miguel Borges Fernandes,13,Right Center Midfield,85.7,52.1,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+True,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,96.4,58.6,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+True,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,100.5,65.7,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+False,5570,Manuel Neuer,1,Goalkeeper,118.9,38.6,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+False,5579,Joshua Kimmich,7,Right Wing Back,97.2,32.6,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+False,8808,Matthias Ginter,3,Right Center Back,101.1,34.8,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+False,10287,İlkay Gündoğan,9,Right Defensive Midfield,91.9,34.9,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+False,5572,Mats Hummels,4,Center Back,100.2,45.1,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+False,3167,Antonio Rüdiger,5,Left Center Back,99.9,53.4,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+False,6985,Robin Gosens,8,Left Wing Back,99.7,61.1,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+False,5574,Toni Kroos,11,Left Defensive Midfield,90.6,54.1,1e90a015-c9c1-4b73-9efa-d0ab9776389e
+False,6985,Robin Gosens,8,Left Wing Back,110.2,48.7,c4ef5387-1594-4685-a1e2-361b4fcadec0
+False,5562,Thomas Müller,18,Right Attacking Midfield,109.9,43.1,c4ef5387-1594-4685-a1e2-361b4fcadec0
+False,3167,Antonio Rüdiger,5,Left Center Back,109.9,39.9,c4ef5387-1594-4685-a1e2-361b4fcadec0
+False,5572,Mats Hummels,4,Center Back,107.0,37.5,c4ef5387-1594-4685-a1e2-361b4fcadec0
+False,8808,Matthias Ginter,3,Right Center Back,107.6,33.6,c4ef5387-1594-4685-a1e2-361b4fcadec0
+False,8966,Kai Havertz,20,Left Attacking Midfield,107.5,31.6,c4ef5387-1594-4685-a1e2-361b4fcadec0
+False,5579,Joshua Kimmich,7,Right Wing Back,101.5,24.8,c4ef5387-1594-4685-a1e2-361b4fcadec0
+False,8400,Serge Gnabry,23,Center Forward,96.6,21.7,c4ef5387-1594-4685-a1e2-361b4fcadec0
+False,5570,Manuel Neuer,1,Goalkeeper,119.1,39.8,c4ef5387-1594-4685-a1e2-361b4fcadec0
+True,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,110.4,52.8,c4ef5387-1594-4685-a1e2-361b4fcadec0
+True,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,105.3,30.0,c4ef5387-1594-4685-a1e2-361b4fcadec0
+True,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,109.6,36.0,c4ef5387-1594-4685-a1e2-361b4fcadec0
+True,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,109.7,37.8,c4ef5387-1594-4685-a1e2-361b4fcadec0
+True,8400,Serge Gnabry,23,Center Forward,102.1,31.7,08d7a287-78df-46eb-9556-31a7c1833bd5
+True,10287,İlkay Gündoğan,9,Right Defensive Midfield,90.2,48.6,08d7a287-78df-46eb-9556-31a7c1833bd5
+True,8808,Matthias Ginter,3,Right Center Back,84.8,58.8,08d7a287-78df-46eb-9556-31a7c1833bd5
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,99.8,60.8,08d7a287-78df-46eb-9556-31a7c1833bd5
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,110.6,39.2,08d7a287-78df-46eb-9556-31a7c1833bd5
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,94.5,59.1,08d7a287-78df-46eb-9556-31a7c1833bd5
+False,5204,Bruno Miguel Borges Fernandes,13,Right Center Midfield,102.5,47.6,08d7a287-78df-46eb-9556-31a7c1833bd5
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,109.0,34.2,08d7a287-78df-46eb-9556-31a7c1833bd5
+False,6374,Nélson Cabral Semedo,2,Right Back,111.4,28.7,08d7a287-78df-46eb-9556-31a7c1833bd5
+False,5214,William Silva de Carvalho,15,Left Center Midfield,99.1,34.7,08d7a287-78df-46eb-9556-31a7c1833bd5
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.5,36.8,08d7a287-78df-46eb-9556-31a7c1833bd5
+True,8966,Kai Havertz,20,Left Attacking Midfield,110.0,37.1,08d7a287-78df-46eb-9556-31a7c1833bd5
+True,8400,Serge Gnabry,23,Center Forward,110.3,34.6,4e68b78b-574a-4f6a-ae39-d0804570978e
+True,6985,Robin Gosens,8,Left Wing Back,105.9,22.8,4e68b78b-574a-4f6a-ae39-d0804570978e
+True,10287,İlkay Gündoğan,9,Right Defensive Midfield,95.0,42.0,4e68b78b-574a-4f6a-ae39-d0804570978e
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,117.9,38.7,4e68b78b-574a-4f6a-ae39-d0804570978e
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,111.5,42.3,4e68b78b-574a-4f6a-ae39-d0804570978e
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,110.8,34.4,4e68b78b-574a-4f6a-ae39-d0804570978e
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,104.8,38.1,4e68b78b-574a-4f6a-ae39-d0804570978e
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,108.5,30.2,4e68b78b-574a-4f6a-ae39-d0804570978e
+False,6374,Nélson Cabral Semedo,2,Right Back,108.4,26.5,4e68b78b-574a-4f6a-ae39-d0804570978e
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,93.4,52.6,4e68b78b-574a-4f6a-ae39-d0804570978e
+False,5214,William Silva de Carvalho,15,Left Center Midfield,99.8,40.1,4e68b78b-574a-4f6a-ae39-d0804570978e
+False,5204,Bruno Miguel Borges Fernandes,13,Right Center Midfield,103.3,25.0,4e68b78b-574a-4f6a-ae39-d0804570978e
+True,5579,Joshua Kimmich,7,Right Wing Back,111.6,49.8,4e68b78b-574a-4f6a-ae39-d0804570978e
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,119.6,41.9,a7f6932b-6475-4394-893f-c896ef82d174
+False,6374,Nélson Cabral Semedo,2,Right Back,98.4,25.7,a7f6932b-6475-4394-893f-c896ef82d174
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,104.7,52.5,a7f6932b-6475-4394-893f-c896ef82d174
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,112.5,49.8,a7f6932b-6475-4394-893f-c896ef82d174
+False,5214,William Silva de Carvalho,15,Left Center Midfield,111.0,51.3,a7f6932b-6475-4394-893f-c896ef82d174
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,110.0,42.4,a7f6932b-6475-4394-893f-c896ef82d174
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,111.8,40.6,a7f6932b-6475-4394-893f-c896ef82d174
+True,10287,İlkay Gündoğan,9,Right Defensive Midfield,98.7,44.0,a7f6932b-6475-4394-893f-c896ef82d174
+True,8400,Serge Gnabry,23,Center Forward,108.8,30.2,a7f6932b-6475-4394-893f-c896ef82d174
+True,5562,Thomas Müller,18,Right Attacking Midfield,110.9,39.7,a7f6932b-6475-4394-893f-c896ef82d174
+False,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,104.1,31.4,f9402759-50b3-4db7-a681-b64e41793961
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,107.4,37.9,f9402759-50b3-4db7-a681-b64e41793961
+False,5214,William Silva de Carvalho,15,Left Center Midfield,105.0,38.0,f9402759-50b3-4db7-a681-b64e41793961
+False,6374,Nélson Cabral Semedo,2,Right Back,111.9,30.5,f9402759-50b3-4db7-a681-b64e41793961
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,112.0,38.3,f9402759-50b3-4db7-a681-b64e41793961
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,109.9,47.6,f9402759-50b3-4db7-a681-b64e41793961
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,106.3,47.7,f9402759-50b3-4db7-a681-b64e41793961
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,90.6,61.5,f9402759-50b3-4db7-a681-b64e41793961
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.0,35.9,f9402759-50b3-4db7-a681-b64e41793961
+True,5562,Thomas Müller,18,Right Attacking Midfield,106.5,57.1,f9402759-50b3-4db7-a681-b64e41793961
+True,5579,Joshua Kimmich,7,Right Wing Back,100.8,56.0,f9402759-50b3-4db7-a681-b64e41793961
+True,8966,Kai Havertz,20,Left Attacking Midfield,104.4,35.0,f9402759-50b3-4db7-a681-b64e41793961
+True,8400,Serge Gnabry,23,Center Forward,112.3,40.6,f9402759-50b3-4db7-a681-b64e41793961
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,117.3,37.2,c0d2164a-894d-419b-8206-cc6d7969d886
+True,5562,Thomas Müller,18,Right Attacking Midfield,106.1,38.9,c0d2164a-894d-419b-8206-cc6d7969d886
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,97.4,42.2,c0d2164a-894d-419b-8206-cc6d7969d886
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,102.2,35.2,c0d2164a-894d-419b-8206-cc6d7969d886
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,104.8,32.3,c0d2164a-894d-419b-8206-cc6d7969d886
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,109.1,36.0,c0d2164a-894d-419b-8206-cc6d7969d886
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,114.9,38.8,d9c389ae-d1ee-4df1-862a-97fbfbf422aa
+True,8400,Serge Gnabry,23,Center Forward,115.8,43.7,d9c389ae-d1ee-4df1-862a-97fbfbf422aa
+True,6985,Robin Gosens,8,Left Wing Back,115.7,26.0,d9c389ae-d1ee-4df1-862a-97fbfbf422aa
+False,5214,William Silva de Carvalho,15,Left Center Midfield,108.2,37.6,d9c389ae-d1ee-4df1-862a-97fbfbf422aa
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,114.7,44.6,d9c389ae-d1ee-4df1-862a-97fbfbf422aa
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,113.6,39.2,d9c389ae-d1ee-4df1-862a-97fbfbf422aa
+False,3593,Renato Júnior Luz Sanches,12,Right Midfield,110.8,33.0,d9c389ae-d1ee-4df1-862a-97fbfbf422aa
+False,6374,Nélson Cabral Semedo,2,Right Back,113.7,31.1,d9c389ae-d1ee-4df1-862a-97fbfbf422aa
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,117.1,36.6,d9c389ae-d1ee-4df1-862a-97fbfbf422aa
+False,8808,Matthias Ginter,3,Right Center Back,98.4,24.5,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,8400,Serge Gnabry,23,Center Forward,98.3,25.7,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,8966,Kai Havertz,20,Left Attacking Midfield,98.3,26.6,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,6985,Robin Gosens,8,Left Wing Back,100.0,47.2,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,5562,Thomas Müller,18,Right Attacking Midfield,101.0,23.8,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,5574,Toni Kroos,11,Left Defensive Midfield,95.5,31.3,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,3167,Antonio Rüdiger,5,Left Center Back,99.8,44.0,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,5572,Mats Hummels,4,Center Back,98.5,39.7,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,5579,Joshua Kimmich,7,Right Wing Back,100.1,37.1,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,10287,İlkay Gündoğan,9,Right Defensive Midfield,99.9,32.8,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,5570,Manuel Neuer,1,Goalkeeper,118.7,39.6,a87bc3c3-667c-402d-9c25-da6e65e594e5
+True,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,96.5,23.0,a87bc3c3-667c-402d-9c25-da6e65e594e5
+True,5204,Bruno Miguel Borges Fernandes,13,Right Center Midfield,100.5,20.8,a87bc3c3-667c-402d-9c25-da6e65e594e5
+True,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,98.0,28.7,a87bc3c3-667c-402d-9c25-da6e65e594e5
+True,9929,Diogo José Teixeira da Silva,16,Left Midfield,99.6,31.4,a87bc3c3-667c-402d-9c25-da6e65e594e5
+True,3593,Renato Júnior Luz Sanches,12,Right Midfield,98.8,48.1,a87bc3c3-667c-402d-9c25-da6e65e594e5
+True,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,101.2,44.2,a87bc3c3-667c-402d-9c25-da6e65e594e5
+True,5214,William Silva de Carvalho,15,Left Center Midfield,88.4,38.1,a87bc3c3-667c-402d-9c25-da6e65e594e5
+False,5204,Bruno Miguel Borges Fernandes,13,Right Center Midfield,102.1,36.1,8c772a72-fdf6-4379-965d-dd984ede8a4e
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,115.5,54.6,8c772a72-fdf6-4379-965d-dd984ede8a4e
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,109.7,42.8,8c772a72-fdf6-4379-965d-dd984ede8a4e
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,115.9,47.0,8c772a72-fdf6-4379-965d-dd984ede8a4e
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,116.8,44.2,8c772a72-fdf6-4379-965d-dd984ede8a4e
+False,6374,Nélson Cabral Semedo,2,Right Back,118.1,40.5,8c772a72-fdf6-4379-965d-dd984ede8a4e
+False,10327,Rafael Alexandre Fernandes Ferreira da Silva,17,Right Wing,113.2,33.6,8c772a72-fdf6-4379-965d-dd984ede8a4e
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,119.4,40.6,8c772a72-fdf6-4379-965d-dd984ede8a4e
+True,8400,Serge Gnabry,23,Center Forward,111.9,44.6,8c772a72-fdf6-4379-965d-dd984ede8a4e
+True,5562,Thomas Müller,18,Right Attacking Midfield,108.4,35.8,8c772a72-fdf6-4379-965d-dd984ede8a4e
+True,8966,Kai Havertz,20,Left Attacking Midfield,117.3,41.0,8c772a72-fdf6-4379-965d-dd984ede8a4e
+False,5579,Joshua Kimmich,7,Right Wing Back,114.5,30.8,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+False,8966,Kai Havertz,20,Left Attacking Midfield,115.9,32.8,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+False,8808,Matthias Ginter,3,Right Center Back,113.5,37.0,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+False,3493,Emre Can,4,Center Back,113.1,41.0,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+False,5562,Thomas Müller,18,Right Attacking Midfield,112.7,45.6,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+False,8525,Marcel Halstenberg,8,Left Wing Back,117.6,45.7,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+True,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,120.0,47.3,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+True,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,120.0,45.9,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+False,5570,Manuel Neuer,1,Goalkeeper,120.0,41.2,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+False,3167,Antonio Rüdiger,5,Left Center Back,118.9,41.1,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+True,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,112.3,37.0,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+True,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,112.3,43.4,114f3ba7-ef91-4a8e-b114-4b16729a2fa6
+True,3168,João Filipe Iria Santos Moutinho,13,Right Center Midfield,113.8,7.4,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+True,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,111.3,43.6,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+True,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,110.8,47.3,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+True,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,110.7,40.3,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+True,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,107.2,52.4,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+True,10327,Rafael Alexandre Fernandes Ferreira da Silva,17,Right Wing,84.0,40.4,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+True,9929,Diogo José Teixeira da Silva,21,Left Wing,110.1,30.6,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,5570,Manuel Neuer,1,Goalkeeper,118.7,39.3,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,8400,Serge Gnabry,23,Center Forward,100.2,22.1,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,3493,Emre Can,13,Right Center Midfield,99.6,28.2,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+True,5209,Raphaël Adelino José Guerreiro,6,Left Back,107.5,14.8,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,5579,Joshua Kimmich,7,Right Wing Back,108.8,33.8,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,5574,Toni Kroos,15,Left Center Midfield,104.6,38.3,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,3167,Antonio Rüdiger,5,Left Center Back,111.7,36.6,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,6324,Leon Goretzka,20,Left Attacking Midfield,111.7,40.3,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,5562,Thomas Müller,18,Right Attacking Midfield,113.1,40.2,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,6322,Niklas Süle,4,Center Back,112.9,41.4,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,8808,Matthias Ginter,3,Right Center Back,112.9,43.5,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+False,8525,Marcel Halstenberg,8,Left Wing Back,113.3,47.2,7eec11d4-a9c3-4706-a106-9eacb7cb4255
+True,8400,Serge Gnabry,23,Center Forward,105.9,35.6,e7b1cfcf-2227-47e2-ac77-d81e2c95fa02
+True,5562,Thomas Müller,18,Right Attacking Midfield,105.5,55.7,e7b1cfcf-2227-47e2-ac77-d81e2c95fa02
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.5,41.6,e7b1cfcf-2227-47e2-ac77-d81e2c95fa02
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,105.9,39.3,e7b1cfcf-2227-47e2-ac77-d81e2c95fa02
+False,6374,Nélson Cabral Semedo,2,Right Back,91.7,30.4,e7b1cfcf-2227-47e2-ac77-d81e2c95fa02
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,103.0,45.0,e7b1cfcf-2227-47e2-ac77-d81e2c95fa02
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,106.6,47.6,e7b1cfcf-2227-47e2-ac77-d81e2c95fa02
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,117.2,42.3,ae6bb260-37e2-47d0-9956-647a5fd05b2c
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,114.2,37.5,ae6bb260-37e2-47d0-9956-647a5fd05b2c
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,115.0,35.0,ae6bb260-37e2-47d0-9956-647a5fd05b2c
+False,10327,Rafael Alexandre Fernandes Ferreira da Silva,12,Right Midfield,106.0,19.8,ae6bb260-37e2-47d0-9956-647a5fd05b2c
+False,6374,Nélson Cabral Semedo,2,Right Back,114.9,22.3,ae6bb260-37e2-47d0-9956-647a5fd05b2c
+False,13621,Danilo Luís Hélio Pereira,15,Left Center Midfield,117.8,22.0,ae6bb260-37e2-47d0-9956-647a5fd05b2c
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.7,36.1,ae6bb260-37e2-47d0-9956-647a5fd05b2c
+True,3053,Leroy Sané,23,Center Forward,117.4,27.8,ae6bb260-37e2-47d0-9956-647a5fd05b2c
+True,5574,Toni Kroos,15,Left Center Midfield,101.4,25.4,ae6bb260-37e2-47d0-9956-647a5fd05b2c
+True,6324,Leon Goretzka,20,Left Attacking Midfield,109.9,40.1,ae6bb260-37e2-47d0-9956-647a5fd05b2c
+False,8808,Matthias Ginter,3,Right Center Back,111.0,48.7,a7bf446f-242a-49d7-a458-43ab322895bb
+True,5207,Cristiano Ronaldo dos Santos Aveiro,22,Right Center Forward,104.4,46.8,a7bf446f-242a-49d7-a458-43ab322895bb
+False,5570,Manuel Neuer,1,Goalkeeper,117.0,43.6,a7bf446f-242a-49d7-a458-43ab322895bb
+False,3167,Antonio Rüdiger,5,Left Center Back,107.4,49.8,a7bf446f-242a-49d7-a458-43ab322895bb
+False,6322,Niklas Süle,4,Center Back,107.2,46.6,a7bf446f-242a-49d7-a458-43ab322895bb
+False,5574,Toni Kroos,15,Left Center Midfield,104.3,45.3,a7bf446f-242a-49d7-a458-43ab322895bb

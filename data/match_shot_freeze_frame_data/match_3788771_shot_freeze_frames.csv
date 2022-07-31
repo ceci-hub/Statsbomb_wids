@@ -1,0 +1,307 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,16531,Dominik Livaković,1,Goalkeeper,117.7,40.7,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+False,5456,Mateo Kovačić,15,Left Center Midfield,75.9,45.3,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+False,3471,Dejan Lovren,3,Right Center Back,86.7,39.2,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+False,5469,Marcelo Brozović,10,Center Defensive Midfield,89.6,40.4,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+False,33018,Joško Gvardiol,6,Left Back,92.7,45.1,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+False,5468,Domagoj Vida,5,Left Center Back,96.6,41.4,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+False,29163,Josip Juranović,2,Right Back,95.4,36.2,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+True,9974,John McGinn,13,Right Center Midfield,75.3,45.8,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+True,29571,Lyndon Dykes,22,Right Center Forward,76.2,39.3,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+True,3655,Andrew Robertson,8,Left Wing Back,77.8,19.1,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+True,10285,Stuart Armstrong,15,Left Center Midfield,84.3,28.6,26195616-ae5f-40ca-9bc7-edd0ee1ed81f
+True,7693,Bruno Petković,23,Center Forward,112.3,44.5,61fee63c-5fb9-4f82-84e2-2c1132866691
+True,5463,Luka Modrić,13,Right Center Midfield,99.5,48.0,61fee63c-5fb9-4f82-84e2-2c1132866691
+True,29163,Josip Juranović,2,Right Back,94.9,68.4,61fee63c-5fb9-4f82-84e2-2c1132866691
+True,5474,Ivan Perišić,21,Left Wing,113.6,31.3,61fee63c-5fb9-4f82-84e2-2c1132866691
+True,5456,Mateo Kovačić,15,Left Center Midfield,98.3,33.1,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,9645,David Marshall,1,Goalkeeper,118.7,38.2,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,9466,Che Adams,24,Left Center Forward,88.8,51.6,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,9974,John McGinn,13,Right Center Midfield,100.6,31.5,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,10285,Stuart Armstrong,15,Left Center Midfield,103.1,45.5,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,10534,Callum McGregor,10,Center Defensive Midfield,109.0,37.8,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,9048,"Stephen O""Donnell",7,Right Wing Back,111.5,33.2,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,3620,Scott McTominay,3,Right Center Back,110.2,36.9,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,9481,Grant Hanley,4,Center Back,112.4,39.4,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,10540,Kieran Tierney,5,Left Center Back,110.6,42.8,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,3655,Andrew Robertson,8,Left Wing Back,108.1,60.1,61fee63c-5fb9-4f82-84e2-2c1132866691
+False,9974,John McGinn,13,Right Center Midfield,99.8,26.8,808d693b-1729-42ec-83e1-93c561a8f289
+False,10534,Callum McGregor,10,Center Defensive Midfield,99.0,41.2,808d693b-1729-42ec-83e1-93c561a8f289
+False,9048,"Stephen O""Donnell",7,Right Wing Back,104.6,23.6,808d693b-1729-42ec-83e1-93c561a8f289
+False,3620,Scott McTominay,3,Right Center Back,105.3,35.1,808d693b-1729-42ec-83e1-93c561a8f289
+False,9481,Grant Hanley,4,Center Back,108.6,40.8,808d693b-1729-42ec-83e1-93c561a8f289
+False,10540,Kieran Tierney,5,Left Center Back,105.9,44.8,808d693b-1729-42ec-83e1-93c561a8f289
+False,10285,Stuart Armstrong,15,Left Center Midfield,98.1,50.8,808d693b-1729-42ec-83e1-93c561a8f289
+False,3655,Andrew Robertson,8,Left Wing Back,104.1,51.7,808d693b-1729-42ec-83e1-93c561a8f289
+True,5456,Mateo Kovačić,15,Left Center Midfield,89.4,42.6,808d693b-1729-42ec-83e1-93c561a8f289
+True,5474,Ivan Perišić,21,Left Wing,95.6,18.5,808d693b-1729-42ec-83e1-93c561a8f289
+True,33018,Joško Gvardiol,6,Left Back,101.5,15.7,808d693b-1729-42ec-83e1-93c561a8f289
+True,3441,Nikola Vlašić,17,Right Wing,103.2,33.6,808d693b-1729-42ec-83e1-93c561a8f289
+True,7693,Bruno Petković,23,Center Forward,106.6,41.9,808d693b-1729-42ec-83e1-93c561a8f289
+True,29163,Josip Juranović,2,Right Back,88.9,67.3,808d693b-1729-42ec-83e1-93c561a8f289
+False,9645,David Marshall,1,Goalkeeper,117.0,42.6,808d693b-1729-42ec-83e1-93c561a8f289
+True,9466,Che Adams,24,Left Center Forward,114.5,33.6,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+True,29571,Lyndon Dykes,22,Right Center Forward,110.4,41.6,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+True,10285,Stuart Armstrong,15,Left Center Midfield,106.6,36.9,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+True,3655,Andrew Robertson,8,Left Wing Back,111.8,16.5,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+False,16531,Dominik Livaković,1,Goalkeeper,118.0,40.0,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+False,3471,Dejan Lovren,3,Right Center Back,110.4,24.7,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+False,5463,Luka Modrić,13,Right Center Midfield,110.0,35.2,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+False,29163,Josip Juranović,2,Right Back,101.4,20.8,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+False,5468,Domagoj Vida,5,Left Center Back,110.5,40.2,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+False,5469,Marcelo Brozović,10,Center Defensive Midfield,103.8,30.3,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+False,33018,Joško Gvardiol,6,Left Back,109.3,41.5,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+False,3441,Nikola Vlašić,17,Right Wing,99.4,29.3,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+False,5474,Ivan Perišić,21,Left Wing,102.8,51.1,0e8eb541-229b-4fcc-8661-c4353a4f7d5a
+True,29163,Josip Juranović,2,Right Back,85.0,76.5,f60e33f1-f25d-4517-ba38-84c3d0382275
+False,9645,David Marshall,1,Goalkeeper,119.3,39.7,f60e33f1-f25d-4517-ba38-84c3d0382275
+False,9481,Grant Hanley,4,Center Back,95.1,30.9,f60e33f1-f25d-4517-ba38-84c3d0382275
+False,10540,Kieran Tierney,5,Left Center Back,94.3,32.0,f60e33f1-f25d-4517-ba38-84c3d0382275
+False,3655,Andrew Robertson,8,Left Wing Back,95.5,52.1,f60e33f1-f25d-4517-ba38-84c3d0382275
+False,3620,Scott McTominay,3,Right Center Back,94.3,28.2,f60e33f1-f25d-4517-ba38-84c3d0382275
+False,10285,Stuart Armstrong,15,Left Center Midfield,90.3,34.5,f60e33f1-f25d-4517-ba38-84c3d0382275
+False,9048,"Stephen O""Donnell",7,Right Wing Back,95.1,17.0,f60e33f1-f25d-4517-ba38-84c3d0382275
+False,10534,Callum McGregor,10,Center Defensive Midfield,84.2,25.7,f60e33f1-f25d-4517-ba38-84c3d0382275
+False,9974,John McGinn,13,Right Center Midfield,80.5,15.9,f60e33f1-f25d-4517-ba38-84c3d0382275
+True,5463,Luka Modrić,13,Right Center Midfield,78.7,46.8,f60e33f1-f25d-4517-ba38-84c3d0382275
+True,5456,Mateo Kovačić,15,Left Center Midfield,82.4,6.1,f60e33f1-f25d-4517-ba38-84c3d0382275
+True,7693,Bruno Petković,23,Center Forward,97.9,18.4,f60e33f1-f25d-4517-ba38-84c3d0382275
+True,3441,Nikola Vlašić,17,Right Wing,96.0,27.1,f60e33f1-f25d-4517-ba38-84c3d0382275
+False,3655,Andrew Robertson,8,Left Wing Back,106.7,53.7,e45768db-66ce-4051-aa05-d710556f38ff
+False,10540,Kieran Tierney,5,Left Center Back,106.6,39.7,e45768db-66ce-4051-aa05-d710556f38ff
+False,10285,Stuart Armstrong,15,Left Center Midfield,100.5,55.1,e45768db-66ce-4051-aa05-d710556f38ff
+False,10002,Scott McKenna,4,Center Back,104.8,51.2,e45768db-66ce-4051-aa05-d710556f38ff
+False,3620,Scott McTominay,3,Right Center Back,107.2,36.9,e45768db-66ce-4051-aa05-d710556f38ff
+False,9048,"Stephen O""Donnell",7,Right Wing Back,107.3,31.7,e45768db-66ce-4051-aa05-d710556f38ff
+False,10534,Callum McGregor,10,Center Defensive Midfield,99.5,47.1,e45768db-66ce-4051-aa05-d710556f38ff
+False,9974,John McGinn,13,Right Center Midfield,100.2,35.2,e45768db-66ce-4051-aa05-d710556f38ff
+False,9645,David Marshall,1,Goalkeeper,118.1,41.9,e45768db-66ce-4051-aa05-d710556f38ff
+True,33018,Joško Gvardiol,6,Left Back,99.0,25.7,e45768db-66ce-4051-aa05-d710556f38ff
+True,5456,Mateo Kovačić,15,Left Center Midfield,94.0,35.9,e45768db-66ce-4051-aa05-d710556f38ff
+True,5469,Marcelo Brozović,10,Center Defensive Midfield,91.9,43.0,e45768db-66ce-4051-aa05-d710556f38ff
+True,3441,Nikola Vlašić,17,Right Wing,106.3,35.2,e45768db-66ce-4051-aa05-d710556f38ff
+True,7693,Bruno Petković,23,Center Forward,104.8,54.5,e45768db-66ce-4051-aa05-d710556f38ff
+True,5474,Ivan Perišić,21,Left Wing,103.7,51.3,e45768db-66ce-4051-aa05-d710556f38ff
+False,3655,Andrew Robertson,8,Left Wing Back,110.8,43.9,4fe40aba-c304-4c5e-b007-a56d75eb951e
+False,10540,Kieran Tierney,5,Left Center Back,111.9,39.3,4fe40aba-c304-4c5e-b007-a56d75eb951e
+False,10002,Scott McKenna,4,Center Back,113.4,31.9,4fe40aba-c304-4c5e-b007-a56d75eb951e
+False,3620,Scott McTominay,3,Right Center Back,113.0,30.4,4fe40aba-c304-4c5e-b007-a56d75eb951e
+False,9048,"Stephen O""Donnell",7,Right Wing Back,112.9,22.7,4fe40aba-c304-4c5e-b007-a56d75eb951e
+False,10534,Callum McGregor,10,Center Defensive Midfield,107.5,33.8,4fe40aba-c304-4c5e-b007-a56d75eb951e
+False,10285,Stuart Armstrong,15,Left Center Midfield,103.4,39.1,4fe40aba-c304-4c5e-b007-a56d75eb951e
+False,9974,John McGinn,13,Right Center Midfield,105.6,26.1,4fe40aba-c304-4c5e-b007-a56d75eb951e
+False,9645,David Marshall,1,Goalkeeper,118.2,36.3,4fe40aba-c304-4c5e-b007-a56d75eb951e
+True,5456,Mateo Kovačić,15,Left Center Midfield,104.4,35.8,4fe40aba-c304-4c5e-b007-a56d75eb951e
+True,7693,Bruno Petković,23,Center Forward,113.0,31.3,4fe40aba-c304-4c5e-b007-a56d75eb951e
+True,5463,Luka Modrić,13,Right Center Midfield,109.6,39.9,4fe40aba-c304-4c5e-b007-a56d75eb951e
+False,5468,Domagoj Vida,5,Left Center Back,105.3,40.8,e8241cee-10e8-4445-865e-fbc57cc89072
+False,16531,Dominik Livaković,1,Goalkeeper,118.0,39.5,e8241cee-10e8-4445-865e-fbc57cc89072
+False,5463,Luka Modrić,13,Right Center Midfield,95.6,54.2,e8241cee-10e8-4445-865e-fbc57cc89072
+False,5456,Mateo Kovačić,15,Left Center Midfield,98.1,31.9,e8241cee-10e8-4445-865e-fbc57cc89072
+False,5474,Ivan Perišić,21,Left Wing,106.6,49.8,e8241cee-10e8-4445-865e-fbc57cc89072
+False,5469,Marcelo Brozović,10,Center Defensive Midfield,102.4,39.8,e8241cee-10e8-4445-865e-fbc57cc89072
+False,3471,Dejan Lovren,3,Right Center Back,105.2,39.9,e8241cee-10e8-4445-865e-fbc57cc89072
+False,33018,Joško Gvardiol,6,Left Back,106.9,42.0,e8241cee-10e8-4445-865e-fbc57cc89072
+False,29163,Josip Juranović,2,Right Back,106.5,33.3,e8241cee-10e8-4445-865e-fbc57cc89072
+False,3441,Nikola Vlašić,17,Right Wing,101.0,21.0,e8241cee-10e8-4445-865e-fbc57cc89072
+True,9048,"Stephen O""Donnell",7,Right Wing Back,95.7,57.4,e8241cee-10e8-4445-865e-fbc57cc89072
+True,9974,John McGinn,13,Right Center Midfield,88.4,32.4,e8241cee-10e8-4445-865e-fbc57cc89072
+True,10285,Stuart Armstrong,15,Left Center Midfield,104.6,57.4,e8241cee-10e8-4445-865e-fbc57cc89072
+True,10540,Kieran Tierney,5,Left Center Back,104.7,18.6,e8241cee-10e8-4445-865e-fbc57cc89072
+True,3655,Andrew Robertson,8,Left Wing Back,94.2,21.6,e8241cee-10e8-4445-865e-fbc57cc89072
+True,29571,Lyndon Dykes,22,Right Center Forward,107.9,36.9,e8241cee-10e8-4445-865e-fbc57cc89072
+True,9466,Che Adams,24,Left Center Forward,106.6,44.6,e8241cee-10e8-4445-865e-fbc57cc89072
+False,9645,David Marshall,1,Goalkeeper,117.8,37.6,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+False,3655,Andrew Robertson,8,Left Wing Back,105.2,48.2,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+False,10540,Kieran Tierney,5,Left Center Back,103.2,42.2,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+False,10002,Scott McKenna,4,Center Back,102.5,35.0,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+False,9048,"Stephen O""Donnell",7,Right Wing Back,106.8,22.8,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+False,10285,Stuart Armstrong,15,Left Center Midfield,99.0,37.8,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+False,3620,Scott McTominay,3,Right Center Back,100.5,31.4,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+False,10534,Callum McGregor,10,Center Defensive Midfield,99.5,29.4,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+False,9974,John McGinn,13,Right Center Midfield,93.9,30.8,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+True,3441,Nikola Vlašić,17,Right Wing,103.5,19.0,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+True,5456,Mateo Kovačić,15,Left Center Midfield,81.6,36.8,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+True,5469,Marcelo Brozović,10,Center Defensive Midfield,85.0,47.0,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+True,7693,Bruno Petković,23,Center Forward,103.9,45.8,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+True,5463,Luka Modrić,13,Right Center Midfield,94.8,47.1,358d7f93-f6f4-438b-bbc5-3da5402b5e6b
+False,10285,Stuart Armstrong,15,Left Center Midfield,106.5,42.2,639fdd3d-4e04-4d93-8198-9794f0a2598a
+False,10534,Callum McGregor,10,Center Defensive Midfield,89.9,35.0,639fdd3d-4e04-4d93-8198-9794f0a2598a
+False,10540,Kieran Tierney,5,Left Center Back,100.6,40.7,639fdd3d-4e04-4d93-8198-9794f0a2598a
+False,3620,Scott McTominay,3,Right Center Back,97.8,33.7,639fdd3d-4e04-4d93-8198-9794f0a2598a
+False,10002,Scott McKenna,4,Center Back,100.8,38.7,639fdd3d-4e04-4d93-8198-9794f0a2598a
+False,9048,"Stephen O""Donnell",7,Right Wing Back,98.4,29.0,639fdd3d-4e04-4d93-8198-9794f0a2598a
+False,3655,Andrew Robertson,8,Left Wing Back,108.3,46.8,639fdd3d-4e04-4d93-8198-9794f0a2598a
+False,9645,David Marshall,1,Goalkeeper,110.1,40.3,639fdd3d-4e04-4d93-8198-9794f0a2598a
+True,3441,Nikola Vlašić,17,Right Wing,89.0,30.5,639fdd3d-4e04-4d93-8198-9794f0a2598a
+True,7693,Bruno Petković,23,Center Forward,93.7,41.0,639fdd3d-4e04-4d93-8198-9794f0a2598a
+True,5474,Ivan Perišić,21,Left Wing,86.9,20.1,639fdd3d-4e04-4d93-8198-9794f0a2598a
+False,9645,David Marshall,1,Goalkeeper,118.1,38.9,bf92b8f4-563c-429b-9f08-4c7938d0300d
+False,10285,Stuart Armstrong,15,Left Center Midfield,96.6,49.3,bf92b8f4-563c-429b-9f08-4c7938d0300d
+False,10534,Callum McGregor,10,Center Defensive Midfield,94.0,32.9,bf92b8f4-563c-429b-9f08-4c7938d0300d
+False,3655,Andrew Robertson,8,Left Wing Back,104.4,52.5,bf92b8f4-563c-429b-9f08-4c7938d0300d
+False,10540,Kieran Tierney,5,Left Center Back,103.3,43.9,bf92b8f4-563c-429b-9f08-4c7938d0300d
+False,10002,Scott McKenna,4,Center Back,100.8,35.5,bf92b8f4-563c-429b-9f08-4c7938d0300d
+False,3620,Scott McTominay,3,Right Center Back,103.3,32.9,bf92b8f4-563c-429b-9f08-4c7938d0300d
+False,9974,John McGinn,13,Right Center Midfield,100.7,26.2,bf92b8f4-563c-429b-9f08-4c7938d0300d
+False,9048,"Stephen O""Donnell",7,Right Wing Back,103.6,25.5,bf92b8f4-563c-429b-9f08-4c7938d0300d
+True,29163,Josip Juranović,2,Right Back,96.1,76.9,bf92b8f4-563c-429b-9f08-4c7938d0300d
+True,5456,Mateo Kovačić,15,Left Center Midfield,93.3,54.0,bf92b8f4-563c-429b-9f08-4c7938d0300d
+True,3441,Nikola Vlašić,17,Right Wing,97.0,41.6,bf92b8f4-563c-429b-9f08-4c7938d0300d
+True,5474,Ivan Perišić,21,Left Wing,99.9,19.0,bf92b8f4-563c-429b-9f08-4c7938d0300d
+True,7693,Bruno Petković,23,Center Forward,99.8,34.6,bf92b8f4-563c-429b-9f08-4c7938d0300d
+False,16531,Dominik Livaković,1,Goalkeeper,118.9,42.4,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+False,33018,Joško Gvardiol,6,Left Back,116.6,43.9,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+False,5474,Ivan Perišić,21,Left Wing,108.2,50.0,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+False,5468,Domagoj Vida,5,Left Center Back,114.8,36.8,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+False,3471,Dejan Lovren,3,Right Center Back,108.7,36.8,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+False,5456,Mateo Kovačić,15,Left Center Midfield,99.5,41.1,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+False,5469,Marcelo Brozović,10,Center Defensive Midfield,102.9,31.6,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+False,3441,Nikola Vlašić,17,Right Wing,105.9,20.9,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+True,10534,Callum McGregor,10,Center Defensive Midfield,100.7,34.6,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+True,29571,Lyndon Dykes,22,Right Center Forward,112.9,35.6,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+True,9048,"Stephen O""Donnell",7,Right Wing Back,108.4,55.6,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+True,9466,Che Adams,24,Left Center Forward,114.9,43.6,9ce5cdeb-67ee-4178-967a-cfcb2e524596
+False,9466,Che Adams,24,Left Center Forward,89.8,27.5,820a92cb-a850-4860-9ddb-2973c4231023
+False,3655,Andrew Robertson,8,Left Wing Back,106.5,48.9,820a92cb-a850-4860-9ddb-2973c4231023
+False,10285,Stuart Armstrong,15,Left Center Midfield,103.5,42.0,820a92cb-a850-4860-9ddb-2973c4231023
+False,10540,Kieran Tierney,5,Left Center Back,106.3,43.8,820a92cb-a850-4860-9ddb-2973c4231023
+False,10534,Callum McGregor,10,Center Defensive Midfield,104.5,38.1,820a92cb-a850-4860-9ddb-2973c4231023
+False,9974,John McGinn,13,Right Center Midfield,104.8,33.0,820a92cb-a850-4860-9ddb-2973c4231023
+False,10002,Scott McKenna,4,Center Back,109.3,36.0,820a92cb-a850-4860-9ddb-2973c4231023
+False,3620,Scott McTominay,3,Right Center Back,108.9,32.1,820a92cb-a850-4860-9ddb-2973c4231023
+False,9048,"Stephen O""Donnell",7,Right Wing Back,111.8,23.4,820a92cb-a850-4860-9ddb-2973c4231023
+False,9645,David Marshall,1,Goalkeeper,117.9,40.7,820a92cb-a850-4860-9ddb-2973c4231023
+True,33018,Joško Gvardiol,6,Left Back,106.2,17.0,820a92cb-a850-4860-9ddb-2973c4231023
+True,7693,Bruno Petković,23,Center Forward,110.2,28.2,820a92cb-a850-4860-9ddb-2973c4231023
+True,3441,Nikola Vlašić,17,Right Wing,107.4,47.7,820a92cb-a850-4860-9ddb-2973c4231023
+True,5456,Mateo Kovačić,15,Left Center Midfield,103.6,35.6,820a92cb-a850-4860-9ddb-2973c4231023
+True,5474,Ivan Perišić,21,Left Wing,101.0,23.7,820a92cb-a850-4860-9ddb-2973c4231023
+True,29163,Josip Juranović,2,Right Back,101.1,54.2,820a92cb-a850-4860-9ddb-2973c4231023
+True,5469,Marcelo Brozović,10,Center Defensive Midfield,94.2,38.3,820a92cb-a850-4860-9ddb-2973c4231023
+False,33018,Joško Gvardiol,6,Left Back,110.2,34.3,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,5469,Marcelo Brozović,10,Center Defensive Midfield,106.5,45.1,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,7693,Bruno Petković,23,Center Forward,106.6,43.9,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,5456,Mateo Kovačić,15,Left Center Midfield,102.5,46.5,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,3471,Dejan Lovren,3,Right Center Back,106.8,40.7,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,5474,Ivan Perišić,21,Left Wing,106.3,43.2,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,5468,Domagoj Vida,5,Left Center Back,107.2,37.6,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,16531,Dominik Livaković,1,Goalkeeper,118.8,40.7,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,5463,Luka Modrić,13,Right Center Midfield,103.3,59.0,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,3441,Nikola Vlašić,17,Right Wing,107.7,38.6,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,29163,Josip Juranović,2,Right Back,102.0,45.0,0b3326ca-75fa-4798-8042-ab299fc07b90
+True,10002,Scott McKenna,4,Center Back,109.6,35.0,0b3326ca-75fa-4798-8042-ab299fc07b90
+True,29571,Lyndon Dykes,22,Right Center Forward,113.2,37.3,0b3326ca-75fa-4798-8042-ab299fc07b90
+True,9466,Che Adams,24,Left Center Forward,107.9,46.2,0b3326ca-75fa-4798-8042-ab299fc07b90
+True,9974,John McGinn,13,Right Center Midfield,104.8,39.0,0b3326ca-75fa-4798-8042-ab299fc07b90
+True,3620,Scott McTominay,3,Right Center Back,104.0,36.1,0b3326ca-75fa-4798-8042-ab299fc07b90
+True,3655,Andrew Robertson,8,Left Wing Back,86.8,62.5,0b3326ca-75fa-4798-8042-ab299fc07b90
+True,10285,Stuart Armstrong,15,Left Center Midfield,94.0,62.5,0b3326ca-75fa-4798-8042-ab299fc07b90
+False,16531,Dominik Livaković,1,Goalkeeper,117.4,39.9,9ab7785a-6498-4f08-992a-33183bba66d5
+False,11127,Borna Barišić,6,Left Back,99.1,45.8,9ab7785a-6498-4f08-992a-33183bba66d5
+False,3471,Dejan Lovren,3,Right Center Back,99.5,35.7,9ab7785a-6498-4f08-992a-33183bba66d5
+False,5468,Domagoj Vida,5,Left Center Back,97.3,39.3,9ab7785a-6498-4f08-992a-33183bba66d5
+False,5469,Marcelo Brozović,10,Center Defensive Midfield,93.2,31.9,9ab7785a-6498-4f08-992a-33183bba66d5
+False,5463,Luka Modrić,13,Right Center Midfield,90.9,37.4,9ab7785a-6498-4f08-992a-33183bba66d5
+False,5474,Ivan Perišić,21,Left Wing,83.4,59.5,9ab7785a-6498-4f08-992a-33183bba66d5
+False,3441,Nikola Vlašić,17,Right Wing,81.1,34.5,9ab7785a-6498-4f08-992a-33183bba66d5
+False,5456,Mateo Kovačić,15,Left Center Midfield,77.9,46.3,9ab7785a-6498-4f08-992a-33183bba66d5
+True,3655,Andrew Robertson,8,Left Wing Back,91.9,38.7,9ab7785a-6498-4f08-992a-33183bba66d5
+True,29571,Lyndon Dykes,22,Right Center Forward,90.6,34.0,9ab7785a-6498-4f08-992a-33183bba66d5
+True,9466,Che Adams,24,Left Center Forward,97.2,52.0,9ab7785a-6498-4f08-992a-33183bba66d5
+True,9048,"Stephen O""Donnell",7,Right Wing Back,91.1,58.8,9ab7785a-6498-4f08-992a-33183bba66d5
+False,9466,Che Adams,24,Left Center Forward,87.3,19.2,4f40eeea-5181-4874-8788-acc2d2f4d346
+False,3655,Andrew Robertson,8,Left Wing Back,103.8,50.9,4f40eeea-5181-4874-8788-acc2d2f4d346
+False,10540,Kieran Tierney,5,Left Center Back,107.1,43.6,4f40eeea-5181-4874-8788-acc2d2f4d346
+False,10534,Callum McGregor,10,Center Defensive Midfield,103.5,28.4,4f40eeea-5181-4874-8788-acc2d2f4d346
+False,10002,Scott McKenna,4,Center Back,107.9,35.1,4f40eeea-5181-4874-8788-acc2d2f4d346
+False,3620,Scott McTominay,3,Right Center Back,105.3,28.0,4f40eeea-5181-4874-8788-acc2d2f4d346
+False,9974,John McGinn,13,Right Center Midfield,103.2,20.1,4f40eeea-5181-4874-8788-acc2d2f4d346
+False,9048,"Stephen O""Donnell",7,Right Wing Back,108.5,25.5,4f40eeea-5181-4874-8788-acc2d2f4d346
+False,9645,David Marshall,1,Goalkeeper,117.8,36.8,4f40eeea-5181-4874-8788-acc2d2f4d346
+True,5460,Andrej Kramarić,23,Center Forward,103.0,42.6,4f40eeea-5181-4874-8788-acc2d2f4d346
+True,3441,Nikola Vlašić,17,Right Wing,105.8,31.1,4f40eeea-5181-4874-8788-acc2d2f4d346
+True,5474,Ivan Perišić,21,Left Wing,106.9,20.9,4f40eeea-5181-4874-8788-acc2d2f4d346
+True,11127,Borna Barišić,6,Left Back,103.5,2.9,4f40eeea-5181-4874-8788-acc2d2f4d346
+True,5463,Luka Modrić,13,Right Center Midfield,119.8,1.2,30c28fb9-595d-452f-83e3-32a0ef353a3f
+False,9048,"Stephen O""Donnell",7,Right Wing Back,101.8,22.6,30c28fb9-595d-452f-83e3-32a0ef353a3f
+False,10002,Scott McKenna,4,Center Back,113.4,41.6,30c28fb9-595d-452f-83e3-32a0ef353a3f
+False,3620,Scott McTominay,3,Right Center Back,114.7,38.8,30c28fb9-595d-452f-83e3-32a0ef353a3f
+False,10534,Callum McGregor,10,Center Defensive Midfield,111.0,32.5,30c28fb9-595d-452f-83e3-32a0ef353a3f
+False,29571,Lyndon Dykes,22,Right Center Forward,115.5,37.5,30c28fb9-595d-452f-83e3-32a0ef353a3f
+False,9974,John McGinn,13,Right Center Midfield,115.1,34.4,30c28fb9-595d-452f-83e3-32a0ef353a3f
+False,10540,Kieran Tierney,5,Left Center Back,115.7,31.2,30c28fb9-595d-452f-83e3-32a0ef353a3f
+False,9645,David Marshall,1,Goalkeeper,119.3,37.9,30c28fb9-595d-452f-83e3-32a0ef353a3f
+True,3471,Dejan Lovren,3,Right Center Back,113.3,42.1,30c28fb9-595d-452f-83e3-32a0ef353a3f
+True,5456,Mateo Kovačić,15,Left Center Midfield,95.3,20.9,30c28fb9-595d-452f-83e3-32a0ef353a3f
+True,5460,Andrej Kramarić,23,Center Forward,114.2,38.4,30c28fb9-595d-452f-83e3-32a0ef353a3f
+True,5468,Domagoj Vida,5,Left Center Back,114.9,36.7,30c28fb9-595d-452f-83e3-32a0ef353a3f
+False,5468,Domagoj Vida,5,Left Center Back,107.1,37.0,3da97d2a-0b56-4662-b122-5219ef57bb33
+False,11127,Borna Barišić,6,Left Back,103.9,42.0,3da97d2a-0b56-4662-b122-5219ef57bb33
+False,3471,Dejan Lovren,3,Right Center Back,104.2,32.0,3da97d2a-0b56-4662-b122-5219ef57bb33
+False,29163,Josip Juranović,2,Right Back,103.0,29.7,3da97d2a-0b56-4662-b122-5219ef57bb33
+False,5469,Marcelo Brozović,10,Center Defensive Midfield,102.0,31.8,3da97d2a-0b56-4662-b122-5219ef57bb33
+False,5456,Mateo Kovačić,15,Left Center Midfield,94.1,50.4,3da97d2a-0b56-4662-b122-5219ef57bb33
+False,16531,Dominik Livaković,1,Goalkeeper,117.8,37.9,3da97d2a-0b56-4662-b122-5219ef57bb33
+True,29571,Lyndon Dykes,22,Right Center Forward,106.8,40.6,3da97d2a-0b56-4662-b122-5219ef57bb33
+True,9466,Che Adams,24,Left Center Forward,95.2,50.9,3da97d2a-0b56-4662-b122-5219ef57bb33
+False,5456,Mateo Kovačić,15,Left Center Midfield,114.5,50.8,0b3684ca-9593-4f80-bd35-ac00198eee95
+False,11127,Borna Barišić,6,Left Back,114.1,44.6,0b3684ca-9593-4f80-bd35-ac00198eee95
+False,5468,Domagoj Vida,5,Left Center Back,113.5,40.0,0b3684ca-9593-4f80-bd35-ac00198eee95
+False,29163,Josip Juranović,2,Right Back,111.8,32.8,0b3684ca-9593-4f80-bd35-ac00198eee95
+False,5469,Marcelo Brozović,10,Center Defensive Midfield,107.9,36.5,0b3684ca-9593-4f80-bd35-ac00198eee95
+False,3471,Dejan Lovren,3,Right Center Back,108.6,34.6,0b3684ca-9593-4f80-bd35-ac00198eee95
+False,16531,Dominik Livaković,1,Goalkeeper,117.6,46.2,0b3684ca-9593-4f80-bd35-ac00198eee95
+True,3581,Ryan Fraser,15,Left Center Midfield,107.4,26.7,0b3684ca-9593-4f80-bd35-ac00198eee95
+True,29571,Lyndon Dykes,22,Right Center Forward,112.2,39.7,0b3684ca-9593-4f80-bd35-ac00198eee95
+False,3471,Dejan Lovren,3,Right Center Back,116.6,36.1,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+True,29571,Lyndon Dykes,22,Right Center Forward,116.0,36.5,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,29163,Josip Juranović,2,Right Back,113.4,39.1,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,5460,Andrej Kramarić,23,Center Forward,102.8,33.8,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,28368,Luka Ivanušec,17,Right Wing,113.8,34.8,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,5465,Ante Rebić,21,Left Wing,118.2,42.3,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,5469,Marcelo Brozović,10,Center Defensive Midfield,113.0,47.9,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,11127,Borna Barišić,6,Left Back,114.5,44.0,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,5468,Domagoj Vida,5,Left Center Back,114.9,41.1,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,5456,Mateo Kovačić,15,Left Center Midfield,113.4,42.5,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,5463,Luka Modrić,13,Right Center Midfield,104.3,44.2,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,16531,Dominik Livaković,1,Goalkeeper,115.2,38.4,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+True,10540,Kieran Tierney,5,Left Center Back,113.8,39.3,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+True,10002,Scott McKenna,4,Center Back,113.9,30.7,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+True,3581,Ryan Fraser,15,Left Center Midfield,99.8,35.1,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+True,10534,Callum McGregor,10,Center Defensive Midfield,102.7,46.9,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+True,9466,Che Adams,24,Left Center Forward,114.9,46.1,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+True,9974,John McGinn,13,Right Center Midfield,114.5,42.1,56dead4e-19b7-481f-90f9-50fe8f4b2d85
+False,28368,Luka Ivanušec,17,Right Wing,95.6,31.7,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+False,11127,Borna Barišić,6,Left Back,110.4,42.3,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+False,5468,Domagoj Vida,5,Left Center Back,109.2,38.0,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+False,5465,Ante Rebić,21,Left Wing,100.9,51.5,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+False,3471,Dejan Lovren,3,Right Center Back,108.1,28.8,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+False,5456,Mateo Kovačić,15,Left Center Midfield,101.5,41.6,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+False,29163,Josip Juranović,2,Right Back,108.6,25.5,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+False,5463,Luka Modrić,13,Right Center Midfield,99.7,21.7,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+False,5469,Marcelo Brozović,10,Center Defensive Midfield,95.4,24.2,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+False,16531,Dominik Livaković,1,Goalkeeper,118.2,37.4,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+True,10540,Kieran Tierney,5,Left Center Back,96.2,13.0,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+True,3581,Ryan Fraser,15,Left Center Midfield,103.0,5.6,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+True,10534,Callum McGregor,10,Center Defensive Midfield,91.9,36.1,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+True,37338,Nathan Patterson,2,Right Back,94.2,50.9,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+True,43563,Kevin Nisbet,24,Left Center Forward,107.9,47.1,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+True,29571,Lyndon Dykes,22,Right Center Forward,109.3,39.5,d18dbae8-66b5-4cdc-ae28-816b4bb5e06d
+False,3471,Dejan Lovren,3,Right Center Back,113.9,39.1,65f5e75b-8c24-4b17-8ec3-861d33b42552
+False,5468,Domagoj Vida,5,Left Center Back,113.3,36.8,65f5e75b-8c24-4b17-8ec3-861d33b42552
+False,28368,Luka Ivanušec,17,Right Wing,108.1,45.3,65f5e75b-8c24-4b17-8ec3-861d33b42552
+False,5465,Ante Rebić,21,Left Wing,112.0,34.0,65f5e75b-8c24-4b17-8ec3-861d33b42552
+False,29163,Josip Juranović,2,Right Back,107.8,33.6,65f5e75b-8c24-4b17-8ec3-861d33b42552
+False,5460,Andrej Kramarić,23,Center Forward,99.4,40.7,65f5e75b-8c24-4b17-8ec3-861d33b42552
+False,5456,Mateo Kovačić,15,Left Center Midfield,102.2,33.4,65f5e75b-8c24-4b17-8ec3-861d33b42552
+False,11127,Borna Barišić,6,Left Back,106.5,20.0,65f5e75b-8c24-4b17-8ec3-861d33b42552
+False,5463,Luka Modrić,13,Right Center Midfield,103.2,23.5,65f5e75b-8c24-4b17-8ec3-861d33b42552
+False,16531,Dominik Livaković,1,Goalkeeper,119.5,40.0,65f5e75b-8c24-4b17-8ec3-861d33b42552
+True,3581,Ryan Fraser,15,Left Center Midfield,109.6,8.7,65f5e75b-8c24-4b17-8ec3-861d33b42552
+True,29571,Lyndon Dykes,22,Right Center Forward,113.3,37.5,65f5e75b-8c24-4b17-8ec3-861d33b42552
+True,10540,Kieran Tierney,5,Left Center Back,109.9,31.0,65f5e75b-8c24-4b17-8ec3-861d33b42552
+True,37338,Nathan Patterson,2,Right Back,96.3,42.3,65f5e75b-8c24-4b17-8ec3-861d33b42552
+True,3620,Scott McTominay,13,Right Center Midfield,113.3,38.5,65f5e75b-8c24-4b17-8ec3-861d33b42552
+True,9974,John McGinn,19,Center Attacking Midfield,103.5,53.4,65f5e75b-8c24-4b17-8ec3-861d33b42552
+True,43563,Kevin Nisbet,24,Left Center Forward,112.3,47.8,65f5e75b-8c24-4b17-8ec3-861d33b42552

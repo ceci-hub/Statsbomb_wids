@@ -1,0 +1,220 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,9929,Diogo José Teixeira da Silva,16,Left Midfield,106.4,29.5,a3b653c8-d42c-41a9-8030-1ec33651e917
+False,4445,Jules Koundé,2,Right Back,105.1,28.6,a3b653c8-d42c-41a9-8030-1ec33651e917
+False,3099,Hugo Lloris,1,Goalkeeper,118.5,39.7,a3b653c8-d42c-41a9-8030-1ec33651e917
+False,5484,Lucas Hernández Pi,6,Left Back,103.6,61.8,a3b653c8-d42c-41a9-8030-1ec33651e917
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,99.0,58.4,a3b653c8-d42c-41a9-8030-1ec33651e917
+False,5487,Antoine Griezmann,19,Center Attacking Midfield,93.7,51.0,a3b653c8-d42c-41a9-8030-1ec33651e917
+False,2999,Presnel Kimpembe,5,Left Center Back,103.7,50.9,a3b653c8-d42c-41a9-8030-1ec33651e917
+False,20004,Paul Pogba,9,Right Defensive Midfield,101.2,46.4,a3b653c8-d42c-41a9-8030-1ec33651e917
+False,5480,Corentin Tolisso,17,Right Wing,100.3,38.6,a3b653c8-d42c-41a9-8030-1ec33651e917
+False,5485,Raphaël Varane,3,Right Center Back,105.0,36.7,a3b653c8-d42c-41a9-8030-1ec33651e917
+True,3168,João Filipe Iria Santos Moutinho,13,Right Center Midfield,98.0,61.9,a3b653c8-d42c-41a9-8030-1ec33651e917
+True,5209,Raphaël Adelino José Guerreiro,6,Left Back,85.4,27.9,a3b653c8-d42c-41a9-8030-1ec33651e917
+True,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,104.4,53.1,a3b653c8-d42c-41a9-8030-1ec33651e917
+True,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,105.6,35.2,a3b653c8-d42c-41a9-8030-1ec33651e917
+True,6374,Nélson Cabral Semedo,2,Right Back,103.7,67.1,a3b653c8-d42c-41a9-8030-1ec33651e917
+False,3099,Hugo Lloris,1,Goalkeeper,118.9,40.0,bad1178a-33df-4ae6-b716-496b7728c27e
+False,5487,Antoine Griezmann,19,Center Attacking Midfield,89.3,20.0,bad1178a-33df-4ae6-b716-496b7728c27e
+False,20004,Paul Pogba,9,Right Defensive Midfield,95.7,24.7,bad1178a-33df-4ae6-b716-496b7728c27e
+False,5484,Lucas Hernández Pi,6,Left Back,110.8,47.5,bad1178a-33df-4ae6-b716-496b7728c27e
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,104.1,36.0,bad1178a-33df-4ae6-b716-496b7728c27e
+False,2999,Presnel Kimpembe,5,Left Center Back,111.9,41.2,bad1178a-33df-4ae6-b716-496b7728c27e
+False,5485,Raphaël Varane,3,Right Center Back,110.1,40.7,bad1178a-33df-4ae6-b716-496b7728c27e
+False,5480,Corentin Tolisso,17,Right Wing,94.4,16.6,bad1178a-33df-4ae6-b716-496b7728c27e
+False,4445,Jules Koundé,2,Right Back,106.0,21.7,bad1178a-33df-4ae6-b716-496b7728c27e
+True,5209,Raphaël Adelino José Guerreiro,6,Left Back,97.8,12.2,bad1178a-33df-4ae6-b716-496b7728c27e
+True,9929,Diogo José Teixeira da Silva,16,Left Midfield,104.8,17.8,bad1178a-33df-4ae6-b716-496b7728c27e
+True,3593,Renato Júnior Luz Sanches,15,Left Center Midfield,90.7,17.0,bad1178a-33df-4ae6-b716-496b7728c27e
+True,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,110.8,49.1,bad1178a-33df-4ae6-b716-496b7728c27e
+True,3168,João Filipe Iria Santos Moutinho,13,Right Center Midfield,110.6,42.8,bad1178a-33df-4ae6-b716-496b7728c27e
+False,6374,Nélson Cabral Semedo,2,Right Back,91.2,25.5,18229275-4de4-4e75-beb4-1dd78fba9de7
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,90.7,42.3,18229275-4de4-4e75-beb4-1dd78fba9de7
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,85.0,46.1,18229275-4de4-4e75-beb4-1dd78fba9de7
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,83.5,53.2,18229275-4de4-4e75-beb4-1dd78fba9de7
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,99.5,33.2,18229275-4de4-4e75-beb4-1dd78fba9de7
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,114.3,39.5,18229275-4de4-4e75-beb4-1dd78fba9de7
+False,3099,Hugo Lloris,1,Goalkeeper,117.5,37.1,6bb69878-d167-447a-b7a4-581b1e27762a
+False,20004,Paul Pogba,9,Right Defensive Midfield,93.8,37.4,6bb69878-d167-447a-b7a4-581b1e27762a
+False,5480,Corentin Tolisso,17,Right Wing,90.7,25.5,6bb69878-d167-447a-b7a4-581b1e27762a
+False,2999,Presnel Kimpembe,5,Left Center Back,104.1,46.1,6bb69878-d167-447a-b7a4-581b1e27762a
+False,5485,Raphaël Varane,3,Right Center Back,108.2,32.9,6bb69878-d167-447a-b7a4-581b1e27762a
+False,4445,Jules Koundé,2,Right Back,106.1,27.1,6bb69878-d167-447a-b7a4-581b1e27762a
+True,9929,Diogo José Teixeira da Silva,16,Left Midfield,98.5,35.8,6bb69878-d167-447a-b7a4-581b1e27762a
+True,5209,Raphaël Adelino José Guerreiro,6,Left Back,84.9,15.2,6bb69878-d167-447a-b7a4-581b1e27762a
+False,19677,Karim Benzema,23,Center Forward,104.3,44.4,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+False,5487,Antoine Griezmann,19,Center Attacking Midfield,107.7,50.0,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,104.7,36.6,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+False,5484,Lucas Hernández Pi,6,Left Back,110.4,41.5,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+False,5480,Corentin Tolisso,17,Right Wing,110.0,39.9,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+False,2999,Presnel Kimpembe,5,Left Center Back,111.2,39.6,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+False,4445,Jules Koundé,2,Right Back,111.6,38.5,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+False,5485,Raphaël Varane,3,Right Center Back,112.6,38.6,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+False,20004,Paul Pogba,9,Right Defensive Midfield,112.4,27.0,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+False,3099,Hugo Lloris,1,Goalkeeper,113.7,40.5,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+True,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,114.2,26.5,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+True,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,113.6,38.5,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+True,9929,Diogo José Teixeira da Silva,16,Left Midfield,111.5,42.5,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+True,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,113.5,44.0,67827a82-7545-4f7f-8ddd-b24b2bec5bbb
+False,3009,Kylian Mbappé Lottin,21,Left Wing,93.3,67.8,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,19677,Karim Benzema,23,Center Forward,86.0,41.2,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,100.1,58.9,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,2999,Presnel Kimpembe,5,Left Center Back,99.7,51.9,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,5484,Lucas Hernández Pi,6,Left Back,104.1,59.8,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,5487,Antoine Griezmann,19,Center Attacking Midfield,89.6,25.5,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,20004,Paul Pogba,9,Right Defensive Midfield,100.0,46.8,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,5480,Corentin Tolisso,17,Right Wing,97.4,33.4,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,5485,Raphaël Varane,3,Right Center Back,105.6,43.0,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,4445,Jules Koundé,2,Right Back,105.2,36.7,ba65bcff-e21d-4eed-8c17-af55683050dc
+True,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,104.6,58.5,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,3099,Hugo Lloris,1,Goalkeeper,118.3,40.1,ba65bcff-e21d-4eed-8c17-af55683050dc
+True,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,102.3,63.7,ba65bcff-e21d-4eed-8c17-af55683050dc
+True,3593,Renato Júnior Luz Sanches,15,Left Center Midfield,93.0,38.1,ba65bcff-e21d-4eed-8c17-af55683050dc
+True,5209,Raphaël Adelino José Guerreiro,6,Left Back,90.9,29.5,ba65bcff-e21d-4eed-8c17-af55683050dc
+True,9929,Diogo José Teixeira da Silva,16,Left Midfield,106.1,40.1,ba65bcff-e21d-4eed-8c17-af55683050dc
+False,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,106.1,19.7,409ab4be-8f72-435d-83e6-606afcf50dd9
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,103.0,63.4,409ab4be-8f72-435d-83e6-606afcf50dd9
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,110.7,41.9,409ab4be-8f72-435d-83e6-606afcf50dd9
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,112.1,37.2,409ab4be-8f72-435d-83e6-606afcf50dd9
+False,6374,Nélson Cabral Semedo,2,Right Back,113.4,29.0,409ab4be-8f72-435d-83e6-606afcf50dd9
+False,3593,Renato Júnior Luz Sanches,15,Left Center Midfield,94.9,56.6,409ab4be-8f72-435d-83e6-606afcf50dd9
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,95.6,46.1,409ab4be-8f72-435d-83e6-606afcf50dd9
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,87.1,60.3,409ab4be-8f72-435d-83e6-606afcf50dd9
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.9,36.2,409ab4be-8f72-435d-83e6-606afcf50dd9
+True,5485,Raphaël Varane,3,Right Center Back,82.4,67.8,409ab4be-8f72-435d-83e6-606afcf50dd9
+True,4445,Jules Koundé,2,Right Back,97.8,73.7,409ab4be-8f72-435d-83e6-606afcf50dd9
+True,19677,Karim Benzema,23,Center Forward,109.4,41.1,409ab4be-8f72-435d-83e6-606afcf50dd9
+True,5480,Corentin Tolisso,17,Right Wing,103.2,50.4,409ab4be-8f72-435d-83e6-606afcf50dd9
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,98.5,39.2,4808f48e-763c-43ad-b73b-60309aed729c
+False,3099,Hugo Lloris,1,Goalkeeper,117.7,40.1,4808f48e-763c-43ad-b73b-60309aed729c
+False,5480,Corentin Tolisso,17,Right Wing,89.3,24.9,4808f48e-763c-43ad-b73b-60309aed729c
+False,5484,Lucas Hernández Pi,6,Left Back,101.8,46.0,4808f48e-763c-43ad-b73b-60309aed729c
+False,20004,Paul Pogba,9,Right Defensive Midfield,95.6,33.5,4808f48e-763c-43ad-b73b-60309aed729c
+False,2999,Presnel Kimpembe,5,Left Center Back,103.1,40.1,4808f48e-763c-43ad-b73b-60309aed729c
+False,5485,Raphaël Varane,3,Right Center Back,102.8,35.8,4808f48e-763c-43ad-b73b-60309aed729c
+False,5487,Antoine Griezmann,19,Center Attacking Midfield,92.7,16.7,4808f48e-763c-43ad-b73b-60309aed729c
+False,4445,Jules Koundé,2,Right Back,102.1,28.9,4808f48e-763c-43ad-b73b-60309aed729c
+True,9929,Diogo José Teixeira da Silva,16,Left Midfield,102.7,38.0,4808f48e-763c-43ad-b73b-60309aed729c
+True,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,100.5,28.4,4808f48e-763c-43ad-b73b-60309aed729c
+True,3593,Renato Júnior Luz Sanches,15,Left Center Midfield,88.0,26.4,4808f48e-763c-43ad-b73b-60309aed729c
+True,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,96.6,32.2,4808f48e-763c-43ad-b73b-60309aed729c
+True,5209,Raphaël Adelino José Guerreiro,6,Left Back,80.9,14.3,4808f48e-763c-43ad-b73b-60309aed729c
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,106.6,59.5,8a82ca7e-323e-45fc-b39d-51c2751f579c
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,107.8,47.7,8a82ca7e-323e-45fc-b39d-51c2751f579c
+False,3593,Renato Júnior Luz Sanches,15,Left Center Midfield,96.7,50.3,8a82ca7e-323e-45fc-b39d-51c2751f579c
+False,13621,Danilo Luís Hélio Pereira,10,Center Defensive Midfield,104.2,41.1,8a82ca7e-323e-45fc-b39d-51c2751f579c
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,115.0,37.2,8a82ca7e-323e-45fc-b39d-51c2751f579c
+False,6374,Nélson Cabral Semedo,2,Right Back,116.3,33.5,8a82ca7e-323e-45fc-b39d-51c2751f579c
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,119.2,36.4,8a82ca7e-323e-45fc-b39d-51c2751f579c
+True,4445,Jules Koundé,2,Right Back,107.5,66.1,8a82ca7e-323e-45fc-b39d-51c2751f579c
+True,5480,Corentin Tolisso,17,Right Wing,93.6,60.9,8a82ca7e-323e-45fc-b39d-51c2751f579c
+True,3009,Kylian Mbappé Lottin,21,Left Wing,118.9,33.3,8a82ca7e-323e-45fc-b39d-51c2751f579c
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,98.7,59.9,8a82ca7e-323e-45fc-b39d-51c2751f579c
+False,6374,Nélson Cabral Semedo,2,Right Back,102.8,36.2,bf5b9281-95e5-4b59-b146-be70e4f47f28
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,109.1,47.0,bf5b9281-95e5-4b59-b146-be70e4f47f28
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,110.1,52.4,bf5b9281-95e5-4b59-b146-be70e4f47f28
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,116.6,45.8,bf5b9281-95e5-4b59-b146-be70e4f47f28
+False,6849,Lucas Digne,6,Left Back,112.0,49.3,da78cdbb-7c76-46d3-a574-fb336b5755f6
+False,2999,Presnel Kimpembe,5,Left Center Back,113.0,45.8,da78cdbb-7c76-46d3-a574-fb336b5755f6
+False,20004,Paul Pogba,9,Right Defensive Midfield,99.0,38.2,da78cdbb-7c76-46d3-a574-fb336b5755f6
+False,5485,Raphaël Varane,3,Right Center Back,101.9,27.0,da78cdbb-7c76-46d3-a574-fb336b5755f6
+False,3099,Hugo Lloris,1,Goalkeeper,118.8,41.8,da78cdbb-7c76-46d3-a574-fb336b5755f6
+True,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,101.6,57.9,da78cdbb-7c76-46d3-a574-fb336b5755f6
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,119.0,40.3,edd149da-d279-4920-8107-803464d24747
+False,12169,João Maria Lobo Alves Palhinha Gonçalves,10,Center Defensive Midfield,93.4,39.7,edd149da-d279-4920-8107-803464d24747
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,102.6,53.8,edd149da-d279-4920-8107-803464d24747
+False,3593,Renato Júnior Luz Sanches,15,Left Center Midfield,98.8,43.7,edd149da-d279-4920-8107-803464d24747
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,105.5,47.4,edd149da-d279-4920-8107-803464d24747
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,104.5,42.8,edd149da-d279-4920-8107-803464d24747
+False,3168,João Filipe Iria Santos Moutinho,13,Right Center Midfield,98.8,32.4,edd149da-d279-4920-8107-803464d24747
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,104.6,37.4,edd149da-d279-4920-8107-803464d24747
+False,6374,Nélson Cabral Semedo,2,Right Back,104.3,35.0,edd149da-d279-4920-8107-803464d24747
+False,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,103.9,27.3,edd149da-d279-4920-8107-803464d24747
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,87.5,46.6,edd149da-d279-4920-8107-803464d24747
+True,4445,Jules Koundé,2,Right Back,99.8,66.1,edd149da-d279-4920-8107-803464d24747
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,104.5,47.2,edd149da-d279-4920-8107-803464d24747
+True,8217,Kingsley Coman,17,Right Wing,103.9,45.8,edd149da-d279-4920-8107-803464d24747
+True,3009,Kylian Mbappé Lottin,21,Left Wing,107.5,35.7,edd149da-d279-4920-8107-803464d24747
+True,19677,Karim Benzema,23,Center Forward,102.1,27.1,edd149da-d279-4920-8107-803464d24747
+True,3026,Adrien Rabiot,6,Left Back,97.4,21.5,edd149da-d279-4920-8107-803464d24747
+False,3168,João Filipe Iria Santos Moutinho,13,Right Center Midfield,97.6,33.3,14bee75a-9c97-4dbd-8194-c17b68242070
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,110.5,47.8,14bee75a-9c97-4dbd-8194-c17b68242070
+False,6374,Nélson Cabral Semedo,2,Right Back,108.4,36.1,14bee75a-9c97-4dbd-8194-c17b68242070
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,113.7,44.5,14bee75a-9c97-4dbd-8194-c17b68242070
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,111.6,41.1,14bee75a-9c97-4dbd-8194-c17b68242070
+False,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,108.6,30.9,14bee75a-9c97-4dbd-8194-c17b68242070
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,119.0,44.4,14bee75a-9c97-4dbd-8194-c17b68242070
+True,8217,Kingsley Coman,17,Right Wing,105.1,47.6,14bee75a-9c97-4dbd-8194-c17b68242070
+True,3009,Kylian Mbappé Lottin,21,Left Wing,112.8,37.6,14bee75a-9c97-4dbd-8194-c17b68242070
+True,19677,Karim Benzema,23,Center Forward,110.4,32.9,14bee75a-9c97-4dbd-8194-c17b68242070
+True,3026,Adrien Rabiot,6,Left Back,97.3,22.2,14bee75a-9c97-4dbd-8194-c17b68242070
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.9,39.0,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,97.5,41.6,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,107.4,50.2,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,3593,Renato Júnior Luz Sanches,15,Left Center Midfield,102.6,39.0,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,12169,João Maria Lobo Alves Palhinha Gonçalves,10,Center Defensive Midfield,99.2,30.4,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,109.2,43.8,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,3168,João Filipe Iria Santos Moutinho,13,Right Center Midfield,98.4,26.1,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,109.3,40.3,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,108.8,35.4,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,6374,Nélson Cabral Semedo,2,Right Back,106.4,31.4,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,106.8,18.7,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+True,4445,Jules Koundé,2,Right Back,107.3,53.4,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,110.3,55.1,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+True,8217,Kingsley Coman,17,Right Wing,107.4,42.7,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+True,3009,Kylian Mbappé Lottin,21,Left Wing,107.6,36.3,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+True,19677,Karim Benzema,23,Center Forward,101.0,17.0,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+True,3026,Adrien Rabiot,6,Left Back,108.0,17.2,9fc864fe-ffaf-430b-ba45-9f10803e0c05
+False,3593,Renato Júnior Luz Sanches,15,Left Center Midfield,96.7,41.4,903737b5-1d56-4b4b-ae65-9bf42853fe12
+False,9929,Diogo José Teixeira da Silva,16,Left Midfield,104.7,48.9,903737b5-1d56-4b4b-ae65-9bf42853fe12
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,107.7,54.4,903737b5-1d56-4b4b-ae65-9bf42853fe12
+False,12169,João Maria Lobo Alves Palhinha Gonçalves,10,Center Defensive Midfield,102.1,37.4,903737b5-1d56-4b4b-ae65-9bf42853fe12
+False,3168,João Filipe Iria Santos Moutinho,13,Right Center Midfield,97.8,27.2,903737b5-1d56-4b4b-ae65-9bf42853fe12
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,107.0,41.8,903737b5-1d56-4b4b-ae65-9bf42853fe12
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,105.5,35.3,903737b5-1d56-4b4b-ae65-9bf42853fe12
+False,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,103.6,25.0,903737b5-1d56-4b4b-ae65-9bf42853fe12
+False,6374,Nélson Cabral Semedo,2,Right Back,107.9,28.6,903737b5-1d56-4b4b-ae65-9bf42853fe12
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.6,38.0,903737b5-1d56-4b4b-ae65-9bf42853fe12
+True,20004,Paul Pogba,9,Right Defensive Midfield,93.6,26.8,903737b5-1d56-4b4b-ae65-9bf42853fe12
+True,5487,Antoine Griezmann,19,Center Attacking Midfield,106.6,43.3,903737b5-1d56-4b4b-ae65-9bf42853fe12
+True,8217,Kingsley Coman,17,Right Wing,110.4,44.9,903737b5-1d56-4b4b-ae65-9bf42853fe12
+True,3009,Kylian Mbappé Lottin,21,Left Wing,104.9,18.9,903737b5-1d56-4b4b-ae65-9bf42853fe12
+True,3026,Adrien Rabiot,6,Left Back,108.4,33.9,903737b5-1d56-4b4b-ae65-9bf42853fe12
+False,3961,N''Golo Kanté,11,Left Defensive Midfield,94.0,39.8,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+False,5485,Raphaël Varane,3,Right Center Back,102.4,42.3,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+False,5487,Antoine Griezmann,19,Center Attacking Midfield,93.4,55.7,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+False,4445,Jules Koundé,2,Right Back,102.9,32.4,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+False,20004,Paul Pogba,9,Right Defensive Midfield,93.2,49.7,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+False,3099,Hugo Lloris,1,Goalkeeper,117.5,41.6,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+False,3026,Adrien Rabiot,6,Left Back,98.5,61.8,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+False,2999,Presnel Kimpembe,5,Left Center Back,100.1,57.2,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+True,9929,Diogo José Teixeira da Silva,16,Left Midfield,103.2,35.7,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+True,3168,João Filipe Iria Santos Moutinho,13,Right Center Midfield,87.0,51.2,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+True,3193,Bernardo Mota Veiga de Carvalho e Silva,12,Right Midfield,93.0,75.8,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+True,5207,Cristiano Ronaldo dos Santos Aveiro,23,Center Forward,101.0,58.7,ba5ea177-8832-4e7c-ba08-58ec3f04e7d3
+False,3593,Renato Júnior Luz Sanches,15,Left Center Midfield,93.6,37.6,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+False,12169,João Maria Lobo Alves Palhinha Gonçalves,10,Center Defensive Midfield,98.1,40.0,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,105.6,53.1,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+False,9927,Rúben Diogo Da Silva Neves,13,Right Center Midfield,97.7,34.0,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,106.1,45.8,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+False,6374,Nélson Cabral Semedo,2,Right Back,98.9,30.6,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,102.8,33.1,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+False,5204,Bruno Miguel Borges Fernandes,12,Right Midfield,103.3,24.7,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.7,38.6,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+True,19677,Karim Benzema,23,Center Forward,95.5,48.9,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+True,3961,N''Golo Kanté,11,Left Defensive Midfield,103.5,47.8,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+True,8217,Kingsley Coman,17,Right Wing,100.9,35.4,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+True,3009,Kylian Mbappé Lottin,21,Left Wing,103.6,31.7,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+True,3026,Adrien Rabiot,6,Left Back,103.1,19.8,1b71209d-f96f-45cc-9f96-b7d3bbbf55d0
+False,3593,Renato Júnior Luz Sanches,15,Left Center Midfield,102.9,51.9,3ace6831-f62a-4bc0-9980-64c3f7023f93
+False,9927,Rúben Diogo Da Silva Neves,13,Right Center Midfield,104.0,44.3,3ace6831-f62a-4bc0-9980-64c3f7023f93
+False,5209,Raphaël Adelino José Guerreiro,6,Left Back,107.3,49.3,3ace6831-f62a-4bc0-9980-64c3f7023f93
+False,12169,João Maria Lobo Alves Palhinha Gonçalves,10,Center Defensive Midfield,107.2,45.0,3ace6831-f62a-4bc0-9980-64c3f7023f93
+False,5206,Rúben Santos Gato Alves Dias,5,Left Center Back,108.2,46.6,3ace6831-f62a-4bc0-9980-64c3f7023f93
+False,20016,Kléper Laveran Lima Ferreira,3,Right Center Back,107.6,41.4,3ace6831-f62a-4bc0-9980-64c3f7023f93
+False,5204,Bruno Miguel Borges Fernandes,12,Right Midfield,103.3,29.0,3ace6831-f62a-4bc0-9980-64c3f7023f93
+False,16028,José Diogo Dalot Teixeira,2,Right Back,110.1,36.3,3ace6831-f62a-4bc0-9980-64c3f7023f93
+False,5205,Rui Pedro dos Santos Patrício,1,Goalkeeper,118.4,40.4,3ace6831-f62a-4bc0-9980-64c3f7023f93
+True,8217,Kingsley Coman,17,Right Wing,105.4,55.0,3ace6831-f62a-4bc0-9980-64c3f7023f93
+True,19677,Karim Benzema,23,Center Forward,107.8,40.1,3ace6831-f62a-4bc0-9980-64c3f7023f93
+True,3009,Kylian Mbappé Lottin,21,Left Wing,99.2,21.8,3ace6831-f62a-4bc0-9980-64c3f7023f93

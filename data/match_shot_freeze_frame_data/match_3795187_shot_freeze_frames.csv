@@ -1,0 +1,238 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,22243,Heorhii Bushchan,1,Goalkeeper,113.6,37.0,9cb173a7-40eb-42ad-b38c-30017cc1181e
+False,21294,Mykola Shaparenko,13,Right Center Midfield,94.5,23.0,9cb173a7-40eb-42ad-b38c-30017cc1181e
+False,31900,Oleksandr Karavaev,7,Right Wing Back,103.9,24.7,9cb173a7-40eb-42ad-b38c-30017cc1181e
+False,18618,Sergey Krivtsov,4,Center Back,105.0,35.8,9cb173a7-40eb-42ad-b38c-30017cc1181e
+False,20827,Vitalii Mykolenko,8,Left Wing Back,107.1,47.2,9cb173a7-40eb-42ad-b38c-30017cc1181e
+False,16514,Serhii Sydorchuk,10,Center Defensive Midfield,97.4,28.7,9cb173a7-40eb-42ad-b38c-30017cc1181e
+False,3575,Oleksandr Zinchenko,15,Left Center Midfield,92.7,36.1,9cb173a7-40eb-42ad-b38c-30017cc1181e
+False,39136,Illia Zabarnyi,3,Right Center Back,107.0,31.2,9cb173a7-40eb-42ad-b38c-30017cc1181e
+False,18617,Mykola Matviyenko,5,Left Center Back,109.8,37.3,9cb173a7-40eb-42ad-b38c-30017cc1181e
+True,3382,Luke Shaw,6,Left Back,99.0,12.1,9cb173a7-40eb-42ad-b38c-30017cc1181e
+True,12423,Jadon Sancho,17,Right Wing,107.1,50.1,9cb173a7-40eb-42ad-b38c-30017cc1181e
+True,3233,Raheem Sterling,21,Left Wing,98.2,33.1,9cb173a7-40eb-42ad-b38c-30017cc1181e
+True,7843,Mason Mount,19,Center Attacking Midfield,97.7,45.8,9cb173a7-40eb-42ad-b38c-30017cc1181e
+True,16514,Serhii Sydorchuk,10,Center Defensive Midfield,87.2,28.6,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+True,21294,Mykola Shaparenko,13,Right Center Midfield,86.6,39.2,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+True,20827,Vitalii Mykolenko,8,Left Wing Back,103.0,18.5,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+True,8830,Andriy Yarmolenko,22,Right Center Forward,93.9,32.8,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+True,31900,Oleksandr Karavaev,7,Right Wing Back,101.6,59.6,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+False,3233,Raheem Sterling,21,Left Wing,94.5,38.2,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+False,12423,Jadon Sancho,17,Right Wing,101.5,16.7,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,96.5,19.5,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+False,3244,John Stones,3,Right Center Back,100.6,25.9,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+False,3205,Kyle Walker,2,Right Back,103.6,22.9,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+False,3943,Declan Rice,11,Left Defensive Midfield,99.0,32.0,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+False,3336,Harry Maguire,5,Left Center Back,103.8,36.5,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+False,3382,Luke Shaw,6,Left Back,104.6,47.8,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+False,3468,Jordan Pickford,1,Goalkeeper,117.2,37.8,4af1a6ce-489a-4916-a2b3-5b562c8c52b4
+False,3244,John Stones,3,Right Center Back,109.1,37.6,6993f426-273f-4797-abb2-3f7f995ae077
+False,3336,Harry Maguire,5,Left Center Back,108.1,38.2,6993f426-273f-4797-abb2-3f7f995ae077
+False,3205,Kyle Walker,2,Right Back,108.6,34.2,6993f426-273f-4797-abb2-3f7f995ae077
+False,3943,Declan Rice,11,Left Defensive Midfield,107.5,33.1,6993f426-273f-4797-abb2-3f7f995ae077
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,106.7,39.8,6993f426-273f-4797-abb2-3f7f995ae077
+False,7843,Mason Mount,19,Center Attacking Midfield,105.1,45.4,6993f426-273f-4797-abb2-3f7f995ae077
+False,10955,Harry Kane,23,Center Forward,108.6,42.9,6993f426-273f-4797-abb2-3f7f995ae077
+False,3233,Raheem Sterling,21,Left Wing,98.0,50.1,6993f426-273f-4797-abb2-3f7f995ae077
+False,12423,Jadon Sancho,17,Right Wing,97.2,66.0,6993f426-273f-4797-abb2-3f7f995ae077
+False,3382,Luke Shaw,6,Left Back,105.3,51.0,6993f426-273f-4797-abb2-3f7f995ae077
+False,3468,Jordan Pickford,1,Goalkeeper,118.5,41.2,6993f426-273f-4797-abb2-3f7f995ae077
+True,39136,Illia Zabarnyi,3,Right Center Back,109.1,34.1,6993f426-273f-4797-abb2-3f7f995ae077
+True,23649,Roman Yaremchuk,24,Left Center Forward,106.2,38.6,6993f426-273f-4797-abb2-3f7f995ae077
+True,18618,Sergey Krivtsov,4,Center Back,106.5,43.3,6993f426-273f-4797-abb2-3f7f995ae077
+True,8830,Andriy Yarmolenko,22,Right Center Forward,106.5,51.1,6993f426-273f-4797-abb2-3f7f995ae077
+True,21294,Mykola Shaparenko,13,Right Center Midfield,88.6,71.0,6993f426-273f-4797-abb2-3f7f995ae077
+False,3468,Jordan Pickford,1,Goalkeeper,116.5,35.4,c53c993b-3724-4ad9-90e0-bffa8cdc43d2
+False,3244,John Stones,3,Right Center Back,109.2,27.6,c53c993b-3724-4ad9-90e0-bffa8cdc43d2
+False,3336,Harry Maguire,5,Left Center Back,107.5,42.5,c53c993b-3724-4ad9-90e0-bffa8cdc43d2
+False,3943,Declan Rice,11,Left Defensive Midfield,103.7,32.0,c53c993b-3724-4ad9-90e0-bffa8cdc43d2
+False,3382,Luke Shaw,6,Left Back,91.0,55.0,c53c993b-3724-4ad9-90e0-bffa8cdc43d2
+False,3205,Kyle Walker,2,Right Back,99.6,29.0,c53c993b-3724-4ad9-90e0-bffa8cdc43d2
+True,8830,Andriy Yarmolenko,22,Right Center Forward,103.6,45.7,c53c993b-3724-4ad9-90e0-bffa8cdc43d2
+True,3575,Oleksandr Zinchenko,15,Left Center Midfield,99.3,27.8,c53c993b-3724-4ad9-90e0-bffa8cdc43d2
+True,10955,Harry Kane,23,Center Forward,94.2,22.5,6ea15b33-cf38-4516-8795-59a7d923362c
+True,12423,Jadon Sancho,17,Right Wing,104.1,48.6,6ea15b33-cf38-4516-8795-59a7d923362c
+True,7843,Mason Mount,19,Center Attacking Midfield,100.3,33.5,6ea15b33-cf38-4516-8795-59a7d923362c
+True,3382,Luke Shaw,6,Left Back,96.8,11.4,6ea15b33-cf38-4516-8795-59a7d923362c
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,104.1,19.4,6ea15b33-cf38-4516-8795-59a7d923362c
+False,20827,Vitalii Mykolenko,8,Left Wing Back,109.0,46.3,6ea15b33-cf38-4516-8795-59a7d923362c
+False,18617,Mykola Matviyenko,5,Left Center Back,106.2,34.8,6ea15b33-cf38-4516-8795-59a7d923362c
+False,21294,Mykola Shaparenko,13,Right Center Midfield,103.0,25.5,6ea15b33-cf38-4516-8795-59a7d923362c
+False,3575,Oleksandr Zinchenko,15,Left Center Midfield,106.5,28.6,6ea15b33-cf38-4516-8795-59a7d923362c
+False,39136,Illia Zabarnyi,3,Right Center Back,109.1,28.9,6ea15b33-cf38-4516-8795-59a7d923362c
+False,18618,Sergey Krivtsov,4,Center Back,111.0,27.7,6ea15b33-cf38-4516-8795-59a7d923362c
+False,16514,Serhii Sydorchuk,10,Center Defensive Midfield,108.2,24.3,6ea15b33-cf38-4516-8795-59a7d923362c
+False,31900,Oleksandr Karavaev,7,Right Wing Back,107.6,18.5,6ea15b33-cf38-4516-8795-59a7d923362c
+False,22243,Heorhii Bushchan,1,Goalkeeper,117.4,36.7,6ea15b33-cf38-4516-8795-59a7d923362c
+False,31900,Oleksandr Karavaev,7,Right Wing Back,100.1,13.8,0165a012-e95b-4715-973f-2e96ec6abdae
+False,21294,Mykola Shaparenko,13,Right Center Midfield,102.3,13.2,0165a012-e95b-4715-973f-2e96ec6abdae
+False,16514,Serhii Sydorchuk,10,Center Defensive Midfield,105.5,33.1,0165a012-e95b-4715-973f-2e96ec6abdae
+False,3575,Oleksandr Zinchenko,15,Left Center Midfield,110.5,35.4,0165a012-e95b-4715-973f-2e96ec6abdae
+False,8830,Andriy Yarmolenko,22,Right Center Forward,111.3,37.5,0165a012-e95b-4715-973f-2e96ec6abdae
+False,23649,Roman Yaremchuk,24,Left Center Forward,112.2,40.9,0165a012-e95b-4715-973f-2e96ec6abdae
+False,39136,Illia Zabarnyi,3,Right Center Back,112.1,42.7,0165a012-e95b-4715-973f-2e96ec6abdae
+False,18617,Mykola Matviyenko,5,Left Center Back,112.0,45.2,0165a012-e95b-4715-973f-2e96ec6abdae
+False,20827,Vitalii Mykolenko,8,Left Wing Back,112.9,48.3,0165a012-e95b-4715-973f-2e96ec6abdae
+False,18618,Sergey Krivtsov,4,Center Back,112.6,41.8,0165a012-e95b-4715-973f-2e96ec6abdae
+False,22243,Heorhii Bushchan,1,Goalkeeper,118.3,39.3,0165a012-e95b-4715-973f-2e96ec6abdae
+True,12423,Jadon Sancho,17,Right Wing,98.9,8.1,0165a012-e95b-4715-973f-2e96ec6abdae
+True,3233,Raheem Sterling,21,Left Wing,110.8,34.1,0165a012-e95b-4715-973f-2e96ec6abdae
+True,3943,Declan Rice,11,Left Defensive Midfield,109.1,33.9,0165a012-e95b-4715-973f-2e96ec6abdae
+True,3382,Luke Shaw,6,Left Back,95.4,9.5,0165a012-e95b-4715-973f-2e96ec6abdae
+True,7843,Mason Mount,19,Center Attacking Midfield,94.2,32.4,0165a012-e95b-4715-973f-2e96ec6abdae
+True,3336,Harry Maguire,5,Left Center Back,110.8,45.0,0165a012-e95b-4715-973f-2e96ec6abdae
+True,3244,John Stones,3,Right Center Back,111.9,49.9,0165a012-e95b-4715-973f-2e96ec6abdae
+False,22243,Heorhii Bushchan,1,Goalkeeper,117.9,39.3,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+False,21294,Mykola Shaparenko,13,Right Center Midfield,99.4,31.2,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+False,8830,Andriy Yarmolenko,22,Right Center Forward,94.4,24.7,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+False,3575,Oleksandr Zinchenko,15,Left Center Midfield,101.7,34.8,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+False,16514,Serhii Sydorchuk,10,Center Defensive Midfield,105.8,31.8,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+False,20827,Vitalii Mykolenko,8,Left Wing Back,105.9,42.6,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+False,18617,Mykola Matviyenko,5,Left Center Back,107.8,37.5,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+False,18618,Sergey Krivtsov,4,Center Back,108.6,35.8,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+False,39136,Illia Zabarnyi,3,Right Center Back,108.9,34.3,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+False,31900,Oleksandr Karavaev,7,Right Wing Back,112.2,30.4,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+True,10955,Harry Kane,23,Center Forward,110.8,45.4,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+True,12423,Jadon Sancho,17,Right Wing,100.5,54.0,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+True,3382,Luke Shaw,6,Left Back,102.9,17.6,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,108.5,34.3,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+True,7843,Mason Mount,19,Center Attacking Midfield,104.9,37.0,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+True,3233,Raheem Sterling,21,Left Wing,119.8,27.9,a1cbdad7-f7fd-4898-8e8e-e848550b9e66
+True,12423,Jadon Sancho,17,Right Wing,100.7,56.5,f212a34f-4747-4c7a-87e3-916c9b29abfa
+True,3943,Declan Rice,11,Left Defensive Midfield,98.4,38.8,f212a34f-4747-4c7a-87e3-916c9b29abfa
+True,10955,Harry Kane,23,Center Forward,105.0,44.7,f212a34f-4747-4c7a-87e3-916c9b29abfa
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,103.4,36.4,f212a34f-4747-4c7a-87e3-916c9b29abfa
+True,3382,Luke Shaw,6,Left Back,98.3,20.7,f212a34f-4747-4c7a-87e3-916c9b29abfa
+True,3233,Raheem Sterling,21,Left Wing,112.4,29.4,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,18618,Sergey Krivtsov,4,Center Back,109.8,39.7,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,39136,Illia Zabarnyi,3,Right Center Back,110.3,37.7,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,8830,Andriy Yarmolenko,22,Right Center Forward,92.1,24.6,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,21294,Mykola Shaparenko,13,Right Center Midfield,97.9,35.4,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,3575,Oleksandr Zinchenko,15,Left Center Midfield,102.0,38.0,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,20827,Vitalii Mykolenko,8,Left Wing Back,107.0,44.4,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,18617,Mykola Matviyenko,5,Left Center Back,109.0,43.1,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,16514,Serhii Sydorchuk,10,Center Defensive Midfield,105.6,34.1,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,31900,Oleksandr Karavaev,7,Right Wing Back,104.8,28.4,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,22243,Heorhii Bushchan,1,Goalkeeper,118.1,40.8,f212a34f-4747-4c7a-87e3-916c9b29abfa
+False,3205,Kyle Walker,2,Right Back,108.9,20.7,678a9359-1488-4328-a473-1a334c3ea446
+False,3943,Declan Rice,11,Left Defensive Midfield,115.0,27.3,678a9359-1488-4328-a473-1a334c3ea446
+False,7843,Mason Mount,19,Center Attacking Midfield,110.4,30.0,678a9359-1488-4328-a473-1a334c3ea446
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,110.1,31.0,678a9359-1488-4328-a473-1a334c3ea446
+False,3244,John Stones,3,Right Center Back,114.1,32.9,678a9359-1488-4328-a473-1a334c3ea446
+False,3336,Harry Maguire,5,Left Center Back,114.1,35.4,678a9359-1488-4328-a473-1a334c3ea446
+False,3382,Luke Shaw,6,Left Back,111.5,40.3,678a9359-1488-4328-a473-1a334c3ea446
+False,3468,Jordan Pickford,1,Goalkeeper,118.2,36.3,678a9359-1488-4328-a473-1a334c3ea446
+True,23649,Roman Yaremchuk,23,Center Forward,120.0,25.0,678a9359-1488-4328-a473-1a334c3ea446
+True,8830,Andriy Yarmolenko,17,Right Wing,112.4,27.0,678a9359-1488-4328-a473-1a334c3ea446
+True,21294,Mykola Shaparenko,13,Right Center Midfield,106.0,39.7,678a9359-1488-4328-a473-1a334c3ea446
+True,16509,Viktor Tsygankov,21,Left Wing,100.2,32.2,678a9359-1488-4328-a473-1a334c3ea446
+True,31900,Oleksandr Karavaev,2,Right Back,103.5,57.9,7db761b4-caa2-477e-b716-ffb8fb0064b6
+True,8830,Andriy Yarmolenko,17,Right Wing,108.8,45.9,7db761b4-caa2-477e-b716-ffb8fb0064b6
+True,23649,Roman Yaremchuk,23,Center Forward,108.4,37.0,7db761b4-caa2-477e-b716-ffb8fb0064b6
+True,16509,Viktor Tsygankov,21,Left Wing,102.8,21.7,7db761b4-caa2-477e-b716-ffb8fb0064b6
+True,3575,Oleksandr Zinchenko,15,Left Center Midfield,93.7,28.5,7db761b4-caa2-477e-b716-ffb8fb0064b6
+True,20827,Vitalii Mykolenko,6,Left Back,108.7,22.9,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,3468,Jordan Pickford,1,Goalkeeper,119.0,40.4,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,12423,Jadon Sancho,17,Right Wing,103.8,48.5,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,7843,Mason Mount,19,Center Attacking Midfield,99.3,42.8,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,3382,Luke Shaw,6,Left Back,109.6,40.5,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,3336,Harry Maguire,5,Left Center Back,110.1,39.6,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,3244,John Stones,3,Right Center Back,109.5,37.7,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,3943,Declan Rice,11,Left Defensive Midfield,105.3,36.5,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,3205,Kyle Walker,2,Right Back,110.2,28.1,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,103.6,33.2,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,3233,Raheem Sterling,21,Left Wing,97.7,21.7,7db761b4-caa2-477e-b716-ffb8fb0064b6
+False,31900,Oleksandr Karavaev,2,Right Back,101.4,22.4,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,3575,Oleksandr Zinchenko,15,Left Center Midfield,111.9,35.4,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,21294,Mykola Shaparenko,13,Right Center Midfield,99.9,25.6,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,8830,Andriy Yarmolenko,17,Right Wing,108.2,36.6,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,16509,Viktor Tsygankov,21,Left Wing,104.7,36.5,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,23649,Roman Yaremchuk,23,Center Forward,110.2,37.3,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,16514,Serhii Sydorchuk,10,Center Defensive Midfield,107.7,40.2,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,39136,Illia Zabarnyi,3,Right Center Back,112.0,39.5,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,18617,Mykola Matviyenko,5,Left Center Back,111.8,44.0,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,20827,Vitalii Mykolenko,6,Left Back,112.8,46.9,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,22243,Heorhii Bushchan,1,Goalkeeper,119.3,41.5,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,93.9,49.2,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+True,7843,Mason Mount,19,Center Attacking Midfield,92.0,37.6,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+True,3943,Declan Rice,11,Left Defensive Midfield,108.0,33.3,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+True,10955,Harry Kane,23,Center Forward,111.5,38.9,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+True,3233,Raheem Sterling,21,Left Wing,113.7,37.7,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+True,3244,John Stones,3,Right Center Back,113.0,48.8,6a13a882-0d20-4818-9ac9-5382d47d9ccb
+False,21294,Mykola Shaparenko,13,Right Center Midfield,108.9,23.9,e12ac465-a941-40ae-ad74-29db03d51439
+False,31900,Oleksandr Karavaev,2,Right Back,114.4,22.5,e12ac465-a941-40ae-ad74-29db03d51439
+False,16514,Serhii Sydorchuk,10,Center Defensive Midfield,107.6,32.3,e12ac465-a941-40ae-ad74-29db03d51439
+False,16509,Viktor Tsygankov,21,Left Wing,107.6,41.3,e12ac465-a941-40ae-ad74-29db03d51439
+False,39136,Illia Zabarnyi,3,Right Center Back,115.2,33.3,e12ac465-a941-40ae-ad74-29db03d51439
+False,18617,Mykola Matviyenko,5,Left Center Back,115.1,38.8,e12ac465-a941-40ae-ad74-29db03d51439
+False,20827,Vitalii Mykolenko,6,Left Back,112.7,44.9,e12ac465-a941-40ae-ad74-29db03d51439
+False,22243,Heorhii Bushchan,1,Goalkeeper,117.7,39.7,e12ac465-a941-40ae-ad74-29db03d51439
+True,3382,Luke Shaw,6,Left Back,115.5,17.4,e12ac465-a941-40ae-ad74-29db03d51439
+True,3233,Raheem Sterling,21,Left Wing,106.7,27.1,e12ac465-a941-40ae-ad74-29db03d51439
+True,7843,Mason Mount,19,Center Attacking Midfield,108.1,31.7,e12ac465-a941-40ae-ad74-29db03d51439
+True,12423,Jadon Sancho,17,Right Wing,109.8,47.1,e12ac465-a941-40ae-ad74-29db03d51439
+False,22243,Heorhii Bushchan,1,Goalkeeper,117.2,38.0,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+False,20827,Vitalii Mykolenko,6,Left Back,108.8,49.1,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+False,18617,Mykola Matviyenko,5,Left Center Back,106.0,41.5,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+False,31900,Oleksandr Karavaev,2,Right Back,110.1,27.1,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+False,39136,Illia Zabarnyi,3,Right Center Back,107.2,32.0,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+False,16509,Viktor Tsygankov,21,Left Wing,94.5,54.2,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+False,16514,Serhii Sydorchuk,10,Center Defensive Midfield,97.0,34.2,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+False,21294,Mykola Shaparenko,13,Right Center Midfield,94.0,28.9,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+True,7843,Mason Mount,19,Center Attacking Midfield,88.8,51.7,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+True,3205,Kyle Walker,2,Right Back,107.8,45.8,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+True,3233,Raheem Sterling,21,Left Wing,111.5,26.9,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+True,12423,Jadon Sancho,17,Right Wing,101.8,44.9,80b892a1-414c-4b3a-a8c4-fe83a039d40f
+True,12423,Jadon Sancho,17,Right Wing,98.9,60.5,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+True,3244,John Stones,3,Right Center Back,111.2,43.9,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+True,3336,Harry Maguire,5,Left Center Back,110.4,41.6,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+True,3233,Raheem Sterling,21,Left Wing,114.1,40.6,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+True,10955,Harry Kane,23,Center Forward,113.7,34.0,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,22243,Heorhii Bushchan,1,Goalkeeper,119.3,41.0,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,21294,Mykola Shaparenko,13,Right Center Midfield,105.1,55.1,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,8830,Andriy Yarmolenko,17,Right Wing,114.1,46.9,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,3575,Oleksandr Zinchenko,15,Left Center Midfield,114.8,48.8,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,16509,Viktor Tsygankov,21,Left Wing,111.1,47.3,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,20827,Vitalii Mykolenko,6,Left Back,111.7,43.1,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,18617,Mykola Matviyenko,5,Left Center Back,111.0,40.9,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,16514,Serhii Sydorchuk,10,Center Defensive Midfield,114.3,39.6,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,39136,Illia Zabarnyi,3,Right Center Back,111.7,35.8,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,23649,Roman Yaremchuk,23,Center Forward,114.2,35.9,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,31900,Oleksandr Karavaev,2,Right Back,112.9,41.1,2c581fc9-46df-4b39-ac29-d8fd2d136e4a
+False,21294,Mykola Shaparenko,13,Right Center Midfield,105.8,20.6,64e8fd99-5f2d-416c-a185-e507b2de01aa
+False,39136,Illia Zabarnyi,3,Right Center Back,114.2,32.8,64e8fd99-5f2d-416c-a185-e507b2de01aa
+False,31900,Oleksandr Karavaev,2,Right Back,114.6,36.7,64e8fd99-5f2d-416c-a185-e507b2de01aa
+False,16509,Viktor Tsygankov,21,Left Wing,113.6,39.9,64e8fd99-5f2d-416c-a185-e507b2de01aa
+False,20827,Vitalii Mykolenko,6,Left Back,111.4,42.6,64e8fd99-5f2d-416c-a185-e507b2de01aa
+False,8830,Andriy Yarmolenko,17,Right Wing,117.4,37.1,64e8fd99-5f2d-416c-a185-e507b2de01aa
+False,3575,Oleksandr Zinchenko,15,Left Center Midfield,116.9,35.3,64e8fd99-5f2d-416c-a185-e507b2de01aa
+False,16311,Evgeny Makarenko,10,Center Defensive Midfield,115.7,41.5,64e8fd99-5f2d-416c-a185-e507b2de01aa
+False,23649,Roman Yaremchuk,23,Center Forward,114.5,45.6,64e8fd99-5f2d-416c-a185-e507b2de01aa
+False,18617,Mykola Matviyenko,5,Left Center Back,113.4,49.3,64e8fd99-5f2d-416c-a185-e507b2de01aa
+False,22243,Heorhii Bushchan,1,Goalkeeper,118.9,40.4,64e8fd99-5f2d-416c-a185-e507b2de01aa
+True,30714,Jude Bellingham,11,Left Defensive Midfield,97.8,46.2,64e8fd99-5f2d-416c-a185-e507b2de01aa
+True,7843,Mason Mount,19,Center Attacking Midfield,120.0,1.9,64e8fd99-5f2d-416c-a185-e507b2de01aa
+True,3532,Jordan Brian Henderson,9,Right Defensive Midfield,115.8,30.8,64e8fd99-5f2d-416c-a185-e507b2de01aa
+True,3318,Marcus Rashford,21,Left Wing,113.3,36.5,64e8fd99-5f2d-416c-a185-e507b2de01aa
+True,3244,John Stones,3,Right Center Back,111.8,39.8,64e8fd99-5f2d-416c-a185-e507b2de01aa
+True,10955,Harry Kane,23,Center Forward,115.2,40.6,64e8fd99-5f2d-416c-a185-e507b2de01aa
+True,16509,Viktor Tsygankov,21,Left Wing,86.3,36.3,757fa99a-8627-41ba-9dff-003d67b8f0e5
+False,3205,Kyle Walker,2,Right Back,90.4,32.7,757fa99a-8627-41ba-9dff-003d67b8f0e5
+False,3244,John Stones,3,Right Center Back,88.2,34.1,757fa99a-8627-41ba-9dff-003d67b8f0e5
+False,3336,Harry Maguire,5,Left Center Back,88.2,44.7,757fa99a-8627-41ba-9dff-003d67b8f0e5
+False,3308,Kieran Trippier,6,Left Back,80.5,52.0,757fa99a-8627-41ba-9dff-003d67b8f0e5
+False,3468,Jordan Pickford,1,Goalkeeper,101.4,32.4,757fa99a-8627-41ba-9dff-003d67b8f0e5
+True,3575,Oleksandr Zinchenko,15,Left Center Midfield,96.9,42.0,27c23221-57c3-49cd-a8ac-66e122cd858e
+True,20827,Vitalii Mykolenko,6,Left Back,96.7,27.6,27c23221-57c3-49cd-a8ac-66e122cd858e
+True,16509,Viktor Tsygankov,21,Left Wing,103.1,37.1,27c23221-57c3-49cd-a8ac-66e122cd858e
+True,23649,Roman Yaremchuk,23,Center Forward,102.6,51.3,27c23221-57c3-49cd-a8ac-66e122cd858e
+True,8830,Andriy Yarmolenko,17,Right Wing,103.2,61.5,27c23221-57c3-49cd-a8ac-66e122cd858e
+False,3205,Kyle Walker,2,Right Back,105.6,35.3,27c23221-57c3-49cd-a8ac-66e122cd858e
+False,3244,John Stones,3,Right Center Back,104.3,41.8,27c23221-57c3-49cd-a8ac-66e122cd858e
+False,3336,Harry Maguire,5,Left Center Back,103.7,50.7,27c23221-57c3-49cd-a8ac-66e122cd858e
+False,3308,Kieran Trippier,6,Left Back,105.6,58.3,27c23221-57c3-49cd-a8ac-66e122cd858e
+False,12423,Jadon Sancho,17,Right Wing,96.8,33.3,27c23221-57c3-49cd-a8ac-66e122cd858e
+False,3532,Jordan Brian Henderson,11,Left Defensive Midfield,101.4,56.5,27c23221-57c3-49cd-a8ac-66e122cd858e
+False,30714,Jude Bellingham,9,Right Defensive Midfield,97.7,49.8,27c23221-57c3-49cd-a8ac-66e122cd858e
+False,7843,Mason Mount,19,Center Attacking Midfield,88.9,54.2,27c23221-57c3-49cd-a8ac-66e122cd858e
+False,3468,Jordan Pickford,1,Goalkeeper,118.1,41.3,27c23221-57c3-49cd-a8ac-66e122cd858e

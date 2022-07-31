@@ -1,0 +1,212 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,30644,Darko Velkovski,4,Center Back,104.0,40.5,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+False,4713,Ezgjan Alioski,8,Left Wing Back,95.8,57.2,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+False,46906,Visar Musliu,5,Left Center Back,96.5,48.7,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+True,18762,Sasa Kalajdzic,22,Right Center Forward,94.2,51.0,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+True,8779,Stefan Lainer,7,Right Wing Back,90.9,55.9,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+True,8506,Konrad Laimer,13,Right Center Midfield,87.4,59.5,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+True,8777,Andreas Ulmer,8,Left Wing Back,99.5,28.5,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+False,21397,Stole Dimitrievski,1,Goalkeeper,118.5,37.2,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+False,18879,Arijan Ademi,10,Center Defensive Midfield,91.6,39.6,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+True,8769,Xaver Schlager,10,Center Defensive Midfield,91.4,37.2,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+False,10592,Stefan Ristovski,3,Right Center Back,112.3,28.4,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+False,16740,Boban Nikolov,7,Right Wing Back,109.1,26.9,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+False,6782,Enis Bardhi,13,Right Center Midfield,93.0,31.1,7b37324a-bd87-4cf6-a9ac-75c2d3992989
+False,4713,Ezgjan Alioski,8,Left Wing Back,100.8,55.6,b9287a7c-5509-436e-b57b-f6542d6be72f
+False,46906,Visar Musliu,5,Left Center Back,103.3,46.8,b9287a7c-5509-436e-b57b-f6542d6be72f
+False,30644,Darko Velkovski,4,Center Back,104.3,42.7,b9287a7c-5509-436e-b57b-f6542d6be72f
+False,10592,Stefan Ristovski,3,Right Center Back,102.1,37.6,b9287a7c-5509-436e-b57b-f6542d6be72f
+False,16535,Eljif Elmas,15,Left Center Midfield,95.2,47.7,b9287a7c-5509-436e-b57b-f6542d6be72f
+False,18879,Arijan Ademi,10,Center Defensive Midfield,92.1,39.4,b9287a7c-5509-436e-b57b-f6542d6be72f
+False,16740,Boban Nikolov,7,Right Wing Back,93.3,22.1,b9287a7c-5509-436e-b57b-f6542d6be72f
+False,21397,Stole Dimitrievski,1,Goalkeeper,118.2,41.5,b9287a7c-5509-436e-b57b-f6542d6be72f
+True,8518,Marcel Sabitzer,15,Left Center Midfield,96.3,35.0,b9287a7c-5509-436e-b57b-f6542d6be72f
+True,24977,Christoph Baumgartner,24,Left Center Forward,97.6,59.3,b9287a7c-5509-436e-b57b-f6542d6be72f
+True,8779,Stefan Lainer,7,Right Wing Back,102.9,45.9,b9287a7c-5509-436e-b57b-f6542d6be72f
+True,8769,Xaver Schlager,10,Center Defensive Midfield,102.7,40.5,b9287a7c-5509-436e-b57b-f6542d6be72f
+True,24977,Christoph Baumgartner,24,Left Center Forward,106.1,37.2,7f1c8fcb-09f3-4e52-a9ef-61463f361b2a
+True,18762,Sasa Kalajdzic,22,Right Center Forward,113.9,46.9,7f1c8fcb-09f3-4e52-a9ef-61463f361b2a
+False,10592,Stefan Ristovski,3,Right Center Back,106.4,32.5,7f1c8fcb-09f3-4e52-a9ef-61463f361b2a
+False,30644,Darko Velkovski,4,Center Back,110.5,38.9,7f1c8fcb-09f3-4e52-a9ef-61463f361b2a
+False,46906,Visar Musliu,5,Left Center Back,114.5,45.6,7f1c8fcb-09f3-4e52-a9ef-61463f361b2a
+False,4713,Ezgjan Alioski,8,Left Wing Back,113.8,47.8,7f1c8fcb-09f3-4e52-a9ef-61463f361b2a
+False,21397,Stole Dimitrievski,1,Goalkeeper,118.5,43.0,7f1c8fcb-09f3-4e52-a9ef-61463f361b2a
+True,24977,Christoph Baumgartner,24,Left Center Forward,112.7,42.0,99a4e178-552b-49c2-8273-7b1e5abf6e19
+True,8779,Stefan Lainer,7,Right Wing Back,112.3,46.2,99a4e178-552b-49c2-8273-7b1e5abf6e19
+True,8506,Konrad Laimer,13,Right Center Midfield,107.2,37.3,99a4e178-552b-49c2-8273-7b1e5abf6e19
+True,8777,Andreas Ulmer,8,Left Wing Back,98.8,27.4,99a4e178-552b-49c2-8273-7b1e5abf6e19
+False,21397,Stole Dimitrievski,1,Goalkeeper,117.9,38.4,99a4e178-552b-49c2-8273-7b1e5abf6e19
+False,6782,Enis Bardhi,13,Right Center Midfield,98.8,20.2,99a4e178-552b-49c2-8273-7b1e5abf6e19
+False,18879,Arijan Ademi,10,Center Defensive Midfield,101.5,33.1,99a4e178-552b-49c2-8273-7b1e5abf6e19
+False,30644,Darko Velkovski,4,Center Back,105.0,27.4,99a4e178-552b-49c2-8273-7b1e5abf6e19
+False,16535,Eljif Elmas,15,Left Center Midfield,103.4,31.4,99a4e178-552b-49c2-8273-7b1e5abf6e19
+False,10592,Stefan Ristovski,3,Right Center Back,106.9,32.3,99a4e178-552b-49c2-8273-7b1e5abf6e19
+False,46906,Visar Musliu,5,Left Center Back,111.3,39.2,99a4e178-552b-49c2-8273-7b1e5abf6e19
+False,4713,Ezgjan Alioski,8,Left Wing Back,112.1,45.4,99a4e178-552b-49c2-8273-7b1e5abf6e19
+False,21532,Daniel Bachmann,1,Goalkeeper,105.1,39.3,ba780267-f8c8-4f25-8dd6-ff5d5431ce1f
+False,8220,David Olatukunbo Alaba,4,Center Back,108.6,38.2,ba780267-f8c8-4f25-8dd6-ff5d5431ce1f
+False,3969,Aleksandar Dragović,3,Right Center Back,97.7,29.1,ba780267-f8c8-4f25-8dd6-ff5d5431ce1f
+False,8307,Martin Hinteregger,5,Left Center Back,103.4,41.0,ba780267-f8c8-4f25-8dd6-ff5d5431ce1f
+False,8779,Stefan Lainer,7,Right Wing Back,91.8,17.3,ba780267-f8c8-4f25-8dd6-ff5d5431ce1f
+False,8518,Marcel Sabitzer,15,Left Center Midfield,97.8,43.5,ba780267-f8c8-4f25-8dd6-ff5d5431ce1f
+False,8777,Andreas Ulmer,8,Left Wing Back,97.2,50.5,ba780267-f8c8-4f25-8dd6-ff5d5431ce1f
+False,8769,Xaver Schlager,10,Center Defensive Midfield,90.3,34.7,ba780267-f8c8-4f25-8dd6-ff5d5431ce1f
+True,30512,Aleksandar Trajkovski,24,Left Center Forward,106.1,35.4,ba780267-f8c8-4f25-8dd6-ff5d5431ce1f
+True,18879,Arijan Ademi,10,Center Defensive Midfield,92.7,40.8,ba780267-f8c8-4f25-8dd6-ff5d5431ce1f
+True,6782,Enis Bardhi,13,Right Center Midfield,85.9,40.1,be423bbf-bfcb-4b36-a454-d7556585dc1f
+True,46906,Visar Musliu,5,Left Center Back,77.5,23.7,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,21532,Daniel Bachmann,1,Goalkeeper,116.9,39.5,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,8779,Stefan Lainer,7,Right Wing Back,103.3,26.1,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,3969,Aleksandar Dragović,3,Right Center Back,101.9,34.1,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,8506,Konrad Laimer,13,Right Center Midfield,93.5,21.6,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,8220,David Olatukunbo Alaba,4,Center Back,101.3,38.7,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,8769,Xaver Schlager,10,Center Defensive Midfield,95.9,34.4,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,8518,Marcel Sabitzer,15,Left Center Midfield,91.0,40.2,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,8777,Andreas Ulmer,8,Left Wing Back,93.3,48.9,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,24977,Christoph Baumgartner,24,Left Center Forward,91.4,44.9,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,18762,Sasa Kalajdzic,22,Right Center Forward,79.7,24.4,be423bbf-bfcb-4b36-a454-d7556585dc1f
+True,18879,Arijan Ademi,10,Center Defensive Midfield,102.7,28.3,be423bbf-bfcb-4b36-a454-d7556585dc1f
+True,7146,Goran Pandev,22,Right Center Forward,101.9,34.7,be423bbf-bfcb-4b36-a454-d7556585dc1f
+False,8307,Martin Hinteregger,5,Left Center Back,101.4,44.1,be423bbf-bfcb-4b36-a454-d7556585dc1f
+True,16535,Eljif Elmas,15,Left Center Midfield,86.3,13.9,be423bbf-bfcb-4b36-a454-d7556585dc1f
+True,30512,Aleksandar Trajkovski,24,Left Center Forward,93.1,29.5,be423bbf-bfcb-4b36-a454-d7556585dc1f
+True,16740,Boban Nikolov,7,Right Wing Back,101.5,44.9,be423bbf-bfcb-4b36-a454-d7556585dc1f
+True,6782,Enis Bardhi,13,Right Center Midfield,111.4,45.2,aa68906b-c46f-437f-a257-1d2ebde43269
+True,7146,Goran Pandev,22,Right Center Forward,103.1,40.8,aa68906b-c46f-437f-a257-1d2ebde43269
+False,21532,Daniel Bachmann,1,Goalkeeper,117.3,41.2,aa68906b-c46f-437f-a257-1d2ebde43269
+False,8518,Marcel Sabitzer,15,Left Center Midfield,90.8,46.6,aa68906b-c46f-437f-a257-1d2ebde43269
+False,8769,Xaver Schlager,10,Center Defensive Midfield,97.0,38.1,aa68906b-c46f-437f-a257-1d2ebde43269
+False,8779,Stefan Lainer,7,Right Wing Back,102.4,26.5,aa68906b-c46f-437f-a257-1d2ebde43269
+False,8220,David Olatukunbo Alaba,4,Center Back,104.4,40.4,aa68906b-c46f-437f-a257-1d2ebde43269
+False,8307,Martin Hinteregger,5,Left Center Back,104.0,46.5,aa68906b-c46f-437f-a257-1d2ebde43269
+False,8777,Andreas Ulmer,8,Left Wing Back,111.9,47.3,aa68906b-c46f-437f-a257-1d2ebde43269
+True,7146,Goran Pandev,22,Right Center Forward,105.9,45.1,9a286cfa-6e66-4314-bb1c-dee312b9efdf
+True,30512,Aleksandar Trajkovski,24,Left Center Forward,100.0,37.4,9a286cfa-6e66-4314-bb1c-dee312b9efdf
+False,8769,Xaver Schlager,10,Center Defensive Midfield,97.6,38.8,9a286cfa-6e66-4314-bb1c-dee312b9efdf
+False,8931,Philipp Lienhart,3,Right Center Back,106.1,36.8,9a286cfa-6e66-4314-bb1c-dee312b9efdf
+False,8220,David Olatukunbo Alaba,4,Center Back,107.5,42.5,9a286cfa-6e66-4314-bb1c-dee312b9efdf
+False,8777,Andreas Ulmer,8,Left Wing Back,111.6,48.4,9a286cfa-6e66-4314-bb1c-dee312b9efdf
+False,8307,Martin Hinteregger,5,Left Center Back,93.4,53.1,9a286cfa-6e66-4314-bb1c-dee312b9efdf
+False,21532,Daniel Bachmann,1,Goalkeeper,114.6,49.2,9a286cfa-6e66-4314-bb1c-dee312b9efdf
+False,8779,Stefan Lainer,7,Right Wing Back,103.6,31.0,9a286cfa-6e66-4314-bb1c-dee312b9efdf
+False,21532,Daniel Bachmann,1,Goalkeeper,115.6,47.7,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+False,8777,Andreas Ulmer,8,Left Wing Back,116.7,44.2,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+False,8220,David Olatukunbo Alaba,4,Center Back,113.3,45.6,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+False,8307,Martin Hinteregger,5,Left Center Back,103.4,52.8,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+False,8931,Philipp Lienhart,3,Right Center Back,109.5,41.4,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+False,8769,Xaver Schlager,10,Center Defensive Midfield,104.2,43.3,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+False,8779,Stefan Lainer,7,Right Wing Back,108.0,32.7,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+False,8518,Marcel Sabitzer,15,Left Center Midfield,92.2,61.9,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+True,6782,Enis Bardhi,13,Right Center Midfield,94.3,52.9,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+True,10592,Stefan Ristovski,3,Right Center Back,93.7,59.0,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+True,30512,Aleksandar Trajkovski,24,Left Center Forward,106.0,41.9,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+True,16740,Boban Nikolov,7,Right Wing Back,120.0,50.6,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+False,8506,Konrad Laimer,13,Right Center Midfield,96.4,41.9,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+True,16535,Eljif Elmas,15,Left Center Midfield,95.1,43.3,5cf480e1-c32e-4c21-aacc-f8ee32de521d
+True,3325,Marko Arnautović,22,Right Center Forward,96.5,12.3,a6166baa-395a-46c2-9b83-77cd512833be
+True,8777,Andreas Ulmer,8,Left Wing Back,102.9,23.2,a6166baa-395a-46c2-9b83-77cd512833be
+True,8779,Stefan Lainer,7,Right Wing Back,112.0,44.4,a6166baa-395a-46c2-9b83-77cd512833be
+True,8518,Marcel Sabitzer,15,Left Center Midfield,99.5,11.8,a6166baa-395a-46c2-9b83-77cd512833be
+True,8769,Xaver Schlager,10,Center Defensive Midfield,96.2,40.4,a6166baa-395a-46c2-9b83-77cd512833be
+False,21397,Stole Dimitrievski,1,Goalkeeper,117.9,37.7,a6166baa-395a-46c2-9b83-77cd512833be
+False,46915,Egzon Bejtulai,7,Right Wing Back,102.1,15.9,a6166baa-395a-46c2-9b83-77cd512833be
+False,30644,Darko Velkovski,4,Center Back,113.0,35.8,a6166baa-395a-46c2-9b83-77cd512833be
+False,46906,Visar Musliu,5,Left Center Back,114.8,36.2,a6166baa-395a-46c2-9b83-77cd512833be
+False,4713,Ezgjan Alioski,8,Left Wing Back,114.1,41.3,a6166baa-395a-46c2-9b83-77cd512833be
+False,18879,Arijan Ademi,10,Center Defensive Midfield,103.6,25.0,a6166baa-395a-46c2-9b83-77cd512833be
+False,10592,Stefan Ristovski,3,Right Center Back,104.8,30.0,a6166baa-395a-46c2-9b83-77cd512833be
+False,44229,Tihomir Kostadinov,13,Right Center Midfield,96.1,17.8,a6166baa-395a-46c2-9b83-77cd512833be
+False,6782,Enis Bardhi,15,Left Center Midfield,98.8,37.7,a6166baa-395a-46c2-9b83-77cd512833be
+False,16535,Eljif Elmas,24,Left Center Forward,93.1,26.3,a6166baa-395a-46c2-9b83-77cd512833be
+True,8220,David Olatukunbo Alaba,4,Center Back,120.0,73.5,59099995-28ff-4a4e-8789-b9089743ebcd
+True,8779,Stefan Lainer,7,Right Wing Back,112.3,36.3,59099995-28ff-4a4e-8789-b9089743ebcd
+True,8309,Michael Gregoritsch,24,Left Center Forward,115.8,42.1,59099995-28ff-4a4e-8789-b9089743ebcd
+True,8931,Philipp Lienhart,3,Right Center Back,113.3,38.3,59099995-28ff-4a4e-8789-b9089743ebcd
+True,8307,Martin Hinteregger,5,Left Center Back,114.4,46.1,59099995-28ff-4a4e-8789-b9089743ebcd
+True,3325,Marko Arnautović,22,Right Center Forward,117.1,47.7,59099995-28ff-4a4e-8789-b9089743ebcd
+False,21397,Stole Dimitrievski,1,Goalkeeper,118.3,41.7,59099995-28ff-4a4e-8789-b9089743ebcd
+False,16535,Eljif Elmas,24,Left Center Forward,118.9,44.3,59099995-28ff-4a4e-8789-b9089743ebcd
+False,10592,Stefan Ristovski,3,Right Center Back,114.9,38.4,59099995-28ff-4a4e-8789-b9089743ebcd
+False,46906,Visar Musliu,5,Left Center Back,114.9,41.9,59099995-28ff-4a4e-8789-b9089743ebcd
+False,46915,Egzon Bejtulai,7,Right Wing Back,116.6,47.0,59099995-28ff-4a4e-8789-b9089743ebcd
+False,44229,Tihomir Kostadinov,13,Right Center Midfield,111.6,39.9,59099995-28ff-4a4e-8789-b9089743ebcd
+False,18879,Arijan Ademi,10,Center Defensive Midfield,115.6,45.5,59099995-28ff-4a4e-8789-b9089743ebcd
+False,30644,Darko Velkovski,4,Center Back,114.1,47.8,59099995-28ff-4a4e-8789-b9089743ebcd
+False,6782,Enis Bardhi,15,Left Center Midfield,114.5,52.2,59099995-28ff-4a4e-8789-b9089743ebcd
+False,4713,Ezgjan Alioski,8,Left Wing Back,106.5,45.1,59099995-28ff-4a4e-8789-b9089743ebcd
+True,8506,Konrad Laimer,13,Right Center Midfield,97.8,44.6,59099995-28ff-4a4e-8789-b9089743ebcd
+True,8777,Andreas Ulmer,8,Left Wing Back,103.9,31.5,d352dacf-fa0c-4909-9684-ceade4516846
+True,8307,Martin Hinteregger,5,Left Center Back,91.3,18.6,d352dacf-fa0c-4909-9684-ceade4516846
+True,8506,Konrad Laimer,13,Right Center Midfield,98.4,27.4,d352dacf-fa0c-4909-9684-ceade4516846
+True,3325,Marko Arnautović,22,Right Center Forward,105.8,25.9,d352dacf-fa0c-4909-9684-ceade4516846
+True,8779,Stefan Lainer,7,Right Wing Back,97.7,44.8,d352dacf-fa0c-4909-9684-ceade4516846
+True,8309,Michael Gregoritsch,24,Left Center Forward,105.7,39.8,d352dacf-fa0c-4909-9684-ceade4516846
+False,46915,Egzon Bejtulai,7,Right Wing Back,107.4,25.3,d352dacf-fa0c-4909-9684-ceade4516846
+False,44229,Tihomir Kostadinov,13,Right Center Midfield,102.9,24.0,d352dacf-fa0c-4909-9684-ceade4516846
+False,30644,Darko Velkovski,4,Center Back,106.3,36.3,d352dacf-fa0c-4909-9684-ceade4516846
+False,10592,Stefan Ristovski,3,Right Center Back,104.4,32.7,d352dacf-fa0c-4909-9684-ceade4516846
+False,18879,Arijan Ademi,10,Center Defensive Midfield,100.1,30.6,d352dacf-fa0c-4909-9684-ceade4516846
+False,7146,Goran Pandev,22,Right Center Forward,94.3,21.4,d352dacf-fa0c-4909-9684-ceade4516846
+False,46906,Visar Musliu,5,Left Center Back,104.0,41.2,d352dacf-fa0c-4909-9684-ceade4516846
+False,4713,Ezgjan Alioski,8,Left Wing Back,103.9,43.9,d352dacf-fa0c-4909-9684-ceade4516846
+False,6782,Enis Bardhi,15,Left Center Midfield,100.0,35.1,d352dacf-fa0c-4909-9684-ceade4516846
+False,16535,Eljif Elmas,24,Left Center Forward,86.1,30.5,d352dacf-fa0c-4909-9684-ceade4516846
+False,21397,Stole Dimitrievski,1,Goalkeeper,118.0,37.9,d352dacf-fa0c-4909-9684-ceade4516846
+True,8518,Marcel Sabitzer,15,Left Center Midfield,109.8,12.6,d352dacf-fa0c-4909-9684-ceade4516846
+False,8506,Konrad Laimer,13,Right Center Midfield,106.4,57.6,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+False,8307,Martin Hinteregger,5,Left Center Back,107.1,45.2,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+False,8777,Andreas Ulmer,8,Left Wing Back,102.7,51.7,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+False,8220,David Olatukunbo Alaba,4,Center Back,107.2,42.6,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+False,8931,Philipp Lienhart,3,Right Center Back,107.7,36.5,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+False,8779,Stefan Lainer,7,Right Wing Back,104.7,27.0,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+False,8769,Xaver Schlager,10,Center Defensive Midfield,100.1,37.1,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+False,21532,Daniel Bachmann,1,Goalkeeper,117.6,38.1,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+True,44229,Tihomir Kostadinov,13,Right Center Midfield,87.7,53.3,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+True,7146,Goran Pandev,22,Right Center Forward,109.0,42.2,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+True,16535,Eljif Elmas,24,Left Center Forward,102.6,36.8,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+True,6782,Enis Bardhi,15,Left Center Midfield,97.4,45.7,d8256fc1-a866-4dc8-80f6-7d72773aca5b
+False,8307,Martin Hinteregger,5,Left Center Back,106.9,39.8,d671b846-3a53-4bec-a65d-8205b8a9ec7a
+False,8518,Marcel Sabitzer,15,Left Center Midfield,109.3,31.9,d671b846-3a53-4bec-a65d-8205b8a9ec7a
+False,8777,Andreas Ulmer,8,Left Wing Back,100.5,44.3,d671b846-3a53-4bec-a65d-8205b8a9ec7a
+False,8769,Xaver Schlager,10,Center Defensive Midfield,106.0,33.1,d671b846-3a53-4bec-a65d-8205b8a9ec7a
+False,8931,Philipp Lienhart,3,Right Center Back,109.2,22.6,d671b846-3a53-4bec-a65d-8205b8a9ec7a
+False,8506,Konrad Laimer,13,Right Center Midfield,104.2,22.7,d671b846-3a53-4bec-a65d-8205b8a9ec7a
+False,21532,Daniel Bachmann,1,Goalkeeper,118.2,37.9,d671b846-3a53-4bec-a65d-8205b8a9ec7a
+True,4713,Ezgjan Alioski,8,Left Wing Back,107.5,15.8,d671b846-3a53-4bec-a65d-8205b8a9ec7a
+True,6782,Enis Bardhi,15,Left Center Midfield,102.7,39.1,d671b846-3a53-4bec-a65d-8205b8a9ec7a
+True,7146,Goran Pandev,22,Right Center Forward,109.0,30.7,d671b846-3a53-4bec-a65d-8205b8a9ec7a
+True,3325,Marko Arnautović,22,Right Center Forward,112.1,43.0,6c61441f-b5f9-47d7-957f-3278d85785ae
+True,8777,Andreas Ulmer,8,Left Wing Back,102.5,27.4,6c61441f-b5f9-47d7-957f-3278d85785ae
+True,8931,Philipp Lienhart,3,Right Center Back,109.3,46.9,6c61441f-b5f9-47d7-957f-3278d85785ae
+True,8518,Marcel Sabitzer,15,Left Center Midfield,88.2,19.0,6c61441f-b5f9-47d7-957f-3278d85785ae
+True,8779,Stefan Lainer,7,Right Wing Back,103.4,56.1,6c61441f-b5f9-47d7-957f-3278d85785ae
+True,8220,David Olatukunbo Alaba,4,Center Back,97.0,11.5,6c61441f-b5f9-47d7-957f-3278d85785ae
+False,21397,Stole Dimitrievski,1,Goalkeeper,115.0,39.9,6c61441f-b5f9-47d7-957f-3278d85785ae
+False,44229,Tihomir Kostadinov,13,Right Center Midfield,102.4,14.8,6c61441f-b5f9-47d7-957f-3278d85785ae
+False,46915,Egzon Bejtulai,7,Right Wing Back,106.1,24.8,6c61441f-b5f9-47d7-957f-3278d85785ae
+False,10592,Stefan Ristovski,3,Right Center Back,108.1,33.1,6c61441f-b5f9-47d7-957f-3278d85785ae
+False,30644,Darko Velkovski,4,Center Back,110.2,38.1,6c61441f-b5f9-47d7-957f-3278d85785ae
+False,46906,Visar Musliu,5,Left Center Back,112.9,42.5,6c61441f-b5f9-47d7-957f-3278d85785ae
+False,18879,Arijan Ademi,10,Center Defensive Midfield,97.4,21.3,6c61441f-b5f9-47d7-957f-3278d85785ae
+False,4713,Ezgjan Alioski,8,Left Wing Back,110.3,45.7,6c61441f-b5f9-47d7-957f-3278d85785ae
+False,6782,Enis Bardhi,15,Left Center Midfield,106.4,42.7,6c61441f-b5f9-47d7-957f-3278d85785ae
+False,21397,Stole Dimitrievski,1,Goalkeeper,117.8,38.0,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+False,16535,Eljif Elmas,24,Left Center Forward,93.2,40.9,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+False,4713,Ezgjan Alioski,8,Left Wing Back,102.9,53.9,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+False,44229,Tihomir Kostadinov,13,Right Center Midfield,99.2,42.6,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+False,18879,Arijan Ademi,10,Center Defensive Midfield,97.8,33.5,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+False,46906,Visar Musliu,5,Left Center Back,103.9,44.0,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+False,30644,Darko Velkovski,4,Center Back,104.7,34.8,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+False,10592,Stefan Ristovski,3,Right Center Back,104.4,32.4,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+False,46915,Egzon Bejtulai,7,Right Wing Back,104.2,29.7,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+True,3325,Marko Arnautović,22,Right Center Forward,105.3,36.7,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+True,8309,Michael Gregoritsch,24,Left Center Forward,103.3,33.4,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+True,8777,Andreas Ulmer,8,Left Wing Back,100.8,17.4,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+True,8506,Konrad Laimer,13,Right Center Midfield,99.3,45.0,0d59b6ef-c8df-4abf-95cc-3afbb6cc8455
+True,8506,Konrad Laimer,13,Right Center Midfield,102.9,34.3,12bfbb55-38e6-4a1b-bec2-5870a6883d9a
+False,46915,Egzon Bejtulai,15,Left Center Midfield,113.5,37.6,12bfbb55-38e6-4a1b-bec2-5870a6883d9a
+False,30644,Darko Velkovski,5,Left Center Back,96.8,19.5,12bfbb55-38e6-4a1b-bec2-5870a6883d9a
+False,10592,Stefan Ristovski,2,Right Back,94.1,12.4,12bfbb55-38e6-4a1b-bec2-5870a6883d9a
+False,4713,Ezgjan Alioski,6,Left Back,105.1,39.1,12bfbb55-38e6-4a1b-bec2-5870a6883d9a
+False,44229,Tihomir Kostadinov,13,Right Center Midfield,86.7,22.0,12bfbb55-38e6-4a1b-bec2-5870a6883d9a
+False,21397,Stole Dimitrievski,1,Goalkeeper,107.0,39.8,12bfbb55-38e6-4a1b-bec2-5870a6883d9a

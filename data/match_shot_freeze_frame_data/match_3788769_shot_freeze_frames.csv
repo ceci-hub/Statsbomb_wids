@@ -1,0 +1,300 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,6797,Daniel Wass,7,Right Wing Back,103.4,34.3,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+False,5527,Thomas Delaney,11,Left Defensive Midfield,95.5,38.1,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+False,8815,Jannik Vestergaard,5,Left Center Back,99.6,46.4,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+True,5171,Roman Zobnin,11,Left Defensive Midfield,99.6,33.8,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+True,6299,Aleksey Miranchuk,17,Right Wing,105.6,32.9,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+True,5195,Artem Dzyuba,23,Center Forward,104.0,56.1,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+False,3959,Andreas Christensen,3,Right Center Back,108.1,44.2,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+False,5534,Simon Thorup Kjær,4,Center Back,106.2,39.2,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,106.8,45.7,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+False,16554,Joakim Mæhle,8,Left Wing Back,96.5,55.2,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+False,3815,Kasper Schmeichel,1,Goalkeeper,115.2,42.8,8a1fd821-6008-4d6d-9234-4d41a2f1b2af
+True,5179,Daler Kuzyaev,8,Left Wing Back,88.4,27.6,0d516315-8c47-44ae-b763-a15aadd5728c
+True,6299,Aleksey Miranchuk,17,Right Wing,109.0,34.7,0d516315-8c47-44ae-b763-a15aadd5728c
+True,5171,Roman Zobnin,11,Left Defensive Midfield,91.5,40.6,0d516315-8c47-44ae-b763-a15aadd5728c
+True,5177,Aleksandr Golovin,21,Left Wing,101.0,44.4,0d516315-8c47-44ae-b763-a15aadd5728c
+True,5195,Artem Dzyuba,23,Center Forward,104.4,49.6,0d516315-8c47-44ae-b763-a15aadd5728c
+True,20845,Magomed Ozdoev,9,Right Defensive Midfield,84.7,50.8,0d516315-8c47-44ae-b763-a15aadd5728c
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,99.7,49.1,0d516315-8c47-44ae-b763-a15aadd5728c
+False,5534,Simon Thorup Kjær,4,Center Back,104.1,42.3,0d516315-8c47-44ae-b763-a15aadd5728c
+False,3959,Andreas Christensen,3,Right Center Back,104.0,43.5,0d516315-8c47-44ae-b763-a15aadd5728c
+False,16554,Joakim Mæhle,8,Left Wing Back,99.9,52.7,0d516315-8c47-44ae-b763-a15aadd5728c
+False,8815,Jannik Vestergaard,5,Left Center Back,103.2,46.0,0d516315-8c47-44ae-b763-a15aadd5728c
+False,6797,Daniel Wass,7,Right Wing Back,104.0,35.4,0d516315-8c47-44ae-b763-a15aadd5728c
+False,24443,Mikkel Damsgaard,20,Left Attacking Midfield,90.3,51.8,0d516315-8c47-44ae-b763-a15aadd5728c
+False,5527,Thomas Delaney,11,Left Defensive Midfield,93.5,48.0,0d516315-8c47-44ae-b763-a15aadd5728c
+False,5536,Yussuf Yurary Poulsen,23,Center Forward,79.8,46.1,0d516315-8c47-44ae-b763-a15aadd5728c
+False,3815,Kasper Schmeichel,1,Goalkeeper,117.0,41.9,0d516315-8c47-44ae-b763-a15aadd5728c
+True,5177,Aleksandr Golovin,21,Left Wing,100.1,39.4,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+True,5179,Daler Kuzyaev,8,Left Wing Back,101.0,26.8,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+False,6797,Daniel Wass,7,Right Wing Back,106.7,38.0,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,98.5,44.7,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+False,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,87.2,58.6,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+False,3959,Andreas Christensen,3,Right Center Back,107.2,47.2,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+False,5536,Yussuf Yurary Poulsen,23,Center Forward,105.0,52.9,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+False,5534,Simon Thorup Kjær,4,Center Back,106.6,51.1,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+False,3815,Kasper Schmeichel,1,Goalkeeper,116.3,43.2,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+True,20845,Magomed Ozdoev,9,Right Defensive Midfield,112.0,53.9,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+False,8815,Jannik Vestergaard,5,Left Center Back,107.0,58.5,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+False,16554,Joakim Mæhle,8,Left Wing Back,98.5,64.4,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+False,5527,Thomas Delaney,11,Left Defensive Midfield,95.7,63.3,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+True,6299,Aleksey Miranchuk,17,Right Wing,94.9,61.1,c039baff-f1b9-4047-aba6-bf7f2d6db3f0
+True,16554,Joakim Mæhle,8,Left Wing Back,97.4,28.0,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+False,5170,Mário Figueira Fernandes,7,Right Wing Back,103.2,30.7,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+False,16583,Georgiy Dzhikiya,3,Right Center Back,98.9,35.6,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+False,5171,Roman Zobnin,11,Left Defensive Midfield,93.2,39.5,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,103.3,33.7,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,103.0,51.0,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+True,6797,Daniel Wass,7,Right Wing Back,102.1,57.2,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,101.7,43.7,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+False,31917,Igor Diveev,4,Center Back,103.6,43.1,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+False,5677,Fedor Kudryashov,5,Left Center Back,101.7,45.7,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+False,5179,Daler Kuzyaev,8,Left Wing Back,101.9,53.4,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+False,20845,Magomed Ozdoev,9,Right Defensive Midfield,93.3,44.0,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+False,21298,Matvey Safonov,1,Goalkeeper,116.7,40.3,a7fddfe4-2a26-49bd-b2dc-2b53e2a87533
+False,3815,Kasper Schmeichel,1,Goalkeeper,116.4,40.8,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+True,5170,Mário Figueira Fernandes,7,Right Wing Back,103.5,53.9,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+False,24443,Mikkel Damsgaard,20,Left Attacking Midfield,84.7,57.4,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+True,6299,Aleksey Miranchuk,17,Right Wing,100.6,44.8,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+True,5195,Artem Dzyuba,23,Center Forward,105.8,34.6,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+True,20845,Magomed Ozdoev,9,Right Defensive Midfield,95.1,46.1,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+True,5171,Roman Zobnin,11,Left Defensive Midfield,93.6,34.0,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+True,5179,Daler Kuzyaev,8,Left Wing Back,98.4,24.8,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+False,16554,Joakim Mæhle,8,Left Wing Back,105.3,50.3,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+False,8815,Jannik Vestergaard,5,Left Center Back,105.0,42.5,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+False,5534,Simon Thorup Kjær,4,Center Back,104.2,41.1,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+False,6797,Daniel Wass,7,Right Wing Back,101.8,35.6,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+False,3959,Andreas Christensen,3,Right Center Back,104.7,34.7,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,93.9,42.3,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+False,5527,Thomas Delaney,11,Left Defensive Midfield,99.7,37.0,458da50f-8bb8-4b87-a5e2-ab84e2028a26
+False,5177,Aleksandr Golovin,21,Left Wing,88.2,58.8,329cd155-47da-49a5-a4ec-4baab982538a
+False,20845,Magomed Ozdoev,9,Right Defensive Midfield,88.9,42.9,329cd155-47da-49a5-a4ec-4baab982538a
+False,5179,Daler Kuzyaev,8,Left Wing Back,98.8,60.9,329cd155-47da-49a5-a4ec-4baab982538a
+False,5171,Roman Zobnin,11,Left Defensive Midfield,93.0,47.0,329cd155-47da-49a5-a4ec-4baab982538a
+False,5677,Fedor Kudryashov,5,Left Center Back,101.8,49.5,329cd155-47da-49a5-a4ec-4baab982538a
+False,31917,Igor Diveev,4,Center Back,99.7,42.3,329cd155-47da-49a5-a4ec-4baab982538a
+False,16583,Georgiy Dzhikiya,3,Right Center Back,97.8,37.7,329cd155-47da-49a5-a4ec-4baab982538a
+True,6797,Daniel Wass,7,Right Wing Back,93.6,68.5,329cd155-47da-49a5-a4ec-4baab982538a
+True,5527,Thomas Delaney,11,Left Defensive Midfield,96.3,58.1,329cd155-47da-49a5-a4ec-4baab982538a
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,100.6,50.0,329cd155-47da-49a5-a4ec-4baab982538a
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,95.8,43.4,329cd155-47da-49a5-a4ec-4baab982538a
+False,6299,Aleksey Miranchuk,17,Right Wing,94.1,39.7,329cd155-47da-49a5-a4ec-4baab982538a
+True,16554,Joakim Mæhle,8,Left Wing Back,87.6,20.9,329cd155-47da-49a5-a4ec-4baab982538a
+False,21298,Matvey Safonov,1,Goalkeeper,116.1,39.4,329cd155-47da-49a5-a4ec-4baab982538a
+False,5170,Mário Figueira Fernandes,7,Right Wing Back,101.8,30.2,329cd155-47da-49a5-a4ec-4baab982538a
+False,5170,Mário Figueira Fernandes,7,Right Wing Back,108.9,38.7,e169d06d-6623-4f03-bbe7-012e1b737a6b
+False,5677,Fedor Kudryashov,5,Left Center Back,114.3,42.2,e169d06d-6623-4f03-bbe7-012e1b737a6b
+False,20845,Magomed Ozdoev,9,Right Defensive Midfield,114.3,43.8,e169d06d-6623-4f03-bbe7-012e1b737a6b
+False,5195,Artem Dzyuba,23,Center Forward,112.5,41.8,e169d06d-6623-4f03-bbe7-012e1b737a6b
+False,6299,Aleksey Miranchuk,17,Right Wing,99.8,37.9,e169d06d-6623-4f03-bbe7-012e1b737a6b
+False,5171,Roman Zobnin,11,Left Defensive Midfield,108.4,43.1,e169d06d-6623-4f03-bbe7-012e1b737a6b
+False,5179,Daler Kuzyaev,8,Left Wing Back,110.6,35.5,e169d06d-6623-4f03-bbe7-012e1b737a6b
+False,16583,Georgiy Dzhikiya,3,Right Center Back,110.2,38.8,e169d06d-6623-4f03-bbe7-012e1b737a6b
+True,5527,Thomas Delaney,11,Left Defensive Midfield,113.6,41.4,e169d06d-6623-4f03-bbe7-012e1b737a6b
+True,5534,Simon Thorup Kjær,4,Center Back,112.1,40.4,e169d06d-6623-4f03-bbe7-012e1b737a6b
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,111.7,44.7,e169d06d-6623-4f03-bbe7-012e1b737a6b
+False,21298,Matvey Safonov,1,Goalkeeper,118.4,39.4,e169d06d-6623-4f03-bbe7-012e1b737a6b
+False,31917,Igor Diveev,4,Center Back,110.6,37.4,e169d06d-6623-4f03-bbe7-012e1b737a6b
+True,3959,Andreas Christensen,3,Right Center Back,110.5,30.8,e169d06d-6623-4f03-bbe7-012e1b737a6b
+True,5536,Yussuf Yurary Poulsen,23,Center Forward,106.3,30.9,e169d06d-6623-4f03-bbe7-012e1b737a6b
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,103.2,20.4,977e128e-d522-487d-9b93-128dd983bded
+False,20845,Magomed Ozdoev,9,Right Defensive Midfield,93.3,30.1,977e128e-d522-487d-9b93-128dd983bded
+False,5170,Mário Figueira Fernandes,7,Right Wing Back,103.7,22.6,977e128e-d522-487d-9b93-128dd983bded
+False,5177,Aleksandr Golovin,21,Left Wing,91.6,40.0,977e128e-d522-487d-9b93-128dd983bded
+False,31917,Igor Diveev,4,Center Back,103.4,27.5,977e128e-d522-487d-9b93-128dd983bded
+False,16583,Georgiy Dzhikiya,3,Right Center Back,106.0,33.7,977e128e-d522-487d-9b93-128dd983bded
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,92.0,37.3,977e128e-d522-487d-9b93-128dd983bded
+False,5171,Roman Zobnin,11,Left Defensive Midfield,100.2,37.2,977e128e-d522-487d-9b93-128dd983bded
+False,5677,Fedor Kudryashov,5,Left Center Back,98.6,37.3,977e128e-d522-487d-9b93-128dd983bded
+False,5179,Daler Kuzyaev,8,Left Wing Back,105.6,44.2,977e128e-d522-487d-9b93-128dd983bded
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,104.1,47.5,977e128e-d522-487d-9b93-128dd983bded
+False,21298,Matvey Safonov,1,Goalkeeper,118.3,37.8,977e128e-d522-487d-9b93-128dd983bded
+False,31917,Igor Diveev,4,Center Back,83.8,47.7,afc52d33-0465-4732-b037-d6a44d3410b4
+False,5677,Fedor Kudryashov,5,Left Center Back,93.3,52.5,afc52d33-0465-4732-b037-d6a44d3410b4
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,91.7,65.0,afc52d33-0465-4732-b037-d6a44d3410b4
+False,21298,Matvey Safonov,1,Goalkeeper,111.1,40.5,afc52d33-0465-4732-b037-d6a44d3410b4
+False,5171,Roman Zobnin,11,Left Defensive Midfield,109.5,27.5,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+True,24443,Mikkel Damsgaard,20,Left Attacking Midfield,110.2,47.0,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+True,6302,Kasper Dolberg,23,Center Forward,112.4,39.5,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,108.1,35.6,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+True,5524,Jens Stryger Larsen,7,Right Wing Back,102.4,37.2,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+False,5179,Daler Kuzyaev,8,Left Wing Back,102.4,29.0,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+False,18734,Rifat Zhemaletdinov,9,Right Defensive Midfield,93.8,35.7,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+False,21298,Matvey Safonov,1,Goalkeeper,117.7,36.1,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+False,5677,Fedor Kudryashov,5,Left Center Back,111.3,41.7,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+False,5170,Mário Figueira Fernandes,7,Right Wing Back,112.3,36.1,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+False,16583,Georgiy Dzhikiya,3,Right Center Back,112.3,32.7,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+False,31917,Igor Diveev,4,Center Back,110.6,34.6,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+False,5177,Aleksandr Golovin,21,Left Wing,104.3,37.5,55806b2b-8b1e-448e-b5ad-bd2f769bf278
+False,31917,Igor Diveev,3,Right Center Back,116.3,37.7,616aaa45-8fca-448a-b86c-243a55879ce2
+False,39273,Maksim Mukhin,9,Right Defensive Midfield,119.0,38.7,616aaa45-8fca-448a-b86c-243a55879ce2
+False,21298,Matvey Safonov,1,Goalkeeper,115.1,38.5,616aaa45-8fca-448a-b86c-243a55879ce2
+False,18734,Rifat Zhemaletdinov,12,Right Midfield,110.7,32.1,616aaa45-8fca-448a-b86c-243a55879ce2
+False,5171,Roman Zobnin,11,Left Defensive Midfield,109.6,39.3,616aaa45-8fca-448a-b86c-243a55879ce2
+False,38178,Aleksandr Sobolev,24,Left Center Forward,112.7,37.6,616aaa45-8fca-448a-b86c-243a55879ce2
+False,5170,Mário Figueira Fernandes,2,Right Back,116.4,42.8,616aaa45-8fca-448a-b86c-243a55879ce2
+False,5195,Artem Dzyuba,22,Right Center Forward,115.1,39.7,616aaa45-8fca-448a-b86c-243a55879ce2
+False,16583,Georgiy Dzhikiya,5,Left Center Back,114.1,39.8,616aaa45-8fca-448a-b86c-243a55879ce2
+False,15545,Vyacheslav Karavaev,6,Left Back,106.0,42.4,616aaa45-8fca-448a-b86c-243a55879ce2
+True,5524,Jens Stryger Larsen,7,Right Wing Back,110.8,5.6,616aaa45-8fca-448a-b86c-243a55879ce2
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,103.8,41.5,616aaa45-8fca-448a-b86c-243a55879ce2
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,115.2,41.9,616aaa45-8fca-448a-b86c-243a55879ce2
+True,5527,Thomas Delaney,11,Left Defensive Midfield,110.7,39.7,616aaa45-8fca-448a-b86c-243a55879ce2
+True,3959,Andreas Christensen,3,Right Center Back,110.7,38.9,616aaa45-8fca-448a-b86c-243a55879ce2
+True,6302,Kasper Dolberg,23,Center Forward,115.2,35.5,616aaa45-8fca-448a-b86c-243a55879ce2
+True,8815,Jannik Vestergaard,5,Left Center Back,113.9,37.5,616aaa45-8fca-448a-b86c-243a55879ce2
+True,6302,Kasper Dolberg,23,Center Forward,98.4,31.1,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,39273,Maksim Mukhin,9,Right Defensive Midfield,118.6,38.0,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,21298,Matvey Safonov,1,Goalkeeper,113.9,37.4,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,5170,Mário Figueira Fernandes,2,Right Back,115.2,42.3,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,5195,Artem Dzyuba,22,Right Center Forward,114.9,39.0,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,16583,Georgiy Dzhikiya,5,Left Center Back,114.1,39.4,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,31917,Igor Diveev,3,Right Center Back,114.7,37.1,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,15545,Vyacheslav Karavaev,6,Left Back,107.6,42.8,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,5171,Roman Zobnin,11,Left Defensive Midfield,108.5,40.4,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,38178,Aleksandr Sobolev,24,Left Center Forward,110.9,36.0,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,18734,Rifat Zhemaletdinov,12,Right Midfield,109.3,31.8,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,5177,Aleksandr Golovin,16,Left Midfield,99.0,30.3,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+True,5534,Simon Thorup Kjær,4,Center Back,114.5,36.1,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,101.9,41.0,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+True,3959,Andreas Christensen,3,Right Center Back,109.9,39.5,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+True,5527,Thomas Delaney,11,Left Defensive Midfield,109.6,41.3,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,114.7,41.3,afed27f1-ed7e-4631-9580-25c1bb1c48d9
+False,5195,Artem Dzyuba,22,Right Center Forward,111.6,38.8,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,21298,Matvey Safonov,1,Goalkeeper,112.4,38.3,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,5170,Mário Figueira Fernandes,2,Right Back,112.3,42.3,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,31917,Igor Diveev,3,Right Center Back,114.1,38.5,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,15545,Vyacheslav Karavaev,6,Left Back,108.7,44.0,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,5171,Roman Zobnin,11,Left Defensive Midfield,106.2,42.2,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,38178,Aleksandr Sobolev,24,Left Center Forward,108.0,35.5,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,18734,Rifat Zhemaletdinov,12,Right Midfield,107.6,31.9,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,39273,Maksim Mukhin,9,Right Defensive Midfield,118.8,39.4,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,16583,Georgiy Dzhikiya,5,Left Center Back,113.9,40.1,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,114.6,41.5,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+True,6302,Kasper Dolberg,23,Center Forward,114.8,36.1,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+True,5527,Thomas Delaney,11,Left Defensive Midfield,109.0,42.2,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+True,8815,Jannik Vestergaard,5,Left Center Back,112.2,36.9,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,97.3,41.1,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,5177,Aleksandr Golovin,16,Left Midfield,99.1,29.7,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+True,5534,Simon Thorup Kjær,4,Center Back,113.4,37.3,2219cfb7-17a9-4ad8-9c2d-1364b795fee2
+False,5177,Aleksandr Golovin,16,Left Midfield,98.8,29.9,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+False,21298,Matvey Safonov,1,Goalkeeper,118.7,39.0,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+False,18734,Rifat Zhemaletdinov,12,Right Midfield,99.2,29.2,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+False,5171,Roman Zobnin,11,Left Defensive Midfield,106.2,44.5,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+False,15545,Vyacheslav Karavaev,6,Left Back,100.3,48.5,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+False,5195,Artem Dzyuba,22,Right Center Forward,104.8,45.3,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+False,31917,Igor Diveev,3,Right Center Back,105.9,41.7,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+False,16583,Georgiy Dzhikiya,5,Left Center Back,104.5,40.6,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+False,39273,Maksim Mukhin,9,Right Defensive Midfield,103.0,39.8,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+False,5170,Mário Figueira Fernandes,2,Right Back,103.1,38.3,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+False,38178,Aleksandr Sobolev,24,Left Center Forward,102.1,37.9,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+True,6302,Kasper Dolberg,23,Center Forward,102.8,46.3,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+True,3959,Andreas Christensen,3,Right Center Back,104.9,46.1,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+True,8815,Jannik Vestergaard,5,Left Center Back,101.2,47.9,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+True,5534,Simon Thorup Kjær,4,Center Back,105.1,39.4,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,104.0,39.2,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+True,5527,Thomas Delaney,11,Left Defensive Midfield,102.6,37.5,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+True,5524,Jens Stryger Larsen,7,Right Wing Back,86.6,25.7,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+True,7097,Christian Nørgaard,20,Left Attacking Midfield,88.0,43.1,5d920fcf-052e-4b2a-bb8d-9e5b3664d216
+True,5170,Mário Figueira Fernandes,2,Right Back,108.3,37.2,30c3d09b-b1cc-472f-b2b7-291423508f98
+True,15545,Vyacheslav Karavaev,6,Left Back,109.0,21.8,30c3d09b-b1cc-472f-b2b7-291423508f98
+True,38178,Aleksandr Sobolev,24,Left Center Forward,105.2,48.8,30c3d09b-b1cc-472f-b2b7-291423508f98
+True,18734,Rifat Zhemaletdinov,12,Right Midfield,106.4,43.1,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,7097,Christian Nørgaard,20,Left Attacking Midfield,105.5,37.8,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,16554,Joakim Mæhle,8,Left Wing Back,107.9,44.6,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,8815,Jannik Vestergaard,5,Left Center Back,108.8,39.2,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,5534,Simon Thorup Kjær,4,Center Back,109.5,37.5,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,3959,Andreas Christensen,3,Right Center Back,108.7,29.0,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,5524,Jens Stryger Larsen,7,Right Wing Back,108.6,23.7,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,6302,Kasper Dolberg,23,Center Forward,101.7,35.5,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,99.5,33.7,30c3d09b-b1cc-472f-b2b7-291423508f98
+True,5177,Aleksandr Golovin,16,Left Midfield,99.5,26.4,30c3d09b-b1cc-472f-b2b7-291423508f98
+True,5195,Artem Dzyuba,22,Right Center Forward,109.1,27.5,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,5527,Thomas Delaney,11,Left Defensive Midfield,102.4,40.0,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,3815,Kasper Schmeichel,1,Goalkeeper,117.6,39.3,30c3d09b-b1cc-472f-b2b7-291423508f98
+True,39273,Maksim Mukhin,9,Right Defensive Midfield,92.7,34.6,30c3d09b-b1cc-472f-b2b7-291423508f98
+False,5195,Artem Dzyuba,22,Right Center Forward,109.4,38.0,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,16583,Georgiy Dzhikiya,5,Left Center Back,115.0,41.4,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,21298,Matvey Safonov,1,Goalkeeper,119.4,39.9,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,38178,Aleksandr Sobolev,24,Left Center Forward,113.5,44.1,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,18734,Rifat Zhemaletdinov,12,Right Midfield,115.1,46.9,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,5171,Roman Zobnin,11,Left Defensive Midfield,111.9,45.6,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,39273,Maksim Mukhin,9,Right Defensive Midfield,109.7,43.8,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,5170,Mário Figueira Fernandes,2,Right Back,111.3,41.4,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,15545,Vyacheslav Karavaev,6,Left Back,110.1,41.6,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,5177,Aleksandr Golovin,16,Left Midfield,100.3,53.4,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,31917,Igor Diveev,3,Right Center Back,111.1,37.4,14d16331-0987-405f-b3a9-1fb285d3efbd
+True,7097,Christian Nørgaard,20,Left Attacking Midfield,99.5,53.0,14d16331-0987-405f-b3a9-1fb285d3efbd
+True,6302,Kasper Dolberg,23,Center Forward,113.0,51.2,14d16331-0987-405f-b3a9-1fb285d3efbd
+True,5527,Thomas Delaney,11,Left Defensive Midfield,115.2,40.6,14d16331-0987-405f-b3a9-1fb285d3efbd
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,115.1,44.1,14d16331-0987-405f-b3a9-1fb285d3efbd
+True,5534,Simon Thorup Kjær,4,Center Back,110.0,41.0,14d16331-0987-405f-b3a9-1fb285d3efbd
+True,8815,Jannik Vestergaard,5,Left Center Back,109.8,40.5,14d16331-0987-405f-b3a9-1fb285d3efbd
+False,21298,Matvey Safonov,1,Goalkeeper,118.4,38.1,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+False,15545,Vyacheslav Karavaev,6,Left Back,112.3,41.0,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+False,16583,Georgiy Dzhikiya,5,Left Center Back,110.9,36.5,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+False,31917,Igor Diveev,3,Right Center Back,113.3,32.9,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+False,5171,Roman Zobnin,11,Left Defensive Midfield,105.0,32.9,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+False,5177,Aleksandr Golovin,16,Left Midfield,98.7,38.8,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+False,18734,Rifat Zhemaletdinov,12,Right Midfield,113.6,4.1,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+False,39273,Maksim Mukhin,9,Right Defensive Midfield,111.0,15.8,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+False,5170,Mário Figueira Fernandes,2,Right Back,109.3,17.3,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+True,16554,Joakim Mæhle,8,Left Wing Back,111.2,2.0,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+True,7097,Christian Nørgaard,20,Left Attacking Midfield,106.4,17.5,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+True,6302,Kasper Dolberg,23,Center Forward,110.9,31.7,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+True,5524,Jens Stryger Larsen,7,Right Wing Back,109.7,43.5,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+True,5534,Simon Thorup Kjær,4,Center Back,110.4,40.1,ba74a39e-d762-46b2-ab4d-ccdd8fcab287
+False,31917,Igor Diveev,3,Right Center Back,115.3,40.3,72d8d748-9818-4990-8412-0d15c2003fc6
+False,16583,Georgiy Dzhikiya,5,Left Center Back,113.6,40.0,72d8d748-9818-4990-8412-0d15c2003fc6
+False,5177,Aleksandr Golovin,16,Left Midfield,106.1,45.3,72d8d748-9818-4990-8412-0d15c2003fc6
+False,39273,Maksim Mukhin,9,Right Defensive Midfield,110.5,30.0,72d8d748-9818-4990-8412-0d15c2003fc6
+False,15545,Vyacheslav Karavaev,6,Left Back,115.7,49.8,72d8d748-9818-4990-8412-0d15c2003fc6
+False,5171,Roman Zobnin,11,Left Defensive Midfield,105.8,36.3,72d8d748-9818-4990-8412-0d15c2003fc6
+False,5170,Mário Figueira Fernandes,2,Right Back,110.1,26.0,72d8d748-9818-4990-8412-0d15c2003fc6
+False,21298,Matvey Safonov,1,Goalkeeper,116.8,43.3,72d8d748-9818-4990-8412-0d15c2003fc6
+True,7097,Christian Nørgaard,20,Left Attacking Midfield,106.7,32.9,72d8d748-9818-4990-8412-0d15c2003fc6
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,111.4,32.8,72d8d748-9818-4990-8412-0d15c2003fc6
+True,6302,Kasper Dolberg,23,Center Forward,113.9,37.4,72d8d748-9818-4990-8412-0d15c2003fc6
+True,5524,Jens Stryger Larsen,7,Right Wing Back,115.7,52.9,72d8d748-9818-4990-8412-0d15c2003fc6
+True,16554,Joakim Mæhle,8,Left Wing Back,102.8,17.8,3bd14e6d-2246-4a78-941e-e2b0719ae815
+False,21298,Matvey Safonov,1,Goalkeeper,116.8,41.4,3bd14e6d-2246-4a78-941e-e2b0719ae815
+False,15545,Vyacheslav Karavaev,6,Left Back,104.9,51.4,3bd14e6d-2246-4a78-941e-e2b0719ae815
+False,16583,Georgiy Dzhikiya,5,Left Center Back,111.5,42.0,3bd14e6d-2246-4a78-941e-e2b0719ae815
+False,31917,Igor Diveev,3,Right Center Back,107.9,43.7,3bd14e6d-2246-4a78-941e-e2b0719ae815
+False,39273,Maksim Mukhin,9,Right Defensive Midfield,107.5,43.0,3bd14e6d-2246-4a78-941e-e2b0719ae815
+False,5170,Mário Figueira Fernandes,2,Right Back,108.4,36.3,3bd14e6d-2246-4a78-941e-e2b0719ae815
+False,5177,Aleksandr Golovin,16,Left Midfield,100.5,47.2,3bd14e6d-2246-4a78-941e-e2b0719ae815
+False,5171,Roman Zobnin,11,Left Defensive Midfield,102.7,41.7,3bd14e6d-2246-4a78-941e-e2b0719ae815
+False,18734,Rifat Zhemaletdinov,12,Right Midfield,102.0,25.9,3bd14e6d-2246-4a78-941e-e2b0719ae815
+True,6302,Kasper Dolberg,23,Center Forward,115.3,45.6,3bd14e6d-2246-4a78-941e-e2b0719ae815
+True,5524,Jens Stryger Larsen,7,Right Wing Back,101.9,59.9,3bd14e6d-2246-4a78-941e-e2b0719ae815
+True,5534,Simon Thorup Kjær,4,Center Back,113.6,46.7,3bd14e6d-2246-4a78-941e-e2b0719ae815
+True,7097,Christian Nørgaard,20,Left Attacking Midfield,104.6,42.5,3bd14e6d-2246-4a78-941e-e2b0719ae815
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,108.5,34.7,3bd14e6d-2246-4a78-941e-e2b0719ae815
+False,15545,Vyacheslav Karavaev,6,Left Back,106.3,45.2,b8b6794c-7846-4b50-84fb-d5c0e75d0f99
+False,5177,Aleksandr Golovin,16,Left Midfield,109.3,39.4,b8b6794c-7846-4b50-84fb-d5c0e75d0f99
+False,39273,Maksim Mukhin,9,Right Defensive Midfield,107.8,35.1,b8b6794c-7846-4b50-84fb-d5c0e75d0f99
+False,5170,Mário Figueira Fernandes,2,Right Back,107.7,33.4,b8b6794c-7846-4b50-84fb-d5c0e75d0f99
+False,16583,Georgiy Dzhikiya,5,Left Center Back,107.5,32.0,b8b6794c-7846-4b50-84fb-d5c0e75d0f99
+False,21298,Matvey Safonov,1,Goalkeeper,115.1,38.4,b8b6794c-7846-4b50-84fb-d5c0e75d0f99
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,109.8,31.8,b8b6794c-7846-4b50-84fb-d5c0e75d0f99
+True,4447,Martin Braithwaite Christensen,18,Right Attacking Midfield,107.7,42.6,b8b6794c-7846-4b50-84fb-d5c0e75d0f99
+True,5524,Jens Stryger Larsen,7,Right Wing Back,101.2,48.9,b8b6794c-7846-4b50-84fb-d5c0e75d0f99
+False,21298,Matvey Safonov,1,Goalkeeper,117.6,36.5,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+False,5170,Mário Figueira Fernandes,2,Right Back,112.9,43.4,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+False,15545,Vyacheslav Karavaev,6,Left Back,112.4,39.5,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+False,16583,Georgiy Dzhikiya,5,Left Center Back,113.0,33.6,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+False,18734,Rifat Zhemaletdinov,12,Right Midfield,106.3,35.5,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+False,5171,Roman Zobnin,11,Left Defensive Midfield,103.4,39.6,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+False,39273,Maksim Mukhin,9,Right Defensive Midfield,107.8,27.7,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+False,31917,Igor Diveev,3,Right Center Back,108.7,19.5,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+False,5177,Aleksandr Golovin,16,Left Midfield,99.6,29.7,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+False,38178,Aleksandr Sobolev,24,Left Center Forward,99.1,8.3,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+True,16554,Joakim Mæhle,8,Left Wing Back,103.7,13.1,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+True,7097,Christian Nørgaard,15,Left Center Midfield,94.5,25.9,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+True,18722,Mathias Jensen,10,Center Defensive Midfield,88.4,43.4,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+True,5732,Andreas Evald Cornelius,24,Left Center Forward,109.1,46.2,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+True,8815,Jannik Vestergaard,5,Left Center Back,109.3,43.8,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+True,6302,Kasper Dolberg,22,Right Center Forward,112.8,36.2,0a6f1afb-075c-4fb9-9ca0-a08cee574156
+True,5524,Jens Stryger Larsen,7,Right Wing Back,101.8,43.2,0a6f1afb-075c-4fb9-9ca0-a08cee574156

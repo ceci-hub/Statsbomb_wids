@@ -1,0 +1,448 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+False,11086,Burak Yılmaz,23,Center Forward,106.1,43.8,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+False,11088,Ozan Tufan,13,Right Center Midfield,104.6,43.1,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+True,11250,Joe Rodon,5,Left Center Back,109.5,30.9,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+True,4767,Chris Mepham,3,Right Center Back,107.5,31.7,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,105.5,37.3,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+True,3517,Aaron Ramsey,15,Left Center Midfield,108.3,39.6,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+False,12293,Kaan Ayhan,3,Right Center Back,108.7,30.2,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+False,8541,Kenan Karaman,16,Left Midfield,108.2,32.1,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,107.5,38.4,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+False,10349,Mehmet Zeki Çelik,2,Right Back,106.5,41.4,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+False,8963,Caglar Söyüncü,5,Left Center Back,108.5,46.6,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+False,31042,Cengiz Umut Meraş,6,Left Back,101.5,49.9,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,97.1,57.6,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+True,6399,Gareth Frank Bale,16,Left Midfield,107.4,47.2,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.5,40.1,2bff62eb-96d3-4b7a-a79e-fdbbcb8d7ac5
+True,4774,Connor Roberts,2,Right Back,99.4,54.2,86778190-f063-4823-8f12-5bc703658c1e
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.4,35.3,86778190-f063-4823-8f12-5bc703658c1e
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,97.5,36.4,86778190-f063-4823-8f12-5bc703658c1e
+False,11088,Ozan Tufan,13,Right Center Midfield,102.1,29.6,86778190-f063-4823-8f12-5bc703658c1e
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,107.5,32.9,86778190-f063-4823-8f12-5bc703658c1e
+False,31042,Cengiz Umut Meraş,6,Left Back,113.4,42.6,86778190-f063-4823-8f12-5bc703658c1e
+False,10349,Mehmet Zeki Çelik,2,Right Back,105.5,21.4,86778190-f063-4823-8f12-5bc703658c1e
+False,12293,Kaan Ayhan,3,Right Center Back,111.5,29.4,86778190-f063-4823-8f12-5bc703658c1e
+False,8963,Caglar Söyüncü,5,Left Center Back,116.4,29.2,86778190-f063-4823-8f12-5bc703658c1e
+True,11252,Daniel James,12,Right Midfield,108.2,17.8,86778190-f063-4823-8f12-5bc703658c1e
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,114.7,42.9,86778190-f063-4823-8f12-5bc703658c1e
+False,11252,Daniel James,12,Right Midfield,90.1,51.3,d10d2830-f59f-4d69-b34d-8a5599c907b8
+False,3086,Ben Davies,6,Left Back,109.2,61.7,d10d2830-f59f-4d69-b34d-8a5599c907b8
+False,11250,Joe Rodon,5,Left Center Back,109.4,50.3,d10d2830-f59f-4d69-b34d-8a5599c907b8
+False,10931,Joe Allen,10,Center Defensive Midfield,103.7,60.4,d10d2830-f59f-4d69-b34d-8a5599c907b8
+False,4767,Chris Mepham,3,Right Center Back,107.2,46.3,d10d2830-f59f-4d69-b34d-8a5599c907b8
+False,4774,Connor Roberts,2,Right Back,107.3,39.7,d10d2830-f59f-4d69-b34d-8a5599c907b8
+False,22074,Joseff Morrell,13,Right Center Midfield,101.0,48.6,d10d2830-f59f-4d69-b34d-8a5599c907b8
+False,9914,Danny Ward,1,Goalkeeper,117.0,42.6,d10d2830-f59f-4d69-b34d-8a5599c907b8
+True,10349,Mehmet Zeki Çelik,2,Right Back,86.1,64.7,d10d2830-f59f-4d69-b34d-8a5599c907b8
+True,8541,Kenan Karaman,16,Left Midfield,100.3,43.4,d10d2830-f59f-4d69-b34d-8a5599c907b8
+True,6971,Cengiz Ünder,12,Right Midfield,109.7,65.1,d10d2830-f59f-4d69-b34d-8a5599c907b8
+True,10931,Joe Allen,10,Center Defensive Midfield,111.8,27.5,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+True,6399,Gareth Frank Bale,16,Left Midfield,102.4,44.4,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+False,31042,Cengiz Umut Meraş,6,Left Back,115.8,47.4,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,107.4,40.1,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+False,10349,Mehmet Zeki Çelik,2,Right Back,116.2,18.9,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+False,12293,Kaan Ayhan,3,Right Center Back,114.7,26.4,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+False,11088,Ozan Tufan,13,Right Center Midfield,107.1,18.7,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+False,8963,Caglar Söyüncü,5,Left Center Back,115.8,41.2,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.3,42.2,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+True,4774,Connor Roberts,2,Right Back,112.5,39.9,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+False,8541,Kenan Karaman,16,Left Midfield,102.9,52.1,4674a7e3-da9a-4398-9fba-6bcf4a312da7
+True,8541,Kenan Karaman,16,Left Midfield,97.7,29.3,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+True,11086,Burak Yılmaz,23,Center Forward,86.3,32.4,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+True,10349,Mehmet Zeki Çelik,2,Right Back,71.6,45.6,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+True,12555,Okay Yokuşlu,10,Center Defensive Midfield,78.8,37.9,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,82.9,30.9,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+False,22074,Joseff Morrell,13,Right Center Midfield,87.6,29.4,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,71.0,44.5,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+False,3517,Aaron Ramsey,15,Left Center Midfield,85.6,37.6,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+False,11250,Joe Rodon,5,Left Center Back,88.4,32.8,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+False,10931,Joe Allen,10,Center Defensive Midfield,91.2,36.9,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+False,4774,Connor Roberts,2,Right Back,100.1,26.7,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+False,3086,Ben Davies,6,Left Back,98.9,33.0,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+False,4767,Chris Mepham,3,Right Center Back,101.0,30.6,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+False,9914,Danny Ward,1,Goalkeeper,117.4,38.8,be32f316-fdd3-4bf3-80f4-3b57ef8e52b2
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,112.3,37.0,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+True,3517,Aaron Ramsey,15,Left Center Midfield,113.1,34.2,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+True,4774,Connor Roberts,2,Right Back,104.4,52.8,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+True,3086,Ben Davies,6,Left Back,91.1,19.9,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+True,10931,Joe Allen,10,Center Defensive Midfield,95.9,27.8,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+True,11252,Daniel James,12,Right Midfield,100.9,16.6,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.3,42.8,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+False,8541,Kenan Karaman,16,Left Midfield,103.6,49.5,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+False,11088,Ozan Tufan,13,Right Center Midfield,100.7,37.3,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,103.1,42.8,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+False,6971,Cengiz Ünder,12,Right Midfield,101.6,22.3,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,108.1,33.9,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+False,8963,Caglar Söyüncü,5,Left Center Back,113.3,41.0,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+False,12293,Kaan Ayhan,3,Right Center Back,114.4,38.1,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+False,10349,Mehmet Zeki Çelik,2,Right Back,108.1,22.8,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+False,31042,Cengiz Umut Meraş,6,Left Back,114.8,50.1,70bb9bc3-0ea1-4de1-bc02-2ed264e282de
+True,11252,Daniel James,12,Right Midfield,100.4,21.9,e1d11011-eb4c-43b0-89be-2bbfb592bde7
+True,4774,Connor Roberts,2,Right Back,102.0,48.9,e1d11011-eb4c-43b0-89be-2bbfb592bde7
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,98.8,53.8,e1d11011-eb4c-43b0-89be-2bbfb592bde7
+False,30357,Uğurcan Çakır,1,Goalkeeper,113.7,45.1,e1d11011-eb4c-43b0-89be-2bbfb592bde7
+False,8963,Caglar Söyüncü,5,Left Center Back,104.8,46.9,e1d11011-eb4c-43b0-89be-2bbfb592bde7
+False,10349,Mehmet Zeki Çelik,2,Right Back,98.9,33.0,e1d11011-eb4c-43b0-89be-2bbfb592bde7
+False,31042,Cengiz Umut Meraş,6,Left Back,103.8,52.2,e1d11011-eb4c-43b0-89be-2bbfb592bde7
+False,12293,Kaan Ayhan,3,Right Center Back,100.4,44.0,e1d11011-eb4c-43b0-89be-2bbfb592bde7
+False,6971,Cengiz Ünder,12,Right Midfield,87.4,30.3,e1d11011-eb4c-43b0-89be-2bbfb592bde7
+False,12555,Okay Yokuşlu,10,Center Defensive Midfield,89.4,45.7,e1d11011-eb4c-43b0-89be-2bbfb592bde7
+True,6971,Cengiz Ünder,12,Right Midfield,105.4,53.0,80d765b9-a451-4741-9ffe-6b5fe1753110
+False,9914,Danny Ward,1,Goalkeeper,118.4,35.4,80d765b9-a451-4741-9ffe-6b5fe1753110
+False,22074,Joseff Morrell,13,Right Center Midfield,98.6,23.1,80d765b9-a451-4741-9ffe-6b5fe1753110
+False,10931,Joe Allen,10,Center Defensive Midfield,96.7,39.0,80d765b9-a451-4741-9ffe-6b5fe1753110
+False,11252,Daniel James,12,Right Midfield,90.9,58.1,80d765b9-a451-4741-9ffe-6b5fe1753110
+False,4774,Connor Roberts,2,Right Back,105.7,22.8,80d765b9-a451-4741-9ffe-6b5fe1753110
+False,6399,Gareth Frank Bale,16,Left Midfield,101.9,21.8,80d765b9-a451-4741-9ffe-6b5fe1753110
+False,3517,Aaron Ramsey,15,Left Center Midfield,98.8,44.9,80d765b9-a451-4741-9ffe-6b5fe1753110
+False,4767,Chris Mepham,3,Right Center Back,110.9,25.2,80d765b9-a451-4741-9ffe-6b5fe1753110
+False,11250,Joe Rodon,5,Left Center Back,113.8,29.1,80d765b9-a451-4741-9ffe-6b5fe1753110
+False,3086,Ben Davies,6,Left Back,108.9,44.5,80d765b9-a451-4741-9ffe-6b5fe1753110
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,95.6,18.3,80d765b9-a451-4741-9ffe-6b5fe1753110
+True,10349,Mehmet Zeki Çelik,2,Right Back,86.7,60.4,80d765b9-a451-4741-9ffe-6b5fe1753110
+True,31042,Cengiz Umut Meraş,6,Left Back,104.6,9.8,80d765b9-a451-4741-9ffe-6b5fe1753110
+True,11086,Burak Yılmaz,23,Center Forward,108.7,24.7,80d765b9-a451-4741-9ffe-6b5fe1753110
+True,11088,Ozan Tufan,13,Right Center Midfield,92.0,50.9,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+True,6971,Cengiz Ünder,12,Right Midfield,116.9,5.6,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,102.8,17.8,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+True,12555,Okay Yokuşlu,10,Center Defensive Midfield,112.2,34.1,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+True,8963,Caglar Söyüncü,5,Left Center Back,107.3,47.1,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+True,11086,Burak Yılmaz,23,Center Forward,112.3,41.3,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+True,8541,Kenan Karaman,16,Left Midfield,113.4,47.7,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,9914,Danny Ward,1,Goalkeeper,118.4,38.7,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,11252,Daniel James,12,Right Midfield,105.4,21.4,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,3517,Aaron Ramsey,15,Left Center Midfield,100.6,43.3,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,3086,Ben Davies,6,Left Back,113.2,33.9,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,112.9,35.6,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,4767,Chris Mepham,3,Right Center Back,109.8,41.3,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,22074,Joseff Morrell,13,Right Center Midfield,119.2,43.5,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,6399,Gareth Frank Bale,16,Left Midfield,116.5,35.3,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,11250,Joe Rodon,5,Left Center Back,112.0,39.8,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,10931,Joe Allen,10,Center Defensive Midfield,114.3,46.4,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+False,4774,Connor Roberts,2,Right Back,111.2,40.6,44b8e4bf-fd6c-48c8-9621-d0375858e5e8
+True,6971,Cengiz Ünder,12,Right Midfield,105.3,45.1,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+True,12293,Kaan Ayhan,3,Right Center Back,111.0,43.1,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,114.5,76.1,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+True,10349,Mehmet Zeki Çelik,2,Right Back,91.8,52.2,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+True,11086,Burak Yılmaz,23,Center Forward,116.7,37.1,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+True,8541,Kenan Karaman,16,Left Midfield,116.1,35.0,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+True,11088,Ozan Tufan,13,Right Center Midfield,108.0,35.1,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,11252,Daniel James,12,Right Midfield,100.7,52.9,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,3517,Aaron Ramsey,15,Left Center Midfield,106.9,41.2,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,4774,Connor Roberts,2,Right Back,113.0,42.9,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,6399,Gareth Frank Bale,16,Left Midfield,117.6,43.9,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,22074,Joseff Morrell,13,Right Center Midfield,119.8,36.7,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,111.7,37.1,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,11250,Joe Rodon,5,Left Center Back,112.9,37.3,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,10931,Joe Allen,10,Center Defensive Midfield,115.4,33.9,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,3086,Ben Davies,6,Left Back,109.9,36.5,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,9914,Danny Ward,1,Goalkeeper,117.7,40.0,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+False,4767,Chris Mepham,3,Right Center Back,110.1,37.0,d0921b2a-db94-45dc-9bfe-c6bb3d554553
+True,10349,Mehmet Zeki Çelik,2,Right Back,95.7,57.3,205f5cd9-6099-4555-93bf-9047f0f52d52
+True,11088,Ozan Tufan,13,Right Center Midfield,91.9,43.2,205f5cd9-6099-4555-93bf-9047f0f52d52
+True,6971,Cengiz Ünder,12,Right Midfield,107.3,28.2,205f5cd9-6099-4555-93bf-9047f0f52d52
+True,8541,Kenan Karaman,16,Left Midfield,108.8,33.2,205f5cd9-6099-4555-93bf-9047f0f52d52
+False,3517,Aaron Ramsey,15,Left Center Midfield,96.1,33.1,205f5cd9-6099-4555-93bf-9047f0f52d52
+False,22074,Joseff Morrell,13,Right Center Midfield,101.3,27.4,205f5cd9-6099-4555-93bf-9047f0f52d52
+False,11252,Daniel James,12,Right Midfield,98.1,49.1,205f5cd9-6099-4555-93bf-9047f0f52d52
+False,3086,Ben Davies,6,Left Back,99.3,53.2,205f5cd9-6099-4555-93bf-9047f0f52d52
+False,4774,Connor Roberts,2,Right Back,109.5,31.1,205f5cd9-6099-4555-93bf-9047f0f52d52
+False,11250,Joe Rodon,5,Left Center Back,107.8,37.2,205f5cd9-6099-4555-93bf-9047f0f52d52
+False,4767,Chris Mepham,3,Right Center Back,108.4,35.9,205f5cd9-6099-4555-93bf-9047f0f52d52
+False,10931,Joe Allen,10,Center Defensive Midfield,106.7,43.6,205f5cd9-6099-4555-93bf-9047f0f52d52
+False,9914,Danny Ward,1,Goalkeeper,117.6,39.0,205f5cd9-6099-4555-93bf-9047f0f52d52
+False,12293,Kaan Ayhan,3,Right Center Back,99.4,39.3,433dbefa-afbf-4385-94ec-a18eb7f62b46
+False,8963,Caglar Söyüncü,5,Left Center Back,108.3,44.9,433dbefa-afbf-4385-94ec-a18eb7f62b46
+False,10349,Mehmet Zeki Çelik,2,Right Back,105.1,31.3,433dbefa-afbf-4385-94ec-a18eb7f62b46
+False,30357,Uğurcan Çakır,1,Goalkeeper,115.5,41.5,433dbefa-afbf-4385-94ec-a18eb7f62b46
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,97.6,45.1,433dbefa-afbf-4385-94ec-a18eb7f62b46
+True,11252,Daniel James,12,Right Midfield,96.9,19.1,433dbefa-afbf-4385-94ec-a18eb7f62b46
+True,11088,Ozan Tufan,13,Right Center Midfield,106.3,42.3,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+True,10349,Mehmet Zeki Çelik,2,Right Back,100.4,55.5,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+True,11086,Burak Yılmaz,23,Center Forward,104.4,35.6,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+True,8541,Kenan Karaman,16,Left Midfield,104.5,30.1,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+False,9914,Danny Ward,1,Goalkeeper,116.6,40.7,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+False,22074,Joseff Morrell,13,Right Center Midfield,101.3,33.9,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+False,10931,Joe Allen,10,Center Defensive Midfield,101.8,42.4,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+False,3086,Ben Davies,6,Left Back,102.7,44.2,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+False,11252,Daniel James,12,Right Midfield,99.5,51.7,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+False,4767,Chris Mepham,3,Right Center Back,105.2,39.9,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+False,4774,Connor Roberts,2,Right Back,109.2,31.8,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+False,11250,Joe Rodon,5,Left Center Back,108.2,42.5,0fbfbb41-cd7a-498d-94ef-eb1459b54254
+False,11250,Joe Rodon,5,Left Center Back,110.1,38.0,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+False,3517,Aaron Ramsey,15,Left Center Midfield,98.7,32.9,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+False,6399,Gareth Frank Bale,16,Left Midfield,95.4,22.4,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+False,10931,Joe Allen,10,Center Defensive Midfield,103.1,38.6,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+False,22074,Joseff Morrell,13,Right Center Midfield,103.1,27.4,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+False,3086,Ben Davies,6,Left Back,115.6,46.1,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+False,4767,Chris Mepham,3,Right Center Back,111.2,36.1,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+False,4774,Connor Roberts,2,Right Back,104.8,18.5,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+False,9914,Danny Ward,1,Goalkeeper,118.7,42.2,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,92.9,15.7,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+True,11086,Burak Yılmaz,23,Center Forward,102.8,35.7,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+True,29989,Yusuf Yazıcı,13,Right Center Midfield,100.9,29.7,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+True,8541,Kenan Karaman,16,Left Midfield,110.0,37.6,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+True,31042,Cengiz Umut Meraş,6,Left Back,99.2,8.2,8cda0f8c-9626-4e27-b5d4-823d8c97f153
+True,22074,Joseff Morrell,13,Right Center Midfield,92.7,50.7,c378b03a-2990-44dc-83b9-12d30ee0e803
+True,3086,Ben Davies,6,Left Back,98.8,38.3,c378b03a-2990-44dc-83b9-12d30ee0e803
+True,11250,Joe Rodon,5,Left Center Back,112.0,43.4,c378b03a-2990-44dc-83b9-12d30ee0e803
+True,6399,Gareth Frank Bale,16,Left Midfield,117.4,47.4,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,30357,Uğurcan Çakır,1,Goalkeeper,119.7,38.5,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,104.8,60.5,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,31042,Cengiz Umut Meraş,6,Left Back,113.8,58.8,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,100.4,38.7,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,6971,Cengiz Ünder,12,Right Midfield,98.5,50.4,c378b03a-2990-44dc-83b9-12d30ee0e803
+True,10931,Joe Allen,10,Center Defensive Midfield,105.5,62.2,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,8963,Caglar Söyüncü,5,Left Center Back,115.3,44.8,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,11086,Burak Yılmaz,23,Center Forward,114.4,46.2,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,12293,Kaan Ayhan,10,Center Defensive Midfield,112.8,41.0,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,10349,Mehmet Zeki Çelik,2,Right Back,117.4,38.6,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,23558,Merih Demiral,3,Right Center Back,113.1,33.8,c378b03a-2990-44dc-83b9-12d30ee0e803
+False,8541,Kenan Karaman,16,Left Midfield,113.8,36.8,c378b03a-2990-44dc-83b9-12d30ee0e803
+True,4767,Chris Mepham,3,Right Center Back,113.4,37.6,c378b03a-2990-44dc-83b9-12d30ee0e803
+True,3517,Aaron Ramsey,15,Left Center Midfield,116.3,37.7,c378b03a-2990-44dc-83b9-12d30ee0e803
+True,10349,Mehmet Zeki Çelik,2,Right Back,97.4,63.8,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+True,6971,Cengiz Ünder,12,Right Midfield,93.7,53.3,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+True,31042,Cengiz Umut Meraş,6,Left Back,82.0,14.6,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+True,12293,Kaan Ayhan,10,Center Defensive Midfield,80.4,24.4,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+True,8541,Kenan Karaman,16,Left Midfield,102.6,30.0,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+True,11086,Burak Yılmaz,23,Center Forward,104.3,35.5,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+True,29989,Yusuf Yazıcı,13,Right Center Midfield,97.8,32.6,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+False,4774,Connor Roberts,2,Right Back,103.6,28.9,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+False,4767,Chris Mepham,3,Right Center Back,105.6,36.4,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+False,11252,Daniel James,12,Right Midfield,96.0,17.9,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+False,11250,Joe Rodon,5,Left Center Back,103.9,39.0,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+False,10931,Joe Allen,10,Center Defensive Midfield,99.2,36.0,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+False,3086,Ben Davies,6,Left Back,103.0,46.3,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+False,22074,Joseff Morrell,13,Right Center Midfield,96.6,31.2,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+False,6399,Gareth Frank Bale,16,Left Midfield,94.9,34.4,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+False,9914,Danny Ward,1,Goalkeeper,118.5,40.2,0a14148d-36ef-4f24-85d3-fc892c5de5ea
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,103.9,41.3,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+True,11252,Daniel James,12,Right Midfield,104.4,48.8,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+True,22074,Joseff Morrell,13,Right Center Midfield,83.4,56.5,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+True,3517,Aaron Ramsey,15,Left Center Midfield,100.9,65.4,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+True,10931,Joe Allen,10,Center Defensive Midfield,102.6,19.0,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+False,8541,Kenan Karaman,16,Left Midfield,91.4,61.0,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+False,23558,Merih Demiral,3,Right Center Back,103.7,40.9,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+False,8963,Caglar Söyüncü,5,Left Center Back,104.0,43.6,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.3,40.3,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+False,12293,Kaan Ayhan,10,Center Defensive Midfield,103.8,51.0,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+False,10349,Mehmet Zeki Çelik,2,Right Back,99.2,35.9,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,94.2,41.1,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+False,31042,Cengiz Umut Meraş,6,Left Back,103.6,58.8,25b14ee0-052e-45ce-afe5-d883e9ccc29f
+True,29989,Yusuf Yazıcı,13,Right Center Midfield,111.5,33.3,fd669b96-c078-4411-b60d-e0c39bdd402e
+True,12293,Kaan Ayhan,10,Center Defensive Midfield,109.7,41.6,fd669b96-c078-4411-b60d-e0c39bdd402e
+True,10349,Mehmet Zeki Çelik,2,Right Back,98.8,36.4,fd669b96-c078-4411-b60d-e0c39bdd402e
+True,8963,Caglar Söyüncü,5,Left Center Back,101.9,44.6,fd669b96-c078-4411-b60d-e0c39bdd402e
+True,23558,Merih Demiral,3,Right Center Back,103.9,58.1,fd669b96-c078-4411-b60d-e0c39bdd402e
+True,8541,Kenan Karaman,16,Left Midfield,115.2,43.2,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,9914,Danny Ward,1,Goalkeeper,117.9,39.8,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,3517,Aaron Ramsey,15,Left Center Midfield,111.3,37.1,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,11250,Joe Rodon,5,Left Center Back,111.8,41.1,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,4767,Chris Mepham,3,Right Center Back,108.9,45.1,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,3086,Ben Davies,6,Left Back,108.0,53.7,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,11252,Daniel James,12,Right Midfield,99.7,37.7,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,10931,Joe Allen,10,Center Defensive Midfield,115.5,42.9,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,22074,Joseff Morrell,13,Right Center Midfield,118.8,43.2,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,6399,Gareth Frank Bale,16,Left Midfield,119.2,37.1,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,112.4,44.1,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,4774,Connor Roberts,2,Right Back,110.7,42.8,fd669b96-c078-4411-b60d-e0c39bdd402e
+True,6971,Cengiz Ünder,12,Right Midfield,110.8,13.6,fd669b96-c078-4411-b60d-e0c39bdd402e
+False,31042,Cengiz Umut Meraş,6,Left Back,109.4,54.4,00fdd127-67eb-4d7d-a182-06e81ecadc17
+False,23558,Merih Demiral,3,Right Center Back,114.3,44.5,00fdd127-67eb-4d7d-a182-06e81ecadc17
+False,12293,Kaan Ayhan,10,Center Defensive Midfield,111.8,45.4,00fdd127-67eb-4d7d-a182-06e81ecadc17
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,108.0,51.2,00fdd127-67eb-4d7d-a182-06e81ecadc17
+False,10349,Mehmet Zeki Çelik,2,Right Back,114.1,37.9,00fdd127-67eb-4d7d-a182-06e81ecadc17
+False,6971,Cengiz Ünder,12,Right Midfield,108.3,38.7,00fdd127-67eb-4d7d-a182-06e81ecadc17
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.2,43.2,00fdd127-67eb-4d7d-a182-06e81ecadc17
+False,8541,Kenan Karaman,16,Left Midfield,109.4,58.7,00fdd127-67eb-4d7d-a182-06e81ecadc17
+False,8963,Caglar Söyüncü,5,Left Center Back,114.4,56.7,00fdd127-67eb-4d7d-a182-06e81ecadc17
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,110.4,42.2,00fdd127-67eb-4d7d-a182-06e81ecadc17
+True,6399,Gareth Frank Bale,16,Left Midfield,111.4,32.8,00fdd127-67eb-4d7d-a182-06e81ecadc17
+True,4774,Connor Roberts,2,Right Back,115.7,61.2,00fdd127-67eb-4d7d-a182-06e81ecadc17
+True,11252,Daniel James,12,Right Midfield,108.5,66.6,00fdd127-67eb-4d7d-a182-06e81ecadc17
+False,9914,Danny Ward,1,Goalkeeper,118.1,43.4,1ee71054-185b-40b2-841a-2d40203402e3
+False,10931,Joe Allen,10,Center Defensive Midfield,90.5,52.4,1ee71054-185b-40b2-841a-2d40203402e3
+False,22074,Joseff Morrell,13,Right Center Midfield,89.5,40.2,1ee71054-185b-40b2-841a-2d40203402e3
+False,11250,Joe Rodon,5,Left Center Back,97.1,59.8,1ee71054-185b-40b2-841a-2d40203402e3
+False,4767,Chris Mepham,3,Right Center Back,99.4,59.9,1ee71054-185b-40b2-841a-2d40203402e3
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,79.5,56.8,1ee71054-185b-40b2-841a-2d40203402e3
+False,30357,Uğurcan Çakır,1,Goalkeeper,119.2,40.4,03ee6c18-80fb-4401-97af-3a866a5e12c3
+True,11086,Burak Yılmaz,23,Center Forward,105.3,33.2,436ba025-d8c1-4dee-a85e-efe0851011f0
+True,8541,Kenan Karaman,16,Left Midfield,106.7,36.2,436ba025-d8c1-4dee-a85e-efe0851011f0
+True,29989,Yusuf Yazıcı,13,Right Center Midfield,103.8,38.0,436ba025-d8c1-4dee-a85e-efe0851011f0
+True,6971,Cengiz Ünder,12,Right Midfield,106.5,50.9,436ba025-d8c1-4dee-a85e-efe0851011f0
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,92.2,32.6,436ba025-d8c1-4dee-a85e-efe0851011f0
+False,4767,Chris Mepham,3,Right Center Back,107.9,33.8,436ba025-d8c1-4dee-a85e-efe0851011f0
+False,4774,Connor Roberts,2,Right Back,104.7,27.6,436ba025-d8c1-4dee-a85e-efe0851011f0
+False,3086,Ben Davies,6,Left Back,109.8,41.4,436ba025-d8c1-4dee-a85e-efe0851011f0
+False,11250,Joe Rodon,5,Left Center Back,107.5,40.2,436ba025-d8c1-4dee-a85e-efe0851011f0
+False,22074,Joseff Morrell,13,Right Center Midfield,102.8,30.4,436ba025-d8c1-4dee-a85e-efe0851011f0
+False,3517,Aaron Ramsey,15,Left Center Midfield,106.7,43.2,436ba025-d8c1-4dee-a85e-efe0851011f0
+False,10931,Joe Allen,10,Center Defensive Midfield,101.3,41.5,436ba025-d8c1-4dee-a85e-efe0851011f0
+False,6399,Gareth Frank Bale,16,Left Midfield,96.4,33.0,436ba025-d8c1-4dee-a85e-efe0851011f0
+False,9914,Danny Ward,1,Goalkeeper,116.8,37.5,436ba025-d8c1-4dee-a85e-efe0851011f0
+True,23558,Merih Demiral,3,Right Center Back,111.0,40.8,e0a9af55-27e5-4b71-a597-9919924670a9
+True,6971,Cengiz Ünder,12,Right Midfield,107.9,46.6,e0a9af55-27e5-4b71-a597-9919924670a9
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,93.4,37.7,e0a9af55-27e5-4b71-a597-9919924670a9
+True,8541,Kenan Karaman,16,Left Midfield,118.4,45.1,e0a9af55-27e5-4b71-a597-9919924670a9
+True,11086,Burak Yılmaz,23,Center Forward,114.2,38.5,e0a9af55-27e5-4b71-a597-9919924670a9
+True,8963,Caglar Söyüncü,5,Left Center Back,110.6,53.3,e0a9af55-27e5-4b71-a597-9919924670a9
+False,11252,Daniel James,12,Right Midfield,101.0,35.4,e0a9af55-27e5-4b71-a597-9919924670a9
+False,9914,Danny Ward,1,Goalkeeper,119.4,39.6,e0a9af55-27e5-4b71-a597-9919924670a9
+False,6399,Gareth Frank Bale,16,Left Midfield,114.4,35.4,e0a9af55-27e5-4b71-a597-9919924670a9
+False,11250,Joe Rodon,5,Left Center Back,112.7,40.3,e0a9af55-27e5-4b71-a597-9919924670a9
+False,3086,Ben Davies,6,Left Back,112.4,42.1,e0a9af55-27e5-4b71-a597-9919924670a9
+False,4767,Chris Mepham,3,Right Center Back,111.5,44.5,e0a9af55-27e5-4b71-a597-9919924670a9
+False,3517,Aaron Ramsey,15,Left Center Midfield,108.5,44.3,e0a9af55-27e5-4b71-a597-9919924670a9
+False,10931,Joe Allen,10,Center Defensive Midfield,116.8,42.4,e0a9af55-27e5-4b71-a597-9919924670a9
+False,22074,Joseff Morrell,13,Right Center Midfield,119.4,42.7,e0a9af55-27e5-4b71-a597-9919924670a9
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,112.2,41.1,e0a9af55-27e5-4b71-a597-9919924670a9
+False,4774,Connor Roberts,2,Right Back,113.7,39.3,e0a9af55-27e5-4b71-a597-9919924670a9
+False,9914,Danny Ward,1,Goalkeeper,117.2,43.1,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+False,11252,Daniel James,12,Right Midfield,103.4,58.2,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+False,10931,Joe Allen,10,Center Defensive Midfield,107.4,56.4,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+False,22074,Joseff Morrell,13,Right Center Midfield,106.6,50.7,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+False,3086,Ben Davies,6,Left Back,108.1,51.4,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+False,6399,Gareth Frank Bale,16,Left Midfield,98.5,28.0,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+False,11250,Joe Rodon,5,Left Center Back,111.7,44.7,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+False,4767,Chris Mepham,3,Right Center Back,112.3,40.9,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+False,4774,Connor Roberts,2,Right Back,112.0,36.1,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+True,10349,Mehmet Zeki Çelik,2,Right Back,112.4,60.5,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+True,8541,Kenan Karaman,16,Left Midfield,113.1,33.9,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+True,11086,Burak Yılmaz,23,Center Forward,109.4,40.5,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,100.1,51.7,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+True,31042,Cengiz Umut Meraş,6,Left Back,94.8,28.8,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+True,29989,Yusuf Yazıcı,13,Right Center Midfield,100.0,41.8,a5810ff3-f12d-4e05-95bf-811e6b1070c6
+True,10349,Mehmet Zeki Çelik,2,Right Back,106.9,48.7,38627c9e-aa11-40e6-b01c-a87b6946a384
+True,8541,Kenan Karaman,16,Left Midfield,111.1,38.5,38627c9e-aa11-40e6-b01c-a87b6946a384
+True,6971,Cengiz Ünder,12,Right Midfield,117.9,53.1,38627c9e-aa11-40e6-b01c-a87b6946a384
+True,29989,Yusuf Yazıcı,13,Right Center Midfield,113.0,38.3,38627c9e-aa11-40e6-b01c-a87b6946a384
+True,8963,Caglar Söyüncü,5,Left Center Back,89.7,17.1,38627c9e-aa11-40e6-b01c-a87b6946a384
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,97.0,40.0,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,9914,Danny Ward,1,Goalkeeper,119.3,42.0,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,4774,Connor Roberts,2,Right Back,115.6,38.5,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,4767,Chris Mepham,3,Right Center Back,114.5,43.1,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,10931,Joe Allen,10,Center Defensive Midfield,108.2,42.2,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,6399,Gareth Frank Bale,16,Left Midfield,98.3,22.8,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,3517,Aaron Ramsey,15,Left Center Midfield,102.1,51.1,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,22074,Joseff Morrell,13,Right Center Midfield,109.8,38.9,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,11250,Joe Rodon,5,Left Center Back,112.6,44.9,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,3086,Ben Davies,6,Left Back,113.9,47.5,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,11252,Daniel James,12,Right Midfield,118.6,51.7,38627c9e-aa11-40e6-b01c-a87b6946a384
+False,6971,Cengiz Ünder,12,Right Midfield,91.9,27.6,67220a8d-14fa-44cc-82c0-7218642e3d94
+False,10826,Mert Müldür,6,Left Back,109.7,45.0,67220a8d-14fa-44cc-82c0-7218642e3d94
+False,8963,Caglar Söyüncü,5,Left Center Back,111.0,37.5,67220a8d-14fa-44cc-82c0-7218642e3d94
+False,23558,Merih Demiral,3,Right Center Back,109.7,35.8,67220a8d-14fa-44cc-82c0-7218642e3d94
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,90.0,53.0,67220a8d-14fa-44cc-82c0-7218642e3d94
+False,12293,Kaan Ayhan,10,Center Defensive Midfield,105.1,33.1,67220a8d-14fa-44cc-82c0-7218642e3d94
+False,10349,Mehmet Zeki Çelik,2,Right Back,105.7,23.6,67220a8d-14fa-44cc-82c0-7218642e3d94
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,102.4,27.0,67220a8d-14fa-44cc-82c0-7218642e3d94
+True,3517,Aaron Ramsey,15,Left Center Midfield,110.1,36.4,67220a8d-14fa-44cc-82c0-7218642e3d94
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.8,38.0,67220a8d-14fa-44cc-82c0-7218642e3d94
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,110.7,35.5,67220a8d-14fa-44cc-82c0-7218642e3d94
+True,6399,Gareth Frank Bale,16,Left Midfield,109.0,43.8,67220a8d-14fa-44cc-82c0-7218642e3d94
+True,4774,Connor Roberts,2,Right Back,92.4,51.3,67220a8d-14fa-44cc-82c0-7218642e3d94
+False,23558,Merih Demiral,3,Right Center Back,113.9,36.8,9753e12d-8da5-4534-87e8-a6f38e786164
+False,8963,Caglar Söyüncü,5,Left Center Back,111.5,46.5,9753e12d-8da5-4534-87e8-a6f38e786164
+False,10826,Mert Müldür,6,Left Back,106.5,55.6,9753e12d-8da5-4534-87e8-a6f38e786164
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,109.6,51.9,9753e12d-8da5-4534-87e8-a6f38e786164
+True,4934,Ethan Ampadu,10,Center Defensive Midfield,89.0,59.5,9753e12d-8da5-4534-87e8-a6f38e786164
+True,22074,Joseff Morrell,13,Right Center Midfield,103.5,60.7,9753e12d-8da5-4534-87e8-a6f38e786164
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,106.5,42.0,9753e12d-8da5-4534-87e8-a6f38e786164
+True,4774,Connor Roberts,2,Right Back,113.5,41.7,9753e12d-8da5-4534-87e8-a6f38e786164
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.5,40.1,9753e12d-8da5-4534-87e8-a6f38e786164
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,98.0,57.0,9753e12d-8da5-4534-87e8-a6f38e786164
+False,12293,Kaan Ayhan,10,Center Defensive Midfield,102.6,50.9,9753e12d-8da5-4534-87e8-a6f38e786164
+False,10349,Mehmet Zeki Çelik,2,Right Back,112.4,34.6,9753e12d-8da5-4534-87e8-a6f38e786164
+True,11252,Daniel James,12,Right Midfield,103.6,27.1,9753e12d-8da5-4534-87e8-a6f38e786164
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,98.2,30.1,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+True,30311,İrfan Can Kahveci,12,Right Midfield,92.4,30.6,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+True,29989,Yusuf Yazıcı,13,Right Center Midfield,104.6,59.3,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+True,21567,İbrahim Halil Dervişoğlu,16,Left Midfield,112.8,42.5,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+False,4774,Connor Roberts,2,Right Back,118.6,23.4,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+False,4767,Chris Mepham,3,Right Center Back,114.7,35.0,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+False,6399,Gareth Frank Bale,16,Left Midfield,105.4,23.8,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+False,22074,Joseff Morrell,13,Right Center Midfield,107.4,32.5,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+False,3086,Ben Davies,6,Left Back,111.4,46.6,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+False,3517,Aaron Ramsey,15,Left Center Midfield,95.4,39.3,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+False,9914,Danny Ward,1,Goalkeeper,119.2,40.6,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+False,11250,Joe Rodon,5,Left Center Back,111.0,40.5,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+False,4934,Ethan Ampadu,10,Center Defensive Midfield,111.3,42.5,99ae0b55-04a2-4675-a7a8-86e6a46262bb
+True,29989,Yusuf Yazıcı,13,Right Center Midfield,112.7,30.9,a9f56d58-d522-4b4f-acfb-308e38a6b224
+True,11086,Burak Yılmaz,23,Center Forward,112.8,41.0,a9f56d58-d522-4b4f-acfb-308e38a6b224
+True,12293,Kaan Ayhan,10,Center Defensive Midfield,111.6,41.7,a9f56d58-d522-4b4f-acfb-308e38a6b224
+True,21567,İbrahim Halil Dervişoğlu,16,Left Midfield,111.4,46.1,a9f56d58-d522-4b4f-acfb-308e38a6b224
+True,10826,Mert Müldür,6,Left Back,93.0,31.9,a9f56d58-d522-4b4f-acfb-308e38a6b224
+True,8963,Caglar Söyüncü,5,Left Center Back,114.1,43.5,a9f56d58-d522-4b4f-acfb-308e38a6b224
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,100.8,50.5,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,22074,Joseff Morrell,13,Right Center Midfield,119.5,43.4,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,3853,Kieffer Roberto Francisco Moore,23,Center Forward,114.1,37.5,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,9914,Danny Ward,1,Goalkeeper,119.2,42.0,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,6399,Gareth Frank Bale,16,Left Midfield,119.2,38.4,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,9540,Harry Wilson,15,Left Center Midfield,106.9,34.0,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,11252,Daniel James,12,Right Midfield,102.5,42.5,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,11250,Joe Rodon,5,Left Center Back,113.4,43.0,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,4767,Chris Mepham,3,Right Center Back,114.3,47.3,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,4934,Ethan Ampadu,10,Center Defensive Midfield,111.7,45.0,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,3086,Ben Davies,6,Left Back,113.1,45.8,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,4774,Connor Roberts,2,Right Back,111.7,40.4,a9f56d58-d522-4b4f-acfb-308e38a6b224
+False,4774,Connor Roberts,2,Right Back,103.4,34.7,b37f9541-42c9-4795-b1ea-c1035cbba02e
+False,9914,Danny Ward,1,Goalkeeper,116.1,40.7,b37f9541-42c9-4795-b1ea-c1035cbba02e
+True,7039,Hakan Çalhanoğlu,15,Left Center Midfield,91.2,27.5,b37f9541-42c9-4795-b1ea-c1035cbba02e
+True,30311,İrfan Can Kahveci,12,Right Midfield,92.6,56.5,b37f9541-42c9-4795-b1ea-c1035cbba02e
+True,29989,Yusuf Yazıcı,13,Right Center Midfield,103.4,44.5,b37f9541-42c9-4795-b1ea-c1035cbba02e
+True,11086,Burak Yılmaz,23,Center Forward,104.4,40.2,b37f9541-42c9-4795-b1ea-c1035cbba02e
+False,22074,Joseff Morrell,13,Right Center Midfield,95.7,47.4,b37f9541-42c9-4795-b1ea-c1035cbba02e
+False,11250,Joe Rodon,5,Left Center Back,107.7,41.7,b37f9541-42c9-4795-b1ea-c1035cbba02e
+False,4767,Chris Mepham,3,Right Center Back,100.1,43.7,b37f9541-42c9-4795-b1ea-c1035cbba02e
+False,9540,Harry Wilson,15,Left Center Midfield,97.8,47.4,b37f9541-42c9-4795-b1ea-c1035cbba02e
+False,3086,Ben Davies,6,Left Back,104.4,49.6,b37f9541-42c9-4795-b1ea-c1035cbba02e
+False,4934,Ethan Ampadu,10,Center Defensive Midfield,105.2,45.1,b37f9541-42c9-4795-b1ea-c1035cbba02e
+True,4774,Connor Roberts,2,Right Back,110.3,49.7,95007a2b-615d-4fcf-b0d0-936b4e553ded
+True,6399,Gareth Frank Bale,16,Left Midfield,95.4,46.2,95007a2b-615d-4fcf-b0d0-936b4e553ded
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,104.2,37.2,95007a2b-615d-4fcf-b0d0-936b4e553ded
+True,11252,Daniel James,12,Right Midfield,110.0,28.2,95007a2b-615d-4fcf-b0d0-936b4e553ded
+False,30357,Uğurcan Çakır,1,Goalkeeper,116.2,35.6,95007a2b-615d-4fcf-b0d0-936b4e553ded
+False,10826,Mert Müldür,6,Left Back,90.3,56.3,95007a2b-615d-4fcf-b0d0-936b4e553ded
+False,21567,İbrahim Halil Dervişoğlu,16,Left Midfield,103.9,40.8,95007a2b-615d-4fcf-b0d0-936b4e553ded
+False,23558,Merih Demiral,3,Right Center Back,110.8,35.9,95007a2b-615d-4fcf-b0d0-936b4e553ded
+False,10349,Mehmet Zeki Çelik,2,Right Back,112.9,34.2,95007a2b-615d-4fcf-b0d0-936b4e553ded
+False,8963,Caglar Söyüncü,5,Left Center Back,109.3,45.6,95007a2b-615d-4fcf-b0d0-936b4e553ded
+False,23558,Merih Demiral,3,Right Center Back,115.0,29.7,a6934ce7-e922-4acf-a0e4-27c8af53a1ec
+False,8963,Caglar Söyüncü,5,Left Center Back,110.7,36.4,a6934ce7-e922-4acf-a0e4-27c8af53a1ec
+False,10826,Mert Müldür,6,Left Back,101.9,52.5,a6934ce7-e922-4acf-a0e4-27c8af53a1ec
+False,10349,Mehmet Zeki Çelik,2,Right Back,116.4,20.1,a6934ce7-e922-4acf-a0e4-27c8af53a1ec
+False,30311,İrfan Can Kahveci,12,Right Midfield,109.7,13.6,a6934ce7-e922-4acf-a0e4-27c8af53a1ec
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,99.9,38.1,a6934ce7-e922-4acf-a0e4-27c8af53a1ec
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.5,36.0,a6934ce7-e922-4acf-a0e4-27c8af53a1ec
+True,9540,Harry Wilson,15,Left Center Midfield,110.8,3.6,a6934ce7-e922-4acf-a0e4-27c8af53a1ec
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,105.5,35.0,a6934ce7-e922-4acf-a0e4-27c8af53a1ec
+False,30311,İrfan Can Kahveci,12,Right Midfield,99.8,19.5,94be952f-2e60-4286-9aff-8f2b6d190a98
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,97.8,32.7,94be952f-2e60-4286-9aff-8f2b6d190a98
+False,30357,Uğurcan Çakır,1,Goalkeeper,117.4,39.1,94be952f-2e60-4286-9aff-8f2b6d190a98
+False,23558,Merih Demiral,3,Right Center Back,114.5,33.4,94be952f-2e60-4286-9aff-8f2b6d190a98
+False,10826,Mert Müldür,6,Left Back,101.4,56.3,94be952f-2e60-4286-9aff-8f2b6d190a98
+False,8963,Caglar Söyüncü,5,Left Center Back,109.9,35.8,94be952f-2e60-4286-9aff-8f2b6d190a98
+False,10349,Mehmet Zeki Çelik,2,Right Back,110.4,28.4,94be952f-2e60-4286-9aff-8f2b6d190a98
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,101.1,40.5,94be952f-2e60-4286-9aff-8f2b6d190a98
+False,12293,Kaan Ayhan,10,Center Defensive Midfield,105.6,31.6,94be952f-2e60-4286-9aff-8f2b6d190a98
+True,9540,Harry Wilson,15,Left Center Midfield,106.1,13.9,94be952f-2e60-4286-9aff-8f2b6d190a98
+True,4774,Connor Roberts,2,Right Back,95.9,42.7,94be952f-2e60-4286-9aff-8f2b6d190a98
+True,3086,Ben Davies,6,Left Back,99.1,25.0,94be952f-2e60-4286-9aff-8f2b6d190a98
+True,6399,Gareth Frank Bale,16,Left Midfield,111.9,38.8,94be952f-2e60-4286-9aff-8f2b6d190a98
+True,9540,Harry Wilson,15,Left Center Midfield,107.8,67.8,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+True,22074,Joseff Morrell,13,Right Center Midfield,92.4,62.0,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+True,6399,Gareth Frank Bale,16,Left Midfield,116.8,49.4,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+True,3853,Kieffer Roberto Francisco Moore,23,Center Forward,117.8,44.9,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+False,12293,Kaan Ayhan,10,Center Defensive Midfield,98.8,51.9,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+False,8963,Caglar Söyüncü,5,Left Center Back,115.4,50.1,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+False,21567,İbrahim Halil Dervişoğlu,16,Left Midfield,110.2,53.9,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+False,10826,Mert Müldür,6,Left Back,113.1,54.0,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+False,30357,Uğurcan Çakır,1,Goalkeeper,118.5,43.0,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+False,7039,Hakan Çalhanoğlu,15,Left Center Midfield,116.8,57.5,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+False,29989,Yusuf Yazıcı,13,Right Center Midfield,110.9,46.8,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+False,23558,Merih Demiral,3,Right Center Back,116.9,43.5,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+False,10349,Mehmet Zeki Çelik,2,Right Back,109.3,38.6,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+True,34794,Neco Williams,12,Right Midfield,103.5,36.0,12acda1e-dd1a-4b0f-8d49-d649c65011f5
+False,30311,İrfan Can Kahveci,12,Right Midfield,100.2,34.3,12acda1e-dd1a-4b0f-8d49-d649c65011f5

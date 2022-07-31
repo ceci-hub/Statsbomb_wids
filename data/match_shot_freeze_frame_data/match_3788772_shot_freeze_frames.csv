@@ -1,0 +1,191 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,10955,Harry Kane,23,Center Forward,84.7,21.6,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+True,9638,Jack Grealish,19,Center Attacking Midfield,79.4,16.3,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+True,22084,Bukayo Saka,17,Right Wing,97.5,40.6,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+False,11541,Tomáš Vaclík,1,Goalkeeper,109.4,28.8,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+False,16472,Lukáš Masopust,17,Right Wing,77.9,9.5,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+False,16570,Vladimír Coufal,2,Right Back,86.3,12.0,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+False,30328,Ondrej Celustka,3,Right Center Back,104.1,28.0,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+False,13197,Tomáš Kalas,5,Left Center Back,102.5,34.5,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+False,4875,Jan Bořil,6,Left Back,98.4,42.0,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+False,8095,Jakub Jankto,21,Left Wing,92.1,51.0,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+False,16469,Tomáš Holeš,9,Right Defensive Midfield,85.3,19.8,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+False,4870,Tomáš Souček,11,Left Defensive Midfield,89.4,32.2,ac6e1b26-807b-4776-9ba0-d91d18c88fe5
+False,4875,Jan Bořil,6,Left Back,111.4,54.0,fa177813-4113-4f88-9ad5-44a7aae79d83
+False,16570,Vladimír Coufal,2,Right Back,109.6,40.3,fa177813-4113-4f88-9ad5-44a7aae79d83
+False,30328,Ondrej Celustka,3,Right Center Back,113.7,45.6,fa177813-4113-4f88-9ad5-44a7aae79d83
+False,7044,Patrik Schick,23,Center Forward,113.4,52.1,fa177813-4113-4f88-9ad5-44a7aae79d83
+False,16472,Lukáš Masopust,17,Right Wing,107.5,38.5,fa177813-4113-4f88-9ad5-44a7aae79d83
+False,13197,Tomáš Kalas,5,Left Center Back,112.8,49.5,fa177813-4113-4f88-9ad5-44a7aae79d83
+False,16469,Tomáš Holeš,9,Right Defensive Midfield,110.8,41.2,fa177813-4113-4f88-9ad5-44a7aae79d83
+False,11541,Tomáš Vaclík,1,Goalkeeper,118.7,43.8,fa177813-4113-4f88-9ad5-44a7aae79d83
+False,8579,Vladimír Darida,19,Center Attacking Midfield,88.0,35.8,fa177813-4113-4f88-9ad5-44a7aae79d83
+False,8095,Jakub Jankto,21,Left Wing,101.4,49.6,fa177813-4113-4f88-9ad5-44a7aae79d83
+False,4870,Tomáš Souček,11,Left Defensive Midfield,112.9,35.6,fa177813-4113-4f88-9ad5-44a7aae79d83
+True,3233,Raheem Sterling,21,Left Wing,107.0,38.6,fa177813-4113-4f88-9ad5-44a7aae79d83
+True,22084,Bukayo Saka,17,Right Wing,100.0,49.4,fa177813-4113-4f88-9ad5-44a7aae79d83
+True,10955,Harry Kane,23,Center Forward,111.8,46.6,fa177813-4113-4f88-9ad5-44a7aae79d83
+True,3336,Harry Maguire,5,Left Center Back,110.0,33.3,fa177813-4113-4f88-9ad5-44a7aae79d83
+True,9638,Jack Grealish,19,Center Attacking Midfield,103.4,41.8,fa177813-4113-4f88-9ad5-44a7aae79d83
+True,3943,Declan Rice,11,Left Defensive Midfield,109.5,48.3,fa177813-4113-4f88-9ad5-44a7aae79d83
+True,9638,Jack Grealish,19,Center Attacking Midfield,88.8,23.8,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+True,3233,Raheem Sterling,21,Left Wing,93.6,38.6,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+True,22084,Bukayo Saka,17,Right Wing,103.9,52.9,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+False,16570,Vladimír Coufal,2,Right Back,98.9,30.9,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+False,30328,Ondrej Celustka,3,Right Center Back,102.4,45.6,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+False,4875,Jan Bořil,6,Left Back,106.2,55.8,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+False,13197,Tomáš Kalas,5,Left Center Back,98.3,53.5,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+False,8095,Jakub Jankto,21,Left Wing,96.9,64.6,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+False,16469,Tomáš Holeš,9,Right Defensive Midfield,93.0,38.8,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+False,4870,Tomáš Souček,11,Left Defensive Midfield,81.5,65.3,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+True,3205,Kyle Walker,2,Right Back,92.9,65.5,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+False,8579,Vladimír Darida,19,Center Attacking Midfield,85.5,54.2,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+False,11541,Tomáš Vaclík,1,Goalkeeper,116.8,41.7,158d8e0e-0940-4ab7-a3b6-d6532a350f7e
+False,4875,Jan Bořil,6,Left Back,118.1,42.4,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+False,30328,Ondrej Celustka,3,Right Center Back,119.1,33.7,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+False,16469,Tomáš Holeš,9,Right Defensive Midfield,115.7,29.1,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+False,16570,Vladimír Coufal,2,Right Back,118.4,26.1,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+False,11541,Tomáš Vaclík,1,Goalkeeper,118.2,39.3,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+False,8095,Jakub Jankto,21,Left Wing,110.3,49.7,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+False,8579,Vladimír Darida,19,Center Attacking Midfield,105.4,37.5,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+False,4870,Tomáš Souček,11,Left Defensive Midfield,110.1,35.4,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+False,13197,Tomáš Kalas,5,Left Center Back,116.9,41.0,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+False,16472,Lukáš Masopust,17,Right Wing,109.3,22.8,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+True,22084,Bukayo Saka,17,Right Wing,118.3,41.2,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+True,3382,Luke Shaw,6,Left Back,108.2,17.6,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,103.0,49.9,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+True,10955,Harry Kane,23,Center Forward,105.4,34.6,ad65ba79-2dc9-4541-8810-c4176a20e5ce
+True,3233,Raheem Sterling,21,Left Wing,113.7,41.2,3fedff7f-8abc-437a-ae50-2d010910cdd2
+True,3382,Luke Shaw,6,Left Back,92.5,12.0,3fedff7f-8abc-437a-ae50-2d010910cdd2
+False,11541,Tomáš Vaclík,1,Goalkeeper,115.5,34.2,3fedff7f-8abc-437a-ae50-2d010910cdd2
+False,13197,Tomáš Kalas,5,Left Center Back,113.3,28.9,3fedff7f-8abc-437a-ae50-2d010910cdd2
+False,16570,Vladimír Coufal,2,Right Back,109.1,28.5,3fedff7f-8abc-437a-ae50-2d010910cdd2
+False,4875,Jan Bořil,6,Left Back,111.5,40.8,3fedff7f-8abc-437a-ae50-2d010910cdd2
+False,30328,Ondrej Celustka,3,Right Center Back,105.4,34.8,3fedff7f-8abc-437a-ae50-2d010910cdd2
+False,16469,Tomáš Holeš,9,Right Defensive Midfield,96.1,43.4,3fedff7f-8abc-437a-ae50-2d010910cdd2
+False,4870,Tomáš Souček,11,Left Defensive Midfield,92.1,33.7,3fedff7f-8abc-437a-ae50-2d010910cdd2
+False,22084,Bukayo Saka,17,Right Wing,90.9,38.2,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+True,30328,Ondrej Celustka,3,Right Center Back,77.0,59.4,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+True,4870,Tomáš Souček,11,Left Defensive Midfield,87.0,41.0,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+True,4875,Jan Bořil,6,Left Back,92.6,24.5,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+True,16472,Lukáš Masopust,17,Right Wing,94.7,53.9,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+True,7044,Patrik Schick,23,Center Forward,99.4,44.0,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+True,8579,Vladimír Darida,19,Center Attacking Midfield,99.3,48.1,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+True,8095,Jakub Jankto,21,Left Wing,101.8,44.7,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+True,16570,Vladimír Coufal,2,Right Back,98.7,67.6,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+False,3233,Raheem Sterling,21,Left Wing,81.1,66.9,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+False,3943,Declan Rice,11,Left Defensive Midfield,93.6,41.1,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+False,3205,Kyle Walker,2,Right Back,101.6,30.3,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+False,9638,Jack Grealish,19,Center Attacking Midfield,92.6,53.9,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,98.4,40.8,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+False,3244,John Stones,3,Right Center Back,102.4,41.4,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+False,3336,Harry Maguire,5,Left Center Back,102.1,47.1,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+False,3382,Luke Shaw,6,Left Back,101.9,53.1,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+False,3468,Jordan Pickford,1,Goalkeeper,116.2,40.7,222a804f-d8ec-4c51-b4c5-6f93a5949a3c
+False,3382,Luke Shaw,6,Left Back,108.6,43.7,27a2f546-6fc9-4b59-9e27-f921515b1622
+False,3244,John Stones,3,Right Center Back,113.3,34.1,27a2f546-6fc9-4b59-9e27-f921515b1622
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,107.5,41.6,27a2f546-6fc9-4b59-9e27-f921515b1622
+False,3336,Harry Maguire,5,Left Center Back,110.9,40.4,27a2f546-6fc9-4b59-9e27-f921515b1622
+False,3943,Declan Rice,11,Left Defensive Midfield,107.9,45.3,27a2f546-6fc9-4b59-9e27-f921515b1622
+False,3233,Raheem Sterling,21,Left Wing,110.8,37.9,27a2f546-6fc9-4b59-9e27-f921515b1622
+True,8579,Vladimír Darida,19,Center Attacking Midfield,94.5,44.0,27a2f546-6fc9-4b59-9e27-f921515b1622
+False,10955,Harry Kane,23,Center Forward,117.3,36.4,27a2f546-6fc9-4b59-9e27-f921515b1622
+True,7044,Patrik Schick,23,Center Forward,106.3,47.9,27a2f546-6fc9-4b59-9e27-f921515b1622
+True,4870,Tomáš Souček,11,Left Defensive Midfield,113.3,33.4,27a2f546-6fc9-4b59-9e27-f921515b1622
+True,8095,Jakub Jankto,21,Left Wing,114.3,7.4,27a2f546-6fc9-4b59-9e27-f921515b1622
+False,22084,Bukayo Saka,17,Right Wing,100.4,41.9,27a2f546-6fc9-4b59-9e27-f921515b1622
+False,3468,Jordan Pickford,1,Goalkeeper,119.2,40.7,27a2f546-6fc9-4b59-9e27-f921515b1622
+True,16472,Lukáš Masopust,17,Right Wing,111.3,40.1,27a2f546-6fc9-4b59-9e27-f921515b1622
+True,13197,Tomáš Kalas,5,Left Center Back,107.9,43.9,27a2f546-6fc9-4b59-9e27-f921515b1622
+True,30328,Ondrej Celustka,3,Right Center Back,107.1,42.1,27a2f546-6fc9-4b59-9e27-f921515b1622
+False,3205,Kyle Walker,2,Right Back,108.8,43.0,27a2f546-6fc9-4b59-9e27-f921515b1622
+True,7044,Patrik Schick,23,Center Forward,105.4,47.8,ac00d947-3827-4d9f-804e-5b9de8bd869a
+True,16472,Lukáš Masopust,17,Right Wing,108.6,48.3,ac00d947-3827-4d9f-804e-5b9de8bd869a
+True,4870,Tomáš Souček,11,Left Defensive Midfield,112.7,38.1,ac00d947-3827-4d9f-804e-5b9de8bd869a
+False,3233,Raheem Sterling,21,Left Wing,101.2,39.2,ac00d947-3827-4d9f-804e-5b9de8bd869a
+False,22084,Bukayo Saka,17,Right Wing,100.0,51.3,ac00d947-3827-4d9f-804e-5b9de8bd869a
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,104.3,47.2,ac00d947-3827-4d9f-804e-5b9de8bd869a
+False,3244,John Stones,3,Right Center Back,111.0,36.7,ac00d947-3827-4d9f-804e-5b9de8bd869a
+False,3943,Declan Rice,11,Left Defensive Midfield,105.7,48.8,ac00d947-3827-4d9f-804e-5b9de8bd869a
+False,3336,Harry Maguire,5,Left Center Back,109.7,44.5,ac00d947-3827-4d9f-804e-5b9de8bd869a
+False,10955,Harry Kane,23,Center Forward,113.3,40.6,ac00d947-3827-4d9f-804e-5b9de8bd869a
+False,3468,Jordan Pickford,1,Goalkeeper,117.8,42.0,ac00d947-3827-4d9f-804e-5b9de8bd869a
+True,8095,Jakub Jankto,21,Left Wing,106.3,14.5,ac00d947-3827-4d9f-804e-5b9de8bd869a
+True,8579,Vladimír Darida,19,Center Attacking Midfield,94.5,51.4,ac00d947-3827-4d9f-804e-5b9de8bd869a
+True,16469,Tomáš Holeš,9,Right Defensive Midfield,100.7,47.0,ac00d947-3827-4d9f-804e-5b9de8bd869a
+True,30328,Ondrej Celustka,3,Right Center Back,106.6,43.4,ac00d947-3827-4d9f-804e-5b9de8bd869a
+False,3205,Kyle Walker,2,Right Back,107.0,43.0,ac00d947-3827-4d9f-804e-5b9de8bd869a
+False,3382,Luke Shaw,6,Left Back,107.2,45.4,ac00d947-3827-4d9f-804e-5b9de8bd869a
+True,16472,Lukáš Masopust,17,Right Wing,117.4,50.2,c1b714bb-bc27-4435-aeb7-831eaca28a63
+True,30328,Ondrej Celustka,3,Right Center Back,117.2,37.5,c1b714bb-bc27-4435-aeb7-831eaca28a63
+True,13197,Tomáš Kalas,5,Left Center Back,107.0,43.1,c1b714bb-bc27-4435-aeb7-831eaca28a63
+True,7044,Patrik Schick,23,Center Forward,112.5,46.0,c1b714bb-bc27-4435-aeb7-831eaca28a63
+True,16469,Tomáš Holeš,9,Right Defensive Midfield,112.0,39.5,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,9638,Jack Grealish,19,Center Attacking Midfield,96.5,50.2,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,3382,Luke Shaw,6,Left Back,108.4,42.1,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,3205,Kyle Walker,2,Right Back,114.2,36.4,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,114.6,39.1,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,22084,Bukayo Saka,17,Right Wing,101.2,35.5,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,3233,Raheem Sterling,21,Left Wing,109.4,47.7,c1b714bb-bc27-4435-aeb7-831eaca28a63
+True,16570,Vladimír Coufal,2,Right Back,93.3,53.1,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,3943,Declan Rice,11,Left Defensive Midfield,112.6,45.5,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,3336,Harry Maguire,5,Left Center Back,113.3,45.8,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,3244,John Stones,3,Right Center Back,111.7,44.9,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,10955,Harry Kane,23,Center Forward,112.5,49.4,c1b714bb-bc27-4435-aeb7-831eaca28a63
+False,3468,Jordan Pickford,1,Goalkeeper,118.3,42.8,c1b714bb-bc27-4435-aeb7-831eaca28a63
+True,16472,Lukáš Masopust,17,Right Wing,113.5,29.8,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+True,7044,Patrik Schick,23,Center Forward,113.7,37.0,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+True,8095,Jakub Jankto,21,Left Wing,114.4,43.8,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+True,16570,Vladimír Coufal,2,Right Back,109.9,54.6,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+False,3468,Jordan Pickford,1,Goalkeeper,118.6,41.3,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+False,22084,Bukayo Saka,17,Right Wing,101.1,32.9,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+False,3233,Raheem Sterling,21,Left Wing,90.4,58.1,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+False,3205,Kyle Walker,2,Right Back,107.5,24.8,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+False,9638,Jack Grealish,19,Center Attacking Midfield,100.4,45.8,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+False,3943,Declan Rice,11,Left Defensive Midfield,106.7,41.1,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,111.1,37.7,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+False,3244,John Stones,3,Right Center Back,113.5,36.3,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+False,3382,Luke Shaw,6,Left Back,111.2,42.4,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+False,3336,Harry Maguire,5,Left Center Back,113.0,40.4,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+True,8579,Vladimír Darida,19,Center Attacking Midfield,98.1,47.2,52e571f8-f3ae-4e3e-a4c2-f6d4b51e5837
+True,22084,Bukayo Saka,17,Right Wing,95.7,53.9,ee4750ff-5063-4833-b63c-78449e904fc4
+False,11541,Tomáš Vaclík,1,Goalkeeper,116.9,42.1,ee4750ff-5063-4833-b63c-78449e904fc4
+True,3382,Luke Shaw,6,Left Back,104.1,27.1,ee4750ff-5063-4833-b63c-78449e904fc4
+True,9638,Jack Grealish,19,Center Attacking Midfield,113.6,50.0,ee4750ff-5063-4833-b63c-78449e904fc4
+True,3233,Raheem Sterling,21,Left Wing,114.5,43.6,ee4750ff-5063-4833-b63c-78449e904fc4
+False,8095,Jakub Jankto,21,Left Wing,108.4,32.9,ee4750ff-5063-4833-b63c-78449e904fc4
+False,16570,Vladimír Coufal,2,Right Back,109.4,37.5,ee4750ff-5063-4833-b63c-78449e904fc4
+False,30328,Ondrej Celustka,3,Right Center Back,110.7,42.4,ee4750ff-5063-4833-b63c-78449e904fc4
+False,4870,Tomáš Souček,11,Left Defensive Midfield,108.3,46.1,ee4750ff-5063-4833-b63c-78449e904fc4
+False,13197,Tomáš Kalas,5,Left Center Back,107.0,49.2,ee4750ff-5063-4833-b63c-78449e904fc4
+False,16469,Tomáš Holeš,9,Right Defensive Midfield,103.7,51.3,ee4750ff-5063-4833-b63c-78449e904fc4
+False,4875,Jan Bořil,6,Left Back,104.4,54.9,ee4750ff-5063-4833-b63c-78449e904fc4
+False,16472,Lukáš Masopust,17,Right Wing,102.5,58.8,ee4750ff-5063-4833-b63c-78449e904fc4
+False,8579,Vladimír Darida,19,Center Attacking Midfield,96.9,48.8,ee4750ff-5063-4833-b63c-78449e904fc4
+True,23454,Petr Ševčík,17,Right Wing,95.3,38.9,375a510b-0654-45b1-ab63-d1d40b2c476e
+True,16570,Vladimír Coufal,2,Right Back,103.7,63.9,375a510b-0654-45b1-ab63-d1d40b2c476e
+False,3205,Kyle Walker,2,Right Back,105.6,30.9,375a510b-0654-45b1-ab63-d1d40b2c476e
+False,3336,Harry Maguire,3,Right Center Back,104.5,38.7,375a510b-0654-45b1-ab63-d1d40b2c476e
+False,3323,Tyrone Mings,5,Left Center Back,106.4,48.5,375a510b-0654-45b1-ab63-d1d40b2c476e
+False,3382,Luke Shaw,6,Left Back,103.2,43.2,375a510b-0654-45b1-ab63-d1d40b2c476e
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,104.9,51.1,375a510b-0654-45b1-ab63-d1d40b2c476e
+False,30714,Jude Bellingham,19,Center Attacking Midfield,99.5,47.5,375a510b-0654-45b1-ab63-d1d40b2c476e
+False,3532,Jordan Brian Henderson,11,Left Defensive Midfield,93.5,36.6,375a510b-0654-45b1-ab63-d1d40b2c476e
+False,3468,Jordan Pickford,1,Goalkeeper,117.5,42.2,375a510b-0654-45b1-ab63-d1d40b2c476e
+True,28239,Adam Hložek,21,Left Wing,102.8,22.6,375a510b-0654-45b1-ab63-d1d40b2c476e
+True,23452,Alex Král,19,Center Attacking Midfield,102.4,37.4,375a510b-0654-45b1-ab63-d1d40b2c476e
+True,4870,Tomáš Souček,11,Left Defensive Midfield,99.6,39.4,375a510b-0654-45b1-ab63-d1d40b2c476e
+False,3468,Jordan Pickford,1,Goalkeeper,119.0,39.9,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+True,4870,Tomáš Souček,11,Left Defensive Midfield,92.7,29.6,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+True,28239,Adam Hložek,21,Left Wing,91.3,19.0,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+True,4809,Matěj Vydra,17,Right Wing,97.1,27.3,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+True,20355,Tomáš Pekhart,23,Center Forward,99.7,27.8,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+False,12423,Jadon Sancho,17,Right Wing,74.0,17.9,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+False,30714,Jude Bellingham,19,Center Attacking Midfield,87.3,40.8,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+False,3382,Luke Shaw,6,Left Back,92.9,51.5,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+False,3205,Kyle Walker,2,Right Back,90.7,35.1,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+False,3532,Jordan Brian Henderson,11,Left Defensive Midfield,86.4,20.5,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,93.9,27.2,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+False,3336,Harry Maguire,3,Right Center Back,97.9,29.7,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+False,3323,Tyrone Mings,5,Left Center Back,100.9,35.9,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac
+True,23454,Petr Ševčík,9,Right Defensive Midfield,83.7,38.7,ff3eb17a-06e0-4528-bfbc-b77e494ec2ac

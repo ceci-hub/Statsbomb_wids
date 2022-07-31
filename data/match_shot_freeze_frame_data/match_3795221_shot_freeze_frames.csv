@@ -1,0 +1,371 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,93.3,37.8,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.3,38.0,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,97.9,44.8,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+False,16554,Joakim Mæhle,8,Left Wing Back,106.7,50.2,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+False,8815,Jannik Vestergaard,5,Left Center Back,110.0,43.9,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+False,5527,Thomas Delaney,11,Left Defensive Midfield,105.5,33.1,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+False,5534,Simon Thorup Kjær,4,Center Back,110.4,36.3,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+False,3959,Andreas Christensen,3,Right Center Back,107.5,31.1,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+True,22084,Bukayo Saka,17,Right Wing,109.2,43.2,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+True,10955,Harry Kane,23,Center Forward,102.6,39.3,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+True,3382,Luke Shaw,6,Left Back,91.5,23.8,2ad830f5-8e50-468b-99d2-5acbec5d0ccc
+False,3815,Kasper Schmeichel,1,Goalkeeper,116.7,41.3,be99bf4a-6ca9-48be-95b9-719a58564078
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,89.6,54.7,be99bf4a-6ca9-48be-95b9-719a58564078
+False,16554,Joakim Mæhle,8,Left Wing Back,98.5,62.3,be99bf4a-6ca9-48be-95b9-719a58564078
+False,5527,Thomas Delaney,11,Left Defensive Midfield,95.4,46.6,be99bf4a-6ca9-48be-95b9-719a58564078
+False,8815,Jannik Vestergaard,5,Left Center Back,102.1,50.7,be99bf4a-6ca9-48be-95b9-719a58564078
+False,3959,Andreas Christensen,3,Right Center Back,100.1,42.5,be99bf4a-6ca9-48be-95b9-719a58564078
+False,5534,Simon Thorup Kjær,4,Center Back,102.8,46.3,be99bf4a-6ca9-48be-95b9-719a58564078
+False,5524,Jens Stryger Larsen,7,Right Wing Back,98.6,27.9,be99bf4a-6ca9-48be-95b9-719a58564078
+True,3233,Raheem Sterling,21,Left Wing,103.6,47.2,be99bf4a-6ca9-48be-95b9-719a58564078
+True,7843,Mason Mount,19,Center Attacking Midfield,89.7,28.7,be99bf4a-6ca9-48be-95b9-719a58564078
+True,22084,Bukayo Saka,17,Right Wing,97.1,61.2,be99bf4a-6ca9-48be-95b9-719a58564078
+False,3468,Jordan Pickford,1,Goalkeeper,117.0,38.5,cb8240a6-66c6-47d5-a15b-c51fc616d383
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,91.7,23.4,cb8240a6-66c6-47d5-a15b-c51fc616d383
+False,3943,Declan Rice,11,Left Defensive Midfield,92.9,24.7,cb8240a6-66c6-47d5-a15b-c51fc616d383
+False,3244,John Stones,3,Right Center Back,98.1,26.4,cb8240a6-66c6-47d5-a15b-c51fc616d383
+False,3336,Harry Maguire,5,Left Center Back,99.0,34.1,cb8240a6-66c6-47d5-a15b-c51fc616d383
+False,3382,Luke Shaw,6,Left Back,95.0,45.2,cb8240a6-66c6-47d5-a15b-c51fc616d383
+True,4447,Martin Braithwaite Christensen,17,Right Wing,98.2,15.1,cb8240a6-66c6-47d5-a15b-c51fc616d383
+True,24443,Mikkel Damsgaard,21,Left Wing,95.3,36.0,cb8240a6-66c6-47d5-a15b-c51fc616d383
+True,5527,Thomas Delaney,11,Left Defensive Midfield,87.8,44.9,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+True,24443,Mikkel Damsgaard,21,Left Wing,100.7,46.6,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+True,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,92.3,36.2,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+False,7843,Mason Mount,19,Center Attacking Midfield,87.5,46.1,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+False,3382,Luke Shaw,6,Left Back,103.1,46.1,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+False,3336,Harry Maguire,5,Left Center Back,103.4,40.0,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+False,3244,John Stones,3,Right Center Back,102.8,34.2,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+False,3205,Kyle Walker,2,Right Back,103.8,28.7,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+False,3943,Declan Rice,11,Left Defensive Midfield,99.7,37.8,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,99.0,36.3,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+False,3468,Jordan Pickford,1,Goalkeeper,116.7,39.2,dee71bb6-4b8b-4e9d-94a3-f36813943aca
+True,5527,Thomas Delaney,11,Left Defensive Midfield,103.4,48.2,141f8684-d48b-4d5f-b33e-affc66994c5a
+True,4447,Martin Braithwaite Christensen,17,Right Wing,105.7,41.2,141f8684-d48b-4d5f-b33e-affc66994c5a
+True,5524,Jens Stryger Larsen,7,Right Wing Back,99.5,50.6,141f8684-d48b-4d5f-b33e-affc66994c5a
+True,16554,Joakim Mæhle,8,Left Wing Back,104.7,18.7,141f8684-d48b-4d5f-b33e-affc66994c5a
+True,6302,Kasper Dolberg,23,Center Forward,97.1,28.7,141f8684-d48b-4d5f-b33e-affc66994c5a
+False,7843,Mason Mount,19,Center Attacking Midfield,104.0,49.2,141f8684-d48b-4d5f-b33e-affc66994c5a
+False,3382,Luke Shaw,6,Left Back,108.5,40.2,141f8684-d48b-4d5f-b33e-affc66994c5a
+False,3336,Harry Maguire,5,Left Center Back,109.0,35.3,141f8684-d48b-4d5f-b33e-affc66994c5a
+False,3205,Kyle Walker,2,Right Back,107.4,26.0,141f8684-d48b-4d5f-b33e-affc66994c5a
+False,3244,John Stones,3,Right Center Back,104.9,29.3,141f8684-d48b-4d5f-b33e-affc66994c5a
+False,3943,Declan Rice,11,Left Defensive Midfield,103.3,31.7,141f8684-d48b-4d5f-b33e-affc66994c5a
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,105.2,23.1,141f8684-d48b-4d5f-b33e-affc66994c5a
+False,3468,Jordan Pickford,1,Goalkeeper,116.5,38.7,141f8684-d48b-4d5f-b33e-affc66994c5a
+False,7843,Mason Mount,19,Center Attacking Midfield,103.8,38.7,3b50aa84-6168-48ab-9996-9210c30c84a1
+True,5524,Jens Stryger Larsen,7,Right Wing Back,90.7,31.5,3b50aa84-6168-48ab-9996-9210c30c84a1
+True,6302,Kasper Dolberg,23,Center Forward,103.2,27.5,3b50aa84-6168-48ab-9996-9210c30c84a1
+True,3959,Andreas Christensen,3,Right Center Back,103.0,37.4,3b50aa84-6168-48ab-9996-9210c30c84a1
+True,8815,Jannik Vestergaard,5,Left Center Back,102.1,39.1,3b50aa84-6168-48ab-9996-9210c30c84a1
+True,4447,Martin Braithwaite Christensen,17,Right Wing,103.8,41.7,3b50aa84-6168-48ab-9996-9210c30c84a1
+True,5534,Simon Thorup Kjær,4,Center Back,102.9,38.1,3b50aa84-6168-48ab-9996-9210c30c84a1
+True,5527,Thomas Delaney,11,Left Defensive Midfield,104.1,51.9,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,105.2,35.3,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,10955,Harry Kane,23,Center Forward,104.1,36.8,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,3336,Harry Maguire,5,Left Center Back,104.2,35.7,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,3244,John Stones,3,Right Center Back,104.1,34.6,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,3943,Declan Rice,11,Left Defensive Midfield,104.2,33.6,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,3382,Luke Shaw,6,Left Back,103.7,49.1,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,22084,Bukayo Saka,17,Right Wing,104.8,41.5,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,3233,Raheem Sterling,21,Left Wing,102.8,40.8,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,3205,Kyle Walker,2,Right Back,105.0,29.3,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,3468,Jordan Pickford,1,Goalkeeper,119.4,41.6,3b50aa84-6168-48ab-9996-9210c30c84a1
+False,5524,Jens Stryger Larsen,7,Right Wing Back,106.5,43.5,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,16554,Joakim Mæhle,8,Left Wing Back,106.6,46.3,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,5527,Thomas Delaney,11,Left Defensive Midfield,105.5,45.0,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,105.5,44.2,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,5534,Simon Thorup Kjær,4,Center Back,105.5,43.3,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,8815,Jannik Vestergaard,5,Left Center Back,105.4,42.5,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,24443,Mikkel Damsgaard,21,Left Wing,103.1,33.4,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,6302,Kasper Dolberg,23,Center Forward,106.0,40.8,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,3959,Andreas Christensen,3,Right Center Back,105.6,36.1,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.9,39.6,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,4447,Martin Braithwaite Christensen,17,Right Wing,84.5,30.3,d2c54416-ccd5-413b-a392-37c0b79816c1
+True,3244,John Stones,3,Right Center Back,104.2,41.3,d2c54416-ccd5-413b-a392-37c0b79816c1
+True,3336,Harry Maguire,5,Left Center Back,103.3,42.2,d2c54416-ccd5-413b-a392-37c0b79816c1
+True,10955,Harry Kane,23,Center Forward,103.5,40.2,d2c54416-ccd5-413b-a392-37c0b79816c1
+True,22084,Bukayo Saka,17,Right Wing,105.2,48.1,d2c54416-ccd5-413b-a392-37c0b79816c1
+True,3943,Declan Rice,11,Left Defensive Midfield,104.5,35.8,d2c54416-ccd5-413b-a392-37c0b79816c1
+True,3382,Luke Shaw,6,Left Back,91.1,43.4,d2c54416-ccd5-413b-a392-37c0b79816c1
+True,7843,Mason Mount,19,Center Attacking Midfield,91.6,39.1,d2c54416-ccd5-413b-a392-37c0b79816c1
+False,16554,Joakim Mæhle,8,Left Wing Back,103.4,59.6,6977c2d5-793a-4128-a859-0fde86cfa23f
+False,8815,Jannik Vestergaard,5,Left Center Back,109.1,55.9,6977c2d5-793a-4128-a859-0fde86cfa23f
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,105.2,44.2,6977c2d5-793a-4128-a859-0fde86cfa23f
+False,5534,Simon Thorup Kjær,4,Center Back,113.0,54.8,6977c2d5-793a-4128-a859-0fde86cfa23f
+False,3959,Andreas Christensen,3,Right Center Back,109.5,44.7,6977c2d5-793a-4128-a859-0fde86cfa23f
+False,5524,Jens Stryger Larsen,7,Right Wing Back,110.4,38.6,6977c2d5-793a-4128-a859-0fde86cfa23f
+False,3815,Kasper Schmeichel,1,Goalkeeper,115.9,39.9,6977c2d5-793a-4128-a859-0fde86cfa23f
+True,22084,Bukayo Saka,17,Right Wing,104.4,52.4,6977c2d5-793a-4128-a859-0fde86cfa23f
+True,10955,Harry Kane,23,Center Forward,113.1,60.7,6977c2d5-793a-4128-a859-0fde86cfa23f
+True,7843,Mason Mount,19,Center Attacking Midfield,109.3,46.1,6977c2d5-793a-4128-a859-0fde86cfa23f
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,95.9,51.6,c8c6eb55-6177-40c7-9ba2-a1786c090393
+True,22084,Bukayo Saka,17,Right Wing,108.6,69.4,c8c6eb55-6177-40c7-9ba2-a1786c090393
+True,3233,Raheem Sterling,21,Left Wing,113.8,45.1,c8c6eb55-6177-40c7-9ba2-a1786c090393
+True,10955,Harry Kane,23,Center Forward,114.8,39.2,c8c6eb55-6177-40c7-9ba2-a1786c090393
+True,3244,John Stones,3,Right Center Back,111.6,43.5,c8c6eb55-6177-40c7-9ba2-a1786c090393
+True,3943,Declan Rice,11,Left Defensive Midfield,109.9,45.5,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,3959,Andreas Christensen,3,Right Center Back,112.4,35.9,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,5527,Thomas Delaney,11,Left Defensive Midfield,115.4,38.8,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,5534,Simon Thorup Kjær,4,Center Back,112.8,36.7,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,3815,Kasper Schmeichel,1,Goalkeeper,119.7,39.3,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,24443,Mikkel Damsgaard,21,Left Wing,109.9,62.0,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,16554,Joakim Mæhle,8,Left Wing Back,113.1,45.7,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,6302,Kasper Dolberg,23,Center Forward,113.3,44.2,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,4447,Martin Braithwaite Christensen,17,Right Wing,105.7,54.7,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,8815,Jannik Vestergaard,5,Left Center Back,114.4,40.9,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,5524,Jens Stryger Larsen,7,Right Wing Back,114.2,37.1,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,112.4,37.6,c8c6eb55-6177-40c7-9ba2-a1786c090393
+False,3468,Jordan Pickford,1,Goalkeeper,118.7,41.4,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+False,4706,Kalvin Phillips,9,Right Defensive Midfield,93.4,53.1,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+False,22084,Bukayo Saka,17,Right Wing,91.2,40.2,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+False,3382,Luke Shaw,6,Left Back,102.1,65.1,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+False,3943,Declan Rice,11,Left Defensive Midfield,100.1,54.9,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+False,3244,John Stones,3,Right Center Back,102.4,46.6,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+False,3336,Harry Maguire,5,Left Center Back,106.2,54.5,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+False,3205,Kyle Walker,2,Right Back,101.7,35.6,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+True,24443,Mikkel Damsgaard,21,Left Wing,90.1,41.7,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+True,4447,Martin Braithwaite Christensen,17,Right Wing,104.6,58.9,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+True,16554,Joakim Mæhle,8,Left Wing Back,96.6,24.2,e306ff61-c551-4aa5-aaa7-9d5bd8cb9530
+False,6302,Kasper Dolberg,23,Center Forward,112.5,42.5,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+True,3233,Raheem Sterling,21,Left Wing,114.1,43.9,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+True,22084,Bukayo Saka,17,Right Wing,101.8,61.7,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+True,3943,Declan Rice,11,Left Defensive Midfield,111.8,43.6,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+True,10955,Harry Kane,23,Center Forward,114.7,34.2,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+True,3244,John Stones,3,Right Center Back,110.5,42.0,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,95.8,49.2,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+False,3815,Kasper Schmeichel,1,Goalkeeper,119.2,40.8,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+False,5524,Jens Stryger Larsen,7,Right Wing Back,115.2,46.6,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,113.1,46.0,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+False,24443,Mikkel Damsgaard,21,Left Wing,103.9,59.9,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+False,16554,Joakim Mæhle,8,Left Wing Back,117.6,36.5,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+False,8815,Jannik Vestergaard,5,Left Center Back,113.0,40.9,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+False,5527,Thomas Delaney,11,Left Defensive Midfield,112.8,34.7,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+False,3959,Andreas Christensen,3,Right Center Back,112.7,39.1,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+False,5534,Simon Thorup Kjær,4,Center Back,109.2,38.1,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+False,4447,Martin Braithwaite Christensen,17,Right Wing,104.4,41.1,7c512179-f1fa-4c91-aa07-69cfb0cb9e18
+True,22084,Bukayo Saka,17,Right Wing,97.4,64.0,6d6ece63-0a50-4c0c-9186-78cfb300585b
+True,3233,Raheem Sterling,21,Left Wing,109.5,42.0,6d6ece63-0a50-4c0c-9186-78cfb300585b
+False,3815,Kasper Schmeichel,1,Goalkeeper,117.7,44.0,6d6ece63-0a50-4c0c-9186-78cfb300585b
+False,8815,Jannik Vestergaard,5,Left Center Back,113.6,50.2,6d6ece63-0a50-4c0c-9186-78cfb300585b
+False,5534,Simon Thorup Kjær,4,Center Back,113.1,49.2,6d6ece63-0a50-4c0c-9186-78cfb300585b
+False,3959,Andreas Christensen,3,Right Center Back,112.8,43.1,6d6ece63-0a50-4c0c-9186-78cfb300585b
+False,16554,Joakim Mæhle,8,Left Wing Back,99.5,59.2,6d6ece63-0a50-4c0c-9186-78cfb300585b
+True,3205,Kyle Walker,2,Right Back,98.5,63.5,6f3326c2-75ef-472e-8e17-73803773e778
+True,10955,Harry Kane,23,Center Forward,107.3,38.4,6f3326c2-75ef-472e-8e17-73803773e778
+True,3233,Raheem Sterling,21,Left Wing,111.0,29.2,6f3326c2-75ef-472e-8e17-73803773e778
+True,22084,Bukayo Saka,17,Right Wing,102.8,27.8,6f3326c2-75ef-472e-8e17-73803773e778
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,91.0,40.9,6f3326c2-75ef-472e-8e17-73803773e778
+True,3382,Luke Shaw,6,Left Back,99.2,7.1,6f3326c2-75ef-472e-8e17-73803773e778
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.7,39.1,6f3326c2-75ef-472e-8e17-73803773e778
+False,16554,Joakim Mæhle,8,Left Wing Back,107.1,48.3,6f3326c2-75ef-472e-8e17-73803773e778
+False,8815,Jannik Vestergaard,5,Left Center Back,108.7,39.5,6f3326c2-75ef-472e-8e17-73803773e778
+False,5534,Simon Thorup Kjær,4,Center Back,108.5,32.7,6f3326c2-75ef-472e-8e17-73803773e778
+False,5524,Jens Stryger Larsen,7,Right Wing Back,108.7,28.8,6f3326c2-75ef-472e-8e17-73803773e778
+False,3959,Andreas Christensen,3,Right Center Back,105.5,30.1,6f3326c2-75ef-472e-8e17-73803773e778
+False,3570,Pierre-Emile Højbjerg,9,Right Defensive Midfield,102.8,35.3,6f3326c2-75ef-472e-8e17-73803773e778
+False,24443,Mikkel Damsgaard,21,Left Wing,94.8,46.2,6f3326c2-75ef-472e-8e17-73803773e778
+False,5527,Thomas Delaney,11,Left Defensive Midfield,98.7,32.2,6f3326c2-75ef-472e-8e17-73803773e778
+False,4447,Martin Braithwaite Christensen,17,Right Wing,98.9,27.5,6f3326c2-75ef-472e-8e17-73803773e778
+False,6302,Kasper Dolberg,23,Center Forward,95.8,29.5,6f3326c2-75ef-472e-8e17-73803773e778
+False,8815,Jannik Vestergaard,5,Left Center Back,113.2,42.4,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,3959,Andreas Christensen,3,Right Center Back,112.7,39.8,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,16554,Joakim Mæhle,8,Left Wing Back,114.4,39.5,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,5534,Simon Thorup Kjær,4,Center Back,114.3,35.7,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,109.9,42.2,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,5536,Yussuf Yurary Poulsen,24,Left Center Forward,110.7,34.7,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,6797,Daniel Wass,7,Right Wing Back,110.9,55.4,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,5527,Thomas Delaney,13,Right Center Midfield,108.4,52.1,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,7097,Christian Nørgaard,10,Center Defensive Midfield,110.1,45.1,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,4447,Martin Braithwaite Christensen,22,Right Center Forward,103.7,46.9,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.1,41.7,f1cd3253-17a8-4717-8b09-eea5e39d889c
+True,3244,John Stones,3,Right Center Back,110.9,33.6,f1cd3253-17a8-4717-8b09-eea5e39d889c
+True,3336,Harry Maguire,5,Left Center Back,112.9,33.4,f1cd3253-17a8-4717-8b09-eea5e39d889c
+True,3943,Declan Rice,11,Left Defensive Midfield,108.9,40.5,f1cd3253-17a8-4717-8b09-eea5e39d889c
+True,10955,Harry Kane,23,Center Forward,114.2,37.5,f1cd3253-17a8-4717-8b09-eea5e39d889c
+True,9638,Jack Grealish,21,Left Wing,112.2,61.3,f1cd3253-17a8-4717-8b09-eea5e39d889c
+True,7843,Mason Mount,19,Center Attacking Midfield,103.3,56.7,f1cd3253-17a8-4717-8b09-eea5e39d889c
+False,7097,Christian Nørgaard,10,Center Defensive Midfield,101.2,31.3,996259d1-512f-4e43-8440-f7e4d05fe4ea
+False,16554,Joakim Mæhle,8,Left Wing Back,108.2,45.0,996259d1-512f-4e43-8440-f7e4d05fe4ea
+False,8815,Jannik Vestergaard,5,Left Center Back,108.0,40.1,996259d1-512f-4e43-8440-f7e4d05fe4ea
+False,5534,Simon Thorup Kjær,4,Center Back,107.3,37.7,996259d1-512f-4e43-8440-f7e4d05fe4ea
+False,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,101.5,40.6,996259d1-512f-4e43-8440-f7e4d05fe4ea
+False,8247,Joachim Andersen,3,Right Center Back,105.3,28.9,996259d1-512f-4e43-8440-f7e4d05fe4ea
+False,6797,Daniel Wass,7,Right Wing Back,106.3,22.2,996259d1-512f-4e43-8440-f7e4d05fe4ea
+False,5527,Thomas Delaney,13,Right Center Midfield,102.3,20.6,996259d1-512f-4e43-8440-f7e4d05fe4ea
+False,5536,Yussuf Yurary Poulsen,24,Left Center Forward,94.0,38.2,996259d1-512f-4e43-8440-f7e4d05fe4ea
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.2,40.1,996259d1-512f-4e43-8440-f7e4d05fe4ea
+True,10955,Harry Kane,23,Center Forward,113.8,40.4,996259d1-512f-4e43-8440-f7e4d05fe4ea
+True,3233,Raheem Sterling,17,Right Wing,105.1,52.0,996259d1-512f-4e43-8440-f7e4d05fe4ea
+True,9638,Jack Grealish,21,Left Wing,103.8,28.0,996259d1-512f-4e43-8440-f7e4d05fe4ea
+True,7843,Mason Mount,19,Center Attacking Midfield,108.9,21.3,996259d1-512f-4e43-8440-f7e4d05fe4ea
+True,3382,Luke Shaw,6,Left Back,104.6,14.5,996259d1-512f-4e43-8440-f7e4d05fe4ea
+True,3205,Kyle Walker,2,Right Back,83.7,51.4,996259d1-512f-4e43-8440-f7e4d05fe4ea
+False,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,103.7,36.3,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,4447,Martin Braithwaite Christensen,22,Right Center Forward,99.9,21.0,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,7097,Christian Nørgaard,10,Center Defensive Midfield,97.3,23.5,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,5527,Thomas Delaney,13,Right Center Midfield,108.8,39.7,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,5534,Simon Thorup Kjær,4,Center Back,108.4,40.6,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,6797,Daniel Wass,7,Right Wing Back,110.7,33.5,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,5536,Yussuf Yurary Poulsen,24,Left Center Forward,110.6,37.1,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,8815,Jannik Vestergaard,5,Left Center Back,109.4,43.1,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,8247,Joachim Andersen,3,Right Center Back,109.8,44.4,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,16554,Joakim Mæhle,8,Left Wing Back,110.0,46.0,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,3815,Kasper Schmeichel,1,Goalkeeper,117.7,40.6,6136af72-7702-4c6f-9a21-f9db50b9207a
+True,3233,Raheem Sterling,17,Right Wing,111.1,34.3,6136af72-7702-4c6f-9a21-f9db50b9207a
+True,10955,Harry Kane,23,Center Forward,110.9,38.2,6136af72-7702-4c6f-9a21-f9db50b9207a
+True,3336,Harry Maguire,5,Left Center Back,109.9,50.6,6136af72-7702-4c6f-9a21-f9db50b9207a
+True,3943,Declan Rice,11,Left Defensive Midfield,108.0,42.7,6136af72-7702-4c6f-9a21-f9db50b9207a
+True,9638,Jack Grealish,21,Left Wing,96.5,19.7,6136af72-7702-4c6f-9a21-f9db50b9207a
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,93.0,46.5,6136af72-7702-4c6f-9a21-f9db50b9207a
+True,7843,Mason Mount,19,Center Attacking Midfield,87.2,39.9,6136af72-7702-4c6f-9a21-f9db50b9207a
+False,6797,Daniel Wass,7,Right Wing Back,104.0,31.1,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+False,16554,Joakim Mæhle,8,Left Wing Back,108.1,47.6,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+False,18722,Mathias Jensen,13,Right Center Midfield,107.0,49.4,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+False,8815,Jannik Vestergaard,5,Left Center Back,105.1,47.7,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+False,5536,Yussuf Yurary Poulsen,24,Left Center Forward,98.0,59.2,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+False,7097,Christian Nørgaard,10,Center Defensive Midfield,103.9,43.3,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+False,5534,Simon Thorup Kjær,4,Center Back,102.4,38.7,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+False,8247,Joachim Andersen,3,Right Center Back,99.7,39.3,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+False,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,97.7,42.5,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+True,3233,Raheem Sterling,17,Right Wing,117.7,47.1,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+False,3815,Kasper Schmeichel,1,Goalkeeper,117.1,40.4,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+True,9638,Jack Grealish,21,Left Wing,99.7,29.6,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+True,3943,Declan Rice,11,Left Defensive Midfield,92.2,51.3,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+True,7843,Mason Mount,19,Center Attacking Midfield,105.3,54.3,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+True,10955,Harry Kane,23,Center Forward,97.8,49.5,edb332ff-0ade-4e6c-af3e-2ea0601aac2d
+False,6797,Daniel Wass,7,Right Wing Back,113.1,32.4,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+False,8815,Jannik Vestergaard,5,Left Center Back,111.2,35.4,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+False,8247,Joachim Andersen,3,Right Center Back,110.9,34.1,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+False,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,107.3,43.0,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.8,38.5,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+False,5534,Simon Thorup Kjær,4,Center Back,112.6,37.0,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+False,7097,Christian Nørgaard,10,Center Defensive Midfield,112.7,39.4,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+False,5536,Yussuf Yurary Poulsen,24,Left Center Forward,113.8,42.7,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+False,16554,Joakim Mæhle,8,Left Wing Back,112.0,45.6,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+False,18722,Mathias Jensen,13,Right Center Midfield,107.7,34.5,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+True,3233,Raheem Sterling,17,Right Wing,112.9,44.1,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+True,3244,John Stones,3,Right Center Back,111.4,43.6,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+True,10955,Harry Kane,23,Center Forward,113.6,40.5,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+True,3943,Declan Rice,11,Left Defensive Midfield,109.0,38.3,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,104.0,48.3,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+True,9638,Jack Grealish,21,Left Wing,107.0,22.8,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+False,4447,Martin Braithwaite Christensen,22,Right Center Forward,98.4,65.6,3cf94c95-4ad1-48a9-b26b-345e3cff26f4
+True,7843,Mason Mount,19,Center Attacking Midfield,102.1,18.1,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,16554,Joakim Mæhle,8,Left Wing Back,115.6,44.1,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,8815,Jannik Vestergaard,5,Left Center Back,115.5,38.1,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,5536,Yussuf Yurary Poulsen,24,Left Center Forward,112.9,40.9,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,5534,Simon Thorup Kjær,4,Center Back,113.7,35.9,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,6797,Daniel Wass,7,Right Wing Back,115.6,27.2,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,8247,Joachim Andersen,3,Right Center Back,111.7,31.0,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,7097,Christian Nørgaard,10,Center Defensive Midfield,113.9,25.9,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,105.2,37.3,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,18722,Mathias Jensen,13,Right Center Midfield,106.4,24.4,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.4,37.0,1d3549f2-364b-4d43-b8d3-d04e889485c3
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,100.4,31.7,1d3549f2-364b-4d43-b8d3-d04e889485c3
+True,9638,Jack Grealish,21,Left Wing,116.6,24.7,1d3549f2-364b-4d43-b8d3-d04e889485c3
+True,3205,Kyle Walker,2,Right Back,100.5,60.5,1d3549f2-364b-4d43-b8d3-d04e889485c3
+True,3336,Harry Maguire,5,Left Center Back,113.6,47.4,1d3549f2-364b-4d43-b8d3-d04e889485c3
+True,3244,John Stones,3,Right Center Back,113.3,41.8,1d3549f2-364b-4d43-b8d3-d04e889485c3
+True,3233,Raheem Sterling,17,Right Wing,111.9,39.3,1d3549f2-364b-4d43-b8d3-d04e889485c3
+False,6797,Daniel Wass,7,Right Wing Back,97.0,28.6,09a5535e-0102-4346-8397-d4d739bd6e7d
+False,8247,Joachim Andersen,3,Right Center Back,103.6,39.8,09a5535e-0102-4346-8397-d4d739bd6e7d
+False,8815,Jannik Vestergaard,5,Left Center Back,111.3,54.3,09a5535e-0102-4346-8397-d4d739bd6e7d
+False,5534,Simon Thorup Kjær,4,Center Back,112.6,52.4,09a5535e-0102-4346-8397-d4d739bd6e7d
+False,3815,Kasper Schmeichel,1,Goalkeeper,117.8,44.6,09a5535e-0102-4346-8397-d4d739bd6e7d
+True,7843,Mason Mount,19,Center Attacking Midfield,98.6,43.3,09a5535e-0102-4346-8397-d4d739bd6e7d
+True,9638,Jack Grealish,21,Left Wing,92.2,19.5,09a5535e-0102-4346-8397-d4d739bd6e7d
+True,4354,Philip Foden,19,Center Attacking Midfield,115.8,9.9,975b6c3c-043b-4b41-b4af-31058546338d
+False,16554,Joakim Mæhle,8,Left Wing Back,113.9,44.3,975b6c3c-043b-4b41-b4af-31058546338d
+False,7097,Christian Nørgaard,10,Center Defensive Midfield,111.6,44.4,975b6c3c-043b-4b41-b4af-31058546338d
+False,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,115.3,34.4,975b6c3c-043b-4b41-b4af-31058546338d
+True,3233,Raheem Sterling,17,Right Wing,115.2,37.8,975b6c3c-043b-4b41-b4af-31058546338d
+True,3532,Jordan Brian Henderson,11,Left Defensive Midfield,114.5,27.8,975b6c3c-043b-4b41-b4af-31058546338d
+False,18722,Mathias Jensen,13,Right Center Midfield,104.9,42.4,975b6c3c-043b-4b41-b4af-31058546338d
+False,8247,Joachim Andersen,3,Right Center Back,113.7,42.8,975b6c3c-043b-4b41-b4af-31058546338d
+False,5536,Yussuf Yurary Poulsen,24,Left Center Forward,115.4,42.9,975b6c3c-043b-4b41-b4af-31058546338d
+False,4447,Martin Braithwaite Christensen,22,Right Center Forward,104.3,25.0,975b6c3c-043b-4b41-b4af-31058546338d
+False,5534,Simon Thorup Kjær,4,Center Back,114.3,41.4,975b6c3c-043b-4b41-b4af-31058546338d
+False,8815,Jannik Vestergaard,5,Left Center Back,116.7,37.4,975b6c3c-043b-4b41-b4af-31058546338d
+False,6797,Daniel Wass,7,Right Wing Back,117.7,32.9,975b6c3c-043b-4b41-b4af-31058546338d
+False,3815,Kasper Schmeichel,1,Goalkeeper,119.3,41.4,975b6c3c-043b-4b41-b4af-31058546338d
+True,3382,Luke Shaw,6,Left Back,91.8,29.8,975b6c3c-043b-4b41-b4af-31058546338d
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,100.2,46.1,975b6c3c-043b-4b41-b4af-31058546338d
+True,10955,Harry Kane,23,Center Forward,110.8,44.3,975b6c3c-043b-4b41-b4af-31058546338d
+True,3336,Harry Maguire,5,Left Center Back,113.2,44.1,975b6c3c-043b-4b41-b4af-31058546338d
+True,9638,Jack Grealish,21,Left Wing,102.4,20.6,975b6c3c-043b-4b41-b4af-31058546338d
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.4,38.5,d03c065b-dc27-4f24-829f-746beec384e7
+False,18722,Mathias Jensen,13,Right Center Midfield,104.1,40.7,d03c065b-dc27-4f24-829f-746beec384e7
+False,7097,Christian Nørgaard,10,Center Defensive Midfield,110.8,43.2,d03c065b-dc27-4f24-829f-746beec384e7
+False,8815,Jannik Vestergaard,5,Left Center Back,112.3,44.3,d03c065b-dc27-4f24-829f-746beec384e7
+False,16554,Joakim Mæhle,8,Left Wing Back,114.1,46.4,d03c065b-dc27-4f24-829f-746beec384e7
+False,5536,Yussuf Yurary Poulsen,24,Left Center Forward,112.2,40.7,d03c065b-dc27-4f24-829f-746beec384e7
+False,5534,Simon Thorup Kjær,4,Center Back,114.5,41.1,d03c065b-dc27-4f24-829f-746beec384e7
+False,8247,Joachim Andersen,3,Right Center Back,112.5,37.5,d03c065b-dc27-4f24-829f-746beec384e7
+False,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,109.0,30.7,d03c065b-dc27-4f24-829f-746beec384e7
+False,6797,Daniel Wass,7,Right Wing Back,106.6,25.9,d03c065b-dc27-4f24-829f-746beec384e7
+False,4447,Martin Braithwaite Christensen,22,Right Center Forward,107.0,18.9,d03c065b-dc27-4f24-829f-746beec384e7
+True,3244,John Stones,3,Right Center Back,113.1,48.8,d03c065b-dc27-4f24-829f-746beec384e7
+True,3336,Harry Maguire,5,Left Center Back,111.4,45.3,d03c065b-dc27-4f24-829f-746beec384e7
+True,10955,Harry Kane,23,Center Forward,110.5,43.8,d03c065b-dc27-4f24-829f-746beec384e7
+True,3233,Raheem Sterling,17,Right Wing,112.1,39.8,d03c065b-dc27-4f24-829f-746beec384e7
+True,4706,Kalvin Phillips,9,Right Defensive Midfield,109.4,21.5,d03c065b-dc27-4f24-829f-746beec384e7
+True,4354,Philip Foden,19,Center Attacking Midfield,106.4,13.8,d03c065b-dc27-4f24-829f-746beec384e7
+True,10955,Harry Kane,23,Center Forward,111.8,46.8,b73448a1-a04b-4c2f-9eac-b4f54717a585
+True,3336,Harry Maguire,5,Left Center Back,112.7,50.7,b73448a1-a04b-4c2f-9eac-b4f54717a585
+True,3244,John Stones,3,Right Center Back,111.4,42.1,b73448a1-a04b-4c2f-9eac-b4f54717a585
+True,4354,Philip Foden,19,Center Attacking Midfield,108.1,27.9,b73448a1-a04b-4c2f-9eac-b4f54717a585
+True,3532,Jordan Brian Henderson,11,Left Defensive Midfield,104.2,21.5,b73448a1-a04b-4c2f-9eac-b4f54717a585
+True,9638,Jack Grealish,21,Left Wing,114.3,26.5,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,18722,Mathias Jensen,13,Right Center Midfield,103.7,32.2,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,8815,Jannik Vestergaard,5,Left Center Back,105.3,36.1,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,7097,Christian Nørgaard,10,Center Defensive Midfield,111.6,45.9,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,8247,Joachim Andersen,3,Right Center Back,111.0,43.5,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,5536,Yussuf Yurary Poulsen,24,Left Center Forward,108.5,36.1,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,107.0,30.2,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,16554,Joakim Mæhle,8,Left Wing Back,116.8,44.4,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,5534,Simon Thorup Kjær,4,Center Back,117.1,42.1,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,6797,Daniel Wass,7,Right Wing Back,111.3,30.5,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,4447,Martin Braithwaite Christensen,22,Right Center Forward,108.4,20.5,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.3,40.1,b73448a1-a04b-4c2f-9eac-b4f54717a585
+True,3382,Luke Shaw,6,Left Back,92.7,20.2,b73448a1-a04b-4c2f-9eac-b4f54717a585
+False,16554,Joakim Mæhle,8,Left Wing Back,106.2,49.8,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,8815,Jannik Vestergaard,5,Left Center Back,106.1,46.8,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,18722,Mathias Jensen,13,Right Center Midfield,104.8,43.8,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,3570,Pierre-Emile Højbjerg,15,Left Center Midfield,100.6,34.1,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,7097,Christian Nørgaard,10,Center Defensive Midfield,106.4,41.8,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,4447,Martin Braithwaite Christensen,22,Right Center Forward,101.4,29.4,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,5534,Simon Thorup Kjær,4,Center Back,112.1,44.5,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,6797,Daniel Wass,7,Right Wing Back,108.1,34.0,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,8247,Joachim Andersen,3,Right Center Back,111.6,38.2,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,5536,Yussuf Yurary Poulsen,24,Left Center Forward,108.0,30.1,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,3815,Kasper Schmeichel,1,Goalkeeper,117.8,42.2,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+True,4354,Philip Foden,19,Center Attacking Midfield,106.8,48.5,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+True,3233,Raheem Sterling,17,Right Wing,102.4,42.5,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+True,3205,Kyle Walker,2,Right Back,103.9,44.9,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+True,3532,Jordan Brian Henderson,11,Left Defensive Midfield,104.8,39.3,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+True,3382,Luke Shaw,6,Left Back,97.1,18.4,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+True,9638,Jack Grealish,21,Left Wing,101.3,26.0,99f94455-a4a3-426d-ab7f-09e31ae65bf7
+False,10955,Harry Kane,23,Center Forward,80.1,34.0,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,3233,Raheem Sterling,18,Right Attacking Midfield,82.8,19.9,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,4354,Philip Foden,20,Left Attacking Midfield,95.4,37.1,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,4706,Kalvin Phillips,11,Left Defensive Midfield,94.7,33.5,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,3532,Jordan Brian Henderson,9,Right Defensive Midfield,91.7,26.3,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,3382,Luke Shaw,8,Left Wing Back,102.0,49.3,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,3244,John Stones,4,Center Back,96.7,34.4,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,3336,Harry Maguire,5,Left Center Back,101.0,43.4,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,3205,Kyle Walker,3,Right Center Back,99.8,28.7,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,3308,Kieran Trippier,7,Right Wing Back,101.0,26.8,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,3468,Jordan Pickford,1,Goalkeeper,118.0,38.6,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+True,21261,Jonas Older Wind,23,Center Forward,94.8,44.9,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+True,6797,Daniel Wass,2,Right Back,99.7,55.1,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+True,16554,Joakim Mæhle,6,Left Back,99.9,27.2,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+True,5536,Yussuf Yurary Poulsen,21,Left Wing,98.8,26.7,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+True,7097,Christian Nørgaard,15,Left Center Midfield,84.2,21.4,cc9fac75-b274-4b6d-bad6-b027d174b5b5
+False,8247,Joachim Andersen,5,Left Center Back,113.9,51.9,78abd0af-af43-4914-95fe-3afa24d8b66d
+False,16554,Joakim Mæhle,6,Left Back,112.3,47.5,78abd0af-af43-4914-95fe-3afa24d8b66d
+False,5534,Simon Thorup Kjær,3,Right Center Back,115.4,39.3,78abd0af-af43-4914-95fe-3afa24d8b66d
+False,7097,Christian Nørgaard,15,Left Center Midfield,101.8,42.3,78abd0af-af43-4914-95fe-3afa24d8b66d
+False,3815,Kasper Schmeichel,1,Goalkeeper,118.6,44.0,78abd0af-af43-4914-95fe-3afa24d8b66d
+True,4354,Philip Foden,20,Left Attacking Midfield,113.4,36.2,78abd0af-af43-4914-95fe-3afa24d8b66d
+True,3308,Kieran Trippier,7,Right Wing Back,111.4,53.7,78abd0af-af43-4914-95fe-3afa24d8b66d

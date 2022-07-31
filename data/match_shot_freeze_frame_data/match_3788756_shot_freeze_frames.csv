@@ -1,0 +1,282 @@
+teammate,player_id,player_name,position_id,position_name,x,y,id
+True,6994,Marten de Roon,9,Right Defensive Midfield,87.1,55.0,c06f94c9-fef1-4add-8273-53f7db73184b
+False,21532,Daniel Bachmann,1,Goalkeeper,118.6,40.9,c06f94c9-fef1-4add-8273-53f7db73184b
+False,8777,Andreas Ulmer,8,Left Wing Back,104.9,58.1,c06f94c9-fef1-4add-8273-53f7db73184b
+False,8220,David Olatukunbo Alaba,4,Center Back,106.8,49.3,c06f94c9-fef1-4add-8273-53f7db73184b
+False,8307,Martin Hinteregger,5,Left Center Back,104.3,48.9,c06f94c9-fef1-4add-8273-53f7db73184b
+False,8506,Konrad Laimer,13,Right Center Midfield,98.3,56.1,c06f94c9-fef1-4add-8273-53f7db73184b
+False,8518,Marcel Sabitzer,15,Left Center Midfield,92.1,62.7,c06f94c9-fef1-4add-8273-53f7db73184b
+False,3969,Aleksandar Dragović,3,Right Center Back,102.8,43.5,c06f94c9-fef1-4add-8273-53f7db73184b
+False,8779,Stefan Lainer,7,Right Wing Back,103.3,35.7,c06f94c9-fef1-4add-8273-53f7db73184b
+False,8769,Xaver Schlager,10,Center Defensive Midfield,92.8,49.6,c06f94c9-fef1-4add-8273-53f7db73184b
+True,8125,Denzel Dumfries,7,Right Wing Back,107.2,57.2,c06f94c9-fef1-4add-8273-53f7db73184b
+True,7829,Wout Weghorst,22,Right Center Forward,108.6,49.1,c06f94c9-fef1-4add-8273-53f7db73184b
+True,8118,Frenkie de Jong,11,Left Defensive Midfield,103.3,51.4,c06f94c9-fef1-4add-8273-53f7db73184b
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,78.8,63.2,f5fd2775-ebd5-498e-ba3e-729eaa822633
+False,3969,Aleksandar Dragović,3,Right Center Back,103.6,54.9,f5fd2775-ebd5-498e-ba3e-729eaa822633
+False,8220,David Olatukunbo Alaba,4,Center Back,101.9,53.4,f5fd2775-ebd5-498e-ba3e-729eaa822633
+False,8307,Martin Hinteregger,5,Left Center Back,90.8,60.5,f5fd2775-ebd5-498e-ba3e-729eaa822633
+False,8769,Xaver Schlager,10,Center Defensive Midfield,80.9,55.4,f5fd2775-ebd5-498e-ba3e-729eaa822633
+False,21532,Daniel Bachmann,1,Goalkeeper,117.7,43.4,f5fd2775-ebd5-498e-ba3e-729eaa822633
+True,7829,Wout Weghorst,22,Right Center Forward,93.1,55.3,f5fd2775-ebd5-498e-ba3e-729eaa822633
+True,8779,Stefan Lainer,7,Right Wing Back,108.4,55.1,2864e081-d334-4d92-b41d-ecf035810552
+True,8309,Michael Gregoritsch,24,Left Center Forward,113.5,45.6,2864e081-d334-4d92-b41d-ecf035810552
+False,3311,Daley Blind,5,Left Center Back,107.8,43.1,2864e081-d334-4d92-b41d-ecf035810552
+False,3321,Patrick van Aanholt,8,Left Wing Back,114.9,40.1,2864e081-d334-4d92-b41d-ecf035810552
+False,8069,Matthijs de Ligt,4,Center Back,111.6,33.9,2864e081-d334-4d92-b41d-ecf035810552
+False,6994,Marten de Roon,9,Right Defensive Midfield,111.6,30.9,2864e081-d334-4d92-b41d-ecf035810552
+False,8125,Denzel Dumfries,7,Right Wing Back,91.6,9.9,2864e081-d334-4d92-b41d-ecf035810552
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,89.0,23.7,2864e081-d334-4d92-b41d-ecf035810552
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,103.4,32.9,2864e081-d334-4d92-b41d-ecf035810552
+True,8518,Marcel Sabitzer,15,Left Center Midfield,99.8,31.3,2864e081-d334-4d92-b41d-ecf035810552
+True,8506,Konrad Laimer,13,Right Center Midfield,114.7,29.7,2864e081-d334-4d92-b41d-ecf035810552
+False,20201,Maarten Stekelenburg,1,Goalkeeper,117.9,37.4,2864e081-d334-4d92-b41d-ecf035810552
+False,7787,Stefan de Vrij,3,Right Center Back,110.0,25.7,2864e081-d334-4d92-b41d-ecf035810552
+True,24977,Christoph Baumgartner,22,Right Center Forward,97.9,26.6,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+False,8069,Matthijs de Ligt,4,Center Back,108.1,37.5,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+True,8309,Michael Gregoritsch,24,Left Center Forward,104.3,47.0,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+False,3311,Daley Blind,5,Left Center Back,106.1,46.0,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+False,3321,Patrick van Aanholt,8,Left Wing Back,101.8,58.1,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,94.3,47.7,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+True,8518,Marcel Sabitzer,15,Left Center Midfield,94.8,36.8,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+True,8506,Konrad Laimer,13,Right Center Midfield,86.7,29.1,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+False,6994,Marten de Roon,9,Right Defensive Midfield,99.4,33.3,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+False,7787,Stefan de Vrij,3,Right Center Back,101.8,27.3,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.4,40.9,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+True,8777,Andreas Ulmer,8,Left Wing Back,102.9,9.9,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+False,8125,Denzel Dumfries,7,Right Wing Back,104.7,16.9,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,91.7,21.4,b82e951e-b2f1-4c60-b5b0-5598b5d775d1
+False,8307,Martin Hinteregger,5,Left Center Back,113.8,48.2,81519792-3f00-4546-8f25-0349ff6a4235
+False,8220,David Olatukunbo Alaba,4,Center Back,115.7,41.2,81519792-3f00-4546-8f25-0349ff6a4235
+False,8777,Andreas Ulmer,8,Left Wing Back,106.9,47.4,81519792-3f00-4546-8f25-0349ff6a4235
+False,3969,Aleksandar Dragović,3,Right Center Back,103.1,37.3,81519792-3f00-4546-8f25-0349ff6a4235
+False,21532,Daniel Bachmann,1,Goalkeeper,115.6,39.8,81519792-3f00-4546-8f25-0349ff6a4235
+True,7829,Wout Weghorst,22,Right Center Forward,110.9,49.5,81519792-3f00-4546-8f25-0349ff6a4235
+True,8125,Denzel Dumfries,7,Right Wing Back,105.1,46.7,81519792-3f00-4546-8f25-0349ff6a4235
+False,21532,Daniel Bachmann,1,Goalkeeper,116.9,37.1,2026a81c-e0b2-4517-b343-1cc61341a5ef
+False,8777,Andreas Ulmer,8,Left Wing Back,113.7,40.3,2026a81c-e0b2-4517-b343-1cc61341a5ef
+False,8307,Martin Hinteregger,5,Left Center Back,113.7,29.0,2026a81c-e0b2-4517-b343-1cc61341a5ef
+False,8220,David Olatukunbo Alaba,4,Center Back,108.2,31.3,2026a81c-e0b2-4517-b343-1cc61341a5ef
+False,8769,Xaver Schlager,10,Center Defensive Midfield,106.4,34.0,2026a81c-e0b2-4517-b343-1cc61341a5ef
+False,3969,Aleksandar Dragović,3,Right Center Back,107.7,25.7,2026a81c-e0b2-4517-b343-1cc61341a5ef
+False,8779,Stefan Lainer,7,Right Wing Back,104.2,20.3,2026a81c-e0b2-4517-b343-1cc61341a5ef
+True,3321,Patrick van Aanholt,8,Left Wing Back,111.0,31.2,2026a81c-e0b2-4517-b343-1cc61341a5ef
+True,8125,Denzel Dumfries,7,Right Wing Back,114.8,42.5,2026a81c-e0b2-4517-b343-1cc61341a5ef
+True,7829,Wout Weghorst,22,Right Center Forward,108.5,35.8,2026a81c-e0b2-4517-b343-1cc61341a5ef
+False,8506,Konrad Laimer,13,Right Center Midfield,95.6,33.0,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+False,8769,Xaver Schlager,10,Center Defensive Midfield,96.7,46.2,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+True,8118,Frenkie de Jong,11,Left Defensive Midfield,89.6,51.6,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+False,8307,Martin Hinteregger,5,Left Center Back,107.2,44.7,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+False,8220,David Olatukunbo Alaba,4,Center Back,107.5,40.2,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+False,8518,Marcel Sabitzer,15,Left Center Midfield,94.1,58.8,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+False,3969,Aleksandar Dragović,3,Right Center Back,107.6,33.0,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+False,24977,Christoph Baumgartner,22,Right Center Forward,104.6,34.3,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+False,21532,Daniel Bachmann,1,Goalkeeper,117.7,37.1,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,109.1,51.0,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+True,7829,Wout Weghorst,22,Right Center Forward,107.4,41.9,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+True,6994,Marten de Roon,9,Right Defensive Midfield,89.3,60.1,af4bd244-30ff-4a35-8d94-00ae3db5d1c3
+True,3321,Patrick van Aanholt,8,Left Wing Back,97.4,28.9,9e79150c-86fe-430b-9869-7fb5c96bfb86
+True,2988,Memphis Depay,24,Left Center Forward,107.9,36.7,9e79150c-86fe-430b-9869-7fb5c96bfb86
+True,8118,Frenkie de Jong,11,Left Defensive Midfield,105.5,35.4,9e79150c-86fe-430b-9869-7fb5c96bfb86
+True,7829,Wout Weghorst,22,Right Center Forward,106.8,46.7,9e79150c-86fe-430b-9869-7fb5c96bfb86
+True,8125,Denzel Dumfries,7,Right Wing Back,113.7,69.0,9e79150c-86fe-430b-9869-7fb5c96bfb86
+False,8779,Stefan Lainer,7,Right Wing Back,109.2,37.0,9e79150c-86fe-430b-9869-7fb5c96bfb86
+False,8220,David Olatukunbo Alaba,4,Center Back,107.6,41.0,9e79150c-86fe-430b-9869-7fb5c96bfb86
+False,8777,Andreas Ulmer,8,Left Wing Back,108.9,62.2,9e79150c-86fe-430b-9869-7fb5c96bfb86
+False,21532,Daniel Bachmann,1,Goalkeeper,118.6,41.5,9e79150c-86fe-430b-9869-7fb5c96bfb86
+False,8307,Martin Hinteregger,5,Left Center Back,102.8,47.6,9e79150c-86fe-430b-9869-7fb5c96bfb86
+False,3969,Aleksandar Dragović,3,Right Center Back,105.0,44.2,9e79150c-86fe-430b-9869-7fb5c96bfb86
+False,8769,Xaver Schlager,10,Center Defensive Midfield,103.3,41.1,9e79150c-86fe-430b-9869-7fb5c96bfb86
+False,3321,Patrick van Aanholt,8,Left Wing Back,107.4,52.6,3cb9bb87-4aa2-437c-a35a-3d266d104662
+True,8779,Stefan Lainer,7,Right Wing Back,108.8,54.0,3cb9bb87-4aa2-437c-a35a-3d266d104662
+False,20201,Maarten Stekelenburg,1,Goalkeeper,117.8,38.0,3cb9bb87-4aa2-437c-a35a-3d266d104662
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,90.6,36.1,3cb9bb87-4aa2-437c-a35a-3d266d104662
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,92.1,39.1,3cb9bb87-4aa2-437c-a35a-3d266d104662
+False,2988,Memphis Depay,24,Left Center Forward,92.6,47.1,3cb9bb87-4aa2-437c-a35a-3d266d104662
+False,6994,Marten de Roon,9,Right Defensive Midfield,96.1,26.6,3cb9bb87-4aa2-437c-a35a-3d266d104662
+False,8125,Denzel Dumfries,7,Right Wing Back,101.2,17.9,3cb9bb87-4aa2-437c-a35a-3d266d104662
+False,7787,Stefan de Vrij,3,Right Center Back,102.4,30.7,3cb9bb87-4aa2-437c-a35a-3d266d104662
+False,3311,Daley Blind,5,Left Center Back,102.9,36.4,3cb9bb87-4aa2-437c-a35a-3d266d104662
+False,8069,Matthijs de Ligt,4,Center Back,103.0,42.2,3cb9bb87-4aa2-437c-a35a-3d266d104662
+True,8506,Konrad Laimer,13,Right Center Midfield,85.1,39.4,3cb9bb87-4aa2-437c-a35a-3d266d104662
+True,3969,Aleksandar Dragović,3,Right Center Back,79.2,51.7,3cb9bb87-4aa2-437c-a35a-3d266d104662
+True,8769,Xaver Schlager,10,Center Defensive Midfield,98.3,22.9,3cb9bb87-4aa2-437c-a35a-3d266d104662
+True,8777,Andreas Ulmer,8,Left Wing Back,95.2,5.7,3cb9bb87-4aa2-437c-a35a-3d266d104662
+True,24977,Christoph Baumgartner,22,Right Center Forward,102.1,33.5,3cb9bb87-4aa2-437c-a35a-3d266d104662
+True,8309,Michael Gregoritsch,24,Left Center Forward,100.6,40.4,3cb9bb87-4aa2-437c-a35a-3d266d104662
+True,6994,Marten de Roon,9,Right Defensive Midfield,96.1,43.7,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+True,8118,Frenkie de Jong,11,Left Defensive Midfield,96.9,20.1,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+True,8125,Denzel Dumfries,7,Right Wing Back,115.5,46.4,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,109.2,40.9,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+True,8069,Matthijs de Ligt,4,Center Back,115.1,34.5,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+True,7829,Wout Weghorst,22,Right Center Forward,111.8,49.9,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,21532,Daniel Bachmann,1,Goalkeeper,119.3,42.4,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,8769,Xaver Schlager,10,Center Defensive Midfield,109.1,21.2,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,24977,Christoph Baumgartner,22,Right Center Forward,118.7,38.2,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,8309,Michael Gregoritsch,24,Left Center Forward,116.3,40.1,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,8220,David Olatukunbo Alaba,4,Center Back,114.9,43.3,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,8779,Stefan Lainer,7,Right Wing Back,115.3,45.6,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,8777,Andreas Ulmer,8,Left Wing Back,110.2,41.2,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,8518,Marcel Sabitzer,15,Left Center Midfield,103.7,33.4,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,3969,Aleksandar Dragović,3,Right Center Back,109.8,43.9,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,8307,Martin Hinteregger,5,Left Center Back,110.9,47.5,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+False,8506,Konrad Laimer,13,Right Center Midfield,98.8,40.0,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+True,3311,Daley Blind,5,Left Center Back,101.7,32.5,294ebe38-d8f0-4f23-bc76-f7bf15c89719
+True,7829,Wout Weghorst,22,Right Center Forward,110.9,53.1,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+True,3311,Daley Blind,5,Left Center Back,100.8,33.4,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,109.5,41.1,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+True,8125,Denzel Dumfries,7,Right Wing Back,116.8,45.1,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+False,21532,Daniel Bachmann,1,Goalkeeper,119.8,40.6,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+False,8307,Martin Hinteregger,5,Left Center Back,110.5,48.0,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+False,8518,Marcel Sabitzer,15,Left Center Midfield,102.9,34.2,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+False,3969,Aleksandar Dragović,3,Right Center Back,110.4,43.5,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+False,8777,Andreas Ulmer,8,Left Wing Back,110.1,40.6,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+False,8779,Stefan Lainer,7,Right Wing Back,115.9,45.9,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+False,8220,David Olatukunbo Alaba,4,Center Back,116.1,43.4,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+False,8309,Michael Gregoritsch,24,Left Center Forward,117.7,41.0,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+False,24977,Christoph Baumgartner,22,Right Center Forward,118.7,38.2,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+False,8769,Xaver Schlager,10,Center Defensive Midfield,108.5,21.6,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+True,7787,Stefan de Vrij,3,Right Center Back,114.6,42.3,36ae7edf-e1c6-4592-a25c-e3f0a9373f59
+True,8125,Denzel Dumfries,7,Right Wing Back,119.8,43.7,e6d98c90-79ef-4b71-bffc-b762139d31b9
+True,3311,Daley Blind,5,Left Center Back,99.6,34.1,e6d98c90-79ef-4b71-bffc-b762139d31b9
+True,7829,Wout Weghorst,22,Right Center Forward,114.2,48.8,e6d98c90-79ef-4b71-bffc-b762139d31b9
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,114.2,44.1,e6d98c90-79ef-4b71-bffc-b762139d31b9
+True,8069,Matthijs de Ligt,4,Center Back,108.0,44.6,e6d98c90-79ef-4b71-bffc-b762139d31b9
+True,7787,Stefan de Vrij,3,Right Center Back,114.0,42.5,e6d98c90-79ef-4b71-bffc-b762139d31b9
+True,8118,Frenkie de Jong,11,Left Defensive Midfield,96.2,23.2,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,8506,Konrad Laimer,13,Right Center Midfield,102.0,48.6,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,8518,Marcel Sabitzer,15,Left Center Midfield,102.8,35.8,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,8220,David Olatukunbo Alaba,4,Center Back,111.5,41.1,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,21532,Daniel Bachmann,1,Goalkeeper,118.5,42.7,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,24977,Christoph Baumgartner,22,Right Center Forward,115.1,38.4,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,8309,Michael Gregoritsch,24,Left Center Forward,113.9,43.6,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,8777,Andreas Ulmer,8,Left Wing Back,112.1,42.8,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,8779,Stefan Lainer,7,Right Wing Back,114.1,45.7,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,3969,Aleksandar Dragović,3,Right Center Back,111.4,45.1,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,8307,Martin Hinteregger,5,Left Center Back,112.3,51.2,e6d98c90-79ef-4b71-bffc-b762139d31b9
+False,8769,Xaver Schlager,10,Center Defensive Midfield,110.1,23.2,e6d98c90-79ef-4b71-bffc-b762139d31b9
+True,2988,Memphis Depay,24,Left Center Forward,104.2,27.4,53686819-27f6-4557-9c1d-4181e7a60d62
+True,3321,Patrick van Aanholt,8,Left Wing Back,111.7,31.2,53686819-27f6-4557-9c1d-4181e7a60d62
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,101.3,34.5,53686819-27f6-4557-9c1d-4181e7a60d62
+True,8118,Frenkie de Jong,11,Left Defensive Midfield,86.5,26.2,53686819-27f6-4557-9c1d-4181e7a60d62
+True,8125,Denzel Dumfries,7,Right Wing Back,107.8,44.1,53686819-27f6-4557-9c1d-4181e7a60d62
+False,3969,Aleksandar Dragović,3,Right Center Back,102.8,26.6,53686819-27f6-4557-9c1d-4181e7a60d62
+False,8220,David Olatukunbo Alaba,4,Center Back,107.2,33.6,53686819-27f6-4557-9c1d-4181e7a60d62
+False,11396,Florian Grillitsch,13,Right Center Midfield,104.2,33.7,53686819-27f6-4557-9c1d-4181e7a60d62
+False,8307,Martin Hinteregger,5,Left Center Back,104.4,36.0,53686819-27f6-4557-9c1d-4181e7a60d62
+False,8777,Andreas Ulmer,8,Left Wing Back,106.7,45.2,53686819-27f6-4557-9c1d-4181e7a60d62
+False,8769,Xaver Schlager,10,Center Defensive Midfield,94.5,28.2,53686819-27f6-4557-9c1d-4181e7a60d62
+False,8518,Marcel Sabitzer,15,Left Center Midfield,92.3,38.5,53686819-27f6-4557-9c1d-4181e7a60d62
+False,21532,Daniel Bachmann,1,Goalkeeper,117.7,37.9,53686819-27f6-4557-9c1d-4181e7a60d62
+False,8779,Stefan Lainer,7,Right Wing Back,104.8,31.3,53686819-27f6-4557-9c1d-4181e7a60d62
+False,8220,David Olatukunbo Alaba,4,Center Back,105.3,41.3,61d1c275-20fd-46fd-9e25-af5be290c21d
+False,8779,Stefan Lainer,7,Right Wing Back,107.7,39.4,61d1c275-20fd-46fd-9e25-af5be290c21d
+False,8307,Martin Hinteregger,5,Left Center Back,113.3,36.8,61d1c275-20fd-46fd-9e25-af5be290c21d
+False,21532,Daniel Bachmann,1,Goalkeeper,114.5,41.2,61d1c275-20fd-46fd-9e25-af5be290c21d
+True,15582,Donyell Malen,22,Right Center Forward,113.2,35.7,61d1c275-20fd-46fd-9e25-af5be290c21d
+True,8518,Marcel Sabitzer,15,Left Center Midfield,115.4,46.0,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+True,8220,David Olatukunbo Alaba,4,Center Back,114.5,33.1,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+True,18762,Sasa Kalajdzic,24,Left Center Forward,110.7,41.3,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+True,8769,Xaver Schlager,10,Center Defensive Midfield,101.1,37.7,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,117.4,50.0,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,6994,Marten de Roon,9,Right Defensive Midfield,115.2,32.7,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,7890,Owen Wijndal,8,Left Wing Back,111.7,32.2,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,15582,Donyell Malen,22,Right Center Forward,112.2,42.4,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,8069,Matthijs de Ligt,4,Center Back,113.9,35.2,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,7787,Stefan de Vrij,3,Right Center Back,113.6,38.3,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,8125,Denzel Dumfries,7,Right Wing Back,113.5,41.3,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,2988,Memphis Depay,24,Left Center Forward,103.7,46.7,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,3306,Nathan Aké,5,Left Center Back,115.2,44.7,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+True,8779,Stefan Lainer,7,Right Wing Back,113.8,49.2,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+True,24977,Christoph Baumgartner,22,Right Center Forward,102.3,54.8,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.4,42.0,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,112.1,37.2,ebcc2d3c-2480-4c4f-8e15-c06a2289f5b5
+True,3969,Aleksandar Dragović,3,Right Center Back,115.1,38.8,37574cd8-a517-42ad-bcd6-f3e750145f15
+True,8307,Martin Hinteregger,5,Left Center Back,104.8,33.9,37574cd8-a517-42ad-bcd6-f3e750145f15
+False,15582,Donyell Malen,22,Right Center Forward,110.3,38.4,37574cd8-a517-42ad-bcd6-f3e750145f15
+False,8125,Denzel Dumfries,7,Right Wing Back,111.4,41.7,37574cd8-a517-42ad-bcd6-f3e750145f15
+False,6994,Marten de Roon,9,Right Defensive Midfield,112.0,33.4,37574cd8-a517-42ad-bcd6-f3e750145f15
+True,8220,David Olatukunbo Alaba,4,Center Back,112.5,41.3,37574cd8-a517-42ad-bcd6-f3e750145f15
+True,8769,Xaver Schlager,10,Center Defensive Midfield,98.6,35.7,37574cd8-a517-42ad-bcd6-f3e750145f15
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.3,40.3,37574cd8-a517-42ad-bcd6-f3e750145f15
+False,2988,Memphis Depay,24,Left Center Forward,103.0,46.6,37574cd8-a517-42ad-bcd6-f3e750145f15
+True,11396,Florian Grillitsch,13,Right Center Midfield,100.3,48.0,37574cd8-a517-42ad-bcd6-f3e750145f15
+True,8518,Marcel Sabitzer,15,Left Center Midfield,115.2,52.3,37574cd8-a517-42ad-bcd6-f3e750145f15
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,114.3,51.3,37574cd8-a517-42ad-bcd6-f3e750145f15
+True,8779,Stefan Lainer,7,Right Wing Back,113.2,44.2,37574cd8-a517-42ad-bcd6-f3e750145f15
+False,3306,Nathan Aké,5,Left Center Back,115.5,43.1,37574cd8-a517-42ad-bcd6-f3e750145f15
+False,7890,Owen Wijndal,8,Left Wing Back,112.8,38.4,37574cd8-a517-42ad-bcd6-f3e750145f15
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,111.8,39.1,37574cd8-a517-42ad-bcd6-f3e750145f15
+False,8069,Matthijs de Ligt,4,Center Back,113.6,39.5,37574cd8-a517-42ad-bcd6-f3e750145f15
+True,7890,Owen Wijndal,8,Left Wing Back,103.9,21.5,6537479d-e78c-4fc1-ae62-56b840c3fe46
+True,15582,Donyell Malen,22,Right Center Forward,94.1,29.5,6537479d-e78c-4fc1-ae62-56b840c3fe46
+True,8125,Denzel Dumfries,7,Right Wing Back,102.4,52.5,6537479d-e78c-4fc1-ae62-56b840c3fe46
+False,8518,Marcel Sabitzer,15,Left Center Midfield,99.6,48.6,6537479d-e78c-4fc1-ae62-56b840c3fe46
+False,8777,Andreas Ulmer,8,Left Wing Back,102.5,44.6,6537479d-e78c-4fc1-ae62-56b840c3fe46
+False,8307,Martin Hinteregger,5,Left Center Back,100.2,34.3,6537479d-e78c-4fc1-ae62-56b840c3fe46
+False,8220,David Olatukunbo Alaba,4,Center Back,100.8,30.7,6537479d-e78c-4fc1-ae62-56b840c3fe46
+False,3969,Aleksandar Dragović,3,Right Center Back,101.1,27.6,6537479d-e78c-4fc1-ae62-56b840c3fe46
+False,8779,Stefan Lainer,7,Right Wing Back,101.3,25.1,6537479d-e78c-4fc1-ae62-56b840c3fe46
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,100.4,24.6,6537479d-e78c-4fc1-ae62-56b840c3fe46
+True,8118,Frenkie de Jong,11,Left Defensive Midfield,86.5,14.5,6537479d-e78c-4fc1-ae62-56b840c3fe46
+True,6994,Marten de Roon,9,Right Defensive Midfield,83.3,28.9,6537479d-e78c-4fc1-ae62-56b840c3fe46
+False,8769,Xaver Schlager,10,Center Defensive Midfield,86.6,29.9,6537479d-e78c-4fc1-ae62-56b840c3fe46
+False,21532,Daniel Bachmann,1,Goalkeeper,118.3,40.9,6537479d-e78c-4fc1-ae62-56b840c3fe46
+False,11396,Florian Grillitsch,13,Right Center Midfield,101.0,19.4,6537479d-e78c-4fc1-ae62-56b840c3fe46
+False,11280,Valentino Lazaro,22,Right Center Forward,95.5,20.3,6537479d-e78c-4fc1-ae62-56b840c3fe46
+True,8518,Marcel Sabitzer,15,Left Center Midfield,94.7,36.6,22c4bba5-20cf-414d-ae91-e0718bbffe01
+True,11280,Valentino Lazaro,22,Right Center Forward,107.7,53.2,22c4bba5-20cf-414d-ae91-e0718bbffe01
+False,7890,Owen Wijndal,8,Left Wing Back,106.3,53.4,22c4bba5-20cf-414d-ae91-e0718bbffe01
+False,20201,Maarten Stekelenburg,1,Goalkeeper,117.3,37.2,22c4bba5-20cf-414d-ae91-e0718bbffe01
+True,3969,Aleksandar Dragović,3,Right Center Back,104.1,46.1,22c4bba5-20cf-414d-ae91-e0718bbffe01
+True,18762,Sasa Kalajdzic,24,Left Center Forward,106.8,43.1,22c4bba5-20cf-414d-ae91-e0718bbffe01
+False,3306,Nathan Aké,5,Left Center Back,108.0,45.1,22c4bba5-20cf-414d-ae91-e0718bbffe01
+True,8777,Andreas Ulmer,8,Left Wing Back,101.1,6.3,22c4bba5-20cf-414d-ae91-e0718bbffe01
+False,23230,Ryan Gravenberch,9,Right Defensive Midfield,87.3,37.6,22c4bba5-20cf-414d-ae91-e0718bbffe01
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,97.5,31.1,22c4bba5-20cf-414d-ae91-e0718bbffe01
+False,7787,Stefan de Vrij,3,Right Center Back,98.3,25.7,22c4bba5-20cf-414d-ae91-e0718bbffe01
+False,8125,Denzel Dumfries,7,Right Wing Back,100.6,19.9,22c4bba5-20cf-414d-ae91-e0718bbffe01
+False,8069,Matthijs de Ligt,4,Center Back,106.9,39.8,22c4bba5-20cf-414d-ae91-e0718bbffe01
+False,8125,Denzel Dumfries,7,Right Wing Back,108.5,9.1,dc565f7f-89fc-4ebd-930f-1524723d6b25
+False,20033,Luuk de Jong,24,Left Center Forward,106.5,10.1,dc565f7f-89fc-4ebd-930f-1524723d6b25
+True,8777,Andreas Ulmer,8,Left Wing Back,107.7,4.4,dc565f7f-89fc-4ebd-930f-1524723d6b25
+True,8518,Marcel Sabitzer,15,Left Center Midfield,98.5,32.8,dc565f7f-89fc-4ebd-930f-1524723d6b25
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,105.0,33.7,dc565f7f-89fc-4ebd-930f-1524723d6b25
+False,3567,Georginio Wijnaldum,19,Center Attacking Midfield,105.3,46.5,dc565f7f-89fc-4ebd-930f-1524723d6b25
+False,7890,Owen Wijndal,8,Left Wing Back,112.6,50.3,dc565f7f-89fc-4ebd-930f-1524723d6b25
+True,3969,Aleksandar Dragović,3,Right Center Back,102.1,46.2,dc565f7f-89fc-4ebd-930f-1524723d6b25
+False,8069,Matthijs de Ligt,4,Center Back,113.7,35.1,dc565f7f-89fc-4ebd-930f-1524723d6b25
+False,23230,Ryan Gravenberch,9,Right Defensive Midfield,110.0,40.1,dc565f7f-89fc-4ebd-930f-1524723d6b25
+False,3306,Nathan Aké,5,Left Center Back,114.4,39.7,dc565f7f-89fc-4ebd-930f-1524723d6b25
+True,8769,Xaver Schlager,10,Center Defensive Midfield,114.3,40.5,dc565f7f-89fc-4ebd-930f-1524723d6b25
+True,11280,Valentino Lazaro,22,Right Center Forward,112.6,36.7,dc565f7f-89fc-4ebd-930f-1524723d6b25
+True,8779,Stefan Lainer,7,Right Wing Back,110.6,51.9,dc565f7f-89fc-4ebd-930f-1524723d6b25
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.6,37.3,dc565f7f-89fc-4ebd-930f-1524723d6b25
+False,7787,Stefan de Vrij,3,Right Center Back,113.0,32.5,dc565f7f-89fc-4ebd-930f-1524723d6b25
+False,3306,Nathan Aké,5,Left Center Back,107.2,43.9,a5ddda37-c629-43f0-b705-ab03229b8eed
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,97.3,32.6,a5ddda37-c629-43f0-b705-ab03229b8eed
+False,8125,Denzel Dumfries,7,Right Wing Back,105.5,31.3,a5ddda37-c629-43f0-b705-ab03229b8eed
+False,23230,Ryan Gravenberch,9,Right Defensive Midfield,93.0,45.6,a5ddda37-c629-43f0-b705-ab03229b8eed
+False,8069,Matthijs de Ligt,4,Center Back,100.6,46.6,a5ddda37-c629-43f0-b705-ab03229b8eed
+True,18762,Sasa Kalajdzic,24,Left Center Forward,92.3,54.5,a5ddda37-c629-43f0-b705-ab03229b8eed
+True,11280,Valentino Lazaro,22,Right Center Forward,101.7,64.0,a5ddda37-c629-43f0-b705-ab03229b8eed
+False,7890,Owen Wijndal,8,Left Wing Back,103.7,56.0,a5ddda37-c629-43f0-b705-ab03229b8eed
+False,20201,Maarten Stekelenburg,1,Goalkeeper,118.9,37.0,a5ddda37-c629-43f0-b705-ab03229b8eed
+False,7787,Stefan de Vrij,3,Right Center Back,113.4,35.0,a5ddda37-c629-43f0-b705-ab03229b8eed
+True,11278,Karim Onisiwo,24,Left Center Forward,108.9,41.0,475f1765-de6b-4af7-ac0c-c6ac6990ab28
+False,8069,Matthijs de Ligt,4,Center Back,109.5,40.3,475f1765-de6b-4af7-ac0c-c6ac6990ab28
+False,20201,Maarten Stekelenburg,1,Goalkeeper,117.9,40.7,475f1765-de6b-4af7-ac0c-c6ac6990ab28
+False,7787,Stefan de Vrij,3,Right Center Back,109.1,38.9,475f1765-de6b-4af7-ac0c-c6ac6990ab28
+False,8125,Denzel Dumfries,7,Right Wing Back,109.7,33.1,475f1765-de6b-4af7-ac0c-c6ac6990ab28
+False,3306,Nathan Aké,5,Left Center Back,106.3,66.0,475f1765-de6b-4af7-ac0c-c6ac6990ab28
+False,7890,Owen Wijndal,8,Left Wing Back,99.1,61.8,475f1765-de6b-4af7-ac0c-c6ac6990ab28
+False,8118,Frenkie de Jong,11,Left Defensive Midfield,107.3,57.0,475f1765-de6b-4af7-ac0c-c6ac6990ab28
+True,8518,Marcel Sabitzer,16,Left Midfield,110.6,62.1,475f1765-de6b-4af7-ac0c-c6ac6990ab28
+True,11396,Florian Grillitsch,13,Right Center Midfield,110.5,49.1,475f1765-de6b-4af7-ac0c-c6ac6990ab28
+False,21532,Daniel Bachmann,1,Goalkeeper,117.9,43.0,079edef1-7e90-4e40-a0d7-ab23fd4cb438
+False,8518,Marcel Sabitzer,16,Left Midfield,86.7,28.9,079edef1-7e90-4e40-a0d7-ab23fd4cb438
+False,8220,David Olatukunbo Alaba,15,Left Center Midfield,93.0,41.4,079edef1-7e90-4e40-a0d7-ab23fd4cb438
+True,7787,Stefan de Vrij,3,Right Center Back,97.7,39.8,079edef1-7e90-4e40-a0d7-ab23fd4cb438
+True,3567,Georginio Wijnaldum,19,Center Attacking Midfield,100.2,33.5,079edef1-7e90-4e40-a0d7-ab23fd4cb438
+False,11396,Florian Grillitsch,13,Right Center Midfield,104.7,35.5,079edef1-7e90-4e40-a0d7-ab23fd4cb438
+False,8307,Martin Hinteregger,5,Left Center Back,107.0,56.3,079edef1-7e90-4e40-a0d7-ab23fd4cb438
