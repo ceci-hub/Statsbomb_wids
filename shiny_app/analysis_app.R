@@ -22,7 +22,10 @@ matches <- matches %>%
   filter(competition.competition_name=="UEFA Euro")
 
 # Load free 360 data for Euro matches (run function in parallel)
-data360 <- StatsBombFree360Events(MatchesDF = matches, Parallel = T)
+# Depending on version of StatsBombR package.
+# The second line runs with the latest install from github as per https://github.com/statsbomb/StatsBombR/issues/18
+# data360 <- StatsBombFree360Events(MatchesDF = matches, Parallel = T)
+data360 <- free_allevents_360(MatchesDF = matches, Parallel = T)
 
 #Next, we're going to pull the standard Euro 2020 event data into a separate dataframe.
 # Load standard Euro 2020 event data (run function in parallel)
