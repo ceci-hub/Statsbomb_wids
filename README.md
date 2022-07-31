@@ -1,27 +1,10 @@
-# Women in Sports Data Team
-Welcome to the Women in Sports Data 2022 Hackathon!::
-
-### Your project should take the form of:
-
- - a) A functional minimum viable product(MVP) deployed as an interactive website (e.g. React, Svelte, Dash, Shiny)
-   
-   OR
-   
- - b) A data science project with targeted, actionable recommendations (e.g. Jupyter notebook, R Markdown AND slide deck, PDF)
-Review rules and challenges
-https://www.womeninsportsdata.org/hackathon
-
-Prototype, build, and test
-Work on your project and submit via Google Drive.
-
- - Submit
-The project by Friday, July 29, 2022 11:59PM
-
-### Resources
-https://cj-mayes.com/2021/12/15/statsbomb-intro-sportsvizsunday/ (tutorial for getting started with StatsBomb data with Python :serpiente:)
-
-
-# WIDS_Hackathon_2022
-
-Our team's entry for the [Women in Data Science Hackathon 2022](https://www.womeninsportsdata.org/hackathon). 
-The goal is to build an application prototype or a data science project with recommendations geared towards a front office or coaching staff. Dataset available: Event-level player location [StatsBomb 360](https://statsbomb.com/articles/soccer/statsbomb-announce-the-release-of-free-statsbomb-360-data-euro-2020-available-now/) data from the men's UEFA Euro 2022. 
+# Welcome to our submission for the Women in Sports Data 2022 Hackathon!
+For this project, we focus on analysis passes under pressure.
+An unsuccessful pass can change the tide of a game, even allowing the rival team to score. We focus on plays where players made a pass while being pressured by an opponent. 
+Our team developed a functional interactive shiny app so managers can better understand those plays.
+Our prototype provides the following insights:
+•	The aggregated performance tabs provide a quick interactive analysis of pass competition by team and player, which the coaching staff can use to rank teams and players. We also provide information on the source of the pass (left/right foot) and its success rate, which could let the player know weak points to improve.
+•	The Passes tab: provides detailed information about each pass under pressure. Each player’s pass origin and destination are plotted in a plot representing a football pitch. Information is further decomposed by opposing teams. 
+•	The ball receipts tab provides a look into the recipients of the passes. We explore passes by the recipient’s location in the pitch and distance to the closest opponent. 
+•	The next event tab covers the event following a successful pass, hoping to gain insight into the player’s next move.
+•	We also provide a methodology tab, where additional details regarding the classifications and metrics are further explained.
