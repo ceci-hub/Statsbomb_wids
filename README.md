@@ -31,5 +31,5 @@ Our prototype provides the following insights:
  
 
  ## Troubleshoot:
-StatsBombR may need further configuration. If you need assistance please read the installation instruction in [StatsBombR Github ](statsbomb/StatsBombR: This repository is an R package to easily stream StatsBomb data from the API using your log in credentials or from the Open Data GitHub repository cost free into R .) 
-n
+StatsBombR may need further configuration. If you need assistance please read the installation instruction in [StatsBombR Github](https://github.com/statsbomb/StatsBombR) 
+
