@@ -367,7 +367,7 @@ server <- function(input, output, session) {
       labs(x="Number of passes",
            y="Opposition",
            fill="Pass outcome") +
-      theme(legend.position = "bottom")
+      theme(legend.position = "bottom")+theme_bw()
     
   }, res = 96)
   
@@ -597,7 +597,7 @@ server <- function(input, output, session) {
       labs(x="Number of ball receipts",
            y="Distance to closest opponent (yards)",
            fill="Pass outcome") +
-      theme(legend.position = "bottom")
+      theme(legend.position = "bottom") +theme_bw()
     
   }, res = 96)
   
@@ -618,7 +618,7 @@ server <- function(input, output, session) {
            y="Opposition",
            fill="Pass outcome") +
       facet_wrap(~ OpposingTeam, scales = "free") +
-      theme(legend.position = "bottom")
+      theme(legend.position = "bottom") +theme_bw()
     
   }, res = 96)
   
@@ -666,7 +666,7 @@ server <- function(input, output, session) {
       labs(x="Number of event type",
            y="Distance to closest opponent \n(successful ball receipt)",
            fill="Next event type") +
-      theme(legend.position = "bottom")
+      theme(legend.position = "bottom")+theme_bw() 
     
     
   }, res = 96)
