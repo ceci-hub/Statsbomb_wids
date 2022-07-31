@@ -23,3 +23,13 @@ Our prototype provides the following insights:
   - ggplot2
   - StatsBombR
 
+## Folder structure
+ -  data: Contains the dataset as a backup. Our app accesses the data using the library to get the most up-to-date information. 
+ -  MT_file: Contains all the scripts which are the base for the app. It shows how we played with the data.
+ -  Shiny_app: Contains the Shiny app. The final project.
+
+ 
+
+ ## Troubleshoot:
+StatsBombR may need further configuration. If you need assistance please read the installation instruction in [StatsBombR Github ](statsbomb/StatsBombR: This repository is an R package to easily stream StatsBomb data from the API using your log in credentials or from the Open Data GitHub repository cost free into R .) 
+n
